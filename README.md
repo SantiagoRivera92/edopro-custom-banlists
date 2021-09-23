@@ -1,4 +1,11 @@
 # edopro-custom-banlists
 
+# How to install a banlist:
+Just drop the corresponding .lflist.conf file into ProjectIgnis/repositories/lflists, close any instances of EDOPRO and open a new one. 
 
-Just drop the [Edison.lflist.conf](https://github.com/diamonddudetcg/edopro-custom-banlists/releases/tag/Edison) file into ProjectIgnis/repositories/lflists, close any instances of EDOPRO you're currently running and open a new one.
+# For Edison:
+[Edison.lflist.conf](https://github.com/diamonddudetcg/edopro-custom-banlists/releases/tag/Edison)
+
+
+# For Tengu Plant:
+[Tengu Plant.lflist.conf](https://github.com/diamonddudetcg/edopro-custom-banlists/releases/tag/TenguPlant)
