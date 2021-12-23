@@ -9,3 +9,7 @@ Just drop the corresponding .lflist.conf file into ProjectIgnis/repositories/lfl
 
 # For Tengu Plant:
 [Tengu Plant.lflist.conf](https://github.com/diamonddudetcg/edopro-custom-banlists/releases/tag/TenguPlant)
+
+
+# For Common Charity
+[Common.Charity.lflist.conf](https://github.com/diamonddudetcg/edopro-custom-banlists/releases/tag/CommonCharity)
