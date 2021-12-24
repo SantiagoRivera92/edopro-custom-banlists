@@ -31,6 +31,11 @@ card_sets = 'card_sets'
 banlist_info = 'banlist_info'
 ban_tcg = 'ban_tcg'
 rarity_code = 'set_rarity_code'
+card_images = 'card_images'
+cardType = 'type'
+
+#Token stuff
+token = 'Token'
 
 #My keys
 name = 'name'
@@ -42,6 +47,7 @@ filename = 'charity.lflist.conf'
 
 def writeCard(card, outfile):
 	outfile.write("%d %d -- %s\n" % (card.get(cardId), card.get(status), card.get(name)))
+		print(card)
 
 with urllib.request.urlopen(request) as url:
 	cards = json.loads(url.read().decode()).get(data)
@@ -49,9 +55,7 @@ with urllib.request.urlopen(request) as url:
 	ocgCards = []
 	for card in cards:
 		if card.get(card_sets) != None:
-			simpleCard = {}
-			simpleCard[name] = card.get(name)
-			simpleCard[cardId] = card.get(cardId)
+			images = card.get(card_images)
 			banInfo = card.get(banlist_info)
 			banTcg = 3
 			if (banInfo == None):
@@ -66,15 +70,13 @@ with urllib.request.urlopen(request) as url:
 					banTcg = 1
 				if (banlistStatus == semi):
 					banTcg = 2
-
 			cardSets = card.get(card_sets)
 			hasCommonPrint = False
-
 			for printing in cardSets:
 				if printing.get(rarity_code) in legalRarities:
 					hasCommonPrint = True
 
-				#Portuguese fix, remove as soon as YGOPRODECK adds portuguese OTS support
+			#Portuguese fix, remove as soon as YGOPRODECK adds portuguese OTS support
 			if not hasCommonPrint:
 				if card.get(cardId) in portugueseOTSLegalCards:
 					hasCommonPrint = True
@@ -83,23 +85,22 @@ with urllib.request.urlopen(request) as url:
 				banTcg = -1
 
 			if (banTcg<3):
-				simpleCard[status] = banTcg
-				simpleCards.append(simpleCard)
-		if (card.get(card_sets)) == None:
+				for variant in images:
+					simpleCard = {}
+					simpleCard[name] = card.get(name)
+					simpleCard[status] = banTcg
+					simpleCard[cardId] = variant.get(cardId)
+					simpleCards.append(simpleCard)
+		if (card.get(card_sets)) == None and card.get(cardType) != token:
 			simpleCard = {}
 			simpleCard[name] = card.get(name)
-			simpleCard[cardId] = card.get(cardId)
 			simpleCard[status] = -1
-			ocgCards.append(simpleCard)
-	specialCases = [
-		{name:'Monster Reborn', cardId:83764718, status:1}
-	]
+			for variant in card.get(card_images):
+				simpleCard[cardId] = variant.get(cardId)
+				ocgCards.append(simpleCard)
 	with open(filename, 'w', encoding="utf-8") as outfile:
 		outfile.write("#[Common Charity Format]\n")
 		outfile.write("!Common Charity %s.%s\n\n" % (datetime.now().month, datetime.now().year))
-		outfile.write("#Special Cases\n\n")
-		for card in specialCases:
-			writeCard(card, outfile)
 		outfile.write("\n#OCG Cards\n\n")
 		for card in ocgCards:
 			writeCard(card, outfile)
