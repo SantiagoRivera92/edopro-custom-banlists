@@ -10,6 +10,8 @@ header= {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) '
 			'Connection': 'keep-alive'}
 url = "https://db.ygoprodeck.com/api/v7/cardinfo.php"
 request = urllib.request.Request(url, None, header)
+#This is a temporary fix until YGOPRODECK includes portuguese commons for OP15, OP16 and OP17 specifically
+portugueseOTSLegalCards = [98259197,40391316,24040093,98024118,19439119,10118318,47395382,29905795,66976526,60470713,76442347,36318200,15941690,88552992,4192696,2461031,16550875,69207766,90576781,21179143,64514622,3300267,31516413,78033100,41639001,13140300,8611007,51555725,38492752,32761286]
 with urllib.request.urlopen(request) as url:
 		cards = json.loads(url.read().decode()).get('data')
 		simpleCards = []
@@ -42,6 +44,12 @@ with urllib.request.urlopen(request) as url:
 					if rarity == '(C)' or rarity == '(SP)' or rarity == '(SSP)':
 						hasCommonPrint = True
 
+				#Portuguese fix, remove as soon as YGOPRODECK adds portuguese OTS support
+				if not hasCommonPrint:
+					for cardId in portugueseOTSLegalCards:
+						if card.get('id') == cardId:
+							hasCommonPrint = True
+
 				if not hasCommonPrint:
 					banTcg = -1
 
@@ -54,7 +62,9 @@ with urllib.request.urlopen(request) as url:
 				simpleCard['id'] = card.get('id')
 				simpleCard['status'] = -1
 				ocgCards.append(simpleCard)
-		specialCases = [{'name':'Monster Reborn', 'id':83764718, 'status':1}]
+		specialCases = [
+			{'name':'Monster Reborn', 'id':83764718, 'status':1}
+		]
 		with open('charity.lflist.conf', 'w', encoding="utf-8") as outfile:
 			outfile.write("#[Common Charity Format]\n")
 			outfile.write("!Common Charity %s.%s\n\n" % (datetime.now().month, datetime.now().year))
