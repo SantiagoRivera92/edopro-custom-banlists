@@ -38,11 +38,10 @@ with urllib.request.urlopen(request) as url:
 				hasCommonPrint = False
 
 				for printing in cardSets:
-					if (printing.get('set_rarity_code') == '(C)'):
+					rarity = printing.get('set_rarity_code')
+					if rarity == '(C)' or rarity == '(SP)' or rarity == '(SSP)':
 						hasCommonPrint = True
-					if (printing.get('set_rarity_code') == '(SP)'):
-						hasCommonPrint = True
-						
+
 				if not hasCommonPrint:
 					banTcg = -1
 
