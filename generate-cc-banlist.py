@@ -41,7 +41,7 @@ with urllib.request.urlopen(request) as url:
 
 				for printing in cardSets:
 					rarity = printing.get('set_rarity_code')
-					if rarity == '(C)' or rarity == '(SP)' or rarity == '(SSP)':
+					if rarity == '(C)' or rarity == '(SP)' or rarity == '(SSP)' or rarity == '(DNPR)':
 						hasCommonPrint = True
 
 				#Portuguese fix, remove as soon as YGOPRODECK adds portuguese OTS support
