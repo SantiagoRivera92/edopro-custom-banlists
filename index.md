@@ -1,0 +1,7077 @@
+# Common Charity banlist
+
+If a card is not in this document, it is not legal to play in the Common Charity format.
+
+## Limited:
+
+- A Hero Lives
+- Armageddon Knight
+- Black Dragon Collapserpent
+- Called by the Grave
+- Card Destruction
+- Chain Strike
+- Cyber Angel Benten
+- Dark Grepher
+- Dimensional Fissure
+- Dinowrestler Pankratops
+- Divine Wind of Mist Valley
+- Draco Face-Off
+- Exodia the Forbidden One
+- Final Countdown
+- Fire Formation - Tenki
+- Foolish Burial
+- Gateway of the Six
+- Gem-Knight Master Diamond
+- Genex Ally Birdman
+- Gold Sarcophagus
+- Imperial Order
+- Infernity Archfiend
+- Instant Fusion
+- Left Arm of the Forbidden One
+- Left Leg of the Forbidden One
+- Macro Cosmos
+- Magical Explosion
+- Magical Mid-Breaker Field
+- Metaverse
+- Mind Control
+- Miscellaneousaurus
+- Monster Reborn
+- Morphing Jar
+- Night Assailant
+- One Day of Peace
+- One for One
+- Phantom Skyblaster
+- Reasoning
+- Red Reboot
+- Red-Eyes Darkness Metal Dragon
+- Reinforcement of the Army
+- Right Arm of the Forbidden One
+- Right Leg of the Forbidden One
+- Scapegoat
+- Servant of Endymion
+- Set Rotation
+- Skill Drain
+- Sky Striker Mecha - Hornet Drones
+- Sky Striker Mecha Modules - Multirole
+- Speedroid Terrortop
+- T.G. Hyper Librarian
+- Terraforming
+- Trickstar Light Stage
+- Upstart Goblin
+- Wall of Revealing Light
+- White Dragon Wyverburster
+
+## Semi-Limited:
+- Destiny HERO - Malicious
+- Performapal Skullcrobat Joker
+
+## Unimited:
+- "A" Cell Breeding Device
+- "A" Cell Incubator
+- "A" Cell Recombination Device
+- "A" Cell Scatter Burst
+- "Infernoble Arms - Hauteclere"
+- 3-Hump Lacooda
+- 4-Starred Ladybug of Doom
+- 7
+- 7 Colored Fish
+- 7 Completed
+- 8-Claws Scorpion
+- A Cat of Ill Omen
+- A Deal with Dark Ruler
+- A Feather of the Phoenix
+- A Feint Plan
+- A Hero Emerges
+- A Legendary Ocean
+- A Major Upset
+- A Man with Wdjat
+- A Rival Appears!
+- A Wingbeat of Giant Dragon
+- A.I. Challenge You
+- A.I. Love Fusion
+- A.I. Meet You
+- A.I. Shadow
+- A.I.'s Ritual
+- A.I.dle Reborn
+- A.I.Q
+- A/D Changer
+- Abaki
+- Abare Ushioni
+- Abominable Chamber of the Unchained
+- Absolute Crusader
+- Absolute End
+- Absolute King Back Jack
+- Absorbing Jar
+- Absorbing Kid from the Sky
+- Abyss Actor - Comic Relief
+- Abyss Actor - Extras
+- Abyss Actor - Leading Lady
+- Abyss Actor - Mellow Madonna
+- Abyss Actor - Superstar
+- Abyss Actor - Trendy Understudy
+- Abyss Actor - Twinkle Little Star
+- Abyss Actor - Wild Hope
+- Abyss Actors Back Stage
+- Abyss Actors' Curtain Call
+- Abyss Keeper
+- Abyss Playhouse - Fantastic Theater
+- Abyss Script - Opening Ceremony
+- Abyss Script - Rise of the Abyss King
+- Abyss Script - Romantic Terror
+- Abyss Soldier
+- Abyss Stungray
+- Abyss Warrior
+- Abyss-scale of Cetus
+- Abyss-scale of the Kraken
+- Abyss-scale of the Mizuchi
+- Abyss-scorn
+- Abyssal Designator
+- Abyssal Kingshark
+- Accel Synchron
+- Accellight
+- Accumulated Fortune
+- Achacha Archer
+- Achacha Chanbara
+- Acid Rain
+- Acid Trap Hole
+- Acidic Downpour
+- Acorno
+- Acrobat Monkey
+- Action Magic - Double Banking
+- Action Magic - Full Turn
+- Adamancipator Crystal - Dragite
+- Adamancipator Crystal - Leonite
+- Adamancipator Crystal - Raptite
+- Adamancipator Laputite
+- Adamancipator Resonance
+- Adhesion Trap Hole
+- Adhesive Explosive
+- Advance Draw
+- Advance Force
+- Advance Zone
+- Advanced Dark
+- Advanced Ritual Art
+- Aegaion the Sea Castrum
+- Aegis of Gaia
+- Aegis of the Ocean Dragon Lord
+- Aerial Recharge
+- Aeropixthree
+- Aether, the Empowering Dragon
+- After the Storm
+- After the Struggle
+- Against the Wind
+- Agave Dragon
+- Agido
+- Ahrima, the Wicked Warden
+- Air Armor Ninja
+- Air Cracking Storm
+- Airknight Parshath
+- Airorca
+- Aitsu
+- Al-Lumi'raj
+- Alchemy Cycle
+- Alector, Sovereign of Birds
+- Alexandrite Dragon
+- Alien Brain
+- Alien Dog
+- Alien Grey
+- Alien Hunter
+- Alien Hypno
+- Alien Infiltrator
+- Alien Mars
+- Alien Mother
+- Alien Psychic
+- Alien Shocktrooper
+- Alien Skull
+- Alien Stealthbuster
+- Alien Warrior
+- Alinsection
+- All-Out Attacks
+- Alligator's Sword
+- Alligator's Sword Dragon
+- Allure of Darkness
+- Allure Queen LV3
+- Alluring Mirror Split
+- Allvain the Essence of Vanity
+- Ally Mind
+- Ally of Justice Clausolas
+- Ally of Justice Core Destroyer
+- Ally of Justice Garadholg
+- Ally of Justice Nullfier
+- Ally of Justice Quarantine
+- Ally of Justice Rudra
+- Ally of Justice Thousand Arms
+- Ally of Justice Unknown Crusher
+- Ally of Justice Unlimiter
+- Aloof Lupine
+- Alpacaribou, Mystical Beast of the Forest
+- Alpha The Magnet Warrior
+- Altar for Tribute
+- Altergeist Camouflage
+- Altergeist Dragvirion
+- Altergeist Emulatelf
+- Altergeist Fifinellag
+- Altergeist Haunted Rock
+- Altergeist Kidolga
+- Altergeist Kunquery
+- Altergeist Marionetter
+- Altergeist Pixiel
+- Altergeist Primebanshee
+- Altergeist Protocol
+- Altergeist Silquitous
+- Alviss of the Nordic Alfar
+- Amabie
+- Amano-Iwato
+- Amanokujaki
+- Amarylease
+- Amaze Attraction Majestic Merry-Go-Round
+- Amaze Attraction Rapid Racing
+- Amaze Attraction Viking Vortex
+- Amaze Attraction Wonder Wheel
+- Amazement Ambassador Bufo
+- Amazement Special Show
+- Amazing Pendulum
+- Amazon of the Seas
+- Amazoness Archer
+- Amazoness Archers
+- Amazoness Blowpiper
+- Amazoness Chain Master
+- Amazoness Empress
+- Amazoness Fighter
+- Amazoness Fighting Spirit
+- Amazoness Heirloom
+- Amazoness Onslaught
+- Amazoness Paladin
+- Amazoness Pet Liger
+- Amazoness Princess
+- Amazoness Queen
+- Amazoness Sage
+- Amazoness Scouts
+- Amazoness Spellcaster
+- Amazoness Spy
+- Amazoness Swords Woman
+- Amazoness Tiger
+- Amazoness Trainee
+- Amazoness Village
+- Ambitious Gofer
+- Ambulance Rescueroid
+- Ambulanceroid
+- Ambush Fangs
+- Ameba
+- Amores of Prophecy
+- Amorphactor Pain, the Imagination Dracoverlord
+- Amorphage Pride
+- Amorphage Wrath
+- Amorphous Persona
+- Amphibian Beast
+- Amphibious Bugroth
+- Amphibious Bugroth MK-3
+- Amplifier
+- Amulet Dragon
+- Amulet of Ambition
+- An Owl of Luck
+- An Unfortunate Report
+- Anarchist Monk Ranshin
+- Anchamoufrite
+- Ancient Brain
+- Ancient City - Rainbow Ruins
+- Ancient Crimson Ape
+- Ancient Dragon
+- Ancient Elf
+- Ancient Gear
+- Ancient Gear Beast
+- Ancient Gear Box
+- Ancient Gear Cannon
+- Ancient Gear Castle
+- Ancient Gear Catapult
+- Ancient Gear Drill
+- Ancient Gear Engineer
+- Ancient Gear Explosive
+- Ancient Gear Factory
+- Ancient Gear Fist
+- Ancient Gear Fortress
+- Ancient Gear Frame
+- Ancient Gear Gadget
+- Ancient Gear Gadjiltron Chimera
+- Ancient Gear Gadjiltron Dragon
+- Ancient Gear Golem
+- Ancient Gear Golem - Ultimate Pound
+- Ancient Gear Howitzer
+- Ancient Gear Hunting Hound
+- Ancient Gear Hydra
+- Ancient Gear Knight
+- Ancient Gear Reactor Dragon
+- Ancient Gear Soldier
+- Ancient Gear Tank
+- Ancient Gear Token
+- Ancient Gear Workshop
+- Ancient Gear Wyvern
+- Ancient Lamp
+- Ancient Leaf
+- Ancient Lizard Warrior
+- Ancient One of the Deep Forest
+- Ancient Rules
+- Ancient Telescope
+- Ancient Tool
+- Ancient Warriors - Deceptive Jia Wen
+- Ancient Warriors - Fearsome Zhang Yuan
+- Ancient Warriors Saga - Borrowing of Arrows
+- Ancient Warriors Saga - Chivalrous Path
+- Ancient Warriors Saga - East-by-South Winds
+- And the Band Played On
+- Anesthrokket Dragon
+- Angel O7
+- Angel Trumpeter
+- Ansatsu
+- Ante
+- Anteatereatingant
+- Anthrosaurus
+- Anti-Aircraft Flower
+- Anti-Fusion Device
+- Anti-Magic Prism
+- Anti-Spell
+- Anti-Spell Fragrance
+- Antialian
+- Ape Fighter
+- Ape Magician
+- Apex Predation
+- Apocatequil
+- Apple of Enlightenment
+- Appointer of the Red Lotus
+- Apprentice Magician
+- Apprentice Piper
+- Appropriate
+- Aqua Armor Ninja
+- Aqua Chorus
+- Aqua Dragon
+- Aqua Jet
+- Aqua Madoor
+- Aqua Spirit
+- Aqua Story - Urashima
+- Aquaactress Arowana
+- Aquaactress Guppy
+- Aquaactress Tetra
+- Aquamirror Cycle
+- Aquamirror Illusion
+- Aquarium Lighting
+- Aquarium Set
+- Aquarium Stage
+- Arcana Call
+- Arcana Force 0 - The Fool
+- Arcana Force EX - The Dark Ruler
+- Arcana Force EX - The Light Ruler
+- Arcana Force I - The Magician
+- Arcana Force III - The Empress
+- Arcana Force IV - The Emperor
+- Arcana Force VI - The Lovers
+- Arcana Force VII - The Chariot
+- Arcana Force XIV - Temperance
+- Arcana Force XVIII - The Moon
+- Arcana Force XXI - The World
+- Arcana Knight Joker
+- Arcana Reading
+- Arcane Apprentice
+- Arcane Archer of the Forest
+- Arcane Barrier
+- Arcanite Magician/Assault Mode
+- Archfiend Black Skull Dragon
+- Archfiend Cavalry
+- Archfiend Eccentrick
+- Archfiend Emperor, the First Lord of Horror
+- Archfiend Interceptor
+- Archfiend Marmot of Nefariousness
+- Archfiend of Gilfer
+- Archfiend Soldier
+- Archfiend's Oath
+- Archfiend's Roar
+- Archfiend's Staff of Despair
+- Archlord Kristya
+- Arcjet Lightcraft
+- Aria the Melodious Diva
+- Armageddon Designator
+- Armaill
+- Armed Changer
+- Armed Dragon Blitz
+- Armed Dragon Lightning
+- Armed Dragon LV3
+- Armed Dragon LV5
+- Armed Dragon LV7
+- Armed Ninja
+- Armed Protector Dragon
+- Armed Samurai - Ben Kei
+- Armed Sea Hunter
+- Armor Break
+- Armor Dragon Ritual
+- Armor Exe
+- Armor Ninjitsu Art of Freezing
+- Armored Axon Kicker
+- Armored Cybern
+- Armored Glass
+- Armored Lizard
+- Armored Starfish
+- Armored Zombie
+- Armoroid
+- Armory Call
+- Arnis, the Empowered Warrior
+- Aroma Garden
+- Aroma Gardening
+- Aroma Jar
+- Aroma Strategy
+- Aromage Cananga
+- Aromage Laurel
+- Aromage Marjoram
+- Aromaseraphy Angelica
+- Array of Revealing Light
+- Arsenal Bug
+- Arsenal Robber
+- Arsenal Summoner
+- Artifact Achilleshield
+- Artifact Aegis
+- Artifact Beagalltach
+- Artifact Chakram
+- Artifact Failnaught
+- Artifact Labrys
+- Artifact Lancea
+- Artifact Mjollnir
+- Artifact Moralltach
+- Artifact Vajra
+- Artifacts Unleashed
+- Ash Blossom & Joyous Spring
+- Asleep at the Switch
+- Assault Beast
+- Assault Blackwing - Sohaya the Rain Storm
+- Assault Counter
+- Assault Dog
+- Assault Mercenary
+- Assault Mode Activate
+- Assault Mode Zero
+- Assault on GHQ
+- Assault Overload
+- Assault Revival
+- Assault Sentinel
+- Assault Slash
+- Assault Spirits
+- Assault Teleport
+- Astra Ghouls
+- Astral Barrier
+- Asura Priest
+- Aswan Apparition
+- At One With the Sword
+- Athena
+- Atlantean Attack Squad
+- Atlantean Dragoons
+- Atlantean Heavy Infantry
+- Atlantean Marksman
+- Atlantean Pikeman
+- Atomic Firefly
+- Attachment Cybern
+- Attack and Receive
+- Attack Gainer
+- Attack of the Cornered Rat
+- Attack Pheromones
+- Attack Reflector Unit
+- Attack the Moon!
+- Attention!
+- Attraffic Control
+- Aurkus, Lightsworn Druid
+- Aurora Paragon
+- Aurora Wing
+- Aussa the Earth Charmer
+- Automatic Laser
+- Autonomous Action Unit
+- Autorokket Dragon
+- Avalanching Aussa
+- Avatar of The Pot
+- Avenging Knight Parshath
+- Awakening of the Possessed
+- Awakening of the Possessed - Gagigobyte
+- Awakening of the Possessed - Rasenryu
+- Awakening of the Sacred Beasts
+- Axe Dragonute
+- Axe of Despair
+- Axe of Fools
+- Axe Raider
+- Aye-Iron
+- Ayers Rock Sunrise
+- Azure-Eyes Silver Dragon
+- B.E.F. Zelos
+- B.E.S. Big Core
+- B.E.S. Blaster Cannon Core
+- B.E.S. Crystal Core
+- Baba Barber
+- Baby Dragon
+- Baby Mudragon
+- Baby Raccoon Ponpoko
+- Baby Raccoon Tantan
+- Baby Tiragon
+- Babycerasaurus
+- Bachibachibachi
+- Back to Square One
+- Back to the Front
+- Back-Up Rider
+- Backfire
+- Background Dragon
+- Backlinker
+- Backs to the Wall
+- Backup Operator
+- Backup Secretary
+- Backup Soldier
+- Backup Squad
+- Backup Warrior
+- Bacon Saver
+- Bad Aim
+- Bad Luck Blast
+- Bad Reaction to Simochi
+- Bait Doll
+- Balance of Judgment
+- Balancer Lord
+- Ballista of Rampart Smashing
+- Ballista Squad
+- Balloon Lizard
+- Bamboo Scrap
+- Banisher of the Light
+- Banisher of the Radiance
+- Banner of Courage
+- Banquet of Millions
+- Baobaboon
+- Barbaroid, the Ultimate Battle Machine
+- Bark of Dark Ruler
+- Barkion's Bark
+- Baron of the Fiend Sword
+- Barox
+- Barrage Blast
+- Barrel Behind the Door
+- Barrel Dragon
+- Barricadeborg Blocker
+- Barrier Resonator
+- Barrier Statue of the Abyss
+- Barrier Statue of the Drought
+- Barrier Statue of the Heavens
+- Barrier Statue of the Inferno
+- Barrier Statue of the Stormwinds
+- Barrier Statue of the Torrent
+- Barrier Wave
+- Basal Rose Shoot
+- Bashing Shield
+- Basic Insect
+- Basilius, Familiar of the Evil Eye
+- Battery Charger
+- Batteryman 9-Volt
+- Batteryman AA
+- Batteryman AAA
+- Batteryman C
+- Batteryman Charger
+- Batteryman D
+- Batteryman Micro-Cell
+- Batteryman Solar
+- Battle Break
+- Battle Fader
+- Battle Footballer
+- Battle Fusion
+- Battle Instinct
+- Battle of the Elements
+- Battle Ox
+- Battle Steer
+- Battle Survivor
+- Battle Teleportation
+- Battle Tuned
+- Battle Waltz
+- Battle Warrior
+- Battle-Scarred
+- Battleguard Howling
+- Battleguard King
+- Battleguard Rage
+- Battlin' Boxer Big Bandage
+- Battlin' Boxer Counterpunch
+- Battlin' Boxer Glassjaw
+- Battlin' Boxer Headgeared
+- Battlin' Boxer Rabbit Puncher
+- Battlin' Boxer Rib Gardna
+- Battlin' Boxer Sparrer
+- Battlin' Boxer Switchitter
+- Battlin' Boxer Veil
+- Bayonater, the Baneful Barrel
+- Bazoo the Soul-Eater
+- Beacon of White
+- Bean Soldier
+- Bearblocker
+- Beast Fangs
+- Beast King Barbaros
+- Beast King Unleashed
+- Beast Magic Attack
+- Beast of Talwar
+- Beast of the Pharaoh
+- Beast Rage
+- Beast Rising
+- Beast Soul Swap
+- Beast-Warrior Puma
+- Beastking of the Swamps
+- Beasts of Phantom
+- Beatdown!
+- Beatraptor
+- Beaver Warrior
+- Beckoned by the World Chalice
+- Beckoning Light
+- Bee List Soldier
+- Beelze Frog
+- Beelze of the Diabolic Dragons
+- Beelzeus of the Diabolic Dragons
+- Beetron
+- Beetrooper Assault Roller
+- Beetrooper Fly & Sting
+- Beetrooper Landing
+- Beetrooper Squad
+- Beginning of Heaven and Earth
+- Begone, Knave!
+- Behegon
+- Behemoth the King of All Animals
+- Beiige, Vanguard of Dark World
+- Belial - Marquis of Darkness
+- Bellcat Fighter
+- Bending Destiny
+- Berfomet
+- Berlineth the Firestorm Vassal
+- Berserk Dragon
+- Berserk Gorilla
+- Berserk Scales
+- Berserker Crush
+- Berserker of the Tenyi
+- Berserker Soul
+- Beta The Magnet Warrior
+- Bickuribox
+- Bicorn Re'em
+- Bicular
+- Big Bang Shot
+- Big Evolution Pill
+- Big Eye
+- Big Insect
+- Big Jaws
+- Big Koala
+- Big Shield Gardna
+- Big Wave Small Wave
+- BIG Win!?
+- Binary Blader
+- Bio-Mage
+- Biofalcon
+- Bird of Paradise Lost
+- Bird of Roses
+- Birdface
+- Birth of the Prominence Flame
+- Birthright
+- Bite Bug
+- Bite Shoes
+- Bitelon
+- Bitron
+- Bitrooper
+- Black and White Wave
+- Black Brachios
+- Black Cat-astrophe
+- Black Dragon Ninja
+- Black Dragon's Chick
+- Black Garden
+- Black Horn of Heaven
+- Black Illusion Ritual
+- Black Luster Ritual
+- Black Luster Soldier
+- Black Luster Soldier - Envoy of the Beginning
+- Black Magic Ritual
+- Black Metal Dragon
+- Black Pendant
+- Black Potan
+- Black Ptera
+- Black Ray Lancer
+- Black Return
+- Black Rose Dragon
+- Black Salvo
+- Black Skull Dragon
+- Black Stego
+- Black Thunder
+- Black Tyranno
+- Black Veloci
+- Black Whirlwind
+- Black Wing Revenge
+- Black-Winged Dragon
+- Black-Winged Strafe
+- Blackback
+- Blackbird Close
+- Blackboost
+- Blackeyes, the Plunder Patroll Seaguide
+- Blackland Fire Dragon
+- Blackwing - Abrolhos the Megaquake
+- Blackwing - Aurora the Northern Lights
+- Blackwing - Auster the South Wind
+- Blackwing - Backlash
+- Blackwing - Blizzard the Far North
+- Blackwing - Bombardment
+- Blackwing - Boobytrap
+- Blackwing - Bora the Spear
+- Blackwing - Boreas the Sharp
+- Blackwing - Breeze the Zephyr
+- Blackwing - Brisote the Tailwind
+- Blackwing - Calima the Haze
+- Blackwing - Decay the Ill Wind
+- Blackwing - Elphin the Raven
+- Blackwing - Etesian of Two Swords
+- Blackwing - Fane the Steel Chain
+- Blackwing - Ghibli the Searing Wind
+- Blackwing - Gust the Backblast
+- Blackwing - Harmattan the Dust
+- Blackwing - Hurricane the Tornado
+- Blackwing - Kalut the Moon Shadow
+- Blackwing - Kochi the Daybreak
+- Blackwing - Kogarashi the Wanderer
+- Blackwing - Mistral the Silver Shield
+- Blackwing - Nothung the Starlight
+- Blackwing - Oroshi the Squall
+- Blackwing - Pinaki the Waxing Moon
+- Blackwing - Shura the Blue Flame
+- Blackwing - Sirocco the Dawn
+- Blackwing - Tornado the Reverse Wind
+- Blackwing - Zephyros the Elite
+- Blackwing Tamer - Obsidian Hawk Joe
+- Blade Bounzer
+- Blade Knight
+- Blade Rabbit
+- Blade Skater
+- Bladefly
+- Blast Asmodian
+- Blast Held by a Tribute
+- Blast Juggler
+- Blast Magician
+- Blast Sphere
+- Blast with Chain
+- Blasting the Ruins
+- Blaze Accelerator
+- Blaze Accelerator Reload
+- Blazewing Butterfly
+- Blazing Hiita
+- Blazing Inpachi
+- Blazing Mirror Force
+- Blessings for Gusto
+- Blessings of the Nile
+- Blind Destruction
+- Blind Spot Strike
+- Blindly Loyal Goblin
+- Blizzard
+- Blizzard Dragon
+- Blizzard Falcon
+- Blizzard Thunderbird
+- Blizzard Warrior
+- Blizzed, Defender of the Ice Barrier
+- Block Attack
+- Block Golem
+- Block Spider
+- Blocker
+- Blockman
+- Blockout Curtain
+- Blood Sucker
+- Bloom Diva the Melodious Choir
+- Bloom Prima the Melodious Choir
+- Blooming of the Darkest Rose
+- Blossom Bombardment
+- Blowback Dragon
+- Blue Dragon Summoner
+- Blue Duston
+- Blue Flame Swordsman
+- Blue Mountain Butterspy
+- Blue Rose Dragon
+- Blue Thunder T-45
+- Blue-Eyed Silver Zombie
+- Blue-Eyes Shining Dragon
+- Blue-Eyes Toon Dragon
+- Blue-Eyes White Dragon
+- Blue-Winged Crown
+- Bluebeard, the Plunder Patroll Shipwright
+- Blustering Winds
+- Boar Soldier
+- Bokoichi the Freightening Car
+- Bolt Penguin
+- Bombardment Beetle
+- Bonding - H2O
+- Bone Crusher
+- Bone Temple Block
+- Boneheimer
+- Bonze Alone
+- Boo-Boo Game
+- Boogie Trap
+- Book of Eclipse
+- Book of Life
+- Book of Moon
+- Book of Secret Arts
+- Book of Taiyou
+- Boompoline!!
+- Boon of the Meklord Emperor
+- Booster Dragon
+- Boot Sector Launch
+- Boot Staggered
+- Boot-Up Soldier - Dread Dynamo
+- Borrel Cooling
+- Borrel Regenerator
+- Borrel Supplier
+- Borreload Dragon
+- Boss Rush
+- Botanical Girl
+- Botanical Lion
+- Bottom Dweller
+- Bottomless Shifting Sand
+- Bottomless Trap Hole
+- Bound Wand
+- Bountiful Artemis
+- Bounzer Guard
+- Bowganian
+- BOXer
+- Boycotton
+- Bracchio-raidus
+- Brain Control
+- Brain Research Lab
+- Brainwashing Beam
+- Branch!
+- Branded Bond
+- Brave Scizzar
+- Bravedrive
+- Bravo, Fighter Fur Hire
+- Break Away
+- Break Off Trap Hole
+- Break the Destiny
+- Break! Draw!
+- Breaker the Dark Magical Warrior
+- Breaker the Magical Warrior
+- Breaking of the World
+- Breakthrough Skill
+- Breakthrough!
+- Breath of Acclamation
+- Bri Synchron
+- Bright Star Dragon
+- Brilliant Spark
+- Brinegir
+- Brionac, Dragon of the Ice Barrier
+- Broken Bamboo Sword
+- Brotherhood of the Fire Fist - Caribou
+- Brotherhood of the Fire Fist - Hawk
+- Brotherhood of the Fire Fist - Horse Prince
+- Brotherhood of the Fire Fist - Leopard
+- Brotherhood of the Fire Fist - Raven
+- Brotherhood of the Fire Fist - Spirit
+- Brotherhood of the Fire Fist - Wolf
+- Broww, Huntsman of Dark World
+- Brron, Mad King of Dark World
+- Bubble Barrier
+- Bubble Crash
+- Bubble Shuffle
+- Bubonic Vermin
+- Bug Emergency
+- Bug Matrix
+- Bug Signal
+- Bujin Mahitotsu
+- Bujin Regalia - The Jewel
+- Bujin Regalia - The Sword
+- Bujincandescence
+- Bujincident
+- Bujinfidel
+- Bujingi Boar
+- Bujingi Centipede
+- Bujingi Ibis
+- Bujingi Ophidian
+- Bujingi Swallow
+- Bujingi Turtle
+- Bujingi Warg
+- Bujingi Wolf
+- Bujinki Amaterasu
+- Bujintervention
+- Bull Blader
+- Bunilla
+- Burden of the Mighty
+- Burgeoning Whirlflame
+- Burglar
+- Burial from a Different Dimension
+- Burner, Dragon Ruler of Sparks
+- Burning Algae
+- Burning Bamboo Sword
+- Burning Beast
+- Burning Land
+- Burst Breath
+- Burst Stream of Destruction
+- Buster Blader
+- Buster Blader, the Destruction Swordmaster
+- Buster Blader, the Dragon Destroyer Swordsman
+- Buster Blaster
+- Buster Rancher
+- Buten
+- Butterflyoke
+- Butterspy Protection
+- Buzzsaw Shark
+- By Order of the Emperor
+- Bye Bye Damage
+- Byroad Sacrifice
+- Byser Shock
+- Cairngorgon, Antiluminescent Knight
+- Caius the Mega Monarch
+- Caius the Shadow Monarch
+- Caligo Claw Crow
+- Call of the Archfiend
+- Call of the Atlanteans
+- Call of the Earthbound
+- Call of the Haunted
+- Call of the Mummy
+- Call of the Reaper
+- Cameraclops
+- Caninetaur
+- Cannon Soldier
+- Cannon Soldier MK-2
+- Cannonball Spear Shellfish
+- Canon the Melodious Diva
+- Canyon
+- Capacitor Stalker
+- Capricious Darklord
+- Caravan of the Ice Barrier
+- Carboneddon
+- Card Advance
+- Card Blocker
+- Card Breaker
+- Card Ejector
+- Card Guard
+- Card of Sanctity
+- Card of the Soul
+- Card Rotator
+- Card Shuffle
+- Card Trader
+- Card Trooper
+- Cardcar D
+- Cards for Black Feathers
+- Cards from the Sky
+- Cards of Consonance
+- Cards of the Red Stone
+- Carpiponica, Mystical Beast of the Forest
+- Cash Back
+- Castle of Dark Illusions
+- Castle of Dragon Souls
+- Castle Walls
+- Cat's Ear Tribe
+- Cataclysmic Circumpolar Chilblainia
+- Cataclysmic Crusted Calcifida
+- Cataclysmic Cryonic Coldo
+- Cataclysmic Scorching Sunburner
+- Catapult Turtle
+- Catapult Warrior
+- Catapult Zone
+- Catche Eve L2
+- Catnipped Kitty
+- Catoblepas, Familiar of the Evil Eye
+- Cattle Call
+- Cauldron of the Old Man
+- Cave Dragon
+- Ceasefire
+- Celestia
+- Celestia, Lightsworn Angel
+- Celestial Sword - Eatos
+- Celestial Transformation
+- Cell Explosion Virus
+- Celtic Guardian
+- Cemetary Bomb
+- Centerfrog
+- Centrifugal Field
+- Ceremonial Bell
+- Cestus of Dagla
+- Chain Destruction
+- Chain Detonation
+- Chain Disappearance
+- Chain Dispel
+- Chain Dog
+- Chain Energy
+- Chain Healing
+- Chain Ignition
+- Chain Material
+- Chain Resonator
+- Chain Summoning
+- Chain Thrasher
+- Chain Whirlwind
+- Chainsaw Insect
+- Chamberlain of the Six Samurai
+- Champion's Vigilance
+- Change of Hero - Reflector Ray
+- Change Slime
+- Changer Synchron
+- Changing Destiny
+- Chaos Betrayer
+- Chaos Burst
+- Chaos Command Magician
+- Chaos Core
+- Chaos End
+- Chaos Form
+- Chaos Greed
+- Chaos Hunter
+- Chaos Infinity
+- Chaos Necromancer
+- Chaos Seed
+- Chaos Sorcerer
+- Chaos Summoning Beast
+- Chaos Trap Hole
+- Chaos Zone
+- Chaosrider Gustaph
+- Charcoal Inpachi
+- Charge Into a Dark World
+- Charge of the Light Brigade
+- Charged-Up Heraldry
+- Charging Gaia the Fierce Knight
+- Charioteer of Prophecy
+- Charm of Shabti
+- Checkmate
+- Checksum Dragon
+- Cheepcheepcheep
+- Chemicritter Carbo Crab
+- Chemicritter Hydron Hawk
+- Chemicritter Oxy Ox
+- Chewbone
+- Child's Play
+- Chimera the Flying Mythical Beast
+- Chimeratech Fortress Dragon
+- Chimeratech Overdragon
+- Chimeratech Rampage Dragon
+- Chiron the Mage
+- Chobham Armor Dragon
+- Chopman the Desperate Outlaw
+- Chorus of Sanctuary
+- Chosen by the World Chalice
+- Chosen of Zefra
+- Chosen One
+- Chow Chow Chan
+- Chow Len the Prophet
+- Chronograph Sorcerer
+- Chronomaly Acambaro Figures
+- Chronomaly Crystal Bones
+- Chronomaly Esperanza Glyph
+- Chronomaly Golden Jet
+- Chronomaly Mayan Machine
+- Chronomaly Moai
+- Chronomaly Moai Carrier
+- Chronomaly Pyramid Eye Tablet
+- Chronomaly Technology
+- Chronomaly Temple - Trilithon
+- Chronomaly Tuspa Rocket
+- Chronomaly Winged Sphinx
+- Chrysalis Chicky
+- Chrysalis Dolphin
+- Chrysalis Larva
+- Chrysalis Mole
+- Chrysalis Pantail
+- Chrysalis Pinny
+- Chthonian Alliance
+- Chthonian Blast
+- Chthonian Polymer
+- Chthonian Soldier
+- Chu-Ske the Mouse Fighter
+- Cipher Bit
+- Cipher Etranger
+- Cipher Mirror Knight
+- Cipher Soldier
+- Cipher Spectrum
+- Cipher Twin Raptor
+- Cipher Wing
+- Circle of the Fire Kings
+- Clavkiys, the Magikey Skyblaster
+- Claw Reacher
+- Clay Charge
+- Cliant
+- Cloak and Dagger
+- Clock Arc
+- Clock Lizard
+- Clock Resonator
+- Clock Spartoi
+- Clock Tower Prison
+- Clock Wyvern
+- Cloning
+- Closed Forest
+- Cloudcastle
+- Cloudian - Ghost Fog
+- Cloudian - Nimbusman
+- Cloudian - Poison Cloud
+- Cloudian - Smoke Ball
+- Cloudian - Storm Dragon
+- Cloudian - Turbulence
+- Cloudian Aerosol
+- Cloudian Squall
+- Clown Zombie
+- Cluster Congester
+- Coach Captain Bearman
+- Coach Goblin
+- Coach King Giantrainer
+- Cobra Jar
+- Cobraman Sakuzy
+- Cockadoodledoo
+- Cockroach Knight
+- Cocoon of Evolution
+- Cocoon Party
+- Cocoon Rebirth
+- Cocoon Veil
+- Codarus
+- Code Talker Inverted
+- Codebreaker Virus Berserker
+- Codebreaker Virus Swordsman
+- Codebreaker Zero Day
+- Coffin Seller
+- Cold Enchanter
+- Cold Feet
+- Collected Power
+- Colossal Fighter
+- Colossal Fighter/Assault Mode
+- Column Switch
+- Combination Attack
+- Combo Fighter
+- Command Knight
+- Command Performance
+- Commander Covington
+- Commander of Swords
+- Commencement Dance
+- Common Charity
+- Common Soul
+- Compulsory Escape Device
+- Compulsory Evacuation Device
+- Comrade Swordsman of Landstar
+- Concentrating Current
+- Condemned Maiden
+- Condemned Witch
+- Condolence Puppet
+- Confusion Chaff
+- Conscription
+- Consecrated Light
+- Consolation Prize
+- Constellar Acubens
+- Constellar Aldebaran
+- Constellar Algiedi
+- Constellar Alrescha
+- Constellar Belt
+- Constellar Kaus
+- Constellar Leonis
+- Constellar Meteor
+- Constellar Pleiades
+- Constellar Rasalhague
+- Constellar Sheratan
+- Constellar Siat
+- Constellar Star Chart
+- Constellar Star Cradle
+- Constellar Twinkle
+- Construction Train Signal Red
+- Contact
+- Contact "C"
+- Contact Gate
+- Contact Out
+- Contact with the Aquamirror
+- Continuous Destruction Punch
+- Contract Laundering
+- Contract with Exodia
+- Contract with the Abyss
+- Contract with the Dark Master
+- Converging Wills Dragon
+- Convert Contact
+- Convulsion of Nature
+- Copy Knight
+- Copy Plant
+- Copycat
+- Core Blaster
+- Corridor of Agony
+- Corroding Shark
+- Corrosive Scales
+- Corruption Cell "A"
+- Cosmic Blazar Dragon
+- Cosmic Compass
+- Cosmic Cyclone
+- Cosmic Flare
+- Cosmic Slicer Zer'oll
+- Cosmo Brain
+- Cosmo Queen
+- Cost Down
+- Counter Cleaner
+- Counter Counter
+- Counter Gem
+- Counterforce
+- Covering Fire
+- Crab Turtle
+- Crackdown
+- Cracking
+- Cracking Dragon
+- Crane Crane
+- Crashbug Road
+- Crashbug X
+- Crashbug Y
+- Crashbug Z
+- Crass Clown
+- Crawling Dragon
+- Crawling Dragon #2
+- Crazy Fish
+- Crealtar, the Impcantation Originator
+- Creation Resonator
+- Creature Seizure
+- Creature Swap
+- Creeping Darkness
+- Creeping Doom Manta
+- Creepy Coney
+- Crevice Into the Different Dimension
+- Crimson Fire
+- Crimson Ninja
+- Crimson Resonator
+- Crimson Sentry
+- Crimson Sunbird
+- Criosphinx
+- Crop Circles
+- Cross Attack
+- Cross Debug
+- Cross Porter
+- Cross-Dimensional Duel
+- Cross-Sword Beetle
+- Crowned by the World Chalice
+- Crusader of Endymion
+- Crusadia Arboria
+- Crusadia Draco
+- Crusadia Krawler
+- Crusadia Leonis
+- Crusadia Power
+- Crusadia Reclusia
+- Crusadia Regulex
+- Crusadia Spatha
+- Crusadia Testament
+- Crusadia Vanguard
+- Crush Card Virus
+- Crusher Run
+- Cryomancer of the Ice Barrier
+- Crystal Abundance
+- Crystal Beacon
+- Crystal Beast Amber Mammoth
+- Crystal Beast Amethyst Cat
+- Crystal Beast Cobalt Eagle
+- Crystal Beast Emerald Tortoise
+- Crystal Beast Ruby Carbuncle
+- Crystal Beast Sapphire Pegasus
+- Crystal Beast Topaz Tiger
+- Crystal Blessing
+- Crystal Conclave
+- Crystal Keeper
+- Crystal Master
+- Crystal Pair
+- Crystal Promise
+- Crystal Raigeki
+- Crystal Release
+- Crystal Rose
+- Crystal Seer
+- Crystal Tree
+- Crystolic Potential
+- Crystron Entry
+- Crystron Impact
+- Crystron Prasiortle
+- Crystron Rion
+- Crystron Rosenix
+- Crystron Smiger
+- Crystron Thystvern
+- Cu Chulainn the Awakened
+- Cuben
+- Cunning of the Six Samurai
+- Cup of Ace
+- Cupid Dunk
+- Cupid Fore
+- Cupid Pitch
+- Cupid Serve
+- Cupid Volley
+- Cure Mermaid
+- Curse of Aging
+- Curse of Anubis
+- Curse of Darkness
+- Curse of Dragon
+- Curse of Dragon, the Cursed Dragon
+- Curse of Fiend
+- Curse of Royal
+- Curse of the Masked Beast
+- Curse of the Shadow Prison
+- Cursed Armaments
+- Cursed Bamboo Sword
+- Cursed Bill
+- Cursed Fig
+- Cursed Seal of the Forbidden Spell
+- Curtain of the Dark Ones
+- Cyber Angel Dakini
+- Cyber Angel Idaten
+- Cyber Angel Izana
+- Cyber Angel Vrash
+- Cyber Archfiend
+- Cyber Dinosaur
+- Cyber Dragon
+- Cyber Dragon Core
+- Cyber Dragon Drei
+- Cyber Dragon Nachster
+- Cyber Dragon Nova
+- Cyber Dragon Sieger
+- Cyber Dragon Vier
+- Cyber Dragon Zwei
+- Cyber Egg Angel
+- Cyber Eltanin
+- Cyber Emergency
+- Cyber End Dragon
+- Cyber Eternal
+- Cyber Falcon
+- Cyber Gymnast
+- Cyber Harpie Lady
+- Cyber Kirin
+- Cyber Larva
+- Cyber Network
+- Cyber Ogre
+- Cyber Ouroboros
+- Cyber Petit Angel
+- Cyber Pharos
+- Cyber Phoenix
+- Cyber Prima
+- Cyber Raider
+- Cyber Repair Plant
+- Cyber Saurus
+- Cyber Shadow Gardna
+- Cyber Shark
+- Cyber Shield
+- Cyber Soldier of Darkworld
+- Cyber Summon Blaster
+- Cyber Tutu
+- Cyber Tutubon
+- Cyber Twin Dragon
+- Cyber Valley
+- Cyber-Tech Alligator
+- Cyberdark Cannon
+- Cyberdark Claw
+- Cyberdark Dragon
+- Cyberdark Edge
+- Cyberdark Horn
+- Cyberdark Impact!
+- Cyberdark Inferno
+- Cyberdark Invasion
+- Cyberdark Keel
+- Cyberdarkness Dragon
+- Cyberload Fusion
+- Cybernetic Cyclopean
+- Cybernetic Fusion Support
+- Cybernetic Hidden Technology
+- Cybernetic Magician
+- Cybernetic Overflow
+- Cybernetic Revolution
+- Cybernetic Zone
+- Cybersal Cyclone
+- Cyberse Accelerator
+- Cyberse Beacon
+- Cyberse Converter
+- Cyberse Gadget
+- Cyberse Integrator
+- Cyberse Reminder
+- Cyberse Wicckid
+- Cyberse Wizard
+- Cyborg Doctor
+- Cycle of the World
+- Cyclon Laser
+- Cyclone Blade
+- Cyclone Boomerang
+- Cycroid
+- Cynet Cascade
+- Cynet Crosswipe
+- Cynet Fusion
+- Cynet Refresh
+- Cynet Regression
+- Cynet Ritual
+- Cynet Storm
+- Cynet Universe
+- D - Chain
+- D - Counter
+- D - Formation
+- D - Fortune
+- D - Shield
+- D - Spirit
+- D - Time
+- D Cubed
+- D-Fusion
+- D. Human
+- D. Tribe
+- D.3.S. Frog
+- D.D. Assailant
+- D.D. Assault Carrier
+- D.D. Borderline
+- D.D. Crazy Beast
+- D.D. Crow
+- D.D. Dynamite
+- D.D. Esper Star Sparrow
+- D.D. Guide
+- D.D. Patrol Plane
+- D.D. Scout Plane
+- D.D. Seeker
+- D.D. Sprite
+- D.D. Survivor
+- D.D. Trainer
+- D.D. Trap Hole
+- D.D. Warrior
+- D.D. Warrior Lady
+- D.D.D. - Different Dimension Derby
+- D.D.M. - Different Dimension Master
+- D.D.R. - Different Dimension Reincarnation
+- D/D Ark
+- D/D Cerberus
+- D/D Evil
+- D/D Ghost
+- D/D Lilith
+- D/D Necro Slime
+- D/D Nighthowl
+- D/D Pandora
+- D/D Proud Chevalier
+- D/D Proud Ogre
+- D/D Recruits
+- D/D Reroll
+- D/D Savant Copernicus
+- D/D Savant Galilei
+- D/D Savant Kepler
+- D/D Savant Newton
+- D/D Savant Nikola
+- D/D Swirl Slime
+- D/D Vice Typhon
+- D/D/D Contract Change
+- D/D/D Doom King Armageddon
+- D/D/D Duo-Dawn King Kali Yuga
+- D/D/D Flame High King Genghis
+- D/D/D Human Resources
+- D/D/D Oblivion King Abyss Ragnarok
+- D/D/D Oracle King d'Arc
+- D/D/D Super Doom King Purple Armageddon
+- D/D/D Supersight King Zero Maxwell
+- D/D/D Supreme King Kaiser
+- D/D/D Wave King Caesar
+- Dai Dance
+- Dai-sojo of the Ice Barrier
+- Damage Condenser
+- Damage Diet
+- Damage Eater
+- Damage Gate
+- Damage Mage
+- Damage Translation
+- Damage Vaccine Omega MAX
+- Dance Princess of the Ice Barrier
+- Dances with Beasts
+- Dancing Elf
+- Dancing Fairy
+- Danger! Chupacabra!
+- Danger! Disturbance! Disorder!
+- Danger! Feets of Strength!
+- Dangerous Machine Type-6
+- Danipon
+- Danmari @Ignister
+- Dante, Traveler of the Burning Abyss
+- Dark Angel
+- Dark Armed Dragon
+- Dark Artist
+- Dark Assailant
+- Dark Balter the Terrible
+- Dark Bat
+- Dark Beckoning Beast
+- Dark Blade
+- Dark Bribe
+- Dark Calling
+- Dark Cat with White Tail
+- Dark Catapulter
+- Dark City
+- Dark Coffin
+- Dark Contract with Errors
+- Dark Contract with the Gate
+- Dark Contract with the Swamp King
+- Dark Contract with the Witch
+- Dark Contract with the Yamimakai
+- Dark Core
+- Dark Crusader
+- Dark Deal
+- Dark Designator
+- Dark Doriado
+- Dark Dragon Ritual
+- Dark Driceratops
+- Dark Dust Spirit
+- Dark Effigy
+- Dark Elf
+- Dark Energy
+- Dark Eradicator Warlock
+- Dark Eruption
+- Dark Eye Nightmare
+- Dark Factory of Mass Production
+- Dark Factory of More Production
+- Dark Flare Knight
+- Dark Fusion
+- Dark General Freed
+- Dark Gray
+- Dark Hole
+- Dark Horus
+- Dark Illusion
+- Dark Jeroid
+- Dark King of the Abyss
+- Dark Lucius LV4
+- Dark Lucius LV6
+- Dark Lucius LV8
+- Dark Magic Attack
+- Dark Magic Curtain
+- Dark Magic Expanded
+- Dark Magic Inheritance
+- Dark Magical Circle
+- Dark Magician
+- Dark Magician Girl
+- Dark Magician Girl the Dragon Knight
+- Dark Magician Knight
+- Dark Magician of Chaos
+- Dark Mambele
+- Dark Master - Zorc
+- Dark Mimic LV1
+- Dark Mimic LV3
+- Dark Necrofear
+- Dark Nephthys
+- Dark Paladin
+- Dark Prisoner
+- Dark Rabbit
+- Dark Rebellion Xyz Dragon
+- Dark Red Enchanter
+- Dark Renewal
+- Dark Requiem Xyz Dragon
+- Dark Resonator
+- Dark Room of Nightmare
+- Dark Rose Fairy
+- Dark Ruler Ha Des
+- Dark Ruler No More
+- Dark Sage
+- Dark Scheme
+- Dark Scorpion - Chick the Yellow
+- Dark Scorpion - Cliff the Trap Remover
+- Dark Scorpion - Gorg the Strong
+- Dark Scorpion - Meanae the Thorn
+- Dark Scorpion Burglars
+- Dark Scorpion Combination
+- Dark Simorgh
+- Dark Smog
+- Dark Snake Syndrome
+- Dark Spider
+- Dark Spirit of the Silent
+- Dark Strike Fighter
+- Dark Summoning Beast
+- Dark Templar @Ignister
+- Dark Tinker
+- Dark Titan of Terror
+- Dark Valkyria
+- Dark Verger
+- Dark Witch
+- Dark World Brainwashing
+- Dark World Dealings
+- Dark World Grimoire
+- Dark World Lightning
+- Dark Zebra
+- Dark-Piercing Light
+- Darkbishop Archfiend
+- Darkblaze Dragon
+- Darkfall
+- Darkfire Dragon
+- Darkfire Soldier #1
+- Darkfire Soldier #2
+- Darklight
+- Darklon
+- Darklord Desire
+- Darklord Marie
+- Darklord Nergal
+- Darklord Uprising
+- Darklord Zerato
+- Darkness Approaches
+- Darkness Neosphere
+- Darknight Parshath
+- Darksea Float
+- Darkstorm Dragon
+- Darkworld Shackles
+- Darkworld Thorns
+- Daruma Dropper
+- Dash Warrior
+- Datacorn
+- Dawn of the Herald
+- Dawnbreak Gardna
+- Daybreaker
+- De-Fusion
+- De-Spell
+- De-Synchro
+- Deal of Phantom
+- Dealer's Choice
+- Debris Dragon
+- Debunk
+- Decayed Commander
+- Deck Devastation Virus
+- Deck Lockdown
+- Decode Talker
+- Decoy Dragon
+- Decoyroid
+- Dedication through Light and Darkness
+- Deep Diver
+- Deep Sea Artisan
+- Deep Sea Diva
+- Deep Sea Minstrel
+- Deep Sea Prima Donna
+- Deep Sea Sentry
+- Deep Sweeper
+- Deep-Space Cruiser IX
+- Deepsea Shark
+- Deepsea Warrior
+- Defect Compiler
+- Defender of the Ice Barrier
+- Defender of the Labyrinth
+- Defender, the Magical Knight
+- Defenders Intersect
+- Defense Draw
+- Defense Zone
+- Defrag Dragon
+- Degen-Force
+- Dekoichi the Battlechanted Locomotive
+- Delta Attacker
+- Delta Crow - Anti Reverse
+- Delta The Magnet Warrior
+- Delta Tri
+- Demise of the Land
+- Demise, Agent of Armageddon
+- Demise, King of Armageddon
+- Demotion
+- Denko Sekka
+- Depth Amulet
+- Des Croaking
+- Des Dendle
+- Des Feral Imp
+- Des Frog
+- Des Kangaroo
+- Des Koala
+- Des Lacooda
+- Des Mosquito
+- Des Volstgalph
+- Des Wombat
+- Descending Lost Star
+- Desert Locusts
+- Desert Protector
+- Desert Sunlight
+- Desertapir
+- Designer Frightfur
+- Deskbot 001
+- Deskbot 002
+- Deskbot 003
+- Deskbot 004
+- Deskbot 005
+- Deskbot 006
+- Deskbot 007
+- Deskbot 008
+- Deskbot 009
+- Deskbot Base
+- Deskbot Jet
+- Despair from the Dark
+- Desperate Tag
+- Despia, Theater of the Branded
+- Despian Tragedy
+- Desrook Archfiend
+- Destiny Board
+- Destiny Draw
+- Destiny Draw (Skill Card)
+- Destiny End Dragoon
+- Destiny HERO - Blade Master
+- Destiny HERO - Captain Tenacious
+- Destiny HERO - Celestial
+- Destiny HERO - Dangerous
+- Destiny HERO - Dark Angel
+- Destiny HERO - Dasher
+- Destiny HERO - Decider
+- Destiny HERO - Defender
+- Destiny HERO - Departed
+- Destiny HERO - Diamond Dude
+- Destiny HERO - Dogma
+- Destiny HERO - Doom Lord
+- Destiny HERO - Double Dude
+- Destiny HERO - Drawhand
+- Destiny HERO - Dread Servant
+- Destiny HERO - Dreadmaster
+- Destiny HERO - Dreamer
+- Destiny HERO - Drilldark
+- Destiny HERO - Dunker
+- Destiny HERO - Dusktopia
+- Destiny HERO - Dynatag
+- Destiny HERO - Dystopia
+- Destiny HERO - Fear Monger
+- Destiny HERO - Plasma
+- Destiny Mirage
+- Destiny Signal
+- Destroyer Golem
+- Destruct Potion
+- Destruction Cyclone
+- Destruction of Destiny
+- Destruction Punch
+- Destruction Ring
+- Destruction Sword Flash
+- Destruction Sword Memories
+- Destruction Swordsman Fusion
+- Destructive Draw
+- Destructotron
+- Detonate
+- Detonation Code
+- Detonator Circle "A"
+- Deus X-Krawler
+- Dewdark of the Ice Barrier
+- Dhampir Vampire Sheridan
+- Dharc the Dark Charmer
+- Dharma Cannon
+- Diabolos, King of the Abyss
+- Diabound Kernel
+- Diamond Core of Koa'ki Meiru
+- Diamond Duston
+- Dian Keto the Cure Master
+- Diana the Light Spirit
+- Dice It
+- Dice Jar
+- Dice Re-Roll
+- Dice Try!
+- Dice-nied
+- Diced Dice
+- Dicelops
+- Dicephoon
+- Diceversity
+- Different Dimension Capsule
+- Different Dimension Deepsea Trench
+- Different Dimension Dragon
+- Different Dimension Encounter
+- Different Dimension Gate
+- Diffusion Wave-Motion
+- Dig Beak
+- Digging for Gold
+- Digital Bug Centibit
+- Digital Bug Cocoondenser
+- Digital Bug Corebage
+- Digital Bug LEDybug
+- Digital Bug Registrider
+- Digital Bug Scaradiator
+- Digital Bug Websolder
+- Digitron
+- Dillingerous Dragon
+- Dimension Distortion
+- Dimension Explosion
+- Dimension Fortress Weapon
+- Dimension Gate
+- Dimension Jar
+- Dimension Slice
+- Dimension Wall
+- Dimensional Alchemist
+- Dimensional Barrier
+- Dimensional Inversion
+- Dimensional Prison
+- Dimensionhole
+- Dimer Synthesis
+- Dino-Sewing
+- Dinomic Powerload
+- Dinomist Ankylos
+- Dinomist Brachion
+- Dinomist Ceratops
+- Dinomist Charge
+- Dinomist Eruption
+- Dinomist Plesios
+- Dinomist Rush
+- Dinomist Spinos
+- Dinomist Stegosaur
+- Dinomists Howling
+- Dinosaur Kingdom
+- Dinowrestler Capaptera
+- Dinowrestler Capoeiraptor
+- Dinowrestler Chimera T Wrextle
+- Dinowrestler Coelasilat
+- Dinowrestler Eskrimamenchi
+- Dinowrestler Giga Spinosavate
+- Dinowrestler King T Wrextle
+- Dinowrestler Martial Ampelo
+- Dinowrestler Martial Anga
+- Dinowrestler Martial Ankylo
+- Dinowrestler Rambrachio
+- Dinowrestler Systegosaur
+- Dinowrestler Terra Parkourio
+- Dinowrestler Valeonyx
+- Diplexer Chimera
+- Disappear
+- Disarm
+- Disarmament
+- Disc Fighter
+- Disciple of the Forbidden Spell
+- Disciples of the True Dracophoenix
+- Discord
+- Disenchanter
+- Disk Magician
+- Dispatchparazzi
+- Disposable Learner Device
+- Dissolverock
+- Disturbance Strategy
+- Divine Dragon Apocralyph
+- Divine Dragon Aquabizarre
+- Divine Dragon Ragnarok
+- Divine Knight Ishzark
+- Divine Punishment
+- Divine Relic Mjollnir
+- Divine Serpent Geh
+- Divine Sword - Phoenix Blade
+- Divine Wrath
+- Dizzying Winds of Yosen Village
+- Djinn Demolisher of Rituals
+- Djinn Disserere of Rituals
+- Djinn Prognosticator of Rituals
+- DMZ Dragon
+- DNA Checkup
+- DNA Surgery
+- DNA Transplant
+- Doble Passe
+- Doctor Cranium
+- Dododo Bot
+- Dododo Buster
+- Dododo Driver
+- Dododo Swordsman
+- Dododo Warrior
+- Dododo Witch
+- Dogmatika Encounter
+- Dogmatika Genesis
+- Dogmatika Nation
+- Dogmatika Nexus
+- Dogmatika Punishment
+- Dogmatika Theo, the Iron Punch
+- Dogmatikacism
+- Dogmatikalamity
+- Dogoran, the Mad Flame Kaiju
+- Doitsu
+- Doki Doki
+- Dokurorider
+- Dokuroyaiba
+- Doma The Angel of Silence
+- Domain of the True Monarchs
+- Domino Effect
+- Don Turtle
+- Don Zaloog
+- Donpa, Marksman Fur Hire
+- Donyoribo @Ignister
+- Doom Donuts
+- Doom Dozer
+- Doom Shaman
+- Doom Virus Dragon
+- Doombearer Psychopompos
+- Doomcaliber Knight
+- Doomdog Octhros
+- Doomkaiser Dragon
+- Doomkaiser Dragon/Assault Mode
+- Doomstar Magician
+- Doppelganger
+- Doppelwarrior
+- Dora of Fate
+- Doriado's Blessing
+- Doshin @Ignister
+- Dotedotengu
+- Dotscaper
+- Double Attack
+- Double Cipher
+- Double Coston
+- Double Cyclone
+- Double Defender
+- Double Dragon Descent
+- Double Magical Arm Bind
+- Double or Nothing!
+- Double Payback
+- Double Resonator
+- Double Shark
+- Double Snare
+- Double Spell
+- Double Summon
+- Double Tag Team
+- Double Tool C&D
+- Double Trap Hole
+- Double-Edged Sword
+- Double-Edged Sword Technique
+- Doyon @Ignister
+- Dr. Frankenderp
+- Dracocension
+- Draconnet
+- Dracoon Lamp
+- Dragged Down into the Grave
+- Dragodies, the Empowered Warrior
+- Dragon Buster Destruction Sword
+- Dragon Caller
+- Dragon Capture Jar
+- Dragon Dowser
+- Dragon Horn Hunter
+- Dragon Ice
+- Dragon Knight of Creation
+- Dragon Laser
+- Dragon Manipulator
+- Dragon Mastery
+- Dragon Piper
+- Dragon Ravine
+- Dragon Seeker
+- Dragon Shield
+- Dragon Shrine
+- Dragon Spirit of White
+- Dragon Treasure
+- Dragon Zombie
+- Dragon's Bind
+- Dragon's Gunfire
+- Dragon's Mirror
+- Dragon's Rage
+- Dragon's Rebirth
+- Dragoncarnation
+- Dragonic Attack
+- Dragonic Tactics
+- Dragonlark Pairen
+- Dragonmaid Send-Off
+- Dragonoid Generator
+- Dragonpit Magician
+- Dragonpulse Magician
+- Dragoons of Draconia
+- Dragunity Aklys
+- Dragunity Angusticlavii
+- Dragunity Arma Leyvaten
+- Dragunity Arma Mystletainn
+- Dragunity Brandistock
+- Dragunity Corsesca
+- Dragunity Couse
+- Dragunity Darkspear
+- Dragunity Divine Lance
+- Dragunity Dux
+- Dragunity Javelin
+- Dragunity Knight - Barcha
+- Dragunity Knight - Gae Bulg
+- Dragunity Knight - Trident
+- Dragunity Legion
+- Dragunity Legionnaire
+- Dragunity Militum
+- Dragunity Partisan
+- Dragunity Pilum
+- Dragunity Primus Pilus
+- Dragunity Senatus
+- Dragunity Tribus
+- Draining Shield
+- Dramatic Rescue
+- Drastic Drop Off
+- Draw Discharge
+- Draw Muscle
+- Draw of Fate
+- Dream Clown
+- Dream Mirror Fantasy
+- Dream Mirror of Chaos
+- Dream Mirror Recap
+- Dreamsprite
+- Drill Barnacle
+- Drill Bug
+- Drill Driver Vespenato
+- Drill Synchron
+- Drillago
+- Drillroid
+- Driving Snow
+- Droll & Lock Bird
+- Drooling Lizard
+- Drop Off
+- Drowning Mirror Force
+- Dual Assembwurm
+- Dual Avatar Ascendance
+- Dual Avatar Compact
+- Dual Avatar Defeating Evil
+- Dual Avatar Return
+- Duck Dummy
+- DUCKER Mobile Cannon
+- Duelist Alliance
+- Duelittle Chimera
+- Duke Shade, the Sinister Shadow Lord
+- Dummy Golem
+- Dunames Dark Witch
+- Dungeon Worm
+- Dupe Frog
+- Dust Barrier
+- Dust Storm of Gusto
+- Dust Tornado
+- Dustflame Blast
+- Duston Roller
+- Dverg of the Nordic Alfar
+- Dwarf Star Dragon Planeter
+- Dweller in the Depths
+- Dwimmered Glimmer
+- Dyna, Hero Fur Hire
+- E - Emergency Call
+- Eagle Eye
+- Eagle Shark
+- Earth Armor Ninja
+- Earth Chant
+- Earth Effigy
+- Earthbound Immortal Revival
+- Earthbound Immortal Wiraqocha Rasca
+- Earthbound Spirit
+- Earthbound Wave
+- Earthquake
+- Earthquake Giant
+- Earthshaker
+- Eater of Millions
+- Eatgaboon
+- Ebon Arrow
+- Ebon Magician Curran
+- Echo Oscillation
+- Eco, Mystical Spirit of the Forest
+- Ectoplasmer
+- Edge Hammer
+- Edge Imp Chain
+- Edge Imp Cotton Eater
+- Edge Imp Frightfuloid
+- Edge Imp Sabres
+- Edge Imp Saw
+- Edge Imp Scythe
+- Edge of the Ring
+- Effect Veiler
+- Ego Boost
+- Ehren, Lightsworn Monk
+- Eisbahn
+- Ekibyo Drakmord
+- El Shaddoll Anoyatyllis
+- El Shaddoll Fusion
+- El Shaddoll Wendigo
+- Elborz, the Sacred Lands of Simorgh
+- Elder of the Six Samurai
+- Electric Lizard
+- Electric Snake
+- Electric Virus
+- Electro-Whip
+- Electromagnetic Bagworm
+- Electromagnetic Turtle
+- Elegant Egotist
+- Elegy the Melodious Diva
+- Element Doom
+- Element Dragon
+- Element Magician
+- Element Saurus
+- Element Soldier
+- Element Valkyrie
+- Elemental Absorber
+- Elemental Burst
+- Elemental HERO Absolute Zero
+- Elemental HERO Avian
+- Elemental HERO Bladedge
+- Elemental HERO Blazeman
+- Elemental HERO Bubbleman
+- Elemental HERO Burstinatrix
+- Elemental HERO Captain Gold
+- Elemental HERO Clayman
+- Elemental HERO Darkbright
+- Elemental HERO Divine Neos
+- Elemental HERO Electrum
+- Elemental HERO Escuridao
+- Elemental HERO Flame Wingman
+- Elemental HERO Flare Neos
+- Elemental HERO Flash
+- Elemental HERO Gaia
+- Elemental HERO Great Tornado
+- Elemental HERO Heat
+- Elemental HERO Ice Edge
+- Elemental HERO Lady Heat
+- Elemental HERO Marine Neos
+- Elemental HERO Mariner
+- Elemental HERO Mudballman
+- Elemental HERO Necroid Shaman
+- Elemental HERO Necroshade
+- Elemental HERO Neo Bubbleman
+- Elemental HERO Neos
+- Elemental HERO Neos Alius
+- Elemental HERO Ocean
+- Elemental HERO Plasma Vice
+- Elemental HERO Prisma
+- Elemental HERO Shadow Mist
+- Elemental HERO Sparkman
+- Elemental HERO Storm Neos
+- Elemental HERO Stratos
+- Elemental HERO Thunder Giant
+- Elemental HERO Voltic
+- Elemental HERO Wild Wingman
+- Elemental HERO Wildedge
+- Elemental HERO Wildheart
+- Elemental HERO Woodsman
+- Elemental Recharge
+- Elementsaber Aina
+- Elementsaber Malo
+- Elephant Statue of Blessing
+- Elephant Statue of Disaster
+- Elephun
+- Eliminating the League
+- Emblem of Dragon Destroyer
+- Emblem of the Awakening
+- Embodiment of Apophis
+- Emergency Assistance
+- Emergency Provisions
+- Emergeroid Call
+- Emerging Emergency Rescute Rescue
+- Emissary from Pandemonium
+- Emissary of the Afterlife
+- Emissary of the Oasis
+- Emperor Maju Garzett
+- Emperor Sem
+- Empowerment
+- Empress Judge
+- Empress Mantis
+- Empress of Prophecy
+- Enchanted Javelin
+- Enchanting Fitting Room
+- Enchanting Mermaid
+- End of the World
+- Endless Decay
+- Endless Traps
+- Endymion's Lab
+- Endymion, the Master Magician
+- Enemy Controller
+- Energy Bravery
+- Energy Drain
+- Engraver of the Mark
+- Enishi, Shien's Chancellor
+- Enlightenment
+- Enraged Battle Ox
+- Enraged Muka Muka
+- Equip Shot
+- Eradicating Aerosol
+- Eradicator Epidemic Virus
+- Eria the Water Charmer
+- Escalation of the Monarchs
+- Escape from the Dark Dimension
+- Escape of the Unchained
+- Escher the Frost Vassal
+- ESP Amplifier
+- Esper Girl
+- Eternal Dread
+- Eternal Drought
+- Eternal Galaxy
+- Eternal Rest
+- Etoile Cyber
+- Euler's Circuit
+- Everliving Underworld Cannon
+- Evil Eye Confrontation
+- Evil Eye of Gorgoneio
+- Evil Eye Reemergence
+- Evil HERO Dark Gaia
+- Evil HERO Infernal Gainer
+- Evil HERO Infernal Prodigy
+- Evil HERO Malicious Edge
+- Evil HERO Malicious Fiend
+- Evil Thorn
+- Evilswarm Azzathoth
+- Evilswarm Heliotrope
+- Evilswarm Mandragora
+- Evilswarm Nightmare
+- Evilswarm O'lantern
+- Evilswarm Obliviwisp
+- Evilswarm Salamandra
+- Evilswarm Thanatos
+- Evilswarm Thunderbird
+- Evilswarm Zahak
+- Evo-Branch
+- Evo-Karma
+- Evo-Miracle
+- Evo-Singularity
+- Evocator Chevalier
+- Evolsaur Darwino
+- Evolsaur Elias
+- Evolsaur Terias
+- Evoltile Gephyro
+- Evoltile Lagosucho
+- Evoltile Megachirella
+- Evoltile Odonto
+- Evoltile Pleuro
+- Evolution Burst
+- Evolutionary Bridge
+- Exarion Universe
+- Exchange
+- Exchange of Night and Day
+- Exchange of the Spirit
+- Execute Protocols
+- Execution of the Contract
+- Exhausting Spell
+- Exile of the Wicked
+- Exiled Force
+- Exodia Necross
+- Exodius the Ultimate Forbidden Lord
+- Exploder Dragon
+- Exploderokket Dragon
+- Explosive Magician
+- Explosive Urchin
+- Explossum
+- Express Train Trolley Olley
+- Expressroid
+- Exterio's Fang
+- Extinction on Schedule
+- Extra Buck
+- Extra Net
+- Extra Veiler
+- Extraceratops
+- F.A. Auto Navigator
+- F.A. Circuit Grand Prix
+- F.A. City Grand Prix
+- F.A. Dark Dragster
+- F.A. Dead Heat
+- F.A. Downforce
+- F.A. Hang On Mach
+- F.A. Motorhome Transport
+- F.A. Off-Road Grand Prix
+- F.A. Overheat
+- F.A. Pit Stop
+- F.A. Shining Star GT
+- F.A. Sonic Meister
+- F.A. Test Run
+- F.A. Turbo Charger
+- F.A. Whip Crosser
+- F.A. Winners
+- Fabled Ashenveil
+- Fabled Dyf
+- Fabled Grimro
+- Fabled Krus
+- Fabled Kushano
+- Fabled Lurrie
+- Fabled Marcosia
+- Fabled Miztoji
+- Fabled Oltro
+- Fabled Ragin
+- Fabled Raven
+- Fabled Topi
+- Fabled Treason
+- Fabled Urustos
+- Factory of 100 Machines
+- Fairy Archer
+- Fairy Archer Ingunar
+- Fairy Box
+- Fairy Dragon
+- Fairy Guardian
+- Fairy Meteor Crush
+- Fairy of the Spring
+- Fairy Tail - Luna
+- Fairy Tail - Rella
+- Fairy Tail - Sleeper
+- Fairy Wind
+- Fairy's Gift
+- Fairy's Hand Mirror
+- Faith Bird
+- Fake Explosion
+- Fake Feather
+- Fake Hero
+- Fake Trap
+- Falchion Beta
+- Fallen Angel of Roses
+- Fallen Paradise
+- Falling Current
+- Falling Down
+- Familiar Knight
+- Familiar-Possessed - Aussa
+- Familiar-Possessed - Dharc
+- Familiar-Possessed - Eria
+- Familiar-Possessed - Hiita
+- Familiar-Possessed - Lyna
+- Familiar-Possessed - Wynn
+- Fandora, the Flying Furtress
+- Farfa, Malebranche of the Burning Abyss
+- Fatal Abacus
+- Faustian Bargain
+- Fear from the Dark
+- Feast of the Wild LV5
+- Feather Shot
+- Feather Wind
+- Feedback Warrior
+- Feedran, the Winds of Mischief
+- Felgrand Dragon
+- Felis, Lightsworn Archer
+- Fencing Fire Ferret
+- Fengli the Soldrapom
+- Fengsheng Mirror
+- Fenrir
+- Feral Imp
+- Ferret Flames
+- Field Barrier
+- Field-Commander Rahz
+- Fiend Comedian
+- Fiend Griefing
+- Fiend Reflection #2
+- Fiend Scorpion
+- Fiend Skull Dragon
+- Fiend's Hand Mirror
+- Fiend's Sanctuary
+- Fiendish Chain
+- Fiendish Engine Omega
+- Fiendish Rhino Warrior
+- Fiery Fervor
+- Fighting Dirty
+- Fighting Spirit
+- Final Attack Orders
+- Final Destiny
+- Final Draw
+- Final Flame
+- Final Fusion
+- Final Gesture
+- Final Psychic Ogre
+- Final Ritual of the Ancients
+- Fine
+- Finite Cards
+- Fire Ant Ascator
+- Fire Cracker
+- Fire Darts
+- Fire Fighting Daruma Doll
+- Fire Formation - Kaiyo
+- Fire Formation - Tenken
+- Fire Formation - Tensen
+- Fire Formation - Tensu
+- Fire Hand
+- Fire King Avatar Barong
+- Fire King Avatar Garunix
+- Fire King Avatar Kirin
+- Fire King Island
+- Fire Kraken
+- Fire Princess
+- Fire Prison
+- Fire Reaper
+- Fire Sorcerer
+- Fire Trooper
+- Firebird
+- Firegrass
+- Fires of Doomsday
+- Firestorm Prominence
+- Firewall Guardian
+- Fireyarou
+- First of the Dragons
+- First Step Towards Infestation
+- First-Aid Squad
+- Fish and Kicks
+- Fish Depth Charge
+- Fish Rain
+- Fishborg Archer
+- Fishborg Doctor
+- Fishborg Launcher
+- Fishborg Planter
+- Fissure
+- Fists of the Unrivaled Tenyi
+- Five Brothers Explosion
+- Five-Headed Dragon
+- Flame Administrator
+- Flame Armor Ninja
+- Flame Bufferlo
+- Flame Cerebrus
+- Flame Champion
+- Flame Dancer
+- Flame Manipulator
+- Flame Ogre
+- Flame Ruler
+- Flame Swordsman
+- Flame Tiger
+- Flame Viper
+- Flamvell Archer
+- Flamvell Baby
+- Flamvell Counter
+- Flamvell Dragnov
+- Flamvell Fiend
+- Flamvell Firedog
+- Flamvell Grunika
+- Flamvell Guard
+- Flamvell Magician
+- Flamvell Poun
+- Flare Resonator
+- Flash Assailant
+- Flash Fusion
+- Flash Knight
+- Flashbang
+- Flawless Perfection of the Tenyi
+- Flelf
+- Fleur Synchron
+- Flick Clown
+- Flight of the Harpies
+- Flint
+- Flint Lock
+- Flint Missile
+- Flip Flop Frog
+- Flip Frozen
+- Floodgate Trap Hole
+- Floowandereeze & Stri
+- Floowandereeze & Toccan
+- Flourishing Frolic
+- Flower Cardian Cherry Blossom with Curtain
+- Flower Cardian Clover with Boar
+- Flower Cardian Maple with Deer
+- Flower Cardian Moonflowerviewing
+- Flower Cardian Paulownia
+- Flower Cardian Paulownia with Phoenix
+- Flower Cardian Peony with Butterfly
+- Flower Cardian Pine
+- Flower Cardian Pine with Crane
+- Flower Cardian Willow
+- Flower Cardian Willow with Calligrapher
+- Flower Cardian Zebra Grass
+- Flower Cardian Zebra Grass with Moon
+- Flower Gathering
+- Flower Stacking
+- Fluffal Bear
+- Fluffal Cat
+- Fluffal Crane
+- Fluffal Dolphin
+- Fluffal Leo
+- Fluffal Rabbit
+- Fluffal Sheep
+- Fluffal Wings
+- Flyfang
+- Flying "C"
+- Flying Fish
+- Flying Kamakiri #1
+- Flying Kamakiri #2
+- Flying Pegasus Railroad Stampede
+- Flying Penguin
+- Flying Red Carp
+- Flying Saucer Muusik'i
+- Fog Control
+- Follow Wind
+- Follow Wing
+- Foolish Burial Goods
+- Foolish Revival
+- Forbidden Apocrypha
+- Forbidden Arts of the Gishki
+- Forbidden Chalice
+- Forbidden Dark Contract with the Swamp King
+- Forbidden Dress
+- Forbidden Lance
+- Forbidden Scripture
+- Force Resonator
+- Forced Requisition
+- Forest
+- Forge of the True Dracos
+- Forgotten Temple of the Deep
+- Form Change
+- Formation Union
+- Formud Skipper
+- Formula Synchron
+- Fortissimo
+- Fortissimo the Mobile Fortress
+- Fortress Warrior
+- Fortress Whale
+- Fortress Whale's Oath
+- Fortune Lady Dark
+- Fortune Lady Earth
+- Fortune Lady Fire
+- Fortune Lady Water
+- Fortune Lady Wind
+- Fossil Dig
+- Fossil Dyna Pachycephalo
+- Fossil Excavation
+- Foucault's Cannon
+- Fox Fire
+- Fragment Fusion
+- Fragrance Storm
+- Fraud Freeze
+- Free-Range Monsters
+- Freed the Brave Wanderer
+- Freed the Matchless General
+- Freezing Beast
+- Freezing Chains of the Ice Barrier
+- Frenzied Panda
+- Frequency Magician
+- Freya, Spirit of Victory
+- Frightfur Bear
+- Frightfur Chimera
+- Frightfur Cruel Whale
+- Frightfur Factory
+- Frightfur Fusion
+- Frightfur Jar
+- Frightfur Leo
+- Frightfur March
+- Frightfur Repair
+- Frightfur Sanctuary
+- Frightfur Sheep
+- Friller Rabca
+- Frontier Wiseman
+- Frontline Base
+- Frostosaurus
+- Frozen Soul
+- Fruits of Kozaky's Studies
+- Fuh-Rin-Ka-Zan
+- Fuhma Shuriken
+- Fuhma Wave
+- Fukubiki
+- Fulfillment of the Contract
+- Full Force Virus
+- Full Salvo
+- Full-Force Strike
+- Fury of Fire
+- Fury of Kairyu-Shin
+- Fury of Thunder
+- Fushi No Tori
+- Fusilier Dragon, the Dual-Mode Beast
+- Fusion Fright Waltz
+- Fusion Gate
+- Fusion of Fire
+- Fusion Party!
+- Fusion Recovery
+- Fusion Recycling Plant
+- Fusion Reserve
+- Fusion Sage
+- Fusion Substitute
+- Fusion Sword Murasame Blade
+- Fusion Tag
+- Fusion Weapon
+- Fusionist
+- Future Fusion
+- Future Glow
+- Future Samurai
+- Future Visions
+- G.B. Hunter
+- Gaap the Divine Soldier
+- Gadget Arms
+- Gadget Driver
+- Gadget Hauler
+- Gadget Soldier
+- Gagaga Child
+- Gagaga Gardna
+- Gagaga Girl
+- Gagaga Magician
+- Gagaga Samurai
+- Gagagabolt
+- Gagagarevenge
+- Gagagarush
+- Gagagashield
+- Gagagatag
+- Gagagawind
+- Gagagigo
+- Gaia Knight, the Force of Earth
+- Gaia Power
+- Gaia Soul the Combustible Collective
+- Gaia the Dragon Champion
+- Gaia The Fierce Knight
+- Gaia the Magical Knight
+- Gaia, the Mid-Knight Sun
+- Gaia, the Polar Knight
+- Gaiarmor Dragonshell
+- Galactic Charity
+- Galactic Spiral Dragon
+- Galaxy Brave
+- Galaxy Cleric
+- Galaxy Cyclone
+- Galaxy Dragon
+- Galaxy Mirror Sage
+- Galaxy Queen's Light
+- Galaxy Serpent
+- Galaxy Storm
+- Galaxy Trance
+- Galaxy Wave
+- Galaxy Wizard
+- Galaxy Worm
+- Galaxy Zero
+- Galaxy-Eyes Photon Dragon
+- Gale Dogra
+- Gale Lizard
+- Gallis the Star Beast
+- Galloping Gaia
+- Gamble
+- Gambler of Legend
+- Gamma the Magnet Warrior
+- Gamushara
+- Ganbara Knight
+- Ganbara Lancer
+- Gandora the Dragon of Destruction
+- Garbage Collector
+- Garbage Lord
+- Garbage Ogre
+- Garma Sword Oath
+- Garmr of the Nordic Beasts
+- Garoozis
+- Garoth, Lightsworn Warrior
+- Garuda the Wind Spirit
+- Garum the Storm Vassal
+- Gatchiri @Ignister
+- Gate Blocker
+- Gate Guardian
+- Gatekeeper
+- Gateway Dragon
+- Gateway to Dark World
+- Gather Your Mind
+- Gatling Dragon
+- Gauntlet Warrior
+- Gazelle the King of Mythical Beasts
+- Gazer Shark
+- Gear Gigant X
+- Gear Golem the Moving Fortress
+- Gearfried the Iron Knight
+- Gearfried the Swordmaster
+- Geargia Change
+- Geargiaccelerator
+- Geargiagear
+- Geargianchor
+- Geargiano
+- Geargiano Mk-II
+- Geargiarmor
+- Geargiarsenal
+- Geargiauger
+- Gearspring Spirit
+- Geartown
+- Gellenduo
+- Gem Flash Energy
+- Gem-Elephant
+- Gem-Knight Amber
+- Gem-Knight Fusion
+- Gem-Knight Garnet
+- Gem-Knight Iolite
+- Gem-Knight Lapis
+- Gem-Knight Lazuli
+- Gem-Knight Obsidian
+- Gem-Knight Pearl
+- Gem-Knight Sapphire
+- Gem-Knight Sardonyx
+- Gem-Knight Seraphinite
+- Gem-Knight Tourmaline
+- Gem-Merchant
+- Gem-Turtle
+- Gemini Booster
+- Gemini Counter
+- Gemini Elf
+- Gemini Imps
+- Gemini Lancer
+- Gemini Soldier
+- Gemini Spark
+- Gemini Summoner
+- Gemini Trap Hole
+- Geminize Lord Golknight
+- Gendo the Ascetic Monk
+- Gene-Warped Warwolf
+- General Gantala of the Ice Barrier
+- General Grunard of the Ice Barrier
+- General Raiho of the Ice Barrier
+- General Wayne of the Ice Barrier
+- Generation Force
+- Generation Shift
+- Genesis Dragon
+- Genetic Woman
+- Genex Ally Changer
+- Genex Ally Chemistrer
+- Genex Ally Crusher
+- Genex Ally Solid
+- Genex Ally Volcannon
+- Genex Blastfan
+- Genex Controller
+- Genex Doctor
+- Genex Gaia
+- Genex Neutron
+- Genex Power Planner
+- Genex Recycled
+- Genex Searcher
+- Genex Spare
+- Genex Undine
+- Genex Worker
+- Gentlemander
+- Geomancer of the Ice Barrier
+- Geonator Transverser
+- Gergonne's End
+- Germ Infection
+- Gernia
+- Get Your Game On!
+- Getsu Fuhma
+- Ghost Beef
+- Ghost Gardna
+- Ghost Knight of Jackal
+- Ghost Meets Girl - A Mayakashi's Manuscript
+- Ghostrick Doll
+- Ghostrick Fairy
+- Ghostrick Jackfrost
+- Ghostrick Jiangshi
+- Ghostrick Mansion
+- Ghostrick Mummy
+- Ghostrick Museum
+- Ghostrick Nekomusume
+- Ghostrick Night
+- Ghostrick Parade
+- Ghostrick Renovation
+- Ghostrick Scare
+- Ghostrick Skeleton
+- Ghostrick Specter
+- Ghostrick Stein
+- Ghostrick Vanish
+- Ghostrick Warwolf
+- Ghostrick Witch
+- Ghostrick Yeti
+- Ghostrick Yuki-onna
+- Ghosts From the Past
+- Giant Axe Mummy
+- Giant Ballpark
+- Giant Flea
+- Giant Germ
+- Giant Kozaky
+- Giant Mech-Soldier
+- Giant Orc
+- Giant Rat
+- Giant Soldier of Stone
+- Giant Starfall
+- Giant Trap Hole
+- Giant Turtle Who Feeds on Flames
+- Gift Card
+- Gift Exchange
+- Gift of the Martyr
+- Gift of the Mystical Elf
+- Giga Gagagigo
+- Giga-Tech Wolf
+- Gigantes
+- Gigantic Cephalotus
+- Giganto
+- Gigastone Omega
+- Gigathunder Giclops
+- Gigobyte
+- Gil Garth
+- Gilasaurus
+- Gilford the Legend
+- Gilford the Lightning
+- Gillagillancer
+- Giltia the D. Knight
+- Gimmick Puppet Des Troy
+- Gimmick Puppet Dreary Doll
+- Gimmick Puppet Humpty Dumpty
+- Gimmick Puppet Magnet Doll
+- Girochin Kuwagata
+- Gishki Abyss
+- Gishki Aquamirror
+- Gishki Ariel
+- Gishki Avance
+- Gishki Beast
+- Gishki Mollusk
+- Gishki Photomirror
+- Gishki Reliever
+- Gishki Shadow
+- Gishki Vanity
+- Gishki Vision
+- Gizmek Makami, the Ferocious Fanged Fortress
+- Gizmek Orochi, the Serpentron Sky Slasher
+- Gizmek Uka, the Festive Fox of Fecundity
+- Glacier Aqua Madoor
+- Gladiator Beast Andal
+- Gladiator Beast Attorix
+- Gladiator Beast Bestiari
+- Gladiator Beast Charge
+- Gladiator Beast Darius
+- Gladiator Beast Dimacari
+- Gladiator Beast Dragases
+- Gladiator Beast Equeste
+- Gladiator Beast Heraklinos
+- Gladiator Beast Hoplomus
+- Gladiator Beast Lanista
+- Gladiator Beast Laquari
+- Gladiator Beast Murmillo
+- Gladiator Beast Sagittarii
+- Gladiator Beast Samnite
+- Gladiator Beast Secutor
+- Gladiator Beast Tygerius
+- Gladiator Beast United
+- Gladiator Beast Vespasius
+- Gladiator Beast War Chariot
+- Gladiator Beast's Battle Archfiend Shield
+- Gladiator Beast's Battle Gladius
+- Gladiator Beast's Battle Halberd
+- Gladiator Beast's Comeback
+- Gladiator Beast's Respite
+- Gladiator Lash
+- Gladiator Naumachia
+- Gladiator Proving Ground
+- Gladiator's Return
+- Gleipnir, the Fetters of Fenrir
+- Glorious Illusion
+- Glowing Crossbow
+- Gluttonous Reptolphin Greethys
+- Goblin Attack Force
+- Goblin Calligrapher
+- Goblin Circus
+- Goblin Decoy Squad
+- Goblin Elite Attack Force
+- Goblin Fan
+- Goblin King
+- Goblin Marauding Squad
+- Goblin of Greed
+- Goblin Out of the Frying Pan
+- Goblin Pothole Squad
+- Goblin Recon Squad
+- Goblin Thief
+- Goblin Zombie
+- Goblin's Secret Remedy
+- Goblindbergh
+- Goddess Bow
+- Goddess of Whim
+- Goddess with the Third Eye
+- Goe Goe the Gallant Ninja
+- Goggle Golem
+- Gogiga Gagagigo
+- Gogogo Aristera & Dexia
+- Gogogo Ghost
+- Gogogo Giant
+- Gogogo Golem
+- Gogogo Golem - Golden Form
+- Gogogo Goram
+- Gogogo Talisman
+- Goka, the Pyre of Malice
+- Gokipole
+- Gokipon
+- Goldd, Wu-Lord of Dark World
+- Golden Bamboo Sword
+- Golden Dragon Summoner
+- Golden Flying Fish
+- Golden Gearbox
+- Golden Homunculus
+- Golden Ladybug
+- Goldenhair, the Newest Plunder Patroll
+- Goldilocks the Battle Landscaper
+- Golem Dragon
+- Golem Sentry
+- Gonogo
+- Good Goblin Housekeeping
+- Googly-Eyes Drum Dragon
+- Gora Turtle
+- Gora Turtle of Illusion
+- Gorgon's Eye
+- Gorgonic Cerberus
+- Gorgonic Gargoyle
+- Gorgonic Ghoul
+- Gorgonic Golem
+- Gorgonic Guardian
+- Gotterdammerung
+- Gottoms' Emergency Call
+- Gouki Bearhug
+- Gouki Destroy Ogre
+- Gouki Face Turn
+- Gouki Finishing Move
+- Gouki Guts
+- Gouki Headbatt
+- Gouki Heel Ogre
+- Gouki Iron Claw
+- Gouki Moonsault
+- Gouki Octostretch
+- Gouki Re-Match
+- Gouki Ringtrainer
+- Gouki Riscorpio
+- Gouki Suprex
+- Gouki Tagpartner
+- Gouki The Blade Ogre
+- Gouki The Giant Ogre
+- Gouki The Great Ogre
+- Gouki The Powerload Ogre
+- Gouki The Solid Ogre
+- Gouki Thunder Ogre
+- Gouki Twistcobra
+- Goyo Defender
+- Gozen Match
+- Gozuki
+- Graceful Dice
+- Graceful Revival
+- Graceful Tear
+- Gradius
+- Gradius' Option
+- Gragonith, Lightsworn Dragon
+- Granadora
+- Grand Convergence
+- Grand Horn of Heaven
+- Grand Tiki Elder
+- Grandmaster of the Six Samurai
+- Grandram
+- Granmarg the Rock Monarch
+- Grappler Angler
+- Grass Phantom
+- Grave Lure
+- Grave of the Super Ancient Organism
+- Grave Protector
+- Grave Squirmer
+- Gravekeeper's Ambusher
+- Gravekeeper's Assailant
+- Gravekeeper's Cannonholder
+- Gravekeeper's Chief
+- Gravekeeper's Commandant
+- Gravekeeper's Curse
+- Gravekeeper's Descendant
+- Gravekeeper's Guard
+- Gravekeeper's Headman
+- Gravekeeper's Lot
+- Gravekeeper's Oracle
+- Gravekeeper's Priestess
+- Gravekeeper's Recruiter
+- Gravekeeper's Servant
+- Gravekeeper's Shaman
+- Gravekeeper's Spear Soldier
+- Gravekeeper's Spiritualist
+- Gravekeeper's Spy
+- Gravekeeper's Stele
+- Gravekeeper's Supernaturalist
+- Gravekeeper's Vassal
+- Gravekeeper's Visionary
+- Gravekeeper's Watcher
+- Gravelstorm
+- Graverobber
+- Graverobber's Retribution
+- Gravi-Crush Dragon
+- Gravitic Orb
+- Gravity Axe - Grarl
+- Gravity Bind
+- Gravity Blaster
+- Gravity Collapse
+- Gravity Controller
+- Gravity Lash
+- Gray Wing
+- Graydle Alligator
+- Graydle Cobra
+- Graydle Combat
+- Graydle Eagle
+- Graydle Impact
+- Graydle Slime Jr.
+- Graydle Split
+- Great Angus
+- Great Long Nose
+- Great Maju Garzett
+- Great Mammoth of Goldfine
+- Great Moth
+- Great Phantom Thief
+- Great Shogun Shien
+- Great Spirit
+- Great White
+- Green Baboon, Defender of the Forest
+- Green Duston
+- Green Gadget
+- Green Phantom King
+- Green Turtle Summoner
+- Greenkappa
+- Gren Maju Da Eiza
+- Gren, Tactician of Dark World
+- Grenosaurus
+- Grid Rod
+- Grid Sweeper
+- Griffore
+- Griggle
+- Grit
+- Ground Attacker Bugroth
+- Ground Collapse
+- Ground Spider
+- Gruesome Goo
+- Gryphon Wing
+- Gryphon's Feather Duster
+- Guard Dog
+- Guard Ghost
+- Guard Mines
+- Guard Penalty
+- Guarded Treasure
+- Guardian Angel Joan
+- Guardian Baou
+- Guardian Ceal
+- Guardian Dreadscythe
+- Guardian Eatos
+- Guardian Elma
+- Guardian Grarl
+- Guardian Kay'est
+- Guardian of Felgrand
+- Guardian of the Labyrinth
+- Guardian of the Throne Room
+- Guardian Sphinx
+- Guardian Statue
+- Guardian Tryce
+- Guardians of the Tomb
+- Guardragon Andrake
+- Guardragon Cataclysm
+- Guardragon Corewakening
+- Guardragon Garmides
+- Guardragon Justicia
+- Guardragon Promineses
+- Guardragon Reincarnation
+- Guardragon Shield
+- Guiding Ariadne
+- Guiding Light
+- Guitar Gurnards Duonigis
+- Guldfaxe of the Nordic Beasts
+- Gundari
+- Gunkan Suship Daily Special
+- Gunkan Suship Ikura
+- Gunkan Suship Ikura-class Dreadnought
+- Gunkan Suship Shari
+- Gunkan Suship Shirauo
+- Gunkan Suship Shirauo-class Carrier
+- Gunkan Suship Uni
+- Gunkan Sushipyard Seaside Supper Spot
+- Gussari @Ignister
+- Gust
+- Gusto Codor
+- Gusto Egul
+- Gusto Falco
+- Gusto Griffin
+- Gusto Gulldo
+- Gusto Thunbolt
+- Gusto Vedir
+- Gyaku-Gire Panda
+- Gyakutenno Megami
+- Gyroid
+- H - Heated Heart
+- Hack Worm
+- Hade-Hane
+- Half Counter
+- Half or Nothing
+- Half Shut
+- Half Unbreak
+- Halfway to Forever
+- Hamburger Recipe
+- Hammer Shark
+- Hammer Shot
+- Hand Destruction
+- Hand of Nephthys
+- Hand of the Six Samurai
+- Hand-Holding Genie
+- Handcuffs Dragon
+- Handigallop
+- Hane-Hane
+- Hanewata
+- Haniwa
+- Hannibal Necromancer
+- Happy Lover
+- Hard Armor
+- Hard-sellin' Goblin
+- Hard-sellin' Zombie
+- Hardened Armed Dragon
+- Harmonic Oscillation
+- Harmonic Waves
+- Harmonizing Magician
+- Harpie Conductor
+- Harpie Dancer
+- Harpie Girl
+- Harpie Harpist
+- Harpie Lady
+- Harpie Lady 1
+- Harpie Lady 2
+- Harpie Lady 3
+- Harpie Lady Elegance
+- Harpie Lady Phoenix Formation
+- Harpie Lady Sisters
+- Harpie Queen
+- Harpie's Feather Rest
+- Harpie's Feather Storm
+- Harpie's Pet Baby Dragon
+- Harpie's Pet Dragon
+- Harpies' Hunting Ground
+- Harvest Angel of Wisdom
+- Hate Buster
+- Haunted Shrine
+- Hayabusa Knight
+- Hazy Flame Cerbereus
+- Hazy Flame Griffin
+- Hazy Flame Hydra
+- Hazy Flame Hyppogrif
+- Hazy Flame Sphynx
+- Hazy Glory
+- Hazy Pillar
+- Head Judging
+- Headless Knight
+- Healing Wave Generator
+- Heart of Clear Water
+- Heart of the Underdog
+- Heartfelt Appeal
+- Heartless Drop Off
+- Heat Wave
+- Heavenly Dragon Circle
+- Heavy Freight Train Derricrane
+- Heavy Mech Support Armor
+- Heavy Mech Support Platform
+- Heavy Slump
+- Heavy Storm Duster
+- Heavymetalfoes Amalgam
+- Hebo, Lord of the River
+- Hecatrice
+- Hedge Guard
+- Helios - The Primordial Sun
+- Heliosphere Dragon
+- Helmer, Helmsman Fur Hire
+- Helping Robo for Combat
+- Helpoemer
+- Herald of Creation
+- Herald of Green Light
+- Herald of Orange Light
+- Herald of Purple Light
+- Heraldic Beast Aberconway
+- Heraldic Beast Basilisk
+- Heraldic Beast Berners Falcon
+- Heraldic Beast Eale
+- Heraldic Beast Unicorn
+- Heraldry Change
+- Herculean Power
+- Hercules Beetle
+- Heritage of the Light
+- Hermit of Prophecy
+- Hero Barrier
+- Hero Blast
+- Hero Counterattack
+- Hero Flash!!
+- Hero Heart
+- Hero Kid
+- Hero Mask
+- Hero Medal
+- Hero of the East
+- Hero Signal
+- Hero Spirit
+- HERO's Bond
+- Heroic Advance
+- Heroic Challenger - Extra Sword
+- Heroic Challenger - Night Watchman
+- Heroic Challenger - Spartan
+- Heroic Challenger - Swordshield
+- Heroic Challenger - War Hammer
+- Heroic Chance
+- Heroic Gift
+- Heroic Retribution Sword
+- Hexa Spirit of the Ice Barrier
+- Hexatellarknight
+- Hey, Trunade!
+- Hi-Speed Re-Level
+- Hi-Speedroid Chanbara
+- Hi-Speedroid Kendama
+- Hibikime
+- Hidden Armory
+- Hidden Parasite
+- Hidden Spellbook
+- Hidden Springs of the Far East
+- Hidden Temples of Necrovalley
+- Hieracosphinx
+- Hieratic Chant
+- Hieratic Dragon of Eset
+- Hieratic Dragon of Gebeb
+- Hieratic Dragon of Nebthet
+- Hieratic Dragon of Nuit
+- Hieratic Dragon of Su
+- Hieratic Dragon of Tefnuit
+- Hieratic Seal of Supremacy
+- Hieratic Seal of the Dragon King
+- Hieratic Seal of the Sun Dragon Overlord
+- Hieroglyph Lithograph
+- High Tide Gyojin
+- High Tide on Fire Island
+- Hiita the Fire Charmer
+- Hiita the Fire Charmer, Ablaze
+- Hinezumi Hanabi
+- Hinotama
+- Hinotama Soul
+- Hippo Carnival
+- Hippo Token
+- Hiro's Shadow Scout
+- Hitotsu-Me Giant
+- Hiyari @Ignister
+- Holding Arms
+- Holding Legs
+- Homunculus the Alchemic Being
+- Honest
+- Honeybot
+- Hop Ear Squadron
+- Hope for Escape
+- Horn of Light
+- Horn of Olifant
+- Horn of the Phantom Beast
+- Horn of the Unicorn
+- Horseytail
+- Horus the Black Flame Dragon LV4
+- Horus the Black Flame Dragon LV6
+- Horus the Black Flame Dragon LV8
+- Horus' Servant
+- Hoshiningen
+- Hourglass of Courage
+- House Duston
+- House of Adhesive Tape
+- Howl of the Wild
+- Howling Insect
+- Hraesvelgr, the Desperate Doom Eagle
+- Huge Revolution
+- Human-Wave Tactics
+- Humanoid Slime
+- Humanoid Worm Drake
+- Humid Winds
+- Hundred-Footed Horror
+- Hungry Burger
+- Hunter Dragon
+- Hunter of Black Feathers
+- Hunter Owl
+- Hunter Spider
+- Hunting Instinct
+- Hushed Psychic Cleric
+- Hydra Viper
+- Hydro Pressure Cannon
+- Hydrogeddon
+- Hydrotortoise, the Empowered Warrior
+- Hyena
+- Hymn of Light
+- Hyosube
+- Hyozanryu
+- Hyper Hammerhead
+- Hyper Metamorphosis
+- Hyper Psychic Riser
+- Hyper Synchron
+- Hypnocorn
+- Hysteric Fairy
+- Hysteric Party
+- Hysteric Sign
+- I'm Just Gonna Attack!
+- Ibicella Lutea
+- Icarus Attack
+- Ice Hand
+- Ice Master
+- Ice Princess Zereort
+- Icejade Acti
+- Icejade Tinola
+- Icy Breeze Refrain
+- Icy Crevasse
+- Igknight Cavalier
+- Igknight Gallant
+- Igknight Margrave
+- Igknight Paladin
+- Igknight Squire
+- Igknight Veteran
+- Igknights Unite
+- Ignition Beast Volcannon
+- Ignition Phoenix
+- Il Blud
+- Illusion Balloons
+- Illusion Magic
+- Illusionist Faceless Mage
+- Illusionist Faceless Magician
+- Illusory Snatcher
+- Imairuka
+- Immortal Ruler
+- Impcantation Bookstone
+- Impcantation Inception
+- Impcantation Penciplume
+- Impcantation Thanatosis
+- Impenetrable Attack
+- Impenetrable Formation
+- Imperial Custom
+- Imperial Iron Wall
+- Imperial Tombs of Necrovalley
+- Imprisoned Queen Archfiend
+- Inaba White Rabbit
+- Inari Fire
+- Incandescent Ordeal
+- Incarnated Machine Angel
+- Indomitable Fighter Lei Lei
+- Indomitable Gladiator Beast
+- Indulged Darklord
+- Infected Mail
+- Infernal Dragon
+- Infernal Incinerator
+- Infernalqueen Archfiend
+- Infernity Avenger
+- Infernity Barrier
+- Infernity Beast
+- Infernity Beetle
+- Infernity Break
+- Infernity Conjurer
+- Infernity Doom Archfiend
+- Infernity Doom Dragon
+- Infernity Dwarf
+- Infernity Force
+- Infernity Guardian
+- Infernity Necromancer
+- Infernity Paranoia
+- Infernity Patriarch
+- Infernity Randomizer
+- Infernity Reflector
+- Infernity Suppression
+- Infernity Wildcat
+- Inferno
+- Inferno Fire Blast
+- Inferno Reckless Summon
+- Inferno Tempest
+- Infernoble Knight Astolfo
+- Infernoble Knight Captain Oliver
+- Infernoble Knight Captain Roland
+- Infernoble Knight Maugis
+- Infernoble Knight Ogier
+- Infernoble Knight Oliver
+- Infernoid Attondel
+- Infernoid Piaty
+- Infernoid Seitsemas
+- Infernoid Sjette
+- Infestation Infection
+- Infestation Pandemic
+- Infestation Ripples
+- Infestation Terminus
+- Infestation Tool
+- Infinite Cards
+- Infinite Dismissal
+- Infinitrack Brutal Dozer
+- Infinitrack Crab Crane
+- Infinitrack Drag Shovel
+- Infinitrack Tunneller
+- Infinity Dark
+- Influence Dragon
+- Informer Spider
+- Injection Fairy Lily
+- Inner Conflict
+- Inpachi
+- Insect Armor with Laser Cannon
+- Insect Barrier
+- Insect Imitation
+- Insect Knight
+- Insect Neglect
+- Insect Princess
+- Insect Queen
+- Insect Soldiers of the Sky
+- Inspection
+- Inspiration
+- Instant Neo Space
+- Interceptomato
+- Interdimensional Matter Transporter
+- Interdimensional Warp
+- Interplanetary Invader "A"
+- Interplanetarypurplythorny Beast
+- Interplanetarypurplythorny Dragon
+- Interrupt Resistor
+- Into the Darkness Below
+- Intrigue Shield
+- Introduction to Gallantry
+- Invader from Another Dimension
+- Invader of Darkness
+- Invader of the Throne
+- Invasion of Flames
+- Inverse Universe
+- Invigoration
+- Invincibility Barrier
+- Invitation to a Dark Sleep
+- Inzektor Ant
+- Inzektor Centipede
+- Inzektor Dragonfly
+- Inzektor Earwig
+- Inzektor Firefly
+- Inzektor Gauntlet
+- Inzektor Giga-Weevil
+- Inzektor Hornet
+- Inzektor Ladybug
+- Inzektor Picofalena
+- Inzektor Sword - Zektkaliber
+- Iron Blacksmith Kotetsu
+- Iron Call
+- Iron Chain Blaster
+- Iron Chain Coil
+- Iron Chain Snake
+- Iron Core Armor
+- Iron Core Immediate Disposal
+- Iron Core Luster
+- Iron Core of Koa'ki Meiru
+- Iron Draw
+- Ironhammer the Giant
+- Island Turtle
+- Isolde, Belle of the Underworld
+- It's a Toon World!
+- It's Jinzo!
+- It's No Monster, It's a God!
+- Ivy Shackles
+- Jabbing Panda
+- Jack Wyvern
+- Jack's Knight
+- Jack-In-The-Hand
+- Jack-o-Bolan
+- Jackpot 7
+- Jade Insect Whistle
+- Jade Knight
+- Jain, Lightsworn Paladin
+- Jain, Twilightsworn General
+- Jam Breeding Machine
+- Jam Defender
+- Jar of Avarice
+- Jar of Generosity
+- Jar of Greed
+- Jar Robber
+- Jar Turtle
+- Jelly Cannon
+- Jellyfish
+- Jenis, Lightsworn Mender
+- Jerry Beans Man
+- Jester Confit
+- Jester Lord
+- Jetroid
+- Jewels of the Valiant
+- Jigabyte
+- Jigen Bakudan
+- Jinzo
+- Jinzo #7
+- Jinzo - Jector
+- Jinzo - Lord
+- Jinzo - Returner
+- Jirai Gumo
+- Jizukiru, the Star Destroying Kaiju
+- Jowgen the Spiritualist
+- Jowls of Dark Demise
+- Joyous Melffys
+- Judge Man
+- Judge of the Ice Barrier
+- Judgment Dragon
+- Judgment of Anubis
+- Judgment of the Branded
+- Judgment of the Desert
+- Judgment of Thunder
+- Jumbo Drill
+- Junk Barrage
+- Junk Blader
+- Junk Box
+- Junk Breaker
+- Junk Defender
+- Junk Forward
+- Junk Puppet
+- Junk Servant
+- Junk Sleep
+- Junk Synchron
+- Junk Warrior
+- Juragedo
+- Jurassic World
+- Jurrac Aeolo
+- Jurrac Brachis
+- Jurrac Dino
+- Jurrac Gallim
+- Jurrac Guaiba
+- Jurrac Impact
+- Jurrac Monoloph
+- Jurrac Protops
+- Jurrac Ptera
+- Jurrac Spinos
+- Jurrac Stauriko
+- Jurrac Tyrannus
+- Just Desserts
+- Justi-Break
+- Justice of Prophecy
+- Jutte Fighter
+- KA-2 Des Scissors
+- Kabazauls
+- Kagemucha Knight
+- Kagemusha of the Blue Flame
+- Kagemusha of the Six Samurai
+- Kageningen
+- Kagetokage
+- Kahkki, Guerilla of Dark World
+- Kai-Den Kendo Spirit
+- Kaibaman
+- Kaiju Capture Mission
+- Kairyu-Shin
+- Kaiser Dragon
+- Kaiser Glider
+- Kaiser Sea Horse
+- Kaiser Sea Snake
+- Kalantosa, Mystical Beast of the Forest
+- Kaminari Attack
+- Kaminote Blow
+- Kamionwizard
+- Kamui, Hope of Gusto
+- Kangaroo Champ
+- Karakuri Anatomy
+- Karakuri Bonze mdl 9763 "Kunamzan"
+- Karakuri Cash Cache
+- Karakuri Cash Inn
+- Karakuri Gama mdl 4624 "Shirokunishi"
+- Karakuri Gama Oil
+- Karakuri Gold Dust
+- Karakuri Komachi mdl 224 "Ninishi"
+- Karakuri Ninja mdl 7749 "Nanashick"
+- Karakuri Ninja mdl 919 "Kuick"
+- Karakuri Soldier mdl 236 "Nisamu"
+- Karakuri Spider
+- Karakuri Steel Shogun mdl 00X "Bureido"
+- Karakuri Strategist mdl 248 "Nishipachi"
+- Karakuri Trick House
+- Karakuri Watchdog mdl 313 "Saizan"
+- Karate Man
+- Karbonala Warrior
+- Karma Cut
+- Karma of the Destruction Swordsman
+- Kasha
+- Kayenn, the Master Magma Blacksmith
+- Kazejin
+- Keeper of the Shrine
+- Kelbek
+- Keldo
+- Key Mace
+- Key Man the Key Warrior
+- Key Mouse
+- Kidmodo Dragon
+- Kikinagashi Fucho
+- Killer Needle
+- King Beast Barbaros
+- King Fog
+- King of the Feral Imps
+- King of the Skull Servants
+- King of the Swamp
+- King of Yamimakai
+- King Pyron
+- King Scarlet
+- King Tiger Wanghu
+- King's Knight
+- Kinka-byo
+- Kiryu
+- Kiseitai
+- Kishido Spirit
+- Knight Day Grepher
+- Knight of Armor Dragon
+- Knight of Legend
+- Knight's Title
+- Koa'ki Meiru Boulder
+- Koa'ki Meiru Doom
+- Koa'ki Meiru Drago
+- Koa'ki Meiru Guardian
+- Koa'ki Meiru Hydro Barrier
+- Koa'ki Meiru Initialize!
+- Koa'ki Meiru Sandman
+- Koa'ki Meiru Sea Panther
+- Koa'ki Meiru War Arms
+- Koa'ki Ring
+- Koalo-Koala
+- Koitsu
+- Kojikocy
+- Konohanasakuya
+- Kotodama
+- Koumori Dragon
+- Kozaky
+- Kozmo Delta Shuttle
+- Kozmo Lightsword
+- Kozmoll Wickedwitch
+- Kozmourning
+- Krawler Axon
+- Krawler Dendrite
+- Krawler Glial
+- Krawler Ranvier
+- Krawler Receptor
+- Krawler Spine
+- Krebons
+- Kryuel
+- Kujakujaku
+- Kuji-Kiri Curse
+- Kumootoko
+- Kunai with Chain
+- Kunoichi
+- Kurama
+- Kuraz the Light Monarch
+- Kuribandit
+- Kuriboh
+- Kuribohrn
+- Kuribon
+- Kuriphoton
+- Kurivolt
+- Kuro-Obi Karate Spirit
+- Kuwagata α
+- Kycoo the Ghost Destroyer
+- Kyoutou Waterfront
+- La Jinn the Mystical Genie of the Lamp
+- Labradorite Dragon
+- Labyrinth of Nightmare
+- Labyrinth Tank
+- Labyrinth Wall
+- Lady Assailant of Flames
+- Lady Ninja Yae
+- Lady of D.
+- Lady of Faith
+- Lady Panther
+- Lair of Darkness
+- Lair Wire
+- Lancephorhynchus
+- Lancer Archfiend
+- Lancer Dragonute
+- Lancer Lindwurm
+- Landrobe the Rock Vassal
+- LANphorhynchus
+- Lantern Shark
+- Larvae Moth
+- Larvas
+- Laser Cannon Armor
+- Laser Qlip
+- Last Counter
+- Last Gamble
+- Last Minute Cancel
+- Last Resort
+- Launcher Commander
+- Launcher Spider
+- Laundry Trap
+- Lava Battleguard
+- Lava Dragon
+- Lava Golem
+- Laval Blaster
+- Laval Burner
+- Laval Cannon
+- Laval Dual Slasher
+- Laval Forest Sprite
+- Laval Lakeside Lady
+- Laval Lancelord
+- Laval Magma Cannoneer
+- Laval Phlogis
+- Laval Volcano Handmaiden
+- Lavalval Dragun
+- Layard the Liberator
+- Leeching the Light
+- Left Arm Offering
+- Lefty Driver
+- Legacy of Yata-Garasu
+- Legend of Heart
+- Legendary Atlantean Tridon
+- Legendary Ebon Steed
+- Legendary Fiend
+- Legendary Jujitsu Master
+- Legendary Knight Critias
+- Legendary Knight Hermos
+- Legendary Knight Timaeus
+- Legendary Maju Garzett
+- Legendary Secret of the Six Samurai
+- Legendary Six Samurai - Enishi
+- Legendary Six Samurai - Kizan
+- Legendary Six Samurai - Mizuho
+- Legendary Six Samurai - Shinai
+- Legendary Sword
+- Legendary Wind-Up Key
+- Leghul
+- Legion the Fiend Jester
+- Lekunga
+- Lemuria, the Forgotten City
+- Leng Ling
+- Leo, the Keeper of the Sacred Tree
+- Leodrake's Mane
+- Leogun
+- Leotaur
+- Leotron
+- Lesser Dragon
+- Lesser Fiend
+- Level Conversion Lab
+- Level Down!?
+- Level Lifter
+- Level Limit - Area A
+- Level Limit - Area B
+- Level Modulation
+- Level Retuner
+- Level Tuning
+- Level Up!
+- Level Warrior
+- Levia-Dragon - Daedalus
+- Leviair the Sea Dragon
+- Liberty at Last!
+- Lich Lord, King of the Underworld
+- Life Absorbing Machine
+- Life Stream Dragon
+- Lifeless Leaffish
+- Light and Darkness Dragon
+- Light Barrier
+- Light Dragon @Ignister
+- Light Effigy
+- Light of Destruction
+- Light of Intervention
+- Light of Judgment
+- Light of Redemption
+- Light Spiral
+- Light-Imprisoning Mirror
+- Lighten the Load
+- Lightforce Sword
+- Lightning Blade
+- Lightning Conger
+- Lightning Vortex
+- Lightning, Dragon Ruler of Drafts
+- Lightray Daedalus
+- Lightray Diabolos
+- Lightray Gearfried
+- Lightray Grepher
+- Lightray Madoor
+- Lightsworn Barrier
+- Lightsworn Judgment
+- Lightsworn Sabre
+- Lightwave Tuning
+- Lillybot
+- Limit Code
+- Limit Impulse
+- Limit Overdrive
+- Limit Reverse
+- Limiter Overload
+- Limiter Removal
+- Lindbloom
+- Lineage of Destruction
+- Linear Accelerator Cannon
+- Linear Equation Cannon
+- Link Back
+- Link Bound
+- Link Bumper
+- Link Burst
+- Link Devotee
+- Link Hole
+- Link Infra-Flier
+- Link Party
+- Link Restart
+- Link Spider
+- Link Streamer
+- Link Turret
+- Linkbelt Wall Dragon
+- Linkerbell
+- Linkslayer
+- Linkuriboh
+- Lion Alligator
+- Lionhearted Locomotive
+- Liquid Beast
+- Little Chimera
+- Little D
+- Little Fairy
+- Little Trooper
+- Little-Winguard
+- Living Fossil
+- Lizard Soldier
+- Ljosalf of the Nordic Alfar
+- Localized Tornado
+- Lock Cat
+- Lockout Gardna
+- Loki, Lord of the Aesir
+- Lone Wolf
+- Lonefire Blossom
+- Lord British Space Fighter
+- Lord of D.
+- Lord of the Lamp
+- Lord of the Red
+- Lord Poison
+- Loss Time
+- Lost Blue Breaker
+- Lost Guardian
+- Lost Wind
+- Loud Cloud the Storm Serpent
+- Low Blow
+- Lucius the Shadow Vassal
+- Lucky Chance
+- Lucky Cloud
+- Lucky Iron Axe
+- Lucky Punch
+- Lumenize
+- Lumina, Lightsworn Summoner
+- Luminous Dragon Ritual
+- Luminous Soldier
+- Luminous Spark
+- Luna Light Perfume
+- Luna the Dark Spirit
+- Lunalight Black Sheep
+- Lunalight Blue Cat
+- Lunalight Cat Dancer
+- Lunalight Crimson Fox
+- Lunalight Emerald Bird
+- Lunalight Fusion
+- Lunalight Kaleido Chick
+- Lunalight Leo Dancer
+- Lunalight Panther Dancer
+- Lunalight Purple Butterfly
+- Lunalight Reincarnation Dance
+- Lunalight Sabre Dancer
+- Lunalight Serenade Dance
+- Lunalight White Rabbit
+- Lunalight Wolf
+- Lunalight Yellow Marten
+- Luster Dragon
+- Luster Dragon #2
+- Lycanthrope
+- Lyla, Lightsworn Sorceress
+- Lyna the Light Charmer
+- Lyrilusc - Cobalt Sparrow
+- Lyrilusc - Recital Starling
+- Lyrilusc - Sapphire Swallow
+- Lyrilusc - Turquoise Warbler
+- M-Warrior #1
+- M-Warrior #2
+- Ma'at
+- Machina Armored Unit
+- Machina Cannon
+- Machina Defender
+- Machina Defense Perimeter
+- Machina Force
+- Machina Fortress
+- Machina Gearframe
+- Machina Irradiator
+- Machina Megaform
+- Machina Overdrive
+- Machina Peacekeeper
+- Machina Resavenger
+- Machina Sniper
+- Machina Soldier
+- Machina Unclaspare
+- Machine Angel Absolute Ritual
+- Machine Angel Ritual
+- Machine Assembly Line
+- Machine Conversion Factory
+- Machine Duplication
+- Machine King
+- Machine King - 3000 B.C.
+- Machine King Prototype
+- Machine Lord Ur
+- Mad Archfiend
+- Mad Dog of Darkness
+- Mad Lobster
+- Mad Reloader
+- Mad Sword Beast
+- Madolche Baaple
+- Madolche Butlerusk
+- Madolche Chateau
+- Madolche Chickolates
+- Madolche Cruffssant
+- Madolche Fresh Sistart
+- Madolche Lesson
+- Madolche Marmalmaide
+- Madolche Mewfeuille
+- Madolche Petingcessoeur
+- Madolche Puddingcess
+- Madolche Queen Tiaramisu
+- Madolche Teacher Glassouffle
+- Madolche Ticket
+- Madolche Waltz
+- Maestroke the Symphony Djinn
+- Mage Power
+- Magellanica, the Deep Sea City
+- Magic Cylinder
+- Magic Deflector
+- Magic Drain
+- Magic Formula
+- Magic Hand
+- Magic Hole Golem
+- Magic Jammer
+- Magic Planter
+- Magic Reflector
+- Magic Triangle of the Ice Barrier
+- Magical Abductor
+- Magical Android
+- Magical Arm Shield
+- Magical Blast
+- Magical Broker
+- Magical Citadel of Endymion
+- Magical Cylinders
+- Magical Dimension
+- Magical Exemplar
+- Magical Ghost
+- Magical Hats
+- Magical Hound
+- Magical Labyrinth
+- Magical Mallet
+- Magical Marionette
+- Magical Merchant
+- Magical Musket - Crooked Crown
+- Magical Plant Mandragola
+- Magical Reflect Slime
+- Magical Something
+- Magical Star Illusion
+- Magical Stone Excavation
+- Magical Thorn
+- Magical Undertaker
+- Magicalibra
+- Magicalized Duston Mop
+- Magician of Black Chaos
+- Magician of Faith
+- Magician's Act
+- Magician's Circle
+- Magician's Left Hand
+- Magician's Right Hand
+- Magician's Robe
+- Magician's Rod
+- Magician's Valkyria
+- Magicians Unite
+- Magikey Battle
+- Magikey Duo
+- Magikey Locking
+- Magikey Unlocking
+- Maginificent Magikey Mafteal
+- Magister of Endymion
+- Magma Dragon
+- Magna Drago
+- Magna-Slash Dragon
+- Magnarokket Dragon
+- Magnet Circle LV2
+- Magnet Conversion
+- Magnet Force
+- Magnet Reverse
+- Magnetic Attraction
+- Magnetic Field
+- Magnetic Mosquito
+- Magnificent Machine Angel
+- Magnum Shield
+- Maha Vailo
+- Mahaama the Fairy Dragon
+- Maharaghi
+- Mahjong Munia Maidens
+- Maiden of the Aqua
+- Maiden of the Moonlight
+- Maiden with Eyes of Blue
+- Majespecter Crow - Yata
+- Majespecter Fox - Kyubi
+- Majespecter Gust
+- Majespecter Sonics
+- Majespecter Storm
+- Majespecter Tempest
+- Majestic Absorption
+- Majestic Dragon
+- Majestic Mech - Goryu
+- Majestic Mech - Ohka
+- Majestic Mech - Senku
+- Majesty with Eyes of Blue
+- Maji-Gire Panda
+- Majioshaleon
+- Majiosheldon
+- Major Riot
+- Maju Garzett
+- Makiu, the Magical Mist
+- Makyura the Destructor
+- Malefic Blue-Eyes White Dragon
+- Malefic Cyber End Dragon
+- Malefic Parallel Gear
+- Malefic Red-Eyes Black Dragon
+- Malefic Stardust Dragon
+- Malefic Truth Dragon
+- Malefic World
+- Malevolent Catastrophe
+- Malevolent Mech - Goku En
+- Malevolent Nuzzler
+- Malfunction
+- Malice Ascendant
+- Malice Dispersion
+- Malice Doll of Demise
+- Malicevorous Fork
+- Malicevorous Knife
+- Malicevorous Spoon
+- Mamemaki
+- Mammoth Graveyard
+- Man Beast of Ares
+- Man Eater
+- Man-Eater Bug
+- Man-Eating Black Shark
+- Man-Eating Treasure Chest
+- Man-Thro' Tro'
+- Mandragon
+- Manga Ryu-Ran
+- Manju of the Ten Thousand Hands
+- Manticore of Darkness
+- Mara of the Nordic Alfar
+- Marauding Captain
+- March of the Monarchs
+- March Towards Ragnarok
+- Mare Mare
+- Margin Trading
+- Mariamne, the True Dracophoenix
+- Marincess Basilalima
+- Marincess Battle Ocean
+- Marincess Cascade
+- Marincess Crown Tail
+- Marincess Current
+- Marincess Great Bubble Reef
+- Marincess Mandarin
+- Marincess Sea Angel
+- Marincess Sea Star
+- Marincess Snow
+- Marincess Wonder Heart
+- Marine Beast
+- Marionette Mite
+- Mark of the Rose
+- Marmiting Captain
+- Marshmallon
+- Marshmallon Glasses
+- Maryokutai
+- Masaki the Legendary Swordsman
+- Mask Change
+- Mask Change II
+- Mask Charge
+- Mask of Brutality
+- Mask of Darkness
+- Mask of Dispel
+- Mask of Restrict
+- Mask of the Accursed
+- Mask of Weakness
+- Masked Beast Des Gardius
+- Masked Dragon
+- Masked HERO Anki
+- Masked HERO Dark Law
+- Masked HERO Koga
+- Masked Ninja Ebisu
+- Masked Sorcerer
+- Mass Hypnosis
+- Massivemorph
+- Master & Expert
+- Master Craftsman Gamil
+- Master Gig
+- Master Kyonshee
+- Master of the Flaming Dragonswords
+- Master with Eyes of Blue
+- Master's Diploman
+- Mataza the Zapper
+- Matching Outfits
+- Mathematician
+- Mathmech Diameter
+- Mausoleum of the Emperor
+- Mausoleum of White
+- Mavelus
+- Maximum Six
+- Mayhem Fur Hire
+- Mayosenju Daibak
+- Mecha Bunny
+- Mecha Phantom Beast Blackfalcon
+- Mecha Phantom Beast Coltwing
+- Mecha Phantom Beast Hamstrat
+- Mecha Phantom Beast Harrliard
+- Mecha Phantom Beast Raiten
+- Mecha Phantom Beast Sabre Hawk
+- Mecha Phantom Beast Stealthray
+- Mecha Phantom Beast Tetherwolf
+- Mecha Sea Dragon Plesion
+- Mecha-Dog Marron
+- Mechanical Hound
+- Mechanical Snail
+- Mechanicalchaser
+- Meda Bat
+- Medallion of the Ice Barrier
+- Medium of the Ice Barrier
+- Medium Piece Golem
+- Medusa Worm
+- Mefist the Infernal General
+- Mega Thunderball
+- Mega Ton Magical Cannon
+- Megalith Bethor
+- Megalith Emergence
+- Megalith Hagith
+- Megalith Och
+- Megalith Phaleg
+- Megalith Phul
+- Megalith Portal
+- Megalith Unformed
+- Megalosmasher X
+- Megamorph
+- Megarock Dragon
+- Megaroid City
+- Megasonic Eye
+- Megazowler
+- Megistric Maginician
+- Mei-Kou, Master of Barriers
+- Mekanikal Arkfiend
+- Mekk-Knight Avram
+- Mekk-Knight Green Horizon
+- Mekk-Knight Orange Sunset
+- Meklord Army of Granel
+- Meklord Army of Skiel
+- Meklord Army of Wisel
+- Meklord Astro Dragon Asterisk
+- Meklord Astro Mekanikle
+- Meklord Emperor Granel
+- Meklord Emperor Skiel
+- Meklord Emperor Wisel
+- Meklord Factory
+- Meklord Fortress
+- Mektimed Blast
+- Melchid the Four-Face Beast
+- Melffy Catty
+- Melffy Fenny
+- Melffy Hide-and-Seek
+- Melffy Mommy
+- Melffy Playhouse
+- Melffy Pony
+- Melffy Puppy
+- Melffy Rabby
+- Melffy Tag
+- Melomelody the Brass Djinn
+- Meltiel, Sage of the Sky
+- Memory Crush King
+- Memory Crusher
+- Memory Loss
+- Mental Seeker
+- Meotoko
+- Merciful Machine Angel
+- Mermaid Archer
+- Mermaid Knight
+- Mermail Abysshilde
+- Mermail Abysslung
+- Mermail Abyssnerei
+- Mermail Abyssnose
+- Mermail Abyssocea
+- Mesmeric Control
+- Messenger of Peace
+- Metal Armored Bug
+- Metal Detector
+- Metal Fish
+- Metal Reflect Slime
+- Metalfoes Counter
+- Metalfoes Orichalc
+- Metalfoes Silverd
+- Metalfoes Steelen
+- Metallizing Parasite - Lunatite
+- Metallizing Parasite - Soltite
+- Metalmorph
+- Metalrokket Dragon
+- Metalsilver Armor
+- Metalzoa
+- Metamorphosed Insect Queen
+- Metaphys Armed Dragon
+- Metaphys Ascension
+- Metaphys Decoy Dragon
+- Metaphys Factor
+- Meteor Black Dragon
+- Meteor Dragon
+- Meteor Flare
+- Meteor of Destruction
+- Meteorain
+- Metrognome
+- Mezuki
+- Michael, the Arch-Lightsworn
+- Michizure
+- Micro Ray
+- Mighty Guard
+- Mighty Warrior
+- Mild Turkey
+- Milla the Temporal Magician
+- Millennium Eye (Skill Card)
+- Millennium Golem
+- Millennium Necklace (Skill Card)
+- Millennium Shield
+- Milus Radiant
+- Mimicking Man-Eater Bug
+- Mimiclay
+- Mimikuril
+- Mimimic
+- Mimir of the Nordic Ascendant
+- Minar
+- Mind Crush
+- Mind Drain
+- Mind Haxorz
+- Mind Over Matter
+- Mind Protector
+- Mind Scan (Skill Card)
+- Mind Trust
+- Mind Wipe
+- Mine Golem
+- Mine Mole
+- Minefield Eruption
+- Minefieldriller
+- Minerva, Scholar of the Sky
+- Mini-Guts
+- Miniaturize
+- Miniborrel Dragon
+- Minoan Centaur
+- Minor Goblin Official
+- Mira the Star-Bearer
+- Miracle Dig
+- Miracle Fertilizer
+- Miracle Flipper
+- Miracle Fusion
+- Miracle Jurassic Egg
+- Miracle Kids
+- Miracle Locus
+- Miracle Restoring
+- Miracle Synchro Fusion
+- Miracle's Wake
+- Miraculous Descent
+- Miraculous Rebirth
+- Mirage Dragon
+- Mirage Knight
+- Mirage Tube
+- Mirror Force
+- Mirror Force Dragon
+- Mirror Force Launcher
+- Mirror Gate
+- Mirror Ladybug
+- Mirror Mail
+- Mirror of Oaths
+- Mirror of the Ice Barrier
+- Mirror of Yata
+- Mirror Resonator
+- Mirror Wall
+- Misairuzame
+- Mischief of the Gnomes
+- Misfortune
+- Mispolymerization
+- Missing Force
+- Mist Archfiend
+- Mist Body
+- Mist Condor
+- Mist Valley Baby Roc
+- Mist Valley Executor
+- Mist Valley Falcon
+- Mist Valley Soldier
+- Mist Valley Thunderbird
+- Mist Valley Watcher
+- Mist Valley Windmaster
+- Mistake
+- Mistaken Accusation
+- Mistar Boy
+- Mithra the Thunder Vassal
+- Mixeroid
+- Moai Interceptor Cannons
+- Mobius the Frost Monarch
+- Mobius the Mega Monarch
+- Mogmole
+- Moisture Creature
+- Mokey Mokey
+- Mokey Mokey King
+- Mokey Mokey Smackdown
+- Molten Behemoth
+- Molten Conduction Field
+- Molten Destruction
+- Molten Whirlwind Wall
+- Molten Zombie
+- Molting Escape
+- Monk Fighter
+- Monk of the Tenyi
+- Monoceros
+- Monster Assortment
+- Monster Egg
+- Monster Gate
+- Monster Reborn Reborn
+- Monster Recovery
+- Monster Reincarnation
+- Monster Slots
+- Monster Tamer
+- Montage Dragon
+- Moon Dragon Quilla
+- Moon Envoy
+- Moon Mirror Shield
+- Moonlit Papillon
+- Morale Boost
+- Moray of Greed
+- Mordschlag
+- Morinphen
+- Mormolith
+- Morphing Jar #2
+- Morpho Butterspy
+- Morphtransition
+- Morphtronic Bind
+- Morphtronic Boarden
+- Morphtronic Boomboxen
+- Morphtronic Cameran
+- Morphtronic Celfon
+- Morphtronic Clocken
+- Morphtronic Cord
+- Morphtronic Datatron
+- Morphtronic Engine
+- Morphtronic Forcefield
+- Morphtronic Lantron
+- Morphtronic Magnen
+- Morphtronic Magnen Bar
+- Morphtronic Map
+- Morphtronic Mix-up
+- Morphtronic Monitron
+- Morphtronic Repair Unit
+- Morphtronic Rusty Engine
+- Morphtronic Scopen
+- Morphtronic Slingen
+- Morphtronic Smartfon
+- Morphtronic Staplen
+- Morphtronic Vacuumen
+- Morphtronic Videon
+- Morphtronics, Scramble!
+- Mother Grizzly
+- Moulinglacia the Elemental Lord
+- Mound of the Bound Creator
+- Mountain
+- Mozarta the Melodious Maestra
+- Mr. Volcano
+- Ms. Judge
+- Mucus Yolk
+- Muddy Mudragon
+- Mudora
+- Muka Muka
+- Multiplication of Ants
+- Multiply
+- Murmur of the Forest
+- Musakani Magatama
+- Muscle Medic
+- Mushroom Man
+- Mushroom Man #2
+- Musician King
+- Mustering of the Dark Scorpions
+- Musto, Oracle of Gusto
+- Mutually Affured Destruction
+- Muzurhythm the String Djinn
+- My Body as a Shield
+- Mysterious Guard
+- Mysterious Puppeteer
+- Mysterious Triangle
+- Mystery Shell Dragon
+- Mystic Box
+- Mystic Clown
+- Mystic Horseman
+- Mystic Lamp
+- Mystic Macrocarpa Seed
+- Mystic Plasma Zone
+- Mystic Probe
+- Mystic Swordsman LV2
+- Mystic Swordsman LV4
+- Mystic Swordsman LV6
+- Mystic Tomato
+- Mystical Beast of Serket
+- Mystical Cards of Light
+- Mystical Elf
+- Mystical Moon
+- Mystical Sand
+- Mystical Sheep #1
+- Mystical Sheep #2
+- Mystical Shine Ball
+- Mystical Space Typhoon
+- Mystical Wind Typhoon
+- Mystik Wok
+- Mystrick Hulder
+- Mythic Tree Dragon
+- Mythic Water Dragon
+- Mythical Beast Cerberus
+- Mythical Beast Medusa
+- Mythical Bestiamorph
+- Mythical Bestiary
+- Mythical Institution
+- Myutant Blast
+- Myutant Clash
+- Myutant Cry
+- Myutant Expansion
+- Myutant Fusion
+- Myutant GB-88
+- Nagel's Protection
+- Nanobreaker
+- Narrow Pass
+- Natural Disaster
+- Natural Tune
+- Nature's Reflection
+- Naturia Antjaw
+- Naturia Beans
+- Naturia Beetle
+- Naturia Cosmobeet
+- Naturia Dragonfly
+- Naturia Exterio
+- Naturia Forest
+- Naturia Fruitfly
+- Naturia Hydrangea
+- Naturia Ladybug
+- Naturia Mantis
+- Naturia Marron
+- Naturia Mosquito
+- Naturia Pumpkin
+- Naturia Ragweed
+- Naturia Rock
+- Naturia Spiderfang
+- Naturia Stag Beetle
+- Naturia Stinkbug
+- Naturia Strawberry
+- Naturia Sunflower
+- Naturia Tulip
+- Naturia Vein
+- Nebula Dragon
+- Neck Hunter
+- Necklace of Command
+- Necro Fleur
+- Necro Fusion
+- Necro Gardna
+- Necro Linker
+- Necroface
+- Necrolancer the Time-lord
+- Necroquip Prism
+- Necrovalley
+- Necrovalley Temple
+- Needle Ball
+- Needle Ceiling
+- Needle Soldier
+- Needle Sunfish
+- Needle Wall
+- Needle Worm
+- Needlebug Nest
+- Nefarious Archfiend Eater of Nefariousness
+- Negate Attack
+- Neiroy, the Dream Mirror Disciple
+- Neko Mane King
+- Nekogal #1
+- Nekogal #2
+- Nemeses Adrastea
+- Nemuriko
+- Neo Aqua Madoor
+- Neo Bug
+- Neo Flamvell Garuda
+- Neo Flamvell Lady
+- Neo Flamvell Origin
+- Neo Flamvell Sabre
+- Neo Flamvell Shaman
+- Neo Space
+- Neo Space Connector
+- Neo the Magic Swordsman
+- Neo-Parshath, the Sky Paladin
+- Neo-Spacian Air Hummingbird
+- Neo-Spacian Aqua Dolphin
+- Neo-Spacian Dark Panther
+- Neo-Spacian Flare Scarab
+- Neo-Spacian Glow Moss
+- Neo-Spacian Grand Mole
+- Neo-Spacian Marine Dolphin
+- Neo-Spacian Twinkle Moss
+- Neos Force
+- Nephe Shaddoll Fusion
+- Nettles
+- Neutron Blast
+- Newdoria
+- NEX
+- Next to be Lost
+- Night Beam
+- Night Express Knight
+- Night Flight
+- Night Sword Serpent
+- Night Wing Sorceress
+- Night's End Sorcerer
+- Nightmare Archfiends
+- Nightmare Horse
+- Nightmare Penguin
+- Nightmare Sonic Blast!
+- Nightmare Wheel
+- Nightmare's Steelcage
+- Nimble Angler
+- Nimble Beaver
+- Nimble Manta
+- Nimble Momonga
+- Nin-Ken Dog
+- Nine-Lives Cat
+- Nine-Tailed Fox
+- Ninja Grandmaster Sasuke
+- Ninjitsu Art Notebook
+- Ninjitsu Art of Decoy
+- Ninjitsu Art of Shadow Sealing
+- Ninjitsu Art of Super-Transformation
+- Ninjitsu Art of Transformation
+- Nitro Synchron
+- Nitro Warrior
+- Nitwit Outwit
+- Niwatori
+- No Entry!!
+- No More Mrs. Nice Mai!
+- Noble Arms - Arfeudutyr
+- Noble Arms - Caliburn
+- Noble Arms - Clarent
+- Noble Arms - Gallatin
+- Noble Knight Joan
+- Nobledragon Magician
+- Nobleman of Crossout
+- Nobleman of Extermination
+- Nobleman-Eater Bug
+- Noctovision Dragon
+- Noisy Gnat
+- Nomadic Force
+- Non Aggression Area
+- Non-Fusion Area
+- Non-Spellcasting Area
+- Nopenguin
+- Nordic Relic Brisingamen
+- Nordic Relic Draupnir
+- Nordic Relic Gungnir
+- Nordic Relic Laevateinn
+- Nordic Relic Megingjord
+- Nova Summoner
+- Nubian Guard
+- Number 107: Galaxy-Eyes Tachyon Dragon
+- Number 10: Illumiknight
+- Number 12: Crimson Shadow Armor Ninja
+- Number 17: Leviathan Dragon
+- Number 25: Force Focus
+- Number 29: Mannequin Cat
+- Number 30: Acid Golem of Destruction
+- Number 32: Shark Drake
+- Number 34: Terror-Byte
+- Number 39: Utopia
+- Number 40: Gimmick Puppet of Strings
+- Number 43: Manipulator of Souls
+- Number 48: Shadow Lich
+- Number 51: Finisher the Strong Arm
+- Number 58: Burner Visor
+- Number 59: Crooked Cook
+- Number 62: Galaxy-Eyes Prime Photon Dragon
+- Number 66: Master Key Beetle
+- Number 6: Chronomaly Atlandis
+- Number 73: Abyss Splash
+- Number 78: Number Archive
+- Number 7: Lucky Straight
+- Number 81: Superdreadnought Rail Cannon Super Dora
+- Number 83: Galaxy Queen
+- Number 96: Dark Mist
+- Number 98: Antitopian
+- Number C106: Giant Red Hand
+- Number C39: Utopia Ray
+- Number C39: Utopia Ray V
+- Number C5: Chaos Chimera Dragon
+- Number C73: Abyss Supra Splash
+- Number F0: Utopic Future
+- Numbers Overlay Boost
+- Numbing Grub in the Ice Barrier
+- Numen erat Testudo
+- Numinous Healer
+- Nutrient Z
+- Nuvia the Wicked
+- O - Oversoul
+- Oasis of Dragon Souls
+- Obnoxious Celtic Guard
+- Obsessive Uvualoop
+- Obsidian Dragon
+- Octoberser
+- Ocubeam
+- Odd-Eyes Absolute Dragon
+- Odd-Eyes Advent
+- Odd-Eyes Dragon
+- Odd-Eyes Fusion
+- Odd-Eyes Gravity Dragon
+- Odd-Eyes Meteorburst Dragon
+- Odd-Eyes Mirage Dragon
+- Odd-Eyes Pendulum Dragon
+- Odd-Eyes Persona Dragon
+- Odd-Eyes Phantom Dragon
+- Odd-Eyes Vortex Dragon
+- Odin's Eye
+- Odin, Father of the Aesir
+- Offering to the Immortals
+- Offering to the Snake Deity
+- Offerings to the Doomed
+- Ogre of the Black Shadow
+- Oilman
+- Ojama Black
+- Ojama Blue
+- Ojama Country
+- Ojama Delta Hurricane!!
+- Ojama Duo
+- Ojama Green
+- Ojama King
+- Ojama Knight
+- Ojama Pink
+- Ojama Red
+- Ojama Trio
+- Ojama Yellow
+- Ojamagic
+- Ojamuscle
+- Old Mind
+- Old Vindictive Magician
+- Omega Goggles
+- Ominous Fortunetelling
+- One by One
+- One or Eight
+- One-Eyed Shield Dragon
+- One-Kuri-Way
+- One-Shot Wand
+- One-Time Passcode
+- Oni Tank T-34
+- Oni-Gami Combo
+- Onikuji
+- Onomatopaira
+- Ooguchi
+- Ookazi
+- Oops!
+- Opening of the Spirit Gates
+- Opera the Melodious Diva
+- Oppressed People
+- Opti-Camouflage Armor
+- Opticlops
+- Option Hunter
+- Oracle of the Herald
+- Oracle of the Sun
+- Orb of Yasaka
+- Orbital Bombardment
+- Orbital Hydralander
+- Orcust Knightmare
+- Orcustrated Attack
+- Orcustrated Core
+- Orcustrated Einsatz
+- Orcustrated Release
+- Ordeal of a Traveler
+- Order to Charge
+- Order to Smash
+- Orichalcos Shunoros
+- Oscillo Hero
+- Oshaleon
+- Ostinato
+- Otherworld - The "A" Zone
+- Otohime
+- Otoshidamashi
+- Out of the Blue
+- Outstanding Dog Marron
+- Outstanding Dog Mary
+- Over Destiny
+- Over Limit
+- Overdoom Line
+- Overdrive
+- Overflow Dragon
+- Overlay Booster
+- Overlay Eater
+- Overlay Owl
+- Overlay Regen
+- Overlay Sentinel
+- Overload Fusion
+- Overpowering Eye
+- Overwind
+- Overworked
+- Owner's Seal
+- Oxygeddon
+- Oyster Meister
+- Packet Link
+- Packet Swap
+- Painful Decision
+- Pair Cycroid
+- Pal-O'Mine-zation!
+- Paladin of Felgrand
+- Paladin of Storm Dragon
+- Paladin of the Cursed Dragon
+- Paladin of White Dragon
+- Pale Beast
+- Paleozoic Cambroraster
+- Paleozoic Canadia
+- Paleozoic Dinomischus
+- Paleozoic Eldonia
+- Paleozoic Hallucigenia
+- Paleozoic Leanchoilia
+- Paleozoic Marrella
+- Paleozoic Olenoides
+- Paleozoic Pikaia
+- Pandaborg
+- Pandemonium
+- Pandemonium Watchbear
+- Pandora's Jewelry Box
+- Panther Shark
+- Panther Warrior
+- Panzer Dragon
+- Parallel eXceed
+- Parallel Panzer
+- Parallel Port Armor
+- Parallel World Fusion
+- Paralyzing Potion
+- Parametalfoes Fusion
+- Parametalfoes Melcaster
+- Parasite Paracide
+- Parasite Paranoid
+- Parasitic Ticky
+- Parrot Dragon
+- Parry
+- Parry Knights
+- Parsec, the Interstellar Dragon
+- Parthian Shot
+- Particle Fusion
+- Past Image
+- Patchwork Fluffal
+- Patrician of Darkness
+- Patroid
+- Pazuzule
+- Peacock
+- Peak Performance
+- Peeking Goblin
+- Pegasus Wing
+- Penalty Game!
+- Pendulum Back
+- Pendulum Call
+- Pendulum Dimension
+- Pendulum Encore
+- Pendulum Hole
+- Pendulum Impenetrable
+- Pendulum Machine
+- Pendulum Reborn
+- Pendulum Rising
+- Pendulum Shift
+- Pendulum Storm
+- Pendulum Switch
+- Penguin Brave
+- Penguin Cleric
+- Penguin Knight
+- Penguin Ninja
+- Penguin Soldier
+- Penguin Squire
+- People Running About
+- Perditious Puppeteer
+- Perfectly Ultimate Great Moth
+- Performage Damage Juggler
+- Performage Flame Eater
+- Performage Hat Tricker
+- Performage Mirror Conductor
+- Performage Stilts Launcher
+- Performage Trick Clown
+- Performance Hurricane
+- Performance of Sword
+- Performapal Bit Bite Turtle
+- Performapal Bot-Eyes Lizard
+- Performapal Bowhopper
+- Performapal Bubblebowwow
+- Performapal Call
+- Performapal Camelump
+- Performapal Card Gardna
+- Performapal Changeraffe
+- Performapal Clay Breaker
+- Performapal Corn
+- Performapal Dramatic Theater
+- Performapal Drummerilla
+- Performapal Extra Slinger
+- Performapal Fire Mufflerlion
+- Performapal Fireflux
+- Performapal Flip Hippo
+- Performapal Friendonkey
+- Performapal Gatlinghoul
+- Performapal Gold Fang
+- Performapal Gongato
+- Performapal Handsamuraiger
+- Performapal Handstandaccoon
+- Performapal Hip Hippo
+- Performapal Inflater Tapir
+- Performapal Kaleidoscorp
+- Performapal Lebellman
+- Performapal Life Swordsman
+- Performapal Lizardraw
+- Performapal Odd-Eyes Light Phoenix
+- Performapal Odd-Eyes Unicorn
+- Performapal Partnaga
+- Performapal Pendulum Sorcerer
+- Performapal Pinch Helper
+- Performapal Radish Horse
+- Performapal Rain Goat
+- Performapal Recasting
+- Performapal Revival
+- Performapal Revue Dancer
+- Performapal Salutiger
+- Performapal Seal Eel
+- Performapal Secondonkey
+- Performapal Sellshell Crab
+- Performapal Show Down
+- Performapal Silver Claw
+- Performapal Skeeter Skimmer
+- Performapal Spikeagle
+- Performapal Springoose
+- Performapal Stamp Turtle
+- Performapal Swincobra
+- Performapal Sword Fish
+- Performapal Teeter Totter Hopper
+- Performapal Thunderhino
+- Performapal Trampolynx
+- Performapal Trump Girl
+- Performapal Trump Witch
+- Performapal Trumpanda
+- Performapal Turn Trooper
+- Performapal U Go Golem
+- Performapal Uni
+- Performapal Whip Snake
+- Periallis, Empress of Blossoms
+- Peropero Cerperus
+- Personal Spoofing
+- Pestilence
+- Peten the Dark Clown
+- Petit Angel
+- Petit Dragon
+- Petit Moth
+- Phantasm Emperor Trilojig
+- Phantasm Spiral Assault
+- Phantasm Spiral Crash
+- Phantasm Spiral Grip
+- Phantasm Spiral Power
+- Phantasm Spiral Wave
+- Phantasm Token
+- Phantasmal Martyr Token
+- Phantasmal Martyrs
+- Phantom Beast Cross-Wing
+- Phantom Beast Rock-Lizard
+- Phantom Beast Thunder-Pegasus
+- Phantom Beast Wild-Horn
+- Phantom Bounzer
+- Phantom Cricket
+- Phantom Gryphon
+- Phantom Hand
+- Phantom King Hydride
+- Phantom Knights' Fog Blade
+- Phantom Knights' Spear
+- Phantom Knights' Sword
+- Phantom Knights' Wing
+- Phantom Magician
+- Phantom of Chaos
+- Pharaoh's Servant
+- Pharaoh's Treasure
+- Pharaonic Guardian Sphinx
+- Pharaonic Protector
+- Phoenix Beast Gairuda
+- Phoenix Gearfried
+- Phoenix Wing Wind Blast
+- Phoenixian Seed
+- Photon Caesar
+- Photon Cerberus
+- Photon Change
+- Photon Chargeman
+- Photon Circle
+- Photon Crusher
+- Photon Generator Unit
+- Photon Hand
+- Photon Lead
+- Photon Leo
+- Photon Lizard
+- Photon Papilloperative
+- Photon Sabre Tiger
+- Photon Sanctuary
+- Photon Strike Bounzer
+- Photon Thrasher
+- Photon Trident
+- Photon Vanisher
+- Photon Veil
+- Physical Double
+- Pianissimo
+- Pikeru's Second Sight
+- Pilgrim of the Ice Barrier
+- Pilgrim Reaper
+- Pinch Hopper
+- Pineapple Blast
+- Pinecono
+- Pinpoint Dash
+- Pinpoint Guard
+- Piranha Army
+- Pitch-Black Power Stone
+- Pitch-Black Warwolf
+- Pitch-Dark Dragon
+- Piwraithe the Ghost Pirate
+- Pixie Knight
+- Pixie Ring
+- Plague Wolf
+- Plaguespreader Zombie
+- Planet Pathfinder
+- Plant Food Chain
+- Plasma Ball
+- Playful Possum
+- Poison Chain
+- Poison Draw Frog
+- Poison Fangs
+- Poison Mummy
+- Poison of the Old Man
+- Poisonous Winds
+- Poki Draco
+- Pole Position
+- Pollinosis
+- Poly-Chemicritter Hydragon
+- Polymerization
+- Pop-Up
+- Portable Battery Pack
+- Poseidon Wave
+- Possessed Dark Soul
+- Pot of Avarice
+- Pot of Benevolence
+- Pot of Desires
+- Pot of Dichotomy
+- Pot of Duality
+- Pot of Generosity
+- Pot of Riches
+- Pot of The Forbidden
+- Power Bond
+- Power Break
+- Power Breaker
+- Power Capsule
+- Power Filter
+- Power Frame
+- Power Giant
+- Power Injector
+- Power Invader
+- Power of Dark
+- Power of Friendship
+- Power of Kaishin
+- Power Supplier
+- Power Tool Dragon
+- Power Up!
+- Power Wall
+- Power-Up Adapter
+- Powered Tuner
+- Powerful Rebirth
+- Powersink Stone
+- Pragtical
+- Prank-Kids Rocksies
+- Pre-Preparation of Rites
+- Precious Cards from Beyond
+- Predaplant Banksiogre
+- Predaplant Chlamydosundew
+- Predaplant Cordyceps
+- Predaplant Darlingtonia Cobra
+- Predaplant Dragostapelia
+- Predaplant Drosophyllum Hydra
+- Predaplant Moray Nepenthes
+- Predaplant Ophrys Scorpio
+- Predaplant Squid Drosera
+- Predaplast
+- Predaponics
+- Prediction Princess Arrowsylph
+- Prediction Princess Astromorrigan
+- Prediction Princess Coinorma
+- Prediction Princess Crystaldine
+- Prediction Princess Petalelf
+- Prediction Princess Tarotrei
+- Prediction Ritual
+- Premature Return
+- Prepare to Strike Back
+- Prescience
+- Present Card
+- Prevent Rat
+- Prevention Star
+- Prickle Fairy
+- Pride of the Plunder Patroll
+- Pride of the Weak
+- Prideful Roar
+- Priestess with Eyes of Blue
+- Primal Cry
+- Primal Seed
+- Prime Material Dragon
+- Primineral Mandstrong
+- Primitive Butterfly
+- Primordial Soup
+- Princess of Tsurugi
+- Prior of the Ice Barrier
+- Prisman
+- Prohibition
+- Prologue of the Destruction Swordsman
+- Prometeor, the Burning Star
+- Prometheus, King of the Shadows
+- Prominence Hand
+- Prominence, Molten Swordsman
+- Prompthorn
+- Proof of Powerlessness
+- Protective Soul Ailin
+- Protector of the Sanctuary
+- Protector of the Throne
+- Protector with Eyes of Blue
+- Proto-Cyber Dragon
+- Protocol Gardna
+- Proton Blast
+- Protron
+- Proxy F Magician
+- Prufinesse, the Tactical Trapper
+- Pseudo Space
+- Psi-Blocker
+- Psi-Curse
+- Psi-Impulse
+- Psi-Station
+- PSY-Frame Accelerator
+- PSY-Frame Multi-Threader
+- PSY-Framegear Alpha
+- PSY-Framegear Epsilon
+- Psychic Ace
+- Psychic Blade
+- Psychic Commander
+- Psychic Fervor
+- Psychic Jumper
+- Psychic Kappa
+- Psychic Overload
+- Psychic Path
+- Psychic Reactor
+- Psychic Rejuvenation
+- Psychic Shockwave
+- Psychic Snail
+- Psychic Soul
+- Psychic Sword
+- Psychic Tracker
+- Psychokinesis
+- Pulse Mines
+- Pumpking the King of Ghosts
+- Pumprincess the Princess of Ghosts
+- Punch-in-the-Box
+- Punished Eagle
+- Puny Penguin
+- Puppet Master
+- Puppet Parade
+- Puppet Plant
+- Purge Ray
+- Pursuit Chaser
+- Purushaddoll Aeon
+- Putrid Pudding Body Buddies
+- Puzzle Reborn
+- Puzzlomino, the Drop-n-Deleter
+- Pyramid Energy
+- Pyramid of Light
+- Pyramid of Wonders
+- Pyramid Turtle
+- Pyro Clock of Destiny
+- Pyrotech Mech - Shiryu
+- Pyroxene Fusion
+- Qlimate Change
+- Qlipper Launch
+- Quaking Mirror Force
+- Quantum Cat
+- Quarantine
+- Queen Angel of Roses
+- Queen Bird
+- Queen of Autumn Leaves
+- Queen of Thorns
+- Queen's Bodyguard
+- Queen's Double
+- Queen's Knight
+- Queen's Pawn
+- Quick Charger
+- Quick Launch
+- Quickdraw Synchron
+- Quill Pen of Gulldos
+- Quillbolt Hedgehog
+- R - Righteous Justice
+- R-Genex Accelerator
+- R-Genex Crusher
+- R-Genex Magma
+- R-Genex Oracle
+- R-Genex Turbo
+- Ra's Disciple
+- Ra'ten, the Heavenly General
+- Rabid Horseman
+- Rabidragon
+- Radian, the Multidimensional Kaiju
+- Radiant Jeral
+- Radiant Spirit
+- Radiant Vouirescence
+- Radius, the Half-Moon Dragon
+- Rafale, Champion Fur Hire
+- Rage of Kairyu-Shin
+- Rage of the Deep Sea
+- Raging Cloudian
+- Raging Earth
+- Raging Eria
+- Raging Flame Sprite
+- Raging Mad Plants
+- Raging Storm Dragon - Beaufort IX
+- Rai Rider
+- Raiden, Hand of the Lightsworn
+- Raider's Unbreakable Mind
+- Raidraptor - Avenge Vulture
+- Raidraptor - Blade Burner Falcon
+- Raidraptor - Booster Strix
+- Raidraptor - Fuzzy Lanius
+- Raidraptor - Heel Eagle
+- Raidraptor - Last Strix
+- Raidraptor - Mimicry Lanius
+- Raidraptor - Napalm Dragonius
+- Raidraptor - Nest
+- Raidraptor - Pain Lanius
+- Raidraptor - Readiness
+- Raidraptor - Return
+- Raidraptor - Revolution Falcon
+- Raidraptor - Rise Falcon
+- Raidraptor - Sharp Lanius
+- Raidraptor - Singing Lanius
+- Raidraptor - Skull Eagle
+- Raidraptor - Vanishing Lanius
+- Raidraptor - Wild Vulture
+- Raidraptor's Phantom Knights Claw
+- Raigeki Bottle
+- Raigeki Break
+- Rain Bozu
+- Rain of Mercy
+- Rain Storm
+- Rainbow Dark Dragon
+- Rainbow Dragon
+- Rainbow Flower
+- Rainbow Gravity
+- Rainbow Kuriboh
+- Rainbow Neos
+- Rainbow Path
+- Rainbow Refraction
+- Rainbow Veil
+- Raise Body Heat
+- Raiza the Storm Monarch
+- Rallis the Star Bird
+- RAM Clouder
+- Rampaging Smashtank Rhynosaber
+- Rank-Up-Magic - The Seventh One
+- Rank-Up-Magic Admiration of the Thousands
+- Rank-Up-Magic Astral Force
+- Rank-Up-Magic Cipher Ascension
+- Rank-Up-Magic Raptor's Force
+- Ranryu
+- Rapid Trigger
+- Rapid-Fire Magician
+- Raptor Wing Strike
+- Raptor's Gust
+- Raptor's Ultimate Mace
+- Rare Fish
+- Rare Metal Dragon
+- Rare Metalmorph
+- Rare Value
+- Raregold Armor
+- Raremetalfoes Bismugear
+- Rasetsu
+- Ravenous Crocodragon Archethys
+- Ray & Temperature
+- Ray of Hope
+- Razor Lizard
+- Re-Cover
+- Re-dyce-cle
+- Re-Fusion
+- Re-qliate
+- Reactan, Dragon Ruler of Pebbles
+- Ready for Intercepting
+- Really Eternal Rest
+- Realm of Light
+- Reaper of the Cards
+- Reaper Scythe - Dreadscythe
+- Reboot
+- Reborn Tengu
+- Reborn Zombie
+- Rebuildeer
+- Recall
+- Recardination
+- Reckless Greed
+- Reckoned Power
+- Recoded Alive
+- Recon, Scout Fur Hire
+- Recovery Sorcerer
+- Recurring Nightmare
+- Recycle
+- Recycling Batteries
+- Red Archery Girl
+- Red Carpet
+- Red Cocoon
+- Red Dragon Archfiend
+- Red Dragon Archfiend/Assault Mode
+- Red Dragon Vase
+- Red Duston
+- Red Familiar
+- Red Gadget
+- Red Gardna
+- Red Hared Hasty Horse
+- Red Medicine
+- Red Mirror
+- Red Nova
+- Red Ogre
+- Red Potan
+- Red Reign
+- Red Resonator
+- Red Rising Dragon
+- Red Screen
+- Red Sparrow Summoner
+- Red Sprinter
+- Red Warg
+- Red Wyvern
+- Red-Eyes Archfiend of Lightning
+- Red-Eyes Black Dragon
+- Red-Eyes Black Dragon Sword
+- Red-Eyes Black Flare Dragon
+- Red-Eyes Black Metal Dragon
+- Red-Eyes Burn
+- Red-Eyes Darkness Dragon
+- Red-Eyes Fusion
+- Red-Eyes Insight
+- Red-Eyes Retro Dragon
+- Red-Eyes Spirit
+- Red-Eyes Toon Dragon
+- Red-Eyes Transmigration
+- Red-Eyes Wyvern
+- Red-Eyes Zombie Dragon
+- Red-Headed Oni
+- Redeemable Jar
+- Reed Butterfly
+- Reese the Ice Mistress
+- Reeze, Whirlwind of Gusto
+- Reflect Bounder
+- Regenerating Mummy
+- Regenerating Rose
+- Regretful Rebirth
+- Regulus
+- Reign-Beaux, Overlord of Dark World
+- Reinforce Truth
+- Reinforced Space
+- Reinforcement of the Army's Troops
+- Reinforcements
+- Reject Reborn
+- Rekindling
+- Relay Soul
+- Release from Stone
+- Release Restraint
+- Release Restraint Wave
+- Release, Reverse, Burst
+- Relieve Monster
+- Relinkuriboh
+- Relinquished
+- Relinquished Spider
+- Reload
+- Remote Rebirth
+- Remote Revenge
+- Remove Brainwashing
+- Remove Trap
+- Renge, Gatekeeper of Dark World
+- Reptilianne Coatl
+- Reptilianne Gardna
+- Reptilianne Gorgon
+- Reptilianne Hydra
+- Reptilianne Lamia
+- Reptilianne Medusa
+- Reptilianne Naga
+- Reptilianne Nyami
+- Reptilianne Poison
+- Reptilianne Rage
+- Reptilianne Recoil
+- Reptilianne Scylla
+- Reptilianne Servant
+- Reptilianne Spawn
+- Reptilianne Viper
+- Rescue Cat
+- Rescue Ferret
+- Rescue Interlacer
+- Rescue Rabbit
+- Rescue Warrior
+- Rescueroid
+- Resonance Insect
+- Resonant Destruction
+- Resonator Call
+- Resonator Command
+- Resonator Engine
+- Respect Play
+- Restoration of the Monarchs
+- Restoration Point Guard
+- Restructer Revolution
+- Resurgam Xyz
+- Ret-time Reviver Emit-ter
+- Retaliating "C"
+- Return
+- Return of the Doomed
+- Return of the Dragon Lords
+- Return of the Monarchs
+- Return of the Red-Eyes
+- Return of the Six Samurai
+- Return of the Zombies
+- Return Zombie
+- Revendread Evolution
+- Revendread Origin
+- Reversal of Fate
+- Reversal Quiz
+- Reverse Breaker
+- Reverse Buster
+- Reverse Glasses
+- Reverse of Neos
+- Reverse Reuse
+- Reverse Trap
+- Reversible Beetle
+- Revival Gift
+- Revival Jam
+- Revival of Dokurorider
+- Revival of the Immortals
+- Revival Rose
+- Revolving Switchyard
+- Rhaimundos of the Red Sword
+- Rhinotaurus
+- Ribbon of Rebirth
+- Rider of the Storm Winds
+- Righty Driver
+- Rigorous Reaver
+- Rikka Queen Strenna
+- Ring of Defense
+- Ring of Destruction
+- Ring of Magnetism
+- Rinyan, Lightsworn Rogue
+- Riryoku
+- Riryoku Field
+- Rise of the Fallen
+- Rise of the Salamangreat
+- Rise of the Snake Deity
+- Rise to Full Height
+- Risebell the Star Adjuster
+- Risebell the Star Psycher
+- Risebell the Summoner
+- Rising Air Current
+- Rising Energy
+- Rising Fire
+- Rising Sun Slash
+- Rite of Spirit
+- Ritual Beast Ambush
+- Ritual Beast Return
+- Ritual Beast Tamer Zeframpilica
+- Ritual Buster
+- Ritual Ceremony
+- Ritual Foregone
+- Ritual of Black Mastery
+- Ritual of Destruction
+- Ritual of Grace
+- Ritual Raven
+- Ritual Sanctuary
+- Ritual Sealing
+- Ritual Weapon
+- Rivalry of Warlords
+- Road Synchron
+- Road Warrior
+- Roar of the Earthbound Immortal
+- Roaring Earth
+- Roaring Ocean Snake
+- Robbin' Goblin
+- Robbin' Zombie
+- Robolady
+- Robot Buster Destruction Sword
+- Robotic Knight
+- Roboyarou
+- Roc from the Valley of Haze
+- Rock Band Xenoguitar
+- Rock Bombardment
+- Rock Ogre Grotto #1
+- Rocket Arrow Express
+- Rocket Hand
+- Rocket Hermos Cannon
+- Rocket Jumper
+- Rocket Pilder
+- Rocket Warrior
+- Rod of Silence - Kay'est
+- Rod of the Mind's Eye
+- Rodenut
+- Rogue Doll
+- Rogue of Endymion
+- Rokket Recharger
+- Rokket Synchron
+- Roll Out!
+- ROM Cloudia
+- Ronintoadin
+- Rookie Fur Hire
+- Root Water
+- Rope of Life
+- Rose Archer
+- Rose Bell of Revelation
+- Rose Fairy
+- Rose Girl
+- Rose Lover
+- Rose Paladin
+- Rose Spectre of Dunn
+- Rose Tentacles
+- Rose Witch
+- Roulette Barrel
+- Roulette Spider
+- Royal Command
+- Royal Decree
+- Royal Firestorm Guards
+- Royal Keeper
+- Royal Knight
+- Royal Magical Library
+- Royal Penguins Garden
+- Royal Tribute
+- Royal Writ of Taxation
+- Rude Kaiser
+- Ruffian Railcar
+- Ruin, Angel of Oblivion
+- Ruin, Queen of Oblivion
+- Ruins of the Divine Dragon Lords
+- Runaway Karakuri
+- Rune-Eyes Pendulum Dragon
+- Rush Recklessly
+- Rush Warrior
+- Ryko, Lightsworn Hunter
+- Ryu Kokki
+- Ryu Okami
+- Ryu Senshi
+- Ryu-Kishin
+- Ryu-Kishin Clown
+- Ryu-Kishin Powered
+- Ryu-Ran
+- S-Force Dog Tag
+- S-Force Professor DiGamma
+- S-Force Showdown
+- S-Force Specimen
+- Saambell the Star Bonder
+- Saambell the Summoner
+- Sabatiel - The Philosopher's Stone
+- Saber Beetle
+- Sabersaurus
+- Sacred Crane
+- Sacred Phoenix of Nephthys
+- Sacred Serpent's Wake
+- Sacred Spirit of the Ice Barrier
+- Sacred Sword of Seven Stars
+- Safe Zone
+- Sage of Stillness
+- Sage's Stone
+- Saggi the Dark Clown
+- Sagitta, Maverick Fur Hire
+- Sakuretsu Armor
+- Salamandra
+- Salamangreat Beat Bison
+- Salamangreat Burning Shell
+- Salamangreat Claw
+- Salamangreat Emerald Eagle
+- Salamangreat Falco
+- Salamangreat Fennec
+- Salamangreat Fowl
+- Salamangreat Foxer
+- Salamangreat Foxy
+- Salamangreat Gift
+- Salamangreat Heatleo
+- Salamangreat Jack Jaguar
+- Salamangreat Meer
+- Salamangreat Mole
+- Salamangreat Parro
+- Salamangreat Raccoon
+- Salamangreat Rage
+- Salamangreat Recureance
+- Salamangreat Sanctuary
+- Salamangreat Sunlight Wolf
+- Salamangreat Transcendence
+- Salamangreat Violet Chimera
+- Salamangreat Wolvie
+- Salamangreat Zebroid X
+- Salvage
+- Salvagent Driver
+- Samsara
+- Samsara Kaiser
+- Samurai of the Ice Barrier
+- Samurai Skull
+- Sand Gambler
+- Sand Moth
+- Sand Stone
+- Sanga of the Thunder
+- Sangan
+- Sanguine Swamp
+- Sanwitch
+- Sargasso Lighthouse
+- Sargasso the D.D. Battlefield
+- Saryuja's Shackles
+- Sasuke Samurai
+- Sasuke Samurai #2
+- Sasuke Samurai #3
+- Satellarknight Betelgeuse
+- Satellarknight Capella
+- Satellarknight Procyon
+- Satellarknight Unukalhai
+- Satellarknight Vega
+- Satellite Cannon
+- Sauropod Brachion
+- Savage Colosseum
+- Scapeghost
+- Scarlet Security
+- Scarr, Scout of Dark World
+- Scary Moth
+- Schuberta the Melodious Maestra
+- Schwarzschild Limit Dragon
+- Science Soldier
+- Score the Melodious Diva
+- Scramble Egg
+- Scrap Archfiend
+- Scrap Beast
+- Scrap Breaker
+- Scrap Chimera
+- Scrap Crash
+- Scrap Dragon
+- Scrap Factory
+- Scrap Goblin
+- Scrap Golem
+- Scrap Kong
+- Scrap Lube
+- Scrap Orthros
+- Scrap Rage
+- Scrap Raptor
+- Scrap Recycler
+- Scrap Searcher
+- Scrap Shark
+- Scrap Sheen
+- Scrap Soldier
+- Scrap Worm
+- Scrap-Iron Scarecrow
+- Scrap-Iron Statue
+- Scrapstorm
+- Scrapyard
+- Screams of the Branded
+- Scroll of Bewitchment
+- Scrounging Goblin
+- Scrum Force
+- Sea Archiver
+- Sea Kamen
+- Sea Koala
+- Sea Serpent Warrior of Darkness
+- Sea Stealth Attack
+- Seal, Strategist Fur Hire
+- Sealing Ceremony of Katon
+- Sealing Ceremony of Mokuton
+- Sealing Ceremony of Raiton
+- Sealing Ceremony of Suiton
+- Sealmaster Meisei
+- Searchlightman
+- Searing Fire Wall
+- Sebek's Blessing
+- Second Booster
+- Second Coin Toss
+- Second Goblin
+- Secret Barrel
+- Secret Blast
+- Secret Guards of the Ice Barrier
+- Secret Pass to the Treasures
+- Secret Sect Druid Dru
+- Secret Sect Druid Wid
+- Secret Village of the Spellcasters
+- Secrets of the Gallant
+- Sectarian of Secrets
+- Secure Gardna
+- Security Block
+- Security Orb
+- Seed Cannon
+- Seed of Deception
+- Seed of Flame
+- Seismic Crasher
+- Seismic Shockwave
+- Seiyaryu
+- Self-Destruct Ant
+- Self-Mummification
+- Senet Switch
+- Senior Silver Ninja
+- Senju of the Thousand Hands
+- Senri Eye
+- Sentinel of the Seas
+- Seraphim Papillion
+- Serenade the Melodious Diva
+- Serene Psychic Witch
+- Sergeant Electro
+- Serpent Night Dragon
+- Serpent Suppression
+- Serpentine Princess
+- Servant of Catabolism
+- Setuppercut
+- Seven Swords Warrior
+- Seven Tools of the Bandit
+- Sextet Summon
+- Shaddoll Beast
+- Shaddoll Construct
+- Shaddoll Core
+- Shaddoll Dragon
+- Shaddoll Falco
+- Shaddoll Hedgehog
+- Shaddoll Hound
+- Shaddoll Squamata
+- Shaddoll Zefracore
+- Shaddoll Zefranaga
+- Shadow Delver
+- Shadow Ghoul
+- Shadow Impulse
+- Shadow of Eyes
+- Shadow Reborn
+- Shadow Specter
+- Shadow Spell
+- Shadow Tamer
+- Shadow Vampire
+- Shadow-Imprisoning Mirror
+- Shadowknight Archfiend
+- Shadowslayer
+- Shaman of the Tenyi
+- Shapesister
+- Shapesnatch
+- Shard of Greed
+- Share the Pain
+- Shared Ride
+- Shark Caesar
+- Shark Cruiser
+- Shark Fortress
+- Shark Stickers
+- Sharkraken
+- Shattered Axe
+- Sheep Token
+- Shelrokket Dragon
+- Shield & Sword
+- Shield Crush
+- Shield Handler
+- Shield Spear
+- Shield Warrior
+- Shield Wing
+- Shien's Advisor
+- Shien's Castle of Mist
+- Shien's Daredevil
+- Shien's Dojo
+- Shien's Footsoldier
+- Shien's Scheme
+- Shien's Spy
+- Shien's Squire
+- Shift
+- Shifting Shadows
+- Shinato's Ark
+- Shine Knight
+- Shining Abyss
+- Shining Angel
+- Shining Elf
+- Shining Friendship
+- Shinobi Insect Hagakuremino
+- Shinobi Necro
+- Shinobird Crane
+- Shinobird Crow
+- Shinobird Pigeon
+- Shinobird Power Spot
+- Shinobird Salvation
+- Shinobird's Calling
+- Shiny Black "C"
+- Shiny Black "C" Squadder
+- Shiranui Samurai
+- Shiranui Samuraisaga
+- Shiranui Smith
+- Shiranui Solitaire
+- Shiranui Spiritmaster
+- Shiranui Squiresaga
+- Shiranui Style Samsara
+- Shiranui Style Solemnity
+- Shiranui Style Success
+- Shiranui Style Swallow's Slash
+- Shiranui Style Synthesis
+- Shiranui Swordmaster
+- Shiranui Swordsaga
+- Shire, Lightsworn Spirit
+- Shock Troops of the Ice Barrier
+- Shocktopus
+- Shogi Knight
+- Shogi Lance
+- Shooting Star
+- Shooting Star Bow - Ceal
+- Shore Knight
+- Short Circuit
+- Shovel Crusher
+- Showdown of the Secret Sense Scroll Techniques
+- Shreddder
+- Shrine of Mist Valley
+- Shrink
+- Shuffle Reborn
+- Shutendoji
+- Side Effects?
+- Silent Abyss
+- Silent Angler
+- Silent Doom
+- Silent Graveyard
+- Silent Insect
+- Silent Magician LV4
+- Silent Magician LV8
+- Silent Psychic Wizard
+- Silent Strider
+- Silent Swordsman LV3
+- Silent Swordsman LV5
+- Silent Swordsman LV7
+- Sillva, Warlord of Dark World
+- Silpheed
+- Silver Bow and Arrow
+- Silver Fang
+- Silver Wing
+- Silver's Cry
+- SIMM Tablir
+- Simorgh Onslaught
+- Simorgh Repulsion
+- Simorgh Sky Battle
+- Simorgh, Bird of Beginning
+- Simorgh, Bird of Calamity
+- Simorgh, Bird of Protection
+- Simultaneous Loss
+- Single Purchase
+- Sinister Seeds
+- Sinister Serpent
+- Sinister Shadow Games
+- Sinister Yorishiro
+- Sirenorca
+- Six Samurai United
+- Six Scrolls of the Samurai
+- Six Strike - Thunder Blast
+- Six Strike - Triple Impact
+- Six Style - Dual Wield
+- Skelengel
+- Skelesaurus
+- Skelgon
+- Skill Successor
+- Skilled Blue Magician
+- Skilled Dark Magician
+- Skilled Red Magician
+- Skilled White Magician
+- Skreech
+- Skull Conductor
+- Skull Dice
+- Skull Dog Marron
+- Skull Invitation
+- Skull Knight
+- Skull Knight #2
+- Skull Kraken
+- Skull Lair
+- Skull Mariner
+- Skull Meister
+- Skull Red Bird
+- Skull Servant
+- Skull Stalker
+- Skull-Mark Ladybug
+- Skullbird
+- Sky Dragon
+- Sky Iris
+- Sky Scourge Cidhels
+- Sky Scout
+- Sky Striker Airspace - Area Zero
+- Sky Striker Maneuver - Jamming Waves!
+- Sky Striker Mecha - Eagle Booster
+- Sky Striker Mecha - Shark Cannon
+- Sky Striker Mecharmory - Hercules Base
+- Skyscraper
+- Skystarray
+- Slate Warrior
+- Sleeping Lion
+- Slime Toad
+- Slip of Fortune
+- Slip Summon
+- Slot Machine
+- Slower Swallow
+- Slushy
+- Small Piece Golem
+- Smashing Ground
+- Smile Action
+- Smile Universe
+- Smile World
+- Snake Fang
+- Snake Whistle
+- Snakeyashi
+- Snapdragon
+- Sniffer Dragon
+- Snipe Hunter
+- Snow Dragon
+- Snow Plow Hustle Rustle
+- Snowdust Dragon
+- Snowman Creator
+- Snowman Eater
+- Snowman Effect
+- Sogen
+- Soitsu
+- Solar Flare Dragon
+- Solar Ray
+- Solar Recharge
+- Solar Wind Jammer
+- Soldier Dragons
+- Soldier Gaia the Fierce Knight
+- Solemn Authority
+- Solemn Judgment
+- Solemn Strike
+- Solemn Warning
+- Solemn Wishes
+- Solidarity
+- Solitaire Magician
+- Solitary Sword of Poison
+- Solo the Melodious Songstress
+- Solomon's Lawbook
+- Sonata the Melodious Diva
+- Sonic Bird
+- Sonic Boom
+- Sonic Chick
+- Sonic Duck
+- Sonic Jammer
+- Sonic Shooter
+- Sonic Tracker
+- Sonic Warrior
+- Soprano the Melodious Songstress
+- Sorcerer of Dark Magic
+- Sorcerer of the Doomed
+- Sorcerous Spell Wall
+- Sorciere de Fleur
+- Soul Absorption
+- Soul Demolition
+- Soul Devouring Bamboo Sword
+- Soul Drain Dragon
+- Soul Exchange
+- Soul Hunter
+- Soul Levy
+- Soul of Purity and Light
+- Soul of the Pure
+- Soul Release
+- Soul Resurrection
+- Soul Reversal
+- Soul Rope
+- Soul Strike
+- Soul Taker
+- Soul Tiger
+- Soul-Absorbing Bone Tower
+- Souleater
+- Souls of the Forgotten
+- Sound the Retreat!
+- Space Cyclone
+- Space Gift
+- Space Insulator
+- Space Mambo
+- Spacegate
+- Spacetime Transcendence
+- Spark Blaster
+- Sparks
+- Spatial Collapse
+- Spear Cretin
+- Spear Dragon
+- Spear Shark
+- Spearfish Soldier
+- Special Schedule
+- Speed Bird
+- Speed Recovery
+- Speed Warrior
+- Speedburst Dragon
+- Speedlift
+- Speedroid Block-n-Roll
+- Speedroid CarTurbo
+- Speedroid Den-Den Daiko Duke
+- Speedroid Double Yoyo
+- Speedroid Gum Prize
+- Speedroid Horse Stilts
+- Speedroid Maliciousmagnet
+- Speedroid Marble Machine
+- Speedroid Menko
+- Speedroid Passinglider
+- Speedroid Red-Eyed Dice
+- Speedroid Skull Marbles
+- Speedroid Taketomborg
+- Speedroid Tri-Eyed Dice
+- Spell Absorption
+- Spell Canceller
+- Spell Chronicle
+- Spell Economics
+- Spell Gear
+- Spell of Mask
+- Spell of Pain
+- Spell Power Grasp
+- Spell Purification
+- Spell Reactor RE
+- Spell Recycler
+- Spell Reproduction
+- Spell Shattering Arrow
+- Spell Shield Type-8
+- Spell Striker
+- Spell Wall
+- Spellbinding Circle
+- Spellbook Library of the Heliosphere
+- Spellbook Magician of Prophecy
+- Spellbook of Knowledge
+- Spellbook of Miracles
+- Spellbook of Power
+- Spellbook of Secrets
+- Spellbook of Wisdom
+- Spellbook Organization
+- Spellbreaker of the Ice Barrier
+- Sphere Kuriboh
+- Spherous Lady
+- Spider Egg
+- Spider Web
+- Spiders' Lair
+- Spike Seadra
+- Spikebot
+- Spikeshield with Chain
+- Spined Gillman
+- Spiral Discharge
+- Spiral Flame Strike
+- Spiral Fusion
+- Spiral Reborn
+- Spiral Serpent
+- Spiral Spear Strike
+- Spirit Barrier
+- Spirit Burner
+- Spirit Caller
+- Spirit Elimination
+- Spirit Force
+- Spirit Message "A"
+- Spirit Message "I"
+- Spirit Message "L"
+- Spirit Message "N"
+- Spirit of Flames
+- Spirit of the Books
+- Spirit of the Breeze
+- Spirit of the Harp
+- Spirit of the Pot of Greed
+- Spirit of the Six Samurai
+- Spirit Reaper
+- Spirit Ryu
+- Spirit's Invitation
+- Spiritual Beast Rampengu
+- Spiritual Earth Art - Kurogane
+- Spiritual Energy Settle Machine
+- Spiritual Entanglement
+- Spiritual Fire Art - Kurenai
+- Spiritual Forest
+- Spiritual Water Art - Aoi
+- Spiritual Wind Art - Miyabi
+- Spiritualism
+- Splash Capture
+- Splash Mage
+- Splendid Rose
+- Splendid Venus
+- Spore
+- Sprind the Irondash Dragon
+- Spring of Rebirth
+- Springans Blast!
+- Springans Booty
+- Springans Branga
+- Springans Brothers
+- Springans Call!
+- Springans Captain Sargas
+- Springans Interluder
+- Springans Pedor
+- Springans Rockey
+- Sprite's Blessing
+- Spy-C-Spy
+- Spyder Spider
+- SPYRAL MISSION - Rescue
+- Squeaknight
+- Squib Draw
+- Squirt Squid
+- St. Joan
+- Stack Reviver
+- Stairs of Mail
+- Stairway to a Fabled Realm
+- Stamping Destruction
+- Stand In
+- Stand-Off
+- Star Blast
+- Star Boy
+- Star Changer
+- Star Drawing
+- Star Light, Star Bright
+- Star Mine
+- Star Seraph Sage
+- Star Seraph Scout
+- Star Seraph Sword
+- Star Siphon
+- Stardust Assault Warrior
+- Stardust Dragon
+- Stardust Dragon/Assault Mode
+- Stardust Flash
+- Stardust Trail
+- Stardust Warrior
+- Stardust Wish
+- Stardust Xiaolong
+- Starduston
+- Starfish
+- Stargazer Magician
+- Staring Contest
+- Starlight Junktion
+- Starry Knight Ciel
+- Starry Knight Orbitael
+- Starship Spy Plane
+- Statue of Anguish Pattern
+- Staunch Defender
+- Stealth Bird
+- Stealthroid
+- Steam Gyroid
+- Steamroid
+- Steel Ogre Grotto #1
+- Steel Ogre Grotto #2
+- Steel Scorpion
+- Steel Star Regulator
+- Steelswarm Cell
+- Steelswarm Gatekeeper
+- Steelswarm Genome
+- Steelswarm Mantis
+- Steelswarm Sentinel
+- Stegocyber
+- Stellarknight Alpha
+- Stellarnova Wave
+- Stim-Pack
+- Stinging Swordsman
+- Stoic of Prophecy
+- Stone Armadiller
+- Stone Dragon
+- Stone Ogre Grotto
+- Stone Statue of the Aztecs
+- Stonehenge Methods
+- Stop Defense
+- Storm
+- Storm Cipher
+- Storming Mirror Force
+- Storming Wynn
+- Straight Flush
+- Strategist of the Ice Barrier
+- Stray Asmodian
+- Stray Lambs
+- Stream, Dragon Ruler of Droplets
+- Strength of Prophecy
+- Strike Ninja
+- Strike of the Monarchs
+- Strike Slash
+- Striping Partner
+- Stronghold Guardian
+- Stronghold the Moving Fortress
+- Stuffed Animal
+- Stumbling
+- Stygian Dirge
+- Stygian Security
+- Stygian Street Patrol
+- Submarine Frog
+- Submarineroid
+- Submersible Carrier Aero Shark
+- Subsurface Stage Divers
+- Subterror Behemoth Phospheroglacier
+- Subterror Behemoth Speleogeist
+- Subterror Guru
+- Subterror Succession
+- Success Probability 0%
+- Succubus Knight
+- Suijin
+- Summon Breaker
+- Summon Cloud
+- Summon Gate
+- Summon Limit
+- Summon Over
+- Summon Reactor SK
+- Summoned Skull
+- Summoner Monk
+- Summoner of Illusions
+- Summoner's Art
+- Summoning Curse
+- Sun Dragon Inti
+- Sunavalon Daphne
+- Sunlight Unicorn
+- Sunny Pixie
+- Sunvine Cross Breed
+- Supay
+- Super Anti-Kaiju War Machine Mecha-Dogoran
+- Super Armored Robot Armed Black Iron "C"
+- Super Conductor Tyranno
+- Super Defense Robot Elephan
+- Super Defense Robot Lio
+- Super Defense Robot Monki
+- Super Double Summon
+- Super Hippo Carnival
+- Super Junior Confrontation
+- Super Polymerization
+- Super Quantal Alphan Spike
+- Super Quantal Alphancall Appeal
+- Super Quantal Fairy Alphan
+- Super Quantal Mech Beast Magnaliger
+- Super Quantal Mech Ship Magnacarrier
+- Super Quantal Mech Sword - Magnaslayer
+- Super Quantal Union - Magnaformation
+- Super Quantum Red Layer
+- Super Rejuvenation
+- Super Robolady
+- Super Roboyarou
+- Super Rush Headlong
+- Super Rush Recklessly
+- Super Solar Nutrient
+- Super Soldier Rebirth
+- Super Soldier Soul
+- Super Soldier Synthesis
+- Super Strident Blaze
+- Super Team Buddy Force Unite!
+- Super Vehicroid - Mobile Base
+- Super War-Lion
+- Super-Ancient Dinobeast
+- Super-Nimble Mega Hamster
+- Superalloy Beast Raptinus
+- Superancient Deepsea King Coelacanth
+- Supercharge
+- Superdreadnought Rail Cannon Gustav Max
+- Superheavy Samurai Battleball
+- Superheavy Samurai Big Benkei
+- Superheavy Samurai Big Waraji
+- Superheavy Samurai Blowtorch
+- Superheavy Samurai Blue Brawler
+- Superheavy Samurai Drum
+- Superheavy Samurai General Coral
+- Superheavy Samurai General Jade
+- Superheavy Samurai Gigagloves
+- Superheavy Samurai Kabuto
+- Superheavy Samurai Magnet
+- Superheavy Samurai Ogre Shutendoji
+- Superheavy Samurai Prepped Defense
+- Superheavy Samurai Scarecrow
+- Superheavy Samurai Soulbang Cannon
+- Superheavy Samurai Soulbeads
+- Superheavy Samurai Soulbreaker Armor
+- Superheavy Samurai Soulbuster Gauntlet
+- Superheavy Samurai Soulclaw
+- Superheavy Samurai Soulfire Suit
+- Superheavy Samurai Soulhorns
+- Superheavy Samurai Soulpiercer
+- Superheavy Samurai Soulshield Wall
+- Superheavy Samurai Swordmaster Musashi
+- Superheavy Samurai Swordsman
+- Superheavy Samurai Thief
+- Superheavy Samurai Transporter
+- Superheavy Samurai Trumpeter
+- Superheavy Samurai Wagon
+- Superheavy Samurai Warlord Susanowo
+- Supernatural Regeneration
+- Supervise
+- Supply
+- Supply Squad
+- Suppression Collider
+- Supremacy Berry
+- Supreme King Dragon Clear Wing
+- Supreme King Dragon Dark Rebellion
+- Supreme King Dragon Darkwurm
+- Supreme King Dragon Odd-Eyes
+- Supreme King Z-ARC
+- Supreme Rage
+- Surface
+- Survival Instinct
+- Survival of the Fittest
+- Svartalf of the Nordic Alfar
+- Swallowtail Butterspy
+- Swamp Battleguard
+- Swamp Mirrorer
+- Swap Frog
+- Swarm of Locusts
+- Swarm of Scarabs
+- Sweet Corn
+- Swift Birdman Joe
+- Swift Gaia the Fierce Knight
+- Swift Samurai Storm!
+- Swift Scarecrow
+- Swiftstrike Armor
+- Swing of Memories
+- Sword Arm of Dragon
+- Sword Hunter
+- Sword Master
+- Sword of Dark Destruction
+- Sword of Dark Rites
+- Sword of Deep-Seated
+- Sword of Kusanagi
+- Sword of Sparkles
+- Sword of the Soul-Eater
+- Sword Slasher
+- Swords of Burning Light
+- Swords of Concealing Light
+- Swords of Revealing Light
+- Swordsman from a Distant Land
+- Swordsman of Landstar
+- Swordsoul Assessment
+- Swordsoul Blackout
+- Swordstalker
+- Sylvan Blessing
+- Sylvan Cherubsprout
+- Sylvan Guardioak
+- Sylvan Lotuswain
+- Sylvan Waterslide
+- Symbol of Heritage
+- Symbols of Duty
+- Symph Amplifire
+- Symphonic Warrior Guitaar
+- Symphonic Warrior Miccs
+- Symphonic Warrior Synthess
+- Synchro Barrier
+- Synchro Blast Wave
+- Synchro Boost
+- Synchro Cracker
+- Synchro Deflector
+- Synchro Magnet
+- Synchro Material
+- Synchro Soldier
+- Synchro Strike
+- Synchro Transmission
+- Synchron Carrier
+- Synchron Explorer
+- Synchronized Realm
+- Synkron Resonator
+- Synthesis Spell
+- Synthetic Seraphim
+- Synthetic Seraphim Token
+- System Down
+- SZW - Fenrir Sword
+- T.A.D.P.O.L.E.
+- T.G. Booster Raptor
+- T.G. Catapult Dragon
+- T.G. Cyber Magician
+- T.G. Jet Falcon
+- T.G. Power Gladiator
+- T.G. Recipro Dragonfly
+- T.G. Rush Rhino
+- T.G. Striker
+- T.G. Tank Grub
+- T.G. Warwolf
+- T.G. Wonder Magician
+- TA.I. Strike
+- Tachyon Spiral Galaxy
+- Tachyon Transmigration
+- Tackle Crusader
+- Tactical Espionage Expert
+- Tail Swipe
+- Tailor of the Fickle
+- Tailwind of Gusto
+- Tainted Wisdom
+- Takuhee
+- Talisman of Spell Sealing
+- Talisman of Trap Sealing
+- Tamtam the Melodious Diva
+- Tanngnjostr of the Nordic Beasts
+- Tanngrisnir of the Nordic Beasts
+- Taotie Dragon
+- Tardy Orc
+- Tasuke Knight
+- Tatakawa Knight
+- Taunt
+- Telekinetic Power Well
+- Telekinetic Shocker
+- Telepathic Power
+- Teleport
+- Temple of Skulls
+- Temple of the Kings
+- Temple of the Mind's Eye
+- Temple of the Six
+- Temple of the Sun
+- Temtempo the Percussion Djinn
+- Tenacity of the Monarchs
+- Tenkabito Shien
+- Tenshin
+- Tenyi Spirit - Adhara
+- Tenyi Spirit - Ashuna
+- Tenyi Spirit - Mapura
+- Tenyi Spirit - Nahata
+- Tenyi Spirit - Sahasrara
+- Tenyi Spirit - Shthana
+- Tenyi Spirit - Vishuda
+- Terminal World
+- Terminal World NEXT
+- Terra the Terrible
+- Terratiger, the Empowered Warrior
+- Terrene Toothed Tsuchinoko
+- Terrible Deal
+- Terrifying Toddler of Torment
+- Terror of Trishula
+- Terrorking Salmon
+- Terrors of the Underroot
+- Test Ape
+- Test Tiger
+- Testudo erat Numen
+- Tethys, Goddess of Light
+- Texchanger
+- TG-SX1
+- TG1-EM1
+- TGX1-HL
+- TGX300
+- That Six
+- That Wacky Magic!
+- That Which Feeds on Life
+- The 13th Grave
+- The A. Forces
+- The Accumulator
+- The Agent of Creation - Venus
+- The Agent of Entropy - Uranus
+- The Agent of Force - Mars
+- The Agent of Judgment - Saturn
+- The Agent of Wisdom - Mercury
+- The All-Seeing White Tiger
+- The Ascended of Thunder
+- The Atmosphere
+- The Beginning of the End
+- The Big Cattle Drive
+- The Big March of Animals
+- The Big Saturn
+- The Bistro Butcher
+- The Black Stone of Legend
+- The Blazing Mars
+- The Calculator
+- The Calibrator
+- The Cheerful Coffin
+- The Claw of Hermos
+- The Creator
+- The Creator Incarnate
+- The Dark - Hex-Sealed Fusion
+- The Dark Creator
+- The Dark Door
+- The Deep Grave
+- The Despair Uranus
+- The Dragon Dwelling in the Cave
+- The Dragon's Bead
+- The Earl of Demise
+- The Earth - Hex-Sealed Fusion
+- The Emperor's Holiday
+- The Eye of Timaeus
+- The Eye of Truth
+- The Fabled Abanc
+- The Fabled Cerburrel
+- The Fabled Chawa
+- The Fabled Ganashia
+- The Fabled Kokkator
+- The Fabled Nozoochee
+- The Fabled Peggulsus
+- The Fang of Critias
+- The Fiend Megacyber
+- The First Monarch
+- The Flute of Summoning Dragon
+- The Flute of Summoning Kuriboh
+- The Forceful Checkpoint
+- The Forces of Darkness
+- The Forgiving Maiden
+- The Fountain in the Sky
+- The Furious Sea King
+- The Gates of Dark World
+- The Gift of Greed
+- The Golden Apples
+- The Grand Jupiter
+- The Graveyard in the Fourth Dimension
+- The Great Emperor Penguin
+- The Gross Ghost of Fled Dreams
+- The Huge Revolution is Over
+- The Humble Sentry
+- The Hunter with 7 Weapons
+- The Illusory Gentleman
+- The Immortal Bushi
+- The Immortal of Thunder
+- The Inexperienced Spy
+- The Judgement Hand
+- The Kaiju Files
+- The Kick Man
+- The Lady in Wight
+- The Law of the Normal
+- The League of Uniform Nomenclature
+- The Legendary Fisherman
+- The Legendary Fisherman II
+- The Legendary Fisherman III
+- The Light - Hex-Sealed Fusion
+- The Little Swordsman of Aile
+- The Mask of Remnants
+- The Masked Beast
+- The Melody of Awakening Dragon
+- The Monarchs Awaken
+- The Monarchs Erupt
+- The Monarchs Stormforth
+- The Nordic Lights
+- The Paths of Destiny
+- The Phantom Knights of Ancient Cloak
+- The Phantom Knights of Cloven Helm
+- The Phantom Knights of Cursed Javelin
+- The Phantom Knights of Dark Gauntlets
+- The Phantom Knights of Fragile Armor
+- The Phantom Knights of Lost Vambrace
+- The Phantom Knights of Ragged Gloves
+- The Phantom Knights of Shade Brigandine
+- The Phantom Knights of Shadow Veil
+- The Phantom Knights of Silent Boots
+- The Phantom Knights of Stained Greaves
+- The Phantom Knights of Tomb Shield
+- The Phantom Knights of Wrong Magnetring
+- The Phantom Knights' Rank-Up-Magic Launch
+- The Portrait's Secret
+- The Prime Monarch
+- The Psychic Duelist
+- The Puppet Magic of Dark Ruler
+- The Regulation of Tribe
+- The Reliable Guardian
+- The Resolute Meklord Army
+- The Return to the Normal
+- The Revenge of the Normal
+- The Rock Spirit
+- The Sanctuary in the Sky
+- The Second Sarcophagus
+- The Secret of the Bandit
+- The Shadow Who Controls the Dark
+- The Shallow Grave
+- The Six Samurai - Irou
+- The Six Samurai - Kamon
+- The Six Samurai - Nisashi
+- The Six Samurai - Yaichi
+- The Six Samurai - Yariza
+- The Six Samurai - Zanji
+- The Snake Hair
+- The Spell Absorbing Life
+- The Statue of Easter Island
+- The Stern Mystic
+- The Suppression Pluto
+- The Thing in the Crater
+- The Third Sarcophagus
+- The Transmigration Prophecy
+- The Tricky
+- The Tripper Mercury
+- The Trojan Horse
+- The True Name
+- The Unfriendly Amazon
+- The Unhappy Girl
+- The Unhappy Maiden
+- The Warrior Returning Alive
+- The White Stone of Ancients
+- The White Stone of Legend
+- The Wicked Worm Beast
+- The World Legacy
+- Theban Nightmare
+- Thestalos the Firestorm Monarch
+- Thor, Lord of the Aesir
+- Thorn of Malice
+- Thousand Dragon
+- Thousand Energy
+- Thousand Knives
+- Thousand Needles
+- Thousand-Eyes Idol
+- Thousand-Eyes Restrict
+- Thousand-Eyes Spell
+- Threatening Roar
+- Three of a Kind
+- Three Strikes Barrier
+- Three Thousand Needles
+- Three Trolling Trolls
+- Three-Headed Geedo
+- Three-Legged Zombies
+- Threshold Borg
+- Throwstone Unit
+- Thunder Crash
+- Thunder Dragon
+- Thunder Dragon Discharge
+- Thunder Dragonlord
+- Thunder Dragonmatrix
+- Thunder Dragons' Hundred Thunders
+- Thunder End Dragon
+- Thunder Hand
+- Thunder Kid
+- Thunder King Rai-Oh
+- Thunder Nyan Nyan
+- Thunder of Ruler
+- Thunder Short
+- Ties of the Brethren
+- Tiger Axe
+- Tiger Dragon
+- Tiki Curse
+- Tiki Soul
+- Tilted Try
+- Time Escaper
+- Time Machine
+- Time Magic Hammer
+- Time Passage
+- Time Thief Bezel Ship
+- Time Thief Chronocorder
+- Time Thief Flyback
+- Time Thief Hack
+- Time Thief Redoer
+- Time Thief Regulator
+- Time Thief Retrograde
+- Time Thief Startup
+- Time Thief Winder
+- Time Wizard
+- Timeater
+- Timegazer Magician
+- Timidity
+- Tin Goldfish
+- Tindangle Acute Cerberus
+- Tindangle Angel
+- Tindangle Base Gardna
+- Tindangle Delaunay
+- Tindangle Hound
+- Tindangle Intruder
+- Tindangle Protector
+- Tindangle Trinity
+- Token Collector
+- Token Feastevil
+- Token Stampede
+- Token Sundae
+- Token Thanksgiving
+- Toll
+- Toll Hike
+- Tomozaurus
+- Tongyo
+- Toon Alligator
+- Toon Ancient Gear Golem
+- Toon Barrel Dragon
+- Toon Buster Blader
+- Toon Cannon Soldier
+- Toon Cyber Dragon
+- Toon Dark Magician
+- Toon Dark Magician Girl
+- Toon Defense
+- Toon Gemini Elf
+- Toon Goblin Attack Force
+- Toon Mask
+- Toon Masked Sorcerer
+- Toon Mayhem!
+- Toon Mermaid
+- Toon Rollback
+- Toon Summoned Skull
+- Toon Table of Contents
+- Toon World
+- Top Runner
+- Torment Token
+- Tornado
+- Tornado Bird
+- Tornado Dragon
+- Tornado Wall
+- Torpedo Fish
+- Torpedo Takedown
+- Torque Tune Gear
+- Torrential Tribute
+- Totem Five
+- Tour Bus From the Underworld
+- Tour Guide From the Underworld
+- Tour of Doom
+- Tower of Babel
+- Toy Knight
+- Toy Vendor
+- Trade-In
+- Trading Places
+- Traffic Ghost
+- Tragedy
+- Tragoedia
+- Train Connection
+- Training Fur Hire, Fur All Your Training Needs
+- Trakodon
+- Trance Archfiend
+- Trance the Magic Swordsman
+- Trancefamiliar
+- Transcendent Wings
+- Transcicada
+- Transforming Sphere
+- Transmigration Break
+- Transmission Gear
+- Transmodify
+- Transonic Bird
+- Trap Eater
+- Trap Hole
+- Trap Jammer
+- Trap Master
+- Trap of Board Eraser
+- Trap of Darkness
+- Trap of the Imperial Tomb
+- Trap Reactor Y FI
+- Trap Stun
+- Trap Trick
+- Traptrix Nepenthes
+- Traptrix Trap Hole Nightmare
+- Treacherous Trap Hole
+- Treasure Panda
+- Treaty on Uniform Nomenclature
+- Tree Otter
+- Treeborn Frog
+- Tremendous Fire
+- Trent
+- Tri-and-Guess
+- Tri-Brigade Nervall
+- Tri-Brigade Oath
+- Tri-Brigade Rendezvous
+- Tri-Brigade Revolt
+- Tri-Brigade Rugal the Silver Sheller
+- Tri-Brigade Stand-Off
+- Tri-Wight
+- Trial of Nightmare
+- Trial of the Princesses
+- Triamid Dancer
+- Triamid Fortress
+- Triamid Loading
+- Triangle Ecstasy Spark
+- Triangle Power
+- Trias Hierarchia
+- Tribal Synergy
+- Tribe-Infecting Virus
+- Tribute Doll
+- Tribute to the Doomed
+- Trick Box
+- Trickstar Bloom
+- Trickstar Bouquet
+- Trickstar Candina
+- Trickstar Delfiendium
+- Trickstar Fusion
+- Trickstar Light Arena
+- Trickstar Lilybell
+- Trickstar Lycoris
+- Trickstar Mandrake
+- Trickstar Narkissus
+- Trickstar Nightshade
+- Tricky Spell 4
+- Tricular
+- Trident Warrior
+- Trifortressops
+- Triggered Summon
+- Trigon
+- Triple Burst Dragon
+- Tripod Fish
+- Tripwire Beast
+- Tristan, Knight of the Underworld
+- Trojan Gladiator Beast
+- Troop Dragon
+- Truckroid
+- True Draco Apocalypse
+- True Draco Heritage
+- True King Agnimazud, the Vanisher
+- True King's Return
+- Tsukuyomi
+- Tune Warrior
+- Tuned Magician
+- Tuner Capture
+- Tuning
+- Tuningware
+- Turbo Booster
+- Turbo Synchron
+- Turbo Warrior
+- Turnabout
+- Turning of the World
+- Turret Warrior
+- Turtle Bird
+- Turtle Oath
+- Turtle Tiger
+- Turu-Purun
+- Tutan Mask
+- Twilight Cloth
+- Twilight Ninja Getsuga, the Shogun
+- Twilight Ninja Nichirin, the Chunin
+- Twilight Ninja Shingetsu
+- Twilight Rose Knight
+- Twilight Twin Dragons
+- Twin Long Rods #2
+- Twin Photon Lizard
+- Twin Swords of Flashing Light - Tryce
+- Twin Triangle Dragon
+- Twin Twisters
+- Twin-Barrel Dragon
+- Twin-Headed Behemoth
+- Twin-Headed Fire Dragon
+- Twin-Headed Thunder Dragon
+- Twin-Headed Wolf
+- Twin-Shield Defender
+- Twin-Sword Marauder
+- Twisted Personality
+- Twister
+- Two Thousand Needles
+- Two Toads with One Sting
+- Two-for-One Team
+- Two-Headed King Rex
+- Two-Man Cell Battle
+- Two-Mouth Darkruler
+- Two-Pronged Attack
+- Tyhone
+- Tyhone #2
+- Type Zero Magic Crusher
+- Typhoon
+- Tyr of the Nordic Champions
+- Tyranno Infinity
+- Tyrant Burst Dragon
+- Tyrant Dino Fusion
+- Tyrant Dragon
+- Tyrant Farm
+- Tyrant Wing
+- Tyrant's Tantrum
+- Tyrant's Tirade
+- Tyrant's Tummyache
+- Tytannial, Princess of Camellias
+- U.A. Dreadnought Dunker
+- U.A. Libero Spiker
+- U.A. Locker Room
+- U.A. Man of the Match
+- U.A. Penalty Box
+- U.A. Player Manager
+- U.A. Powered Jersey
+- U.A. Rival Rebounder
+- U.A. Signing Deal
+- U.A. Stadium
+- UFO Turtle
+- UFOroid
+- Ultimate Ancient Gear Golem
+- Ultimate Baseball Kid
+- Ultimate Obedient Fiend
+- Ultimate Providence
+- Ultimate Tyranno
+- Ultimaya Tzolkin
+- Ultra Evolution Pill
+- Umbral Horror Ghost
+- Umbral Horror Ghoul
+- Umbral Horror Unform
+- Umbral Horror Will o' the Wisp
+- Umbral Soul
+- Umi
+- Umiiruka
+- Uminotaurus
+- Unauthorized Bootup Device
+- Unbreakable Spirit
+- Unchained Twins - Aruha
+- Unchained Twins - Rakea
+- Unchained Twins - Sarama
+- Undaunted Bumpkin Beast
+- Underclock Taker
+- Underworld Egg Clutch
+- Unending Nightmare
+- Unexpected Dai
+- Uni-Horned Familiar
+- Uni-Song Tuning
+- Uni-Zombie
+- Unicycular
+- Unification
+- Unified Front
+- Uniflora, Mystical Beast of the Forest
+- Unifrog
+- Union Attack
+- Union Combination
+- Union Hangar
+- Union Rider
+- Union Scramble
+- United Resistance
+- United We Stand
+- Universal Adapter
+- Unknown Synchron
+- Unknown Warrior of Fiend
+- Unleash Your Power!
+- Unmasked Dragon
+- Unpossessed
+- Unshaven Angler
+- Unstable Evolution
+- Until Noble Arms are Needed Once Again
+- Update Jammer
+- Upstart Golden Ninja
+- Uraby
+- Urgent Synthesis
+- Urgent Tuning
+- Ursarctic Drytron
+- Ushi Oni
+- Utopian Aura
+- V-Tiger Jet
+- Vain Betrayer
+- Valerifawn, Mystical Beast of the Forest
+- Valhalla, Hall of the Fallen
+- Valkyrian Knight
+- Valkyrie Chariot
+- Valkyrie Funfte
+- Valkyrie of the Nordic Ascendant
+- Valkyrion the Magna Warrior
+- Vampire Awakening
+- Vampire Baby
+- Vampire Domination
+- Vampire Dragon
+- Vampire Familiar
+- Vampire Genesis
+- Vampire Grace
+- Vampire Grimson
+- Vampire Kingdom
+- Vampire Lady
+- Vampire Lord
+- Vampire Red Baron
+- Vampire Retainer
+- Vampire Scarlet Scourge
+- Vampire's Curse
+- Vampire's Desire
+- Vampire's Domain
+- Vampiric Koala
+- Vampiric Orchis
+- Van'Dalgyon the Dark Dragon Lord
+- Vanadis of the Nordic Ascendant
+- Vanguard of the Dragon
+- Vanity's Call
+- Vanity's Fiend
+- Vanity's Ruler
+- Vanquishing Light
+- Variable Form
+- Variety Comes Out
+- Vehicroid Connection Zone
+- Veil of Darkness
+- Vendread Anima
+- Vendread Daybreak
+- Vendread Nightmare
+- Vendread Revenants
+- Vendread Striges
+- Vengeful Bog Spirit
+- Vengeful Servant
+- Vengeful Shinobi
+- Vennominon the King of Poisonous Snakes
+- Vennu, Bright Bird of Divinity
+- Venom Boa
+- Venom Burn
+- Venom Cobra
+- Venom Serpent
+- Venom Shot
+- Venom Snake
+- Venom Swamp
+- Ventdra, the Empowered Warrior
+- Verdant Sanctuary
+- Vermillion Sparrow
+- Versago the Destroyer
+- Vertical Landing
+- Vessel for the Dragon Cycle
+- Vice Berserker
+- Vice Dragon
+- Vicious Claw
+- Victoria
+- Victory Viper XX03
+- Vile Germs
+- Vilepawn Archfiend
+- Violent Rain
+- Violet Crystal
+- Viper's Rebirth
+- Virtual World Gate - Qinglong
+- Virtual World Gate - Xuanwu
+- Virtual World Kirin - Lili
+- Virtual World Shell - Jaja
+- Virtual World Xiezhi - Jiji
+- Viser Des
+- Void Feast
+- Void Ogre Dragon
+- Volcanic Blaster
+- Volcanic Counter
+- Volcanic Eruption
+- Volcanic Hammerer
+- Volcanic Queen
+- Volcanic Rat
+- Volcanic Recharge
+- Volcanic Rocket
+- Volcanic Scattershot
+- Volcanic Shell
+- Voltester
+- Voltic Kong
+- Vorse Raider
+- Vortex Trooper
+- Vorticular Drumgon
+- VW-Tiger Catapult
+- VWXYZ-Dragon Catapult Cannon
+- Vylon Component
+- Vylon Element
+- Vylon Filament
+- Vylon Matter
+- Vylon Ohm
+- Vylon Pentachloro
+- Vylon Prism
+- Vylon Segment
+- Vylon Soldier
+- Vylon Stella
+- Vylon Tesseract
+- Vylon Tetra
+- Vylon Vanguard
+- W Nebula Meteorite
+- W-Wing Catapult
+- Waboku
+- Waking the Dragon
+- Wall of Disruption
+- Wall of Illusion
+- Wall of Ivy
+- Wall Shadow
+- Wandering Mummy
+- War Rock Big Blow
+- War Rock Generations
+- War Rock Mammud
+- War Rock Ordeal
+- War Rock Orpis
+- War Rock Skyler
+- War-Lion Ritual
+- Warlock of the Ice Barrier
+- Warrior Dai Grepher
+- Warrior Elimination
+- Warrior Lady of the Wasteland
+- Warrior of Atlantis
+- Warrior of Zera
+- Wasteland
+- Watapon
+- Watch Cat
+- Watch Dog
+- Water Dragon
+- Water Hazard
+- Water Leviathan @Ignister
+- Water Magician
+- Water Omotics
+- Water Spirit
+- Wattaildragon
+- Wattbetta
+- Wattcancel
+- Wattcannon
+- Wattcine
+- Wattcobra
+- Wattcube
+- Wattdragonfly
+- Wattfox
+- Watthopper
+- Wattjustment
+- Wattkeeper
+- Wattkey
+- Wattkid
+- Wattkinetic Puppeteer
+- Wattkiwi
+- Wattlemur
+- Wattmole
+- Wattpheasant
+- Wattrain
+- Wattwoodpecker
+- Wave-Motion Cannon
+- Wavering Eyes
+- Weapon Change
+- Weather Report
+- Weed Out
+- Weeping Idol
+- Wetha
+- Wetlands
+- Where Arf Thou?
+- Whiptail Crow
+- Whirlwind of Gusto
+- Whirlwind Prodigy
+- Whirlwind Weasel
+- White Dragon Ritual
+- White Duston
+- White Elephant's Gift
+- White Hole
+- White Magical Hat
+- White Magician Pikeru
+- White Night Dragon
+- White Night Queen
+- White Ninja
+- White Potan
+- White Stingray
+- White Tiger Summoner
+- White-Horned Dragon
+- Wicked Acolyte Chilam Sabak
+- Wicked Rebirth
+- Wicked-Breaking Flamberge - Baou
+- Widespread Dud
+- Widespread Ruin
+- Wightmare
+- Wightprince
+- Wightprincess
+- Wild Fire
+- Wild Nature's Release
+- Wild Tornado
+- Will of the Salamangreat
+- Wind Effigy
+- Wind Pegasus @Ignister
+- Wind-Up Bat
+- Wind-Up Dog
+- Wind-Up Factory
+- Wind-Up Honeybee
+- Wind-Up Soldier
+- Wind-Up Warrior
+- Winda, Priestess of Gusto
+- Windstorm of Etaqua
+- Windwitch - Blizzard Bell
+- Windwitch - Glass Bell
+- Windwitch - Ice Bell
+- Windwitch - Snow Bell
+- Winged Cleaver
+- Winged Dragon, Guardian of the Fortress #1
+- Winged Dragon, Guardian of the Fortress #2
+- Winged Kuriboh
+- Winged Kuriboh LV10
+- Winged Minion
+- Winged Rhynos
+- Winged Sage Falcos
+- Wings of Wicked Flame
+- Wingweaver
+- Wiretap
+- Witch Doctor of Chaos
+- Witch Doctor of Sparta
+- Witch of the Black Forest
+- Witch of the Black Rose
+- Witch's Apprentice
+- Witchcrafter Draping
+- Witchcrafter Genni
+- Witchcrafter Golem Aruru
+- Witchcrafter Patronus
+- Witchcrafter Unveiling
+- Witty Phantom
+- Wiz, Sage Fur Hire
+- Wizard Buster Destruction Sword
+- Wodan the Resident of the Forest
+- Wolf
+- Wolf Axwielder
+- Wolf in Sheep's Clothing
+- Wonder Balloons
+- Wonder Clover
+- Wonder Garage
+- Wonder Wand
+- Wonder Xyz
+- Woodborg Inpachi
+- Woodland Archer
+- Woodland Sprite
+- World Carrotweight Champion
+- World Chalice Guardragon
+- World Chalice Guardragon Almarduke
+- World Dino Wrestling
+- World Legacy - "World Key"
+- World Legacy - "World Shield"
+- World Legacy - "World Wand"
+- World Legacy Awakens
+- World Legacy Bestowal
+- World Legacy Clash
+- World Legacy Cliffhanger
+- World Legacy Collapse
+- World Legacy Guardragon Mardark
+- World Legacy in Shadow
+- World Legacy Landmark
+- World Legacy Pawns
+- World Legacy Struggle
+- World Legacy's Corruption
+- World Legacy's Heart
+- World Legacy's Memory
+- World Legacy's Mind Meld
+- World Legacy's Nightmare
+- World Reassembly
+- World Soul - Carbon
+- World Suppression
+- Worm Apocalypse
+- Worm Bait
+- Worm Barses
+- Worm Call
+- Worm Cartaros
+- Worm Dimikles
+- Worm Drake
+- Worm Falco
+- Worm Gulse
+- Worm Hope
+- Worm Illidan
+- Worm Jetelikpse
+- Worm Linx
+- Worm Millidith
+- Worm Prince
+- Worm Rakuyeh
+- Worm Tentacles
+- Worm Ugly
+- Worm Xex
+- Worm Yagan
+- Wow Warrior
+- Wrecker Panda
+- Wretched Ghost of the Attic
+- Wroughtweiler
+- Wulf, Lightsworn Beast
+- Wynn the Wind Charmer
+- X-Head Cannon
+- X-Krawler Neurogos
+- X-Krawler Synaphysis
+- X-Saber Airbellum
+- X-Saber Anu Piranha
+- X-Saber Axel
+- X-Saber Galahad
+- X-Saber Palomuro
+- X-Saber Pashuul
+- X-Saber Souza
+- X-Saber Urbellum
+- X-Saber Uruz
+- Xiangke Magician
+- Xiangsheng Magician
+- Xing Zhen Hu
+- Xing Zhen Hu Replica
+- Xtra HERO Cross Crusader
+- XX-Saber Boggart Knight
+- XX-Saber Faultroll
+- XX-Saber Fulhelmknight
+- XX-Saber Ragigura
+- XY-Dragon Cannon
+- Xyz Agent
+- Xyz Avenger
+- Xyz Block
+- Xyz Burst
+- Xyz Dimension Splash
+- Xyz Double Back
+- Xyz Effect
+- Xyz Energy
+- Xyz Import
+- Xyz Override
+- Xyz Reception
+- Xyz Reflect
+- Xyz Remora
+- Xyz Revenge Shuffle
+- Xyz Reversal
+- Xyz Revive Splash
+- Xyz Shift
+- Xyz Slidolphin
+- Xyz Soul
+- Xyz Tribalrivals
+- Xyz Unit
+- Xyz Wrath
+- Xyz Xtreme !!
+- XYZ-Dragon Cannon
+- XZ-Tank Cannon
+- Y-Dragon Head
+- Yado Karu
+- Yaiba Robo
+- Yajiro Invader
+- Yaksha
+- Yamadron
+- Yami
+- Yamorimori
+- Yang Zing Brutality
+- Yang Zing Prana
+- Yang Zing Unleashed
+- Yaranzo
+- Yazi, Evil of the Yang Zing
+- Yellow Duston
+- Yellow Gadget
+- Yellow Luster Shield
+- Yellow-Bellied Oni
+- Yoko-Zuna Sumo Spirit
+- Yokotuner
+- Yomi Ship
+- Yosen Whirlwind
+- Yosenju Izna
+- Yosenju Kama 1
+- Yosenju Kama 2
+- Yosenju Kama 3
+- Yosenju Kodam
+- Yosenju Magat
+- Yosenju Oroshi Channeling
+- Yosenju Sabu
+- Yosenju Shinchu L
+- Yosenju Shinchu R
+- Yosenju Tsujik
+- Yosenju Wind Worship
+- Yosenjus' Secret Move
+- Yosenjus' Sword Sting
+- You and A.I.
+- You're in Danger!
+- Yuki-Musume, the Ice Mayakashi
+- YZ-Tank Dragon
+- Z-Metal Tank
+- Z-ONE
+- Zaborg the Thunder Monarch
+- Zany Zebra
+- Zap Mustung
+- Zefra Path
+- Zefra War
+- Zefrasaber, Swordmaster of the Nekroz
+- Zefraxa, Flame Beast of the Nekroz
+- Zenmaiday
+- Zenmailfunction
+- Zenmailstrom
+- Zenmairch
+- Zeradias, Herald of Heaven
+- Zero Extra Link
+- Zero Force
+- Zero Gardna
+- Zero Gravity
+- Zerozerock
+- Zexal Alliance
+- Zexal Entrust
+- Zoa
+- Zodiac Sign
+- Zolga
+- Zoma the Spirit
+- Zombie Mammoth
+- Zombie Master
+- Zombie Necronize
+- Zombie Power Struggle
+- Zombie Tiger
+- Zombie Warrior
+- Zombie World
+- Zombina
+- Zombino
+- Zombyra the Dark
+- Zone Eater
+- Zoodiac Bunnyblast
+- Zoodiac Combo
+- Zoodiac Gathering
+- Zoodiac Hammerkong
+- Zoodiac Kataroost
+- Zoodiac Ramram
+- ZS - Armed Sage
+- ZS - Vanish Sage
+- Zubaba Buster
+- Zubaba General
+- Zubaba Knight
+- Zure, Knight of Dark World
+- Zushin the Sleeping Giant
+- ZW - Eagle Claw
+- ZW - Pegasus Twin Saber
+- ZW - Sleipnir Mail
+- ZW - Ultimate Shield
+- ZW - Unicorn Spear
