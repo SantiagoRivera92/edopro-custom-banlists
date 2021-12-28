@@ -109,17 +109,20 @@ with urllib.request.urlopen(request) as url:
 				else:
 					unlimitedCards.append(simpleCard)
 
-
-		outfile.write("| Card Name | Status |\n")
+		allCards = []
 		for card in bannedCards:
-			writeCard(card, outfile)
-
-		outfile.write("\n\n| Card Name | Status |\n")
+			allCards.append(card)
 		for card in limitedCards:
-			writeCard(card, outfile)
-		outfile.write("\n\n| Card Name | Status |\n")
+			allCards.append(card)
 		for card in semiLimitedCards:
-			writeCard(card, outfile)
-		outfile.write("\n\n| Card Name | Status |\n")
+			allCards.append(card)
 		for card in unlimitedCards:
+			allCards.append(card)
+
+		outfile.write("\n\n| Card Name | Status |")
+		printedCards = 0
+		for card in allCards:
+			if printedCards == 100:
+				outfile.write("\n\n| Card Name | Status |")
 			writeCard(card, outfile)
+			printedCards+=1

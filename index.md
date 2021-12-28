@@ -1,3 +1,5 @@
+
+
 | Card Name | Status |
 | ["Infernoble Arms - Durendal"](https://db.ygoprodeck.com/card/?search="Infernoble%20Arms%20-%20Durendal") | Forbidden |
 | ["Infernoble Arms - Joyeuse"](https://db.ygoprodeck.com/card/?search="Infernoble%20Arms%20-%20Joyeuse") | Forbidden |
@@ -99,6 +101,8 @@
 | [Amazing Time Ticket](https://db.ygoprodeck.com/card/?search=Amazing%20Time%20Ticket) | Forbidden |
 | [Amazoness Baby Tiger](https://db.ygoprodeck.com/card/?search=Amazoness%20Baby%20Tiger) | Forbidden |
 | [Amazoness Call](https://db.ygoprodeck.com/card/?search=Amazoness%20Call) | Forbidden |
+
+| Card Name | Status |
 | [Amazoness Shamanism](https://db.ygoprodeck.com/card/?search=Amazoness%20Shamanism) | Forbidden |
 | [Amazoness Willpower](https://db.ygoprodeck.com/card/?search=Amazoness%20Willpower) | Forbidden |
 | [Amorphage Envy](https://db.ygoprodeck.com/card/?search=Amorphage%20Envy) | Forbidden |
@@ -4065,8 +4069,6 @@
 | [ZW - Phoenix Bow](https://db.ygoprodeck.com/card/?search=ZW%20-%20Phoenix%20Bow) | Forbidden |
 | [ZW - Sylphid Wing](https://db.ygoprodeck.com/card/?search=ZW%20-%20Sylphid%20Wing) | Forbidden |
 | [ZW - Tornado Bringer](https://db.ygoprodeck.com/card/?search=ZW%20-%20Tornado%20Bringer) | Forbidden |
-
-| Card Name | Status |
 | [A Hero Lives](https://db.ygoprodeck.com/card/?search=A%20Hero%20Lives) | Limited |
 | [Armageddon Knight](https://db.ygoprodeck.com/card/?search=Armageddon%20Knight) | Limited |
 | [Black Dragon Collapserpent](https://db.ygoprodeck.com/card/?search=Black%20Dragon%20Collapserpent) | Limited |
@@ -4123,12 +4125,8 @@
 | [Upstart Goblin](https://db.ygoprodeck.com/card/?search=Upstart%20Goblin) | Limited |
 | [Wall of Revealing Light](https://db.ygoprodeck.com/card/?search=Wall%20of%20Revealing%20Light) | Limited |
 | [White Dragon Wyverburster](https://db.ygoprodeck.com/card/?search=White%20Dragon%20Wyverburster) | Limited |
-
-| Card Name | Status |
 | [Destiny HERO - Malicious](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Malicious) | Semi-Limited |
 | [Performapal Skullcrobat Joker](https://db.ygoprodeck.com/card/?search=Performapal%20Skullcrobat%20Joker) | Semi-Limited |
-
-| Card Name | Status |
 | ["A" Cell Breeding Device](https://db.ygoprodeck.com/card/?search="A"%20Cell%20Breeding%20Device) | Unlimited |
 | ["A" Cell Incubator](https://db.ygoprodeck.com/card/?search="A"%20Cell%20Incubator) | Unlimited |
 | ["A" Cell Recombination Device](https://db.ygoprodeck.com/card/?search="A"%20Cell%20Recombination%20Device) | Unlimited |
