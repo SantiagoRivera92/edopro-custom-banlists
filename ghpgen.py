@@ -48,7 +48,7 @@ filename = 'index.md'
 def writeCard(card, outfile):
 	cardStatus = card.get(status)
 	cardStatusAsText = "Unlimited"
-	if (cardStatus < 1):
+	if (cardStatus == 0):
 		cardStatusAsText = "Forbidden"
 	elif (cardStatus == 1):
 		cardStatusAsText = "Limited"
@@ -61,12 +61,11 @@ def writeCard(card, outfile):
 
 with urllib.request.urlopen(request) as url:
 	with open(filename, 'w', encoding="utf-8") as outfile:
-		outfile.write("| Card Name | Status |")
 		cards = json.loads(url.read().decode()).get(data)
+		bannedCards = []
 		limitedCards = []
 		semiLimitedCards = []
 		unlimitedCards = []
-		forbiddenCards = []
 		for card in cards:
 			if card.get(card_sets) != None:
 				images = card.get(card_images)
@@ -96,9 +95,31 @@ with urllib.request.urlopen(request) as url:
 						hasCommonPrint = True
 
 				if not hasCommonPrint:
-					banTcg = -1
+					banTcg = 0
 
 				simpleCard = {}
 				simpleCard[name] = card.get(name)
 				simpleCard[status] = banTcg
-				writeCard(simpleCard, outfile)
+				if banTcg == 0:
+					bannedCards.append(simpleCard)
+				elif banTcg == 1:
+					limitedCards.append(simpleCard)
+				elif banTcg == 2:
+					semiLimitedCards.append(simpleCard)
+				else:
+					unlimitedCards.append(simpleCard)
+
+
+		outfile.write("| Card Name | Status |\n")
+		for card in bannedCards:
+			writeCard(card, outfile)
+
+		outfile.write("\n\n| Card Name | Status |\n")
+		for card in limitedCards:
+			writeCard(card, outfile)
+		outfile.write("\n\n| Card Name | Status |\n")
+		for card in semiLimitedCards:
+			writeCard(card, outfile)
+		outfile.write("\n\n| Card Name | Status |\n")
+		for card in unlimitedCards:
+			writeCard(card, outfile)
