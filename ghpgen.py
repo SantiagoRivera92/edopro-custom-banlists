@@ -53,6 +53,7 @@ with urllib.request.urlopen(request) as url:
 	limitedCards = []
 	semiLimitedCards = []
 	unlimitedCards = []
+	forbiddenCards = []
 	for card in cards:
 		if card.get(card_sets) != None:
 			images = card.get(card_images)
@@ -91,11 +92,15 @@ with urllib.request.urlopen(request) as url:
 					semiLimitedCards.append(simpleCard)
 				elif banTcg == 1:
 					limitedCards.append(simpleCard)
-
+				elif banTcg == 0:
+					forbiddenCards.append(simpleCard)
+			else:
+				forbiddenCards.append(simpleCard)
 
 	with open(filename, 'w', encoding="utf-8") as outfile:
-		outfile.write("# Common Charity banlist\n")
-		outfile.write("\n\nIf a card is not in this document, it is not legal to play in the Common Charity format.")
+		outfile.write("\n\n## Forbidden:\n")
+		for card in forbiddenCards:
+			writeCard(card, outfile)
 		outfile.write("\n\n## Limited:\n")
 		for card in limitedCards:
 			writeCard(card, outfile)
