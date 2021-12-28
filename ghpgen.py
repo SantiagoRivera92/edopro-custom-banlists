@@ -124,5 +124,6 @@ with urllib.request.urlopen(request) as url:
 		for card in allCards:
 			if printedCards == 100:
 				outfile.write("\n\n| Card Name | Status |")
+				printedCards = 0
 			writeCard(card, outfile)
 			printedCards+=1

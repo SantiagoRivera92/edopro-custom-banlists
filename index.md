@@ -203,6 +203,8 @@
 | [Armed Dragon Thunder LV7](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20Thunder%20LV7) | Forbidden |
 | [Armed Dragon Thunderbolt](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20Thunderbolt) | Forbidden |
 | [Armillyre, the Starleader Dragon](https://db.ygoprodeck.com/card/?search=Armillyre,%20the%20Starleader%20Dragon) | Forbidden |
+
+| Card Name | Status |
 | [Armityle the Chaos Phantasm](https://db.ygoprodeck.com/card/?search=Armityle%20the%20Chaos%20Phantasm) | Forbidden |
 | [Armityle the Chaos Phantasm - Phantom of Fury](https://db.ygoprodeck.com/card/?search=Armityle%20the%20Chaos%20Phantasm%20-%20Phantom%20of%20Fury) | Forbidden |
 | [Armor Blast](https://db.ygoprodeck.com/card/?search=Armor%20Blast) | Forbidden |
@@ -303,6 +305,8 @@
 | [Beautiful Headhuntress](https://db.ygoprodeck.com/card/?search=Beautiful%20Headhuntress) | Forbidden |
 | [Beautunaful Princess](https://db.ygoprodeck.com/card/?search=Beautunaful%20Princess) | Forbidden |
 | [Beetrooper Armor Horn](https://db.ygoprodeck.com/card/?search=Beetrooper%20Armor%20Horn) | Forbidden |
+
+| Card Name | Status |
 | [Beetrooper Descent](https://db.ygoprodeck.com/card/?search=Beetrooper%20Descent) | Forbidden |
 | [Beetrooper Formation](https://db.ygoprodeck.com/card/?search=Beetrooper%20Formation) | Forbidden |
 | [Beetrooper Light Flapper](https://db.ygoprodeck.com/card/?search=Beetrooper%20Light%20Flapper) | Forbidden |
@@ -403,6 +407,8 @@
 | [Brain Golem](https://db.ygoprodeck.com/card/?search=Brain%20Golem) | Forbidden |
 | [Brain Hazard](https://db.ygoprodeck.com/card/?search=Brain%20Hazard) | Forbidden |
 | [Brain Jacker](https://db.ygoprodeck.com/card/?search=Brain%20Jacker) | Forbidden |
+
+| Card Name | Status |
 | [Branded in High Spirits](https://db.ygoprodeck.com/card/?search=Branded%20in%20High%20Spirits) | Forbidden |
 | [Branded in Red](https://db.ygoprodeck.com/card/?search=Branded%20in%20Red) | Forbidden |
 | [Branded in White](https://db.ygoprodeck.com/card/?search=Branded%20in%20White) | Forbidden |
@@ -503,6 +509,8 @@
 | [Celestial Knightlord Parshath](https://db.ygoprodeck.com/card/?search=Celestial%20Knightlord%20Parshath) | Forbidden |
 | [Celestial Observatory](https://db.ygoprodeck.com/card/?search=Celestial%20Observatory) | Forbidden |
 | [Celestial Wolf Lord, Blue Sirius](https://db.ygoprodeck.com/card/?search=Celestial%20Wolf%20Lord,%20Blue%20Sirius) | Forbidden |
+
+| Card Name | Status |
 | [Celtic Guard of Noble Arms](https://db.ygoprodeck.com/card/?search=Celtic%20Guard%20of%20Noble%20Arms) | Forbidden |
 | [Centaur Mina](https://db.ygoprodeck.com/card/?search=Centaur%20Mina) | Forbidden |
 | [Cerulean Sacred Phoenix of Nephthys](https://db.ygoprodeck.com/card/?search=Cerulean%20Sacred%20Phoenix%20of%20Nephthys) | Forbidden |
@@ -603,6 +611,8 @@
 | [Constellar Zubeneschamali](https://db.ygoprodeck.com/card/?search=Constellar%20Zubeneschamali) | Forbidden |
 | [Contact with Gusto](https://db.ygoprodeck.com/card/?search=Contact%20with%20Gusto) | Forbidden |
 | [Contract with Don Thousand](https://db.ygoprodeck.com/card/?search=Contract%20with%20Don%20Thousand) | Forbidden |
+
+| Card Name | Status |
 | [Contrast HERO Chaos](https://db.ygoprodeck.com/card/?search=Contrast%20HERO%20Chaos) | Forbidden |
 | [Converging Wishes](https://db.ygoprodeck.com/card/?search=Converging%20Wishes) | Forbidden |
 | [Coordius the Triphasic Dealmon](https://db.ygoprodeck.com/card/?search=Coordius%20the%20Triphasic%20Dealmon) | Forbidden |
@@ -703,6 +713,8 @@
 | [Cynet Optimization](https://db.ygoprodeck.com/card/?search=Cynet%20Optimization) | Forbidden |
 | [Cynet Recovery](https://db.ygoprodeck.com/card/?search=Cynet%20Recovery) | Forbidden |
 | [D - Force](https://db.ygoprodeck.com/card/?search=D%20-%20Force) | Forbidden |
+
+| Card Name | Status |
 | [D - Tactics](https://db.ygoprodeck.com/card/?search=D%20-%20Tactics) | Forbidden |
 | [D-Boyz](https://db.ygoprodeck.com/card/?search=D-Boyz) | Forbidden |
 | [D.D. Designator](https://db.ygoprodeck.com/card/?search=D.D.%20Designator) | Forbidden |
@@ -803,6 +815,8 @@
 | [Darklord Ixchel](https://db.ygoprodeck.com/card/?search=Darklord%20Ixchel) | Forbidden |
 | [Darklord Morningstar](https://db.ygoprodeck.com/card/?search=Darklord%20Morningstar) | Forbidden |
 | [Darklord Nasten](https://db.ygoprodeck.com/card/?search=Darklord%20Nasten) | Forbidden |
+
+| Card Name | Status |
 | [Darklord Nurse Reficule](https://db.ygoprodeck.com/card/?search=Darklord%20Nurse%20Reficule) | Forbidden |
 | [Darklord Rebellion](https://db.ygoprodeck.com/card/?search=Darklord%20Rebellion) | Forbidden |
 | [Darklord Superbia](https://db.ygoprodeck.com/card/?search=Darklord%20Superbia) | Forbidden |
@@ -903,6 +917,8 @@
 | [Don Thousand's Throne](https://db.ygoprodeck.com/card/?search=Don%20Thousand's%20Throne) | Forbidden |
 | [Doomking Balerdroch](https://db.ygoprodeck.com/card/?search=Doomking%20Balerdroch) | Forbidden |
 | [Doomsday Horror](https://db.ygoprodeck.com/card/?search=Doomsday%20Horror) | Forbidden |
+
+| Card Name | Status |
 | [DoSolfachord Coolia](https://db.ygoprodeck.com/card/?search=DoSolfachord%20Coolia) | Forbidden |
 | [DoSolfachord Cutia](https://db.ygoprodeck.com/card/?search=DoSolfachord%20Cutia) | Forbidden |
 | [Double Disruptor Dragon](https://db.ygoprodeck.com/card/?search=Double%20Disruptor%20Dragon) | Forbidden |
@@ -1003,6 +1019,8 @@
 | [Duel Link Dragon, the Duel Dragon](https://db.ygoprodeck.com/card/?search=Duel%20Link%20Dragon,%20the%20Duel%20Dragon) | Forbidden |
 | [Dueltaining](https://db.ygoprodeck.com/card/?search=Dueltaining) | Forbidden |
 | [Duoterion](https://db.ygoprodeck.com/card/?search=Duoterion) | Forbidden |
+
+| Card Name | Status |
 | [Dust Knight](https://db.ygoprodeck.com/card/?search=Dust%20Knight) | Forbidden |
 | [Duza the Meteor Cubic Vessel](https://db.ygoprodeck.com/card/?search=Duza%20the%20Meteor%20Cubic%20Vessel) | Forbidden |
 | [Dwimmered Path](https://db.ygoprodeck.com/card/?search=Dwimmered%20Path) | Forbidden |
@@ -1103,6 +1121,8 @@
 | [Enma's Judgment](https://db.ygoprodeck.com/card/?search=Enma's%20Judgment) | Forbidden |
 | [Envoy of Chaos](https://db.ygoprodeck.com/card/?search=Envoy%20of%20Chaos) | Forbidden |
 | [Erebus the Underworld Monarch](https://db.ygoprodeck.com/card/?search=Erebus%20the%20Underworld%20Monarch) | Forbidden |
+
+| Card Name | Status |
 | [Eria the Water Charmer, Gentle](https://db.ygoprodeck.com/card/?search=Eria%20the%20Water%20Charmer,%20Gentle) | Forbidden |
 | [Erica the Rikka Fairy](https://db.ygoprodeck.com/card/?search=Erica%20the%20Rikka%20Fairy) | Forbidden |
 | [Eternal Bond](https://db.ygoprodeck.com/card/?search=Eternal%20Bond) | Forbidden |
@@ -1203,6 +1223,8 @@
 | [Favorite Hero](https://db.ygoprodeck.com/card/?search=Favorite%20Hero) | Forbidden |
 | [Featherizer](https://db.ygoprodeck.com/card/?search=Featherizer) | Forbidden |
 | [Fenghuang](https://db.ygoprodeck.com/card/?search=Fenghuang) | Forbidden |
+
+| Card Name | Status |
 | [Fenrir the Nordic Wolf](https://db.ygoprodeck.com/card/?search=Fenrir%20the%20Nordic%20Wolf) | Forbidden |
 | [Ferocious Flame Swordsman](https://db.ygoprodeck.com/card/?search=Ferocious%20Flame%20Swordsman) | Forbidden |
 | [Fiber Jar](https://db.ygoprodeck.com/card/?search=Fiber%20Jar) | Forbidden |
@@ -1303,6 +1325,8 @@
 | [Frightfur Tiger](https://db.ygoprodeck.com/card/?search=Frightfur%20Tiger) | Forbidden |
 | [Frightfur Wolf](https://db.ygoprodeck.com/card/?search=Frightfur%20Wolf) | Forbidden |
 | [Frodi, Generaider Boss of Swords](https://db.ygoprodeck.com/card/?search=Frodi,%20Generaider%20Boss%20of%20Swords) | Forbidden |
+
+| Card Name | Status |
 | [Froggy Forcefield](https://db.ygoprodeck.com/card/?search=Froggy%20Forcefield) | Forbidden |
 | [Frontline Observer](https://db.ygoprodeck.com/card/?search=Frontline%20Observer) | Forbidden |
 | [Frost and Flame Dragon](https://db.ygoprodeck.com/card/?search=Frost%20and%20Flame%20Dragon) | Forbidden |
@@ -1403,6 +1427,8 @@
 | [Generation Next](https://db.ygoprodeck.com/card/?search=Generation%20Next) | Forbidden |
 | [Genex Ally Axel](https://db.ygoprodeck.com/card/?search=Genex%20Ally%20Axel) | Forbidden |
 | [Genex Ally Bellflame](https://db.ygoprodeck.com/card/?search=Genex%20Ally%20Bellflame) | Forbidden |
+
+| Card Name | Status |
 | [Genex Ally Duradark](https://db.ygoprodeck.com/card/?search=Genex%20Ally%20Duradark) | Forbidden |
 | [Genex Ally Powercell](https://db.ygoprodeck.com/card/?search=Genex%20Ally%20Powercell) | Forbidden |
 | [Genex Ally Reliever](https://db.ygoprodeck.com/card/?search=Genex%20Ally%20Reliever) | Forbidden |
@@ -1503,6 +1529,8 @@
 | [Glow-Up Bulb](https://db.ygoprodeck.com/card/?search=Glow-Up%20Bulb) | Forbidden |
 | [Gnomaterial](https://db.ygoprodeck.com/card/?search=Gnomaterial) | Forbidden |
 | [Go! - D/D/D Divine Zero King Rage](https://db.ygoprodeck.com/card/?search=Go!%20-%20D/D/D%20Divine%20Zero%20King%20Rage) | Forbidden |
+
+| Card Name | Status |
 | [Goblin Black Ops](https://db.ygoprodeck.com/card/?search=Goblin%20Black%20Ops) | Forbidden |
 | [Goddess of Sweet Revenge](https://db.ygoprodeck.com/card/?search=Goddess%20of%20Sweet%20Revenge) | Forbidden |
 | [Goddess Skuld's Oracle](https://db.ygoprodeck.com/card/?search=Goddess%20Skuld's%20Oracle) | Forbidden |
@@ -1603,6 +1631,8 @@
 | [Heavy Metal Raiders](https://db.ygoprodeck.com/card/?search=Heavy%20Metal%20Raiders) | Forbidden |
 | [Heavy Metal Raiders (Skill Card)](https://db.ygoprodeck.com/card/?search=Heavy%20Metal%20Raiders%20(Skill%20Card)) | Forbidden |
 | [Heavy Storm](https://db.ygoprodeck.com/card/?search=Heavy%20Storm) | Forbidden |
+
+| Card Name | Status |
 | [Heavymetalfoes Electrumite](https://db.ygoprodeck.com/card/?search=Heavymetalfoes%20Electrumite) | Forbidden |
 | [Hela, Generaider Boss of Doom](https://db.ygoprodeck.com/card/?search=Hela,%20Generaider%20Boss%20of%20Doom) | Forbidden |
 | [Helios Duo Megistus](https://db.ygoprodeck.com/card/?search=Helios%20Duo%20Megistus) | Forbidden |
@@ -1703,6 +1733,8 @@
 | [Igknight Reload](https://db.ygoprodeck.com/card/?search=Igknight%20Reload) | Forbidden |
 | [Igknight Templar](https://db.ygoprodeck.com/card/?search=Igknight%20Templar) | Forbidden |
 | [Ignis Heat, the True Dracowarrior](https://db.ygoprodeck.com/card/?search=Ignis%20Heat,%20the%20True%20Dracowarrior) | Forbidden |
+
+| Card Name | Status |
 | [Ignister A.I.Land](https://db.ygoprodeck.com/card/?search=Ignister%20A.I.Land) | Forbidden |
 | [Ignister Prominence, the Blasting Dracoslayer](https://db.ygoprodeck.com/card/?search=Ignister%20Prominence,%20the%20Blasting%20Dracoslayer) | Forbidden |
 | [Ignoble Knight of Black Laundsallyn](https://db.ygoprodeck.com/card/?search=Ignoble%20Knight%20of%20Black%20Laundsallyn) | Forbidden |
@@ -1803,6 +1835,8 @@
 | [Joker's Straight](https://db.ygoprodeck.com/card/?search=Joker's%20Straight) | Forbidden |
 | [Joker's Wild](https://db.ygoprodeck.com/card/?search=Joker's%20Wild) | Forbidden |
 | [Jolt Counter](https://db.ygoprodeck.com/card/?search=Jolt%20Counter) | Forbidden |
+
+| Card Name | Status |
 | [Jormungandr, Generaider Boss of Eternity](https://db.ygoprodeck.com/card/?search=Jormungandr,%20Generaider%20Boss%20of%20Eternity) | Forbidden |
 | [Jormungardr the Nordic Serpent](https://db.ygoprodeck.com/card/?search=Jormungardr%20the%20Nordic%20Serpent) | Forbidden |
 | [Judgment of the Pharaoh](https://db.ygoprodeck.com/card/?search=Judgment%20of%20the%20Pharaoh) | Forbidden |
@@ -1903,6 +1937,8 @@
 | [Kozmojo](https://db.ygoprodeck.com/card/?search=Kozmojo) | Forbidden |
 | [Kozmoll Dark Lady](https://db.ygoprodeck.com/card/?search=Kozmoll%20Dark%20Lady) | Forbidden |
 | [Kozmotown](https://db.ygoprodeck.com/card/?search=Kozmotown) | Forbidden |
+
+| Card Name | Status |
 | [Krystal Avatar](https://db.ygoprodeck.com/card/?search=Krystal%20Avatar) | Forbidden |
 | [Krystal Dragon](https://db.ygoprodeck.com/card/?search=Krystal%20Dragon) | Forbidden |
 | [Kumongous, the Sticky String Kaiju](https://db.ygoprodeck.com/card/?search=Kumongous,%20the%20Sticky%20String%20Kaiju) | Forbidden |
@@ -2003,6 +2039,8 @@
 | [Lunalight Tiger](https://db.ygoprodeck.com/card/?search=Lunalight%20Tiger) | Forbidden |
 | [Luster Pendulum, the Dracoslayer](https://db.ygoprodeck.com/card/?search=Luster%20Pendulum,%20the%20Dracoslayer) | Forbidden |
 | [Lyla, Twilightsworn Enchantress](https://db.ygoprodeck.com/card/?search=Lyla,%20Twilightsworn%20Enchantress) | Forbidden |
+
+| Card Name | Status |
 | [Lyna the Light Charmer, Lustrous](https://db.ygoprodeck.com/card/?search=Lyna%20the%20Light%20Charmer,%20Lustrous) | Forbidden |
 | [Lyrilusc - Assembled Nightingale](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Assembled%20Nightingale) | Forbidden |
 | [Lyrilusc - Beryl Canary](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Beryl%20Canary) | Forbidden |
@@ -2103,6 +2141,8 @@
 | [Malefic Paradox Dragon](https://db.ygoprodeck.com/card/?search=Malefic%20Paradox%20Dragon) | Forbidden |
 | [Malefic Paradox Gear](https://db.ygoprodeck.com/card/?search=Malefic%20Paradox%20Gear) | Forbidden |
 | [Malefic Rainbow Dragon](https://db.ygoprodeck.com/card/?search=Malefic%20Rainbow%20Dragon) | Forbidden |
+
+| Card Name | Status |
 | [Malefic Selector](https://db.ygoprodeck.com/card/?search=Malefic%20Selector) | Forbidden |
 | [Malefic Territory](https://db.ygoprodeck.com/card/?search=Malefic%20Territory) | Forbidden |
 | [Malefic Tune](https://db.ygoprodeck.com/card/?search=Malefic%20Tune) | Forbidden |
@@ -2203,6 +2243,8 @@
 | [Mermaid Shark](https://db.ygoprodeck.com/card/?search=Mermaid%20Shark) | Forbidden |
 | [Mermail Abyssalacia](https://db.ygoprodeck.com/card/?search=Mermail%20Abyssalacia) | Forbidden |
 | [Mermail Abyssbalaen](https://db.ygoprodeck.com/card/?search=Mermail%20Abyssbalaen) | Forbidden |
+
+| Card Name | Status |
 | [Mermail Abyssdine](https://db.ygoprodeck.com/card/?search=Mermail%20Abyssdine) | Forbidden |
 | [Mermail Abyssgaios](https://db.ygoprodeck.com/card/?search=Mermail%20Abyssgaios) | Forbidden |
 | [Mermail Abyssgunde](https://db.ygoprodeck.com/card/?search=Mermail%20Abyssgunde) | Forbidden |
@@ -2303,6 +2345,8 @@
 | [Mystic Piper](https://db.ygoprodeck.com/card/?search=Mystic%20Piper) | Forbidden |
 | [Mystical Fairy Elfuria](https://db.ygoprodeck.com/card/?search=Mystical%20Fairy%20Elfuria) | Forbidden |
 | [Mystical Knight of Jackal](https://db.ygoprodeck.com/card/?search=Mystical%20Knight%20of%20Jackal) | Forbidden |
+
+| Card Name | Status |
 | [Mystical Refpanel](https://db.ygoprodeck.com/card/?search=Mystical%20Refpanel) | Forbidden |
 | [Mythic Depths](https://db.ygoprodeck.com/card/?search=Mythic%20Depths) | Forbidden |
 | [Mythical Beast Bashilisk](https://db.ygoprodeck.com/card/?search=Mythical%20Beast%20Bashilisk) | Forbidden |
@@ -2403,6 +2447,8 @@
 | [Noble Knight Custennin](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Custennin) | Forbidden |
 | [Noble Knight Drystan](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Drystan) | Forbidden |
 | [Noble Knight Eachtar](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Eachtar) | Forbidden |
+
+| Card Name | Status |
 | [Noble Knight Gawayn](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Gawayn) | Forbidden |
 | [Noble Knight Gwalchavad](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Gwalchavad) | Forbidden |
 | [Noble Knight Iyvanne](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Iyvanne) | Forbidden |
@@ -2503,6 +2549,8 @@
 | [Number 99: Utopic Dragon](https://db.ygoprodeck.com/card/?search=Number%2099:%20Utopic%20Dragon) | Forbidden |
 | [Number 9: Dyson Sphere](https://db.ygoprodeck.com/card/?search=Number%209:%20Dyson%20Sphere) | Forbidden |
 | [Number C1000: Numerounius](https://db.ygoprodeck.com/card/?search=Number%20C1000:%20Numerounius) | Forbidden |
+
+| Card Name | Status |
 | [Number C101: Silent Honor DARK](https://db.ygoprodeck.com/card/?search=Number%20C101:%20Silent%20Honor%20DARK) | Forbidden |
 | [Number C102: Archfiend Seraph](https://db.ygoprodeck.com/card/?search=Number%20C102:%20Archfiend%20Seraph) | Forbidden |
 | [Number C103: Ragnafinity](https://db.ygoprodeck.com/card/?search=Number%20C103:%20Ragnafinity) | Forbidden |
@@ -2603,6 +2651,8 @@
 | [Overdrive Teleporter](https://db.ygoprodeck.com/card/?search=Overdrive%20Teleporter) | Forbidden |
 | [Overlay Capture](https://db.ygoprodeck.com/card/?search=Overlay%20Capture) | Forbidden |
 | [Overmind Archfiend](https://db.ygoprodeck.com/card/?search=Overmind%20Archfiend) | Forbidden |
+
+| Card Name | Status |
 | [Overtex Qoatlus](https://db.ygoprodeck.com/card/?search=Overtex%20Qoatlus) | Forbidden |
 | [Overwhelm](https://db.ygoprodeck.com/card/?search=Overwhelm) | Forbidden |
 | [P.M. Captor](https://db.ygoprodeck.com/card/?search=P.M.%20Captor) | Forbidden |
@@ -2703,6 +2753,8 @@
 | [Photon Slasher](https://db.ygoprodeck.com/card/?search=Photon%20Slasher) | Forbidden |
 | [Photon Stream of Destruction](https://db.ygoprodeck.com/card/?search=Photon%20Stream%20of%20Destruction) | Forbidden |
 | [Photon Wyvern](https://db.ygoprodeck.com/card/?search=Photon%20Wyvern) | Forbidden |
+
+| Card Name | Status |
 | [Piercing Moray](https://db.ygoprodeck.com/card/?search=Piercing%20Moray) | Forbidden |
 | [Piercing the Darkness](https://db.ygoprodeck.com/card/?search=Piercing%20the%20Darkness) | Forbidden |
 | [Pikari @Ignister](https://db.ygoprodeck.com/card/?search=Pikari%20@Ignister) | Forbidden |
@@ -2803,6 +2855,8 @@
 | [Psychic Tuning](https://db.ygoprodeck.com/card/?search=Psychic%20Tuning) | Forbidden |
 | [Psychic Wave](https://db.ygoprodeck.com/card/?search=Psychic%20Wave) | Forbidden |
 | [Psychic Wheeleder](https://db.ygoprodeck.com/card/?search=Psychic%20Wheeleder) | Forbidden |
+
+| Card Name | Status |
 | [Pulao, Wind of the Yang Zing](https://db.ygoprodeck.com/card/?search=Pulao,%20Wind%20of%20the%20Yang%20Zing) | Forbidden |
 | [Pulling the Rug](https://db.ygoprodeck.com/card/?search=Pulling%20the%20Rug) | Forbidden |
 | [Pumpkin Carriage](https://db.ygoprodeck.com/card/?search=Pumpkin%20Carriage) | Forbidden |
@@ -2903,6 +2957,8 @@
 | [Red-Eyes Dark Dragoon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Dark%20Dragoon) | Forbidden |
 | [Red-Eyes Fang with Chain](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Fang%20with%20Chain) | Forbidden |
 | [Red-Eyes Flare Metal Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Flare%20Metal%20Dragon) | Forbidden |
+
+| Card Name | Status |
 | [Red-Eyes Slash Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Slash%20Dragon) | Forbidden |
 | [Red-Eyes Zombie Necro Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Zombie%20Necro%20Dragon) | Forbidden |
 | [Redbeard, the Plunder Patroll Matey](https://db.ygoprodeck.com/card/?search=Redbeard,%20the%20Plunder%20Patroll%20Matey) | Forbidden |
@@ -3003,6 +3059,8 @@
 | [Salamangreat Circle](https://db.ygoprodeck.com/card/?search=Salamangreat%20Circle) | Forbidden |
 | [Salamangreat Coyote](https://db.ygoprodeck.com/card/?search=Salamangreat%20Coyote) | Forbidden |
 | [Salamangreat Gazelle](https://db.ygoprodeck.com/card/?search=Salamangreat%20Gazelle) | Forbidden |
+
+| Card Name | Status |
 | [Salamangreat Miragestallio](https://db.ygoprodeck.com/card/?search=Salamangreat%20Miragestallio) | Forbidden |
 | [Salamangreat Pyro Phoenix](https://db.ygoprodeck.com/card/?search=Salamangreat%20Pyro%20Phoenix) | Forbidden |
 | [Salamangreat Roar](https://db.ygoprodeck.com/card/?search=Salamangreat%20Roar) | Forbidden |
@@ -3103,6 +3161,8 @@
 | [Shooting Majestic Star Dragon](https://db.ygoprodeck.com/card/?search=Shooting%20Majestic%20Star%20Dragon) | Forbidden |
 | [Shooting Quasar Dragon](https://db.ygoprodeck.com/card/?search=Shooting%20Quasar%20Dragon) | Forbidden |
 | [Shooting Riser Dragon](https://db.ygoprodeck.com/card/?search=Shooting%20Riser%20Dragon) | Forbidden |
+
+| Card Name | Status |
 | [Shooting Star Dragon](https://db.ygoprodeck.com/card/?search=Shooting%20Star%20Dragon) | Forbidden |
 | [Shooting Star Dragon T.G. EX](https://db.ygoprodeck.com/card/?search=Shooting%20Star%20Dragon%20T.G.%20EX) | Forbidden |
 | [Shootingcode Talker](https://db.ygoprodeck.com/card/?search=Shootingcode%20Talker) | Forbidden |
@@ -3203,6 +3263,8 @@
 | [Speedroid Hexasaucer](https://db.ygoprodeck.com/card/?search=Speedroid%20Hexasaucer) | Forbidden |
 | [Speedroid Ohajikid](https://db.ygoprodeck.com/card/?search=Speedroid%20Ohajikid) | Forbidden |
 | [Speedroid Pachingo-Kart](https://db.ygoprodeck.com/card/?search=Speedroid%20Pachingo-Kart) | Forbidden |
+
+| Card Name | Status |
 | [Speedroid Razorang](https://db.ygoprodeck.com/card/?search=Speedroid%20Razorang) | Forbidden |
 | [Speedroid Rubberband Plane](https://db.ygoprodeck.com/card/?search=Speedroid%20Rubberband%20Plane) | Forbidden |
 | [Speedroid Scratch](https://db.ygoprodeck.com/card/?search=Speedroid%20Scratch) | Forbidden |
@@ -3303,6 +3365,8 @@
 | [Steelswarm Caucastag](https://db.ygoprodeck.com/card/?search=Steelswarm%20Caucastag) | Forbidden |
 | [Steelswarm Girastag](https://db.ygoprodeck.com/card/?search=Steelswarm%20Girastag) | Forbidden |
 | [Steelswarm Hercules](https://db.ygoprodeck.com/card/?search=Steelswarm%20Hercules) | Forbidden |
+
+| Card Name | Status |
 | [Steelswarm Longhorn](https://db.ygoprodeck.com/card/?search=Steelswarm%20Longhorn) | Forbidden |
 | [Steelswarm Moth](https://db.ygoprodeck.com/card/?search=Steelswarm%20Moth) | Forbidden |
 | [Steelswarm Origin](https://db.ygoprodeck.com/card/?search=Steelswarm%20Origin) | Forbidden |
@@ -3403,6 +3467,8 @@
 | [Survival's End](https://db.ygoprodeck.com/card/?search=Survival's%20End) | Forbidden |
 | [Susa Soldier](https://db.ygoprodeck.com/card/?search=Susa%20Soldier) | Forbidden |
 | [Suture Rebirth](https://db.ygoprodeck.com/card/?search=Suture%20Rebirth) | Forbidden |
+
+| Card Name | Status |
 | [Swallow Flip](https://db.ygoprodeck.com/card/?search=Swallow%20Flip) | Forbidden |
 | [Swallow's Nest](https://db.ygoprodeck.com/card/?search=Swallow's%20Nest) | Forbidden |
 | [Swap Cleric](https://db.ygoprodeck.com/card/?search=Swap%20Cleric) | Forbidden |
@@ -3503,6 +3569,8 @@
 | [The First Darklord](https://db.ygoprodeck.com/card/?search=The%20First%20Darklord) | Forbidden |
 | [The First Sarcophagus](https://db.ygoprodeck.com/card/?search=The%20First%20Sarcophagus) | Forbidden |
 | [The Forceful Sentry](https://db.ygoprodeck.com/card/?search=The%20Forceful%20Sentry) | Forbidden |
+
+| Card Name | Status |
 | [The Grand Spellbook Tower](https://db.ygoprodeck.com/card/?search=The%20Grand%20Spellbook%20Tower) | Forbidden |
 | [The Grave of Enkindling](https://db.ygoprodeck.com/card/?search=The%20Grave%20of%20Enkindling) | Forbidden |
 | [The Hidden City](https://db.ygoprodeck.com/card/?search=The%20Hidden%20City) | Forbidden |
@@ -3603,6 +3671,8 @@
 | [Toon Kingdom](https://db.ygoprodeck.com/card/?search=Toon%20Kingdom) | Forbidden |
 | [Toon Page-Flip](https://db.ygoprodeck.com/card/?search=Toon%20Page-Flip) | Forbidden |
 | [Toon Terror](https://db.ygoprodeck.com/card/?search=Toon%20Terror) | Forbidden |
+
+| Card Name | Status |
 | [Topologic Bomber Dragon](https://db.ygoprodeck.com/card/?search=Topologic%20Bomber%20Dragon) | Forbidden |
 | [Topologic Gumblar Dragon](https://db.ygoprodeck.com/card/?search=Topologic%20Gumblar%20Dragon) | Forbidden |
 | [Topologic Trisbaena](https://db.ygoprodeck.com/card/?search=Topologic%20Trisbaena) | Forbidden |
@@ -3703,6 +3773,8 @@
 | [U.A. Hyper Stadium](https://db.ygoprodeck.com/card/?search=U.A.%20Hyper%20Stadium) | Forbidden |
 | [U.A. Midfielder](https://db.ygoprodeck.com/card/?search=U.A.%20Midfielder) | Forbidden |
 | [U.A. Mighty Slugger](https://db.ygoprodeck.com/card/?search=U.A.%20Mighty%20Slugger) | Forbidden |
+
+| Card Name | Status |
 | [U.A. Perfect Ace](https://db.ygoprodeck.com/card/?search=U.A.%20Perfect%20Ace) | Forbidden |
 | [U.A. Playmaker](https://db.ygoprodeck.com/card/?search=U.A.%20Playmaker) | Forbidden |
 | [U.A. Turnover Tactics](https://db.ygoprodeck.com/card/?search=U.A.%20Turnover%20Tactics) | Forbidden |
@@ -3803,6 +3875,8 @@
 | [Vic Viper T301](https://db.ygoprodeck.com/card/?search=Vic%20Viper%20T301) | Forbidden |
 | [Victory Dragon](https://db.ygoprodeck.com/card/?search=Victory%20Dragon) | Forbidden |
 | [Vijam the Cubic Seed](https://db.ygoprodeck.com/card/?search=Vijam%20the%20Cubic%20Seed) | Forbidden |
+
+| Card Name | Status |
 | [Vindikite R-Genex](https://db.ygoprodeck.com/card/?search=Vindikite%20R-Genex) | Forbidden |
 | [Violet Witch](https://db.ygoprodeck.com/card/?search=Violet%20Witch) | Forbidden |
 | [Viral Infection](https://db.ygoprodeck.com/card/?search=Viral%20Infection) | Forbidden |
@@ -3903,6 +3977,8 @@
 | [White Rose Dragon](https://db.ygoprodeck.com/card/?search=White%20Rose%20Dragon) | Forbidden |
 | [White Steed of the Floral Knights](https://db.ygoprodeck.com/card/?search=White%20Steed%20of%20the%20Floral%20Knights) | Forbidden |
 | [White Veil](https://db.ygoprodeck.com/card/?search=White%20Veil) | Forbidden |
+
+| Card Name | Status |
 | [White Wing Magician](https://db.ygoprodeck.com/card/?search=White%20Wing%20Magician) | Forbidden |
 | [Whitebeard, the Plunder Patroll Helm](https://db.ygoprodeck.com/card/?search=Whitebeard,%20the%20Plunder%20Patroll%20Helm) | Forbidden |
 | [Whitefish Salvage](https://db.ygoprodeck.com/card/?search=Whitefish%20Salvage) | Forbidden |
@@ -4003,6 +4079,8 @@
 | [Xyz Veil](https://db.ygoprodeck.com/card/?search=Xyz%20Veil) | Forbidden |
 | [Xyz-Raypierce](https://db.ygoprodeck.com/card/?search=Xyz-Raypierce) | Forbidden |
 | [Yamata Dragon](https://db.ygoprodeck.com/card/?search=Yamata%20Dragon) | Forbidden |
+
+| Card Name | Status |
 | [Yamato-no-Kami](https://db.ygoprodeck.com/card/?search=Yamato-no-Kami) | Forbidden |
 | [Yaminabe Party](https://db.ygoprodeck.com/card/?search=Yaminabe%20Party) | Forbidden |
 | [Yang Zing Creation](https://db.ygoprodeck.com/card/?search=Yang%20Zing%20Creation) | Forbidden |
@@ -4103,6 +4181,8 @@
 | [Monster Reborn](https://db.ygoprodeck.com/card/?search=Monster%20Reborn) | Limited |
 | [Morphing Jar](https://db.ygoprodeck.com/card/?search=Morphing%20Jar) | Limited |
 | [Night Assailant](https://db.ygoprodeck.com/card/?search=Night%20Assailant) | Limited |
+
+| Card Name | Status |
 | [One Day of Peace](https://db.ygoprodeck.com/card/?search=One%20Day%20of%20Peace) | Limited |
 | [One for One](https://db.ygoprodeck.com/card/?search=One%20for%20One) | Limited |
 | [Phantom Skyblaster](https://db.ygoprodeck.com/card/?search=Phantom%20Skyblaster) | Limited |
@@ -4203,6 +4283,8 @@
 | [Adamancipator Crystal - Dragite](https://db.ygoprodeck.com/card/?search=Adamancipator%20Crystal%20-%20Dragite) | Unlimited |
 | [Adamancipator Crystal - Leonite](https://db.ygoprodeck.com/card/?search=Adamancipator%20Crystal%20-%20Leonite) | Unlimited |
 | [Adamancipator Crystal - Raptite](https://db.ygoprodeck.com/card/?search=Adamancipator%20Crystal%20-%20Raptite) | Unlimited |
+
+| Card Name | Status |
 | [Adamancipator Laputite](https://db.ygoprodeck.com/card/?search=Adamancipator%20Laputite) | Unlimited |
 | [Adamancipator Resonance](https://db.ygoprodeck.com/card/?search=Adamancipator%20Resonance) | Unlimited |
 | [Adhesion Trap Hole](https://db.ygoprodeck.com/card/?search=Adhesion%20Trap%20Hole) | Unlimited |
@@ -4303,6 +4385,8 @@
 | [Amazoness Heirloom](https://db.ygoprodeck.com/card/?search=Amazoness%20Heirloom) | Unlimited |
 | [Amazoness Onslaught](https://db.ygoprodeck.com/card/?search=Amazoness%20Onslaught) | Unlimited |
 | [Amazoness Paladin](https://db.ygoprodeck.com/card/?search=Amazoness%20Paladin) | Unlimited |
+
+| Card Name | Status |
 | [Amazoness Pet Liger](https://db.ygoprodeck.com/card/?search=Amazoness%20Pet%20Liger) | Unlimited |
 | [Amazoness Princess](https://db.ygoprodeck.com/card/?search=Amazoness%20Princess) | Unlimited |
 | [Amazoness Queen](https://db.ygoprodeck.com/card/?search=Amazoness%20Queen) | Unlimited |
@@ -4403,6 +4487,8 @@
 | [Apprentice Piper](https://db.ygoprodeck.com/card/?search=Apprentice%20Piper) | Unlimited |
 | [Appropriate](https://db.ygoprodeck.com/card/?search=Appropriate) | Unlimited |
 | [Aqua Armor Ninja](https://db.ygoprodeck.com/card/?search=Aqua%20Armor%20Ninja) | Unlimited |
+
+| Card Name | Status |
 | [Aqua Chorus](https://db.ygoprodeck.com/card/?search=Aqua%20Chorus) | Unlimited |
 | [Aqua Dragon](https://db.ygoprodeck.com/card/?search=Aqua%20Dragon) | Unlimited |
 | [Aqua Jet](https://db.ygoprodeck.com/card/?search=Aqua%20Jet) | Unlimited |
@@ -4503,6 +4589,8 @@
 | [Assault Blackwing - Sohaya the Rain Storm](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Sohaya%20the%20Rain%20Storm) | Unlimited |
 | [Assault Counter](https://db.ygoprodeck.com/card/?search=Assault%20Counter) | Unlimited |
 | [Assault Dog](https://db.ygoprodeck.com/card/?search=Assault%20Dog) | Unlimited |
+
+| Card Name | Status |
 | [Assault Mercenary](https://db.ygoprodeck.com/card/?search=Assault%20Mercenary) | Unlimited |
 | [Assault Mode Activate](https://db.ygoprodeck.com/card/?search=Assault%20Mode%20Activate) | Unlimited |
 | [Assault Mode Zero](https://db.ygoprodeck.com/card/?search=Assault%20Mode%20Zero) | Unlimited |
@@ -4603,6 +4691,8 @@
 | [Barrage Blast](https://db.ygoprodeck.com/card/?search=Barrage%20Blast) | Unlimited |
 | [Barrel Behind the Door](https://db.ygoprodeck.com/card/?search=Barrel%20Behind%20the%20Door) | Unlimited |
 | [Barrel Dragon](https://db.ygoprodeck.com/card/?search=Barrel%20Dragon) | Unlimited |
+
+| Card Name | Status |
 | [Barricadeborg Blocker](https://db.ygoprodeck.com/card/?search=Barricadeborg%20Blocker) | Unlimited |
 | [Barrier Resonator](https://db.ygoprodeck.com/card/?search=Barrier%20Resonator) | Unlimited |
 | [Barrier Statue of the Abyss](https://db.ygoprodeck.com/card/?search=Barrier%20Statue%20of%20the%20Abyss) | Unlimited |
@@ -4703,6 +4793,8 @@
 | [Bicorn Re'em](https://db.ygoprodeck.com/card/?search=Bicorn%20Re'em) | Unlimited |
 | [Bicular](https://db.ygoprodeck.com/card/?search=Bicular) | Unlimited |
 | [Big Bang Shot](https://db.ygoprodeck.com/card/?search=Big%20Bang%20Shot) | Unlimited |
+
+| Card Name | Status |
 | [Big Evolution Pill](https://db.ygoprodeck.com/card/?search=Big%20Evolution%20Pill) | Unlimited |
 | [Big Eye](https://db.ygoprodeck.com/card/?search=Big%20Eye) | Unlimited |
 | [Big Insect](https://db.ygoprodeck.com/card/?search=Big%20Insect) | Unlimited |
@@ -4803,6 +4895,8 @@
 | [Blast with Chain](https://db.ygoprodeck.com/card/?search=Blast%20with%20Chain) | Unlimited |
 | [Blasting the Ruins](https://db.ygoprodeck.com/card/?search=Blasting%20the%20Ruins) | Unlimited |
 | [Blaze Accelerator](https://db.ygoprodeck.com/card/?search=Blaze%20Accelerator) | Unlimited |
+
+| Card Name | Status |
 | [Blaze Accelerator Reload](https://db.ygoprodeck.com/card/?search=Blaze%20Accelerator%20Reload) | Unlimited |
 | [Blazewing Butterfly](https://db.ygoprodeck.com/card/?search=Blazewing%20Butterfly) | Unlimited |
 | [Blazing Hiita](https://db.ygoprodeck.com/card/?search=Blazing%20Hiita) | Unlimited |
@@ -4903,6 +4997,8 @@
 | [Breath of Acclamation](https://db.ygoprodeck.com/card/?search=Breath%20of%20Acclamation) | Unlimited |
 | [Bri Synchron](https://db.ygoprodeck.com/card/?search=Bri%20Synchron) | Unlimited |
 | [Bright Star Dragon](https://db.ygoprodeck.com/card/?search=Bright%20Star%20Dragon) | Unlimited |
+
+| Card Name | Status |
 | [Brilliant Spark](https://db.ygoprodeck.com/card/?search=Brilliant%20Spark) | Unlimited |
 | [Brinegir](https://db.ygoprodeck.com/card/?search=Brinegir) | Unlimited |
 | [Brionac, Dragon of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Brionac,%20Dragon%20of%20the%20Ice%20Barrier) | Unlimited |
@@ -5003,6 +5099,8 @@
 | [Cards of Consonance](https://db.ygoprodeck.com/card/?search=Cards%20of%20Consonance) | Unlimited |
 | [Cards of the Red Stone](https://db.ygoprodeck.com/card/?search=Cards%20of%20the%20Red%20Stone) | Unlimited |
 | [Carpiponica, Mystical Beast of the Forest](https://db.ygoprodeck.com/card/?search=Carpiponica,%20Mystical%20Beast%20of%20the%20Forest) | Unlimited |
+
+| Card Name | Status |
 | [Cash Back](https://db.ygoprodeck.com/card/?search=Cash%20Back) | Unlimited |
 | [Castle of Dark Illusions](https://db.ygoprodeck.com/card/?search=Castle%20of%20Dark%20Illusions) | Unlimited |
 | [Castle of Dragon Souls](https://db.ygoprodeck.com/card/?search=Castle%20of%20Dragon%20Souls) | Unlimited |
@@ -5103,6 +5201,8 @@
 | [Chronomaly Esperanza Glyph](https://db.ygoprodeck.com/card/?search=Chronomaly%20Esperanza%20Glyph) | Unlimited |
 | [Chronomaly Golden Jet](https://db.ygoprodeck.com/card/?search=Chronomaly%20Golden%20Jet) | Unlimited |
 | [Chronomaly Mayan Machine](https://db.ygoprodeck.com/card/?search=Chronomaly%20Mayan%20Machine) | Unlimited |
+
+| Card Name | Status |
 | [Chronomaly Moai](https://db.ygoprodeck.com/card/?search=Chronomaly%20Moai) | Unlimited |
 | [Chronomaly Moai Carrier](https://db.ygoprodeck.com/card/?search=Chronomaly%20Moai%20Carrier) | Unlimited |
 | [Chronomaly Pyramid Eye Tablet](https://db.ygoprodeck.com/card/?search=Chronomaly%20Pyramid%20Eye%20Tablet) | Unlimited |
@@ -5203,6 +5303,8 @@
 | [Constellar Belt](https://db.ygoprodeck.com/card/?search=Constellar%20Belt) | Unlimited |
 | [Constellar Kaus](https://db.ygoprodeck.com/card/?search=Constellar%20Kaus) | Unlimited |
 | [Constellar Leonis](https://db.ygoprodeck.com/card/?search=Constellar%20Leonis) | Unlimited |
+
+| Card Name | Status |
 | [Constellar Meteor](https://db.ygoprodeck.com/card/?search=Constellar%20Meteor) | Unlimited |
 | [Constellar Pleiades](https://db.ygoprodeck.com/card/?search=Constellar%20Pleiades) | Unlimited |
 | [Constellar Rasalhague](https://db.ygoprodeck.com/card/?search=Constellar%20Rasalhague) | Unlimited |
@@ -5303,6 +5405,8 @@
 | [Crystal Beast Ruby Carbuncle](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Ruby%20Carbuncle) | Unlimited |
 | [Crystal Beast Sapphire Pegasus](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Sapphire%20Pegasus) | Unlimited |
 | [Crystal Beast Topaz Tiger](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Topaz%20Tiger) | Unlimited |
+
+| Card Name | Status |
 | [Crystal Blessing](https://db.ygoprodeck.com/card/?search=Crystal%20Blessing) | Unlimited |
 | [Crystal Conclave](https://db.ygoprodeck.com/card/?search=Crystal%20Conclave) | Unlimited |
 | [Crystal Keeper](https://db.ygoprodeck.com/card/?search=Crystal%20Keeper) | Unlimited |
@@ -5403,6 +5507,8 @@
 | [Cyberdarkness Dragon](https://db.ygoprodeck.com/card/?search=Cyberdarkness%20Dragon) | Unlimited |
 | [Cyberload Fusion](https://db.ygoprodeck.com/card/?search=Cyberload%20Fusion) | Unlimited |
 | [Cybernetic Cyclopean](https://db.ygoprodeck.com/card/?search=Cybernetic%20Cyclopean) | Unlimited |
+
+| Card Name | Status |
 | [Cybernetic Fusion Support](https://db.ygoprodeck.com/card/?search=Cybernetic%20Fusion%20Support) | Unlimited |
 | [Cybernetic Hidden Technology](https://db.ygoprodeck.com/card/?search=Cybernetic%20Hidden%20Technology) | Unlimited |
 | [Cybernetic Magician](https://db.ygoprodeck.com/card/?search=Cybernetic%20Magician) | Unlimited |
@@ -5503,6 +5609,8 @@
 | [Damage Mage](https://db.ygoprodeck.com/card/?search=Damage%20Mage) | Unlimited |
 | [Damage Translation](https://db.ygoprodeck.com/card/?search=Damage%20Translation) | Unlimited |
 | [Damage Vaccine Omega MAX](https://db.ygoprodeck.com/card/?search=Damage%20Vaccine%20Omega%20MAX) | Unlimited |
+
+| Card Name | Status |
 | [Dance Princess of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Dance%20Princess%20of%20the%20Ice%20Barrier) | Unlimited |
 | [Dances with Beasts](https://db.ygoprodeck.com/card/?search=Dances%20with%20Beasts) | Unlimited |
 | [Dancing Elf](https://db.ygoprodeck.com/card/?search=Dancing%20Elf) | Unlimited |
@@ -5603,6 +5711,8 @@
 | [Dark Spider](https://db.ygoprodeck.com/card/?search=Dark%20Spider) | Unlimited |
 | [Dark Spirit of the Silent](https://db.ygoprodeck.com/card/?search=Dark%20Spirit%20of%20the%20Silent) | Unlimited |
 | [Dark Strike Fighter](https://db.ygoprodeck.com/card/?search=Dark%20Strike%20Fighter) | Unlimited |
+
+| Card Name | Status |
 | [Dark Summoning Beast](https://db.ygoprodeck.com/card/?search=Dark%20Summoning%20Beast) | Unlimited |
 | [Dark Templar @Ignister](https://db.ygoprodeck.com/card/?search=Dark%20Templar%20@Ignister) | Unlimited |
 | [Dark Tinker](https://db.ygoprodeck.com/card/?search=Dark%20Tinker) | Unlimited |
@@ -5703,6 +5813,8 @@
 | [Desertapir](https://db.ygoprodeck.com/card/?search=Desertapir) | Unlimited |
 | [Designer Frightfur](https://db.ygoprodeck.com/card/?search=Designer%20Frightfur) | Unlimited |
 | [Deskbot 001](https://db.ygoprodeck.com/card/?search=Deskbot%20001) | Unlimited |
+
+| Card Name | Status |
 | [Deskbot 002](https://db.ygoprodeck.com/card/?search=Deskbot%20002) | Unlimited |
 | [Deskbot 003](https://db.ygoprodeck.com/card/?search=Deskbot%20003) | Unlimited |
 | [Deskbot 004](https://db.ygoprodeck.com/card/?search=Deskbot%20004) | Unlimited |
@@ -5803,6 +5915,8 @@
 | [Dimension Explosion](https://db.ygoprodeck.com/card/?search=Dimension%20Explosion) | Unlimited |
 | [Dimension Fortress Weapon](https://db.ygoprodeck.com/card/?search=Dimension%20Fortress%20Weapon) | Unlimited |
 | [Dimension Gate](https://db.ygoprodeck.com/card/?search=Dimension%20Gate) | Unlimited |
+
+| Card Name | Status |
 | [Dimension Jar](https://db.ygoprodeck.com/card/?search=Dimension%20Jar) | Unlimited |
 | [Dimension Slice](https://db.ygoprodeck.com/card/?search=Dimension%20Slice) | Unlimited |
 | [Dimension Wall](https://db.ygoprodeck.com/card/?search=Dimension%20Wall) | Unlimited |
@@ -5903,6 +6017,8 @@
 | [Doom Shaman](https://db.ygoprodeck.com/card/?search=Doom%20Shaman) | Unlimited |
 | [Doom Virus Dragon](https://db.ygoprodeck.com/card/?search=Doom%20Virus%20Dragon) | Unlimited |
 | [Doombearer Psychopompos](https://db.ygoprodeck.com/card/?search=Doombearer%20Psychopompos) | Unlimited |
+
+| Card Name | Status |
 | [Doomcaliber Knight](https://db.ygoprodeck.com/card/?search=Doomcaliber%20Knight) | Unlimited |
 | [Doomdog Octhros](https://db.ygoprodeck.com/card/?search=Doomdog%20Octhros) | Unlimited |
 | [Doomkaiser Dragon](https://db.ygoprodeck.com/card/?search=Doomkaiser%20Dragon) | Unlimited |
@@ -6003,6 +6119,8 @@
 | [Draw of Fate](https://db.ygoprodeck.com/card/?search=Draw%20of%20Fate) | Unlimited |
 | [Dream Clown](https://db.ygoprodeck.com/card/?search=Dream%20Clown) | Unlimited |
 | [Dream Mirror Fantasy](https://db.ygoprodeck.com/card/?search=Dream%20Mirror%20Fantasy) | Unlimited |
+
+| Card Name | Status |
 | [Dream Mirror of Chaos](https://db.ygoprodeck.com/card/?search=Dream%20Mirror%20of%20Chaos) | Unlimited |
 | [Dream Mirror Recap](https://db.ygoprodeck.com/card/?search=Dream%20Mirror%20Recap) | Unlimited |
 | [Dreamsprite](https://db.ygoprodeck.com/card/?search=Dreamsprite) | Unlimited |
@@ -6103,6 +6221,8 @@
 | [Elemental HERO Burstinatrix](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Burstinatrix) | Unlimited |
 | [Elemental HERO Captain Gold](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Captain%20Gold) | Unlimited |
 | [Elemental HERO Clayman](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Clayman) | Unlimited |
+
+| Card Name | Status |
 | [Elemental HERO Darkbright](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Darkbright) | Unlimited |
 | [Elemental HERO Divine Neos](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Divine%20Neos) | Unlimited |
 | [Elemental HERO Electrum](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Electrum) | Unlimited |
@@ -6203,6 +6323,8 @@
 | [Evil Thorn](https://db.ygoprodeck.com/card/?search=Evil%20Thorn) | Unlimited |
 | [Evilswarm Azzathoth](https://db.ygoprodeck.com/card/?search=Evilswarm%20Azzathoth) | Unlimited |
 | [Evilswarm Heliotrope](https://db.ygoprodeck.com/card/?search=Evilswarm%20Heliotrope) | Unlimited |
+
+| Card Name | Status |
 | [Evilswarm Mandragora](https://db.ygoprodeck.com/card/?search=Evilswarm%20Mandragora) | Unlimited |
 | [Evilswarm Nightmare](https://db.ygoprodeck.com/card/?search=Evilswarm%20Nightmare) | Unlimited |
 | [Evilswarm O'lantern](https://db.ygoprodeck.com/card/?search=Evilswarm%20O'lantern) | Unlimited |
@@ -6303,6 +6425,8 @@
 | [Falchion Beta](https://db.ygoprodeck.com/card/?search=Falchion%20Beta) | Unlimited |
 | [Fallen Angel of Roses](https://db.ygoprodeck.com/card/?search=Fallen%20Angel%20of%20Roses) | Unlimited |
 | [Fallen Paradise](https://db.ygoprodeck.com/card/?search=Fallen%20Paradise) | Unlimited |
+
+| Card Name | Status |
 | [Falling Current](https://db.ygoprodeck.com/card/?search=Falling%20Current) | Unlimited |
 | [Falling Down](https://db.ygoprodeck.com/card/?search=Falling%20Down) | Unlimited |
 | [Familiar Knight](https://db.ygoprodeck.com/card/?search=Familiar%20Knight) | Unlimited |
@@ -6403,6 +6527,8 @@
 | [Flame Manipulator](https://db.ygoprodeck.com/card/?search=Flame%20Manipulator) | Unlimited |
 | [Flame Ogre](https://db.ygoprodeck.com/card/?search=Flame%20Ogre) | Unlimited |
 | [Flame Ruler](https://db.ygoprodeck.com/card/?search=Flame%20Ruler) | Unlimited |
+
+| Card Name | Status |
 | [Flame Swordsman](https://db.ygoprodeck.com/card/?search=Flame%20Swordsman) | Unlimited |
 | [Flame Tiger](https://db.ygoprodeck.com/card/?search=Flame%20Tiger) | Unlimited |
 | [Flame Viper](https://db.ygoprodeck.com/card/?search=Flame%20Viper) | Unlimited |
@@ -6503,6 +6629,8 @@
 | [Fossil Excavation](https://db.ygoprodeck.com/card/?search=Fossil%20Excavation) | Unlimited |
 | [Foucault's Cannon](https://db.ygoprodeck.com/card/?search=Foucault's%20Cannon) | Unlimited |
 | [Fox Fire](https://db.ygoprodeck.com/card/?search=Fox%20Fire) | Unlimited |
+
+| Card Name | Status |
 | [Fragment Fusion](https://db.ygoprodeck.com/card/?search=Fragment%20Fusion) | Unlimited |
 | [Fragrance Storm](https://db.ygoprodeck.com/card/?search=Fragrance%20Storm) | Unlimited |
 | [Fraud Freeze](https://db.ygoprodeck.com/card/?search=Fraud%20Freeze) | Unlimited |
@@ -6603,6 +6731,8 @@
 | [Galaxy Wizard](https://db.ygoprodeck.com/card/?search=Galaxy%20Wizard) | Unlimited |
 | [Galaxy Worm](https://db.ygoprodeck.com/card/?search=Galaxy%20Worm) | Unlimited |
 | [Galaxy Zero](https://db.ygoprodeck.com/card/?search=Galaxy%20Zero) | Unlimited |
+
+| Card Name | Status |
 | [Galaxy-Eyes Photon Dragon](https://db.ygoprodeck.com/card/?search=Galaxy-Eyes%20Photon%20Dragon) | Unlimited |
 | [Gale Dogra](https://db.ygoprodeck.com/card/?search=Gale%20Dogra) | Unlimited |
 | [Gale Lizard](https://db.ygoprodeck.com/card/?search=Gale%20Lizard) | Unlimited |
@@ -6703,6 +6833,8 @@
 | [Genex Spare](https://db.ygoprodeck.com/card/?search=Genex%20Spare) | Unlimited |
 | [Genex Undine](https://db.ygoprodeck.com/card/?search=Genex%20Undine) | Unlimited |
 | [Genex Worker](https://db.ygoprodeck.com/card/?search=Genex%20Worker) | Unlimited |
+
+| Card Name | Status |
 | [Gentlemander](https://db.ygoprodeck.com/card/?search=Gentlemander) | Unlimited |
 | [Geomancer of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Geomancer%20of%20the%20Ice%20Barrier) | Unlimited |
 | [Geonator Transverser](https://db.ygoprodeck.com/card/?search=Geonator%20Transverser) | Unlimited |
@@ -6803,6 +6935,8 @@
 | [Gladiator Beast Samnite](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Samnite) | Unlimited |
 | [Gladiator Beast Secutor](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Secutor) | Unlimited |
 | [Gladiator Beast Tygerius](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Tygerius) | Unlimited |
+
+| Card Name | Status |
 | [Gladiator Beast United](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20United) | Unlimited |
 | [Gladiator Beast Vespasius](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Vespasius) | Unlimited |
 | [Gladiator Beast War Chariot](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20War%20Chariot) | Unlimited |
@@ -6903,6 +7037,8 @@
 | [Graceful Dice](https://db.ygoprodeck.com/card/?search=Graceful%20Dice) | Unlimited |
 | [Graceful Revival](https://db.ygoprodeck.com/card/?search=Graceful%20Revival) | Unlimited |
 | [Graceful Tear](https://db.ygoprodeck.com/card/?search=Graceful%20Tear) | Unlimited |
+
+| Card Name | Status |
 | [Gradius](https://db.ygoprodeck.com/card/?search=Gradius) | Unlimited |
 | [Gradius' Option](https://db.ygoprodeck.com/card/?search=Gradius'%20Option) | Unlimited |
 | [Gragonith, Lightsworn Dragon](https://db.ygoprodeck.com/card/?search=Gragonith,%20Lightsworn%20Dragon) | Unlimited |
@@ -7003,6 +7139,8 @@
 | [Guardian Elma](https://db.ygoprodeck.com/card/?search=Guardian%20Elma) | Unlimited |
 | [Guardian Grarl](https://db.ygoprodeck.com/card/?search=Guardian%20Grarl) | Unlimited |
 | [Guardian Kay'est](https://db.ygoprodeck.com/card/?search=Guardian%20Kay'est) | Unlimited |
+
+| Card Name | Status |
 | [Guardian of Felgrand](https://db.ygoprodeck.com/card/?search=Guardian%20of%20Felgrand) | Unlimited |
 | [Guardian of the Labyrinth](https://db.ygoprodeck.com/card/?search=Guardian%20of%20the%20Labyrinth) | Unlimited |
 | [Guardian of the Throne Room](https://db.ygoprodeck.com/card/?search=Guardian%20of%20the%20Throne%20Room) | Unlimited |
@@ -7103,6 +7241,8 @@
 | [Head Judging](https://db.ygoprodeck.com/card/?search=Head%20Judging) | Unlimited |
 | [Headless Knight](https://db.ygoprodeck.com/card/?search=Headless%20Knight) | Unlimited |
 | [Healing Wave Generator](https://db.ygoprodeck.com/card/?search=Healing%20Wave%20Generator) | Unlimited |
+
+| Card Name | Status |
 | [Heart of Clear Water](https://db.ygoprodeck.com/card/?search=Heart%20of%20Clear%20Water) | Unlimited |
 | [Heart of the Underdog](https://db.ygoprodeck.com/card/?search=Heart%20of%20the%20Underdog) | Unlimited |
 | [Heartfelt Appeal](https://db.ygoprodeck.com/card/?search=Heartfelt%20Appeal) | Unlimited |
@@ -7203,6 +7343,8 @@
 | [Hope for Escape](https://db.ygoprodeck.com/card/?search=Hope%20for%20Escape) | Unlimited |
 | [Horn of Light](https://db.ygoprodeck.com/card/?search=Horn%20of%20Light) | Unlimited |
 | [Horn of Olifant](https://db.ygoprodeck.com/card/?search=Horn%20of%20Olifant) | Unlimited |
+
+| Card Name | Status |
 | [Horn of the Phantom Beast](https://db.ygoprodeck.com/card/?search=Horn%20of%20the%20Phantom%20Beast) | Unlimited |
 | [Horn of the Unicorn](https://db.ygoprodeck.com/card/?search=Horn%20of%20the%20Unicorn) | Unlimited |
 | [Horseytail](https://db.ygoprodeck.com/card/?search=Horseytail) | Unlimited |
@@ -7303,6 +7445,8 @@
 | [Infernity Doom Archfiend](https://db.ygoprodeck.com/card/?search=Infernity%20Doom%20Archfiend) | Unlimited |
 | [Infernity Doom Dragon](https://db.ygoprodeck.com/card/?search=Infernity%20Doom%20Dragon) | Unlimited |
 | [Infernity Dwarf](https://db.ygoprodeck.com/card/?search=Infernity%20Dwarf) | Unlimited |
+
+| Card Name | Status |
 | [Infernity Force](https://db.ygoprodeck.com/card/?search=Infernity%20Force) | Unlimited |
 | [Infernity Guardian](https://db.ygoprodeck.com/card/?search=Infernity%20Guardian) | Unlimited |
 | [Infernity Necromancer](https://db.ygoprodeck.com/card/?search=Infernity%20Necromancer) | Unlimited |
@@ -7403,6 +7547,8 @@
 | [Jabbing Panda](https://db.ygoprodeck.com/card/?search=Jabbing%20Panda) | Unlimited |
 | [Jack Wyvern](https://db.ygoprodeck.com/card/?search=Jack%20Wyvern) | Unlimited |
 | [Jack's Knight](https://db.ygoprodeck.com/card/?search=Jack's%20Knight) | Unlimited |
+
+| Card Name | Status |
 | [Jack-In-The-Hand](https://db.ygoprodeck.com/card/?search=Jack-In-The-Hand) | Unlimited |
 | [Jack-o-Bolan](https://db.ygoprodeck.com/card/?search=Jack-o-Bolan) | Unlimited |
 | [Jackpot 7](https://db.ygoprodeck.com/card/?search=Jackpot%207) | Unlimited |
@@ -7503,6 +7649,8 @@
 | [Karakuri Gama mdl 4624 "Shirokunishi"](https://db.ygoprodeck.com/card/?search=Karakuri%20Gama%20mdl%204624%20"Shirokunishi") | Unlimited |
 | [Karakuri Gama Oil](https://db.ygoprodeck.com/card/?search=Karakuri%20Gama%20Oil) | Unlimited |
 | [Karakuri Gold Dust](https://db.ygoprodeck.com/card/?search=Karakuri%20Gold%20Dust) | Unlimited |
+
+| Card Name | Status |
 | [Karakuri Komachi mdl 224 "Ninishi"](https://db.ygoprodeck.com/card/?search=Karakuri%20Komachi%20mdl%20224%20"Ninishi") | Unlimited |
 | [Karakuri Ninja mdl 7749 "Nanashick"](https://db.ygoprodeck.com/card/?search=Karakuri%20Ninja%20mdl%207749%20"Nanashick") | Unlimited |
 | [Karakuri Ninja mdl 919 "Kuick"](https://db.ygoprodeck.com/card/?search=Karakuri%20Ninja%20mdl%20919%20"Kuick") | Unlimited |
@@ -7603,6 +7751,8 @@
 | [Lady of Faith](https://db.ygoprodeck.com/card/?search=Lady%20of%20Faith) | Unlimited |
 | [Lady Panther](https://db.ygoprodeck.com/card/?search=Lady%20Panther) | Unlimited |
 | [Lair of Darkness](https://db.ygoprodeck.com/card/?search=Lair%20of%20Darkness) | Unlimited |
+
+| Card Name | Status |
 | [Lair Wire](https://db.ygoprodeck.com/card/?search=Lair%20Wire) | Unlimited |
 | [Lancephorhynchus](https://db.ygoprodeck.com/card/?search=Lancephorhynchus) | Unlimited |
 | [Lancer Archfiend](https://db.ygoprodeck.com/card/?search=Lancer%20Archfiend) | Unlimited |
@@ -7703,6 +7853,8 @@
 | [Lightning Vortex](https://db.ygoprodeck.com/card/?search=Lightning%20Vortex) | Unlimited |
 | [Lightning, Dragon Ruler of Drafts](https://db.ygoprodeck.com/card/?search=Lightning,%20Dragon%20Ruler%20of%20Drafts) | Unlimited |
 | [Lightray Daedalus](https://db.ygoprodeck.com/card/?search=Lightray%20Daedalus) | Unlimited |
+
+| Card Name | Status |
 | [Lightray Diabolos](https://db.ygoprodeck.com/card/?search=Lightray%20Diabolos) | Unlimited |
 | [Lightray Gearfried](https://db.ygoprodeck.com/card/?search=Lightray%20Gearfried) | Unlimited |
 | [Lightray Grepher](https://db.ygoprodeck.com/card/?search=Lightray%20Grepher) | Unlimited |
@@ -7803,6 +7955,8 @@
 | [Lyrilusc - Recital Starling](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Recital%20Starling) | Unlimited |
 | [Lyrilusc - Sapphire Swallow](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Sapphire%20Swallow) | Unlimited |
 | [Lyrilusc - Turquoise Warbler](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Turquoise%20Warbler) | Unlimited |
+
+| Card Name | Status |
 | [M-Warrior #1](https://db.ygoprodeck.com/card/?search=M-Warrior%20#1) | Unlimited |
 | [M-Warrior #2](https://db.ygoprodeck.com/card/?search=M-Warrior%20#2) | Unlimited |
 | [Ma'at](https://db.ygoprodeck.com/card/?search=Ma'at) | Unlimited |
@@ -7903,6 +8057,8 @@
 | [Magikey Duo](https://db.ygoprodeck.com/card/?search=Magikey%20Duo) | Unlimited |
 | [Magikey Locking](https://db.ygoprodeck.com/card/?search=Magikey%20Locking) | Unlimited |
 | [Magikey Unlocking](https://db.ygoprodeck.com/card/?search=Magikey%20Unlocking) | Unlimited |
+
+| Card Name | Status |
 | [Maginificent Magikey Mafteal](https://db.ygoprodeck.com/card/?search=Maginificent%20Magikey%20Mafteal) | Unlimited |
 | [Magister of Endymion](https://db.ygoprodeck.com/card/?search=Magister%20of%20Endymion) | Unlimited |
 | [Magma Dragon](https://db.ygoprodeck.com/card/?search=Magma%20Dragon) | Unlimited |
@@ -8003,6 +8159,8 @@
 | [Mask Change II](https://db.ygoprodeck.com/card/?search=Mask%20Change%20II) | Unlimited |
 | [Mask Charge](https://db.ygoprodeck.com/card/?search=Mask%20Charge) | Unlimited |
 | [Mask of Brutality](https://db.ygoprodeck.com/card/?search=Mask%20of%20Brutality) | Unlimited |
+
+| Card Name | Status |
 | [Mask of Darkness](https://db.ygoprodeck.com/card/?search=Mask%20of%20Darkness) | Unlimited |
 | [Mask of Dispel](https://db.ygoprodeck.com/card/?search=Mask%20of%20Dispel) | Unlimited |
 | [Mask of Restrict](https://db.ygoprodeck.com/card/?search=Mask%20of%20Restrict) | Unlimited |
@@ -8103,6 +8261,8 @@
 | [Memory Crusher](https://db.ygoprodeck.com/card/?search=Memory%20Crusher) | Unlimited |
 | [Memory Loss](https://db.ygoprodeck.com/card/?search=Memory%20Loss) | Unlimited |
 | [Mental Seeker](https://db.ygoprodeck.com/card/?search=Mental%20Seeker) | Unlimited |
+
+| Card Name | Status |
 | [Meotoko](https://db.ygoprodeck.com/card/?search=Meotoko) | Unlimited |
 | [Merciful Machine Angel](https://db.ygoprodeck.com/card/?search=Merciful%20Machine%20Angel) | Unlimited |
 | [Mermaid Archer](https://db.ygoprodeck.com/card/?search=Mermaid%20Archer) | Unlimited |
@@ -8203,6 +8363,8 @@
 | [Mirror of Yata](https://db.ygoprodeck.com/card/?search=Mirror%20of%20Yata) | Unlimited |
 | [Mirror Resonator](https://db.ygoprodeck.com/card/?search=Mirror%20Resonator) | Unlimited |
 | [Mirror Wall](https://db.ygoprodeck.com/card/?search=Mirror%20Wall) | Unlimited |
+
+| Card Name | Status |
 | [Misairuzame](https://db.ygoprodeck.com/card/?search=Misairuzame) | Unlimited |
 | [Mischief of the Gnomes](https://db.ygoprodeck.com/card/?search=Mischief%20of%20the%20Gnomes) | Unlimited |
 | [Misfortune](https://db.ygoprodeck.com/card/?search=Misfortune) | Unlimited |
@@ -8303,6 +8465,8 @@
 | [Musakani Magatama](https://db.ygoprodeck.com/card/?search=Musakani%20Magatama) | Unlimited |
 | [Muscle Medic](https://db.ygoprodeck.com/card/?search=Muscle%20Medic) | Unlimited |
 | [Mushroom Man](https://db.ygoprodeck.com/card/?search=Mushroom%20Man) | Unlimited |
+
+| Card Name | Status |
 | [Mushroom Man #2](https://db.ygoprodeck.com/card/?search=Mushroom%20Man%20#2) | Unlimited |
 | [Musician King](https://db.ygoprodeck.com/card/?search=Musician%20King) | Unlimited |
 | [Mustering of the Dark Scorpions](https://db.ygoprodeck.com/card/?search=Mustering%20of%20the%20Dark%20Scorpions) | Unlimited |
@@ -8403,6 +8567,8 @@
 | [Neiroy, the Dream Mirror Disciple](https://db.ygoprodeck.com/card/?search=Neiroy,%20the%20Dream%20Mirror%20Disciple) | Unlimited |
 | [Neko Mane King](https://db.ygoprodeck.com/card/?search=Neko%20Mane%20King) | Unlimited |
 | [Nekogal #1](https://db.ygoprodeck.com/card/?search=Nekogal%20#1) | Unlimited |
+
+| Card Name | Status |
 | [Nekogal #2](https://db.ygoprodeck.com/card/?search=Nekogal%20#2) | Unlimited |
 | [Nemeses Adrastea](https://db.ygoprodeck.com/card/?search=Nemeses%20Adrastea) | Unlimited |
 | [Nemuriko](https://db.ygoprodeck.com/card/?search=Nemuriko) | Unlimited |
@@ -8503,6 +8669,8 @@
 | [Number 58: Burner Visor](https://db.ygoprodeck.com/card/?search=Number%2058:%20Burner%20Visor) | Unlimited |
 | [Number 59: Crooked Cook](https://db.ygoprodeck.com/card/?search=Number%2059:%20Crooked%20Cook) | Unlimited |
 | [Number 62: Galaxy-Eyes Prime Photon Dragon](https://db.ygoprodeck.com/card/?search=Number%2062:%20Galaxy-Eyes%20Prime%20Photon%20Dragon) | Unlimited |
+
+| Card Name | Status |
 | [Number 66: Master Key Beetle](https://db.ygoprodeck.com/card/?search=Number%2066:%20Master%20Key%20Beetle) | Unlimited |
 | [Number 6: Chronomaly Atlandis](https://db.ygoprodeck.com/card/?search=Number%206:%20Chronomaly%20Atlandis) | Unlimited |
 | [Number 73: Abyss Splash](https://db.ygoprodeck.com/card/?search=Number%2073:%20Abyss%20Splash) | Unlimited |
@@ -8603,6 +8771,8 @@
 | [Oscillo Hero](https://db.ygoprodeck.com/card/?search=Oscillo%20Hero) | Unlimited |
 | [Oshaleon](https://db.ygoprodeck.com/card/?search=Oshaleon) | Unlimited |
 | [Ostinato](https://db.ygoprodeck.com/card/?search=Ostinato) | Unlimited |
+
+| Card Name | Status |
 | [Otherworld - The "A" Zone](https://db.ygoprodeck.com/card/?search=Otherworld%20-%20The%20"A"%20Zone) | Unlimited |
 | [Otohime](https://db.ygoprodeck.com/card/?search=Otohime) | Unlimited |
 | [Otoshidamashi](https://db.ygoprodeck.com/card/?search=Otoshidamashi) | Unlimited |
@@ -8703,6 +8873,8 @@
 | [Performage Flame Eater](https://db.ygoprodeck.com/card/?search=Performage%20Flame%20Eater) | Unlimited |
 | [Performage Hat Tricker](https://db.ygoprodeck.com/card/?search=Performage%20Hat%20Tricker) | Unlimited |
 | [Performage Mirror Conductor](https://db.ygoprodeck.com/card/?search=Performage%20Mirror%20Conductor) | Unlimited |
+
+| Card Name | Status |
 | [Performage Stilts Launcher](https://db.ygoprodeck.com/card/?search=Performage%20Stilts%20Launcher) | Unlimited |
 | [Performage Trick Clown](https://db.ygoprodeck.com/card/?search=Performage%20Trick%20Clown) | Unlimited |
 | [Performance Hurricane](https://db.ygoprodeck.com/card/?search=Performance%20Hurricane) | Unlimited |
@@ -8803,6 +8975,8 @@
 | [Pharaoh's Treasure](https://db.ygoprodeck.com/card/?search=Pharaoh's%20Treasure) | Unlimited |
 | [Pharaonic Guardian Sphinx](https://db.ygoprodeck.com/card/?search=Pharaonic%20Guardian%20Sphinx) | Unlimited |
 | [Pharaonic Protector](https://db.ygoprodeck.com/card/?search=Pharaonic%20Protector) | Unlimited |
+
+| Card Name | Status |
 | [Phoenix Beast Gairuda](https://db.ygoprodeck.com/card/?search=Phoenix%20Beast%20Gairuda) | Unlimited |
 | [Phoenix Gearfried](https://db.ygoprodeck.com/card/?search=Phoenix%20Gearfried) | Unlimited |
 | [Phoenix Wing Wind Blast](https://db.ygoprodeck.com/card/?search=Phoenix%20Wing%20Wind%20Blast) | Unlimited |
@@ -8903,6 +9077,8 @@
 | [Predaplant Dragostapelia](https://db.ygoprodeck.com/card/?search=Predaplant%20Dragostapelia) | Unlimited |
 | [Predaplant Drosophyllum Hydra](https://db.ygoprodeck.com/card/?search=Predaplant%20Drosophyllum%20Hydra) | Unlimited |
 | [Predaplant Moray Nepenthes](https://db.ygoprodeck.com/card/?search=Predaplant%20Moray%20Nepenthes) | Unlimited |
+
+| Card Name | Status |
 | [Predaplant Ophrys Scorpio](https://db.ygoprodeck.com/card/?search=Predaplant%20Ophrys%20Scorpio) | Unlimited |
 | [Predaplant Squid Drosera](https://db.ygoprodeck.com/card/?search=Predaplant%20Squid%20Drosera) | Unlimited |
 | [Predaplast](https://db.ygoprodeck.com/card/?search=Predaplast) | Unlimited |
@@ -9003,6 +9179,8 @@
 | [Qlipper Launch](https://db.ygoprodeck.com/card/?search=Qlipper%20Launch) | Unlimited |
 | [Quaking Mirror Force](https://db.ygoprodeck.com/card/?search=Quaking%20Mirror%20Force) | Unlimited |
 | [Quantum Cat](https://db.ygoprodeck.com/card/?search=Quantum%20Cat) | Unlimited |
+
+| Card Name | Status |
 | [Quarantine](https://db.ygoprodeck.com/card/?search=Quarantine) | Unlimited |
 | [Queen Angel of Roses](https://db.ygoprodeck.com/card/?search=Queen%20Angel%20of%20Roses) | Unlimited |
 | [Queen Bird](https://db.ygoprodeck.com/card/?search=Queen%20Bird) | Unlimited |
@@ -9103,6 +9281,8 @@
 | [Rasetsu](https://db.ygoprodeck.com/card/?search=Rasetsu) | Unlimited |
 | [Ravenous Crocodragon Archethys](https://db.ygoprodeck.com/card/?search=Ravenous%20Crocodragon%20Archethys) | Unlimited |
 | [Ray & Temperature](https://db.ygoprodeck.com/card/?search=Ray%20&%20Temperature) | Unlimited |
+
+| Card Name | Status |
 | [Ray of Hope](https://db.ygoprodeck.com/card/?search=Ray%20of%20Hope) | Unlimited |
 | [Razor Lizard](https://db.ygoprodeck.com/card/?search=Razor%20Lizard) | Unlimited |
 | [Re-Cover](https://db.ygoprodeck.com/card/?search=Re-Cover) | Unlimited |
@@ -9203,6 +9383,8 @@
 | [Reptilianne Coatl](https://db.ygoprodeck.com/card/?search=Reptilianne%20Coatl) | Unlimited |
 | [Reptilianne Gardna](https://db.ygoprodeck.com/card/?search=Reptilianne%20Gardna) | Unlimited |
 | [Reptilianne Gorgon](https://db.ygoprodeck.com/card/?search=Reptilianne%20Gorgon) | Unlimited |
+
+| Card Name | Status |
 | [Reptilianne Hydra](https://db.ygoprodeck.com/card/?search=Reptilianne%20Hydra) | Unlimited |
 | [Reptilianne Lamia](https://db.ygoprodeck.com/card/?search=Reptilianne%20Lamia) | Unlimited |
 | [Reptilianne Medusa](https://db.ygoprodeck.com/card/?search=Reptilianne%20Medusa) | Unlimited |
@@ -9303,6 +9485,8 @@
 | [Roaring Earth](https://db.ygoprodeck.com/card/?search=Roaring%20Earth) | Unlimited |
 | [Roaring Ocean Snake](https://db.ygoprodeck.com/card/?search=Roaring%20Ocean%20Snake) | Unlimited |
 | [Robbin' Goblin](https://db.ygoprodeck.com/card/?search=Robbin'%20Goblin) | Unlimited |
+
+| Card Name | Status |
 | [Robbin' Zombie](https://db.ygoprodeck.com/card/?search=Robbin'%20Zombie) | Unlimited |
 | [Robolady](https://db.ygoprodeck.com/card/?search=Robolady) | Unlimited |
 | [Robot Buster Destruction Sword](https://db.ygoprodeck.com/card/?search=Robot%20Buster%20Destruction%20Sword) | Unlimited |
@@ -9403,6 +9587,8 @@
 | [Salamangreat Jack Jaguar](https://db.ygoprodeck.com/card/?search=Salamangreat%20Jack%20Jaguar) | Unlimited |
 | [Salamangreat Meer](https://db.ygoprodeck.com/card/?search=Salamangreat%20Meer) | Unlimited |
 | [Salamangreat Mole](https://db.ygoprodeck.com/card/?search=Salamangreat%20Mole) | Unlimited |
+
+| Card Name | Status |
 | [Salamangreat Parro](https://db.ygoprodeck.com/card/?search=Salamangreat%20Parro) | Unlimited |
 | [Salamangreat Raccoon](https://db.ygoprodeck.com/card/?search=Salamangreat%20Raccoon) | Unlimited |
 | [Salamangreat Rage](https://db.ygoprodeck.com/card/?search=Salamangreat%20Rage) | Unlimited |
@@ -9503,6 +9689,8 @@
 | [Secret Village of the Spellcasters](https://db.ygoprodeck.com/card/?search=Secret%20Village%20of%20the%20Spellcasters) | Unlimited |
 | [Secrets of the Gallant](https://db.ygoprodeck.com/card/?search=Secrets%20of%20the%20Gallant) | Unlimited |
 | [Sectarian of Secrets](https://db.ygoprodeck.com/card/?search=Sectarian%20of%20Secrets) | Unlimited |
+
+| Card Name | Status |
 | [Secure Gardna](https://db.ygoprodeck.com/card/?search=Secure%20Gardna) | Unlimited |
 | [Security Block](https://db.ygoprodeck.com/card/?search=Security%20Block) | Unlimited |
 | [Security Orb](https://db.ygoprodeck.com/card/?search=Security%20Orb) | Unlimited |
@@ -9603,6 +9791,8 @@
 | [Shiranui Samuraisaga](https://db.ygoprodeck.com/card/?search=Shiranui%20Samuraisaga) | Unlimited |
 | [Shiranui Smith](https://db.ygoprodeck.com/card/?search=Shiranui%20Smith) | Unlimited |
 | [Shiranui Solitaire](https://db.ygoprodeck.com/card/?search=Shiranui%20Solitaire) | Unlimited |
+
+| Card Name | Status |
 | [Shiranui Spiritmaster](https://db.ygoprodeck.com/card/?search=Shiranui%20Spiritmaster) | Unlimited |
 | [Shiranui Squiresaga](https://db.ygoprodeck.com/card/?search=Shiranui%20Squiresaga) | Unlimited |
 | [Shiranui Style Samsara](https://db.ygoprodeck.com/card/?search=Shiranui%20Style%20Samsara) | Unlimited |
@@ -9703,6 +9893,8 @@
 | [Skystarray](https://db.ygoprodeck.com/card/?search=Skystarray) | Unlimited |
 | [Slate Warrior](https://db.ygoprodeck.com/card/?search=Slate%20Warrior) | Unlimited |
 | [Sleeping Lion](https://db.ygoprodeck.com/card/?search=Sleeping%20Lion) | Unlimited |
+
+| Card Name | Status |
 | [Slime Toad](https://db.ygoprodeck.com/card/?search=Slime%20Toad) | Unlimited |
 | [Slip of Fortune](https://db.ygoprodeck.com/card/?search=Slip%20of%20Fortune) | Unlimited |
 | [Slip Summon](https://db.ygoprodeck.com/card/?search=Slip%20Summon) | Unlimited |
@@ -9803,6 +9995,8 @@
 | [Speedroid Double Yoyo](https://db.ygoprodeck.com/card/?search=Speedroid%20Double%20Yoyo) | Unlimited |
 | [Speedroid Gum Prize](https://db.ygoprodeck.com/card/?search=Speedroid%20Gum%20Prize) | Unlimited |
 | [Speedroid Horse Stilts](https://db.ygoprodeck.com/card/?search=Speedroid%20Horse%20Stilts) | Unlimited |
+
+| Card Name | Status |
 | [Speedroid Maliciousmagnet](https://db.ygoprodeck.com/card/?search=Speedroid%20Maliciousmagnet) | Unlimited |
 | [Speedroid Marble Machine](https://db.ygoprodeck.com/card/?search=Speedroid%20Marble%20Machine) | Unlimited |
 | [Speedroid Menko](https://db.ygoprodeck.com/card/?search=Speedroid%20Menko) | Unlimited |
@@ -9903,6 +10097,8 @@
 | [Squib Draw](https://db.ygoprodeck.com/card/?search=Squib%20Draw) | Unlimited |
 | [Squirt Squid](https://db.ygoprodeck.com/card/?search=Squirt%20Squid) | Unlimited |
 | [St. Joan](https://db.ygoprodeck.com/card/?search=St.%20Joan) | Unlimited |
+
+| Card Name | Status |
 | [Stack Reviver](https://db.ygoprodeck.com/card/?search=Stack%20Reviver) | Unlimited |
 | [Stairs of Mail](https://db.ygoprodeck.com/card/?search=Stairs%20of%20Mail) | Unlimited |
 | [Stairway to a Fabled Realm](https://db.ygoprodeck.com/card/?search=Stairway%20to%20a%20Fabled%20Realm) | Unlimited |
@@ -10003,6 +10199,8 @@
 | [Summoned Skull](https://db.ygoprodeck.com/card/?search=Summoned%20Skull) | Unlimited |
 | [Summoner Monk](https://db.ygoprodeck.com/card/?search=Summoner%20Monk) | Unlimited |
 | [Summoner of Illusions](https://db.ygoprodeck.com/card/?search=Summoner%20of%20Illusions) | Unlimited |
+
+| Card Name | Status |
 | [Summoner's Art](https://db.ygoprodeck.com/card/?search=Summoner's%20Art) | Unlimited |
 | [Summoning Curse](https://db.ygoprodeck.com/card/?search=Summoning%20Curse) | Unlimited |
 | [Sun Dragon Inti](https://db.ygoprodeck.com/card/?search=Sun%20Dragon%20Inti) | Unlimited |
@@ -10103,6 +10301,8 @@
 | [Sweet Corn](https://db.ygoprodeck.com/card/?search=Sweet%20Corn) | Unlimited |
 | [Swift Birdman Joe](https://db.ygoprodeck.com/card/?search=Swift%20Birdman%20Joe) | Unlimited |
 | [Swift Gaia the Fierce Knight](https://db.ygoprodeck.com/card/?search=Swift%20Gaia%20the%20Fierce%20Knight) | Unlimited |
+
+| Card Name | Status |
 | [Swift Samurai Storm!](https://db.ygoprodeck.com/card/?search=Swift%20Samurai%20Storm!) | Unlimited |
 | [Swift Scarecrow](https://db.ygoprodeck.com/card/?search=Swift%20Scarecrow) | Unlimited |
 | [Swiftstrike Armor](https://db.ygoprodeck.com/card/?search=Swiftstrike%20Armor) | Unlimited |
@@ -10203,6 +10403,8 @@
 | [Tenyi Spirit - Adhara](https://db.ygoprodeck.com/card/?search=Tenyi%20Spirit%20-%20Adhara) | Unlimited |
 | [Tenyi Spirit - Ashuna](https://db.ygoprodeck.com/card/?search=Tenyi%20Spirit%20-%20Ashuna) | Unlimited |
 | [Tenyi Spirit - Mapura](https://db.ygoprodeck.com/card/?search=Tenyi%20Spirit%20-%20Mapura) | Unlimited |
+
+| Card Name | Status |
 | [Tenyi Spirit - Nahata](https://db.ygoprodeck.com/card/?search=Tenyi%20Spirit%20-%20Nahata) | Unlimited |
 | [Tenyi Spirit - Sahasrara](https://db.ygoprodeck.com/card/?search=Tenyi%20Spirit%20-%20Sahasrara) | Unlimited |
 | [Tenyi Spirit - Shthana](https://db.ygoprodeck.com/card/?search=Tenyi%20Spirit%20-%20Shthana) | Unlimited |
@@ -10303,6 +10505,8 @@
 | [The Law of the Normal](https://db.ygoprodeck.com/card/?search=The%20Law%20of%20the%20Normal) | Unlimited |
 | [The League of Uniform Nomenclature](https://db.ygoprodeck.com/card/?search=The%20League%20of%20Uniform%20Nomenclature) | Unlimited |
 | [The Legendary Fisherman](https://db.ygoprodeck.com/card/?search=The%20Legendary%20Fisherman) | Unlimited |
+
+| Card Name | Status |
 | [The Legendary Fisherman II](https://db.ygoprodeck.com/card/?search=The%20Legendary%20Fisherman%20II) | Unlimited |
 | [The Legendary Fisherman III](https://db.ygoprodeck.com/card/?search=The%20Legendary%20Fisherman%20III) | Unlimited |
 | [The Light - Hex-Sealed Fusion](https://db.ygoprodeck.com/card/?search=The%20Light%20-%20Hex-Sealed%20Fusion) | Unlimited |
@@ -10403,6 +10607,8 @@
 | [Thunder Nyan Nyan](https://db.ygoprodeck.com/card/?search=Thunder%20Nyan%20Nyan) | Unlimited |
 | [Thunder of Ruler](https://db.ygoprodeck.com/card/?search=Thunder%20of%20Ruler) | Unlimited |
 | [Thunder Short](https://db.ygoprodeck.com/card/?search=Thunder%20Short) | Unlimited |
+
+| Card Name | Status |
 | [Ties of the Brethren](https://db.ygoprodeck.com/card/?search=Ties%20of%20the%20Brethren) | Unlimited |
 | [Tiger Axe](https://db.ygoprodeck.com/card/?search=Tiger%20Axe) | Unlimited |
 | [Tiger Dragon](https://db.ygoprodeck.com/card/?search=Tiger%20Dragon) | Unlimited |
@@ -10503,6 +10709,8 @@
 | [Trap Jammer](https://db.ygoprodeck.com/card/?search=Trap%20Jammer) | Unlimited |
 | [Trap Master](https://db.ygoprodeck.com/card/?search=Trap%20Master) | Unlimited |
 | [Trap of Board Eraser](https://db.ygoprodeck.com/card/?search=Trap%20of%20Board%20Eraser) | Unlimited |
+
+| Card Name | Status |
 | [Trap of Darkness](https://db.ygoprodeck.com/card/?search=Trap%20of%20Darkness) | Unlimited |
 | [Trap of the Imperial Tomb](https://db.ygoprodeck.com/card/?search=Trap%20of%20the%20Imperial%20Tomb) | Unlimited |
 | [Trap Reactor Y FI](https://db.ygoprodeck.com/card/?search=Trap%20Reactor%20Y%20FI) | Unlimited |
@@ -10603,6 +10811,8 @@
 | [Twin-Sword Marauder](https://db.ygoprodeck.com/card/?search=Twin-Sword%20Marauder) | Unlimited |
 | [Twisted Personality](https://db.ygoprodeck.com/card/?search=Twisted%20Personality) | Unlimited |
 | [Twister](https://db.ygoprodeck.com/card/?search=Twister) | Unlimited |
+
+| Card Name | Status |
 | [Two Thousand Needles](https://db.ygoprodeck.com/card/?search=Two%20Thousand%20Needles) | Unlimited |
 | [Two Toads with One Sting](https://db.ygoprodeck.com/card/?search=Two%20Toads%20with%20One%20Sting) | Unlimited |
 | [Two-for-One Team](https://db.ygoprodeck.com/card/?search=Two-for-One%20Team) | Unlimited |
@@ -10703,6 +10913,8 @@
 | [Valkyrie Funfte](https://db.ygoprodeck.com/card/?search=Valkyrie%20Funfte) | Unlimited |
 | [Valkyrie of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Valkyrie%20of%20the%20Nordic%20Ascendant) | Unlimited |
 | [Valkyrion the Magna Warrior](https://db.ygoprodeck.com/card/?search=Valkyrion%20the%20Magna%20Warrior) | Unlimited |
+
+| Card Name | Status |
 | [Vampire Awakening](https://db.ygoprodeck.com/card/?search=Vampire%20Awakening) | Unlimited |
 | [Vampire Baby](https://db.ygoprodeck.com/card/?search=Vampire%20Baby) | Unlimited |
 | [Vampire Domination](https://db.ygoprodeck.com/card/?search=Vampire%20Domination) | Unlimited |
@@ -10803,6 +11015,8 @@
 | [Vylon Stella](https://db.ygoprodeck.com/card/?search=Vylon%20Stella) | Unlimited |
 | [Vylon Tesseract](https://db.ygoprodeck.com/card/?search=Vylon%20Tesseract) | Unlimited |
 | [Vylon Tetra](https://db.ygoprodeck.com/card/?search=Vylon%20Tetra) | Unlimited |
+
+| Card Name | Status |
 | [Vylon Vanguard](https://db.ygoprodeck.com/card/?search=Vylon%20Vanguard) | Unlimited |
 | [W Nebula Meteorite](https://db.ygoprodeck.com/card/?search=W%20Nebula%20Meteorite) | Unlimited |
 | [W-Wing Catapult](https://db.ygoprodeck.com/card/?search=W-Wing%20Catapult) | Unlimited |
@@ -10903,6 +11117,8 @@
 | [Wind-Up Honeybee](https://db.ygoprodeck.com/card/?search=Wind-Up%20Honeybee) | Unlimited |
 | [Wind-Up Soldier](https://db.ygoprodeck.com/card/?search=Wind-Up%20Soldier) | Unlimited |
 | [Wind-Up Warrior](https://db.ygoprodeck.com/card/?search=Wind-Up%20Warrior) | Unlimited |
+
+| Card Name | Status |
 | [Winda, Priestess of Gusto](https://db.ygoprodeck.com/card/?search=Winda,%20Priestess%20of%20Gusto) | Unlimited |
 | [Windstorm of Etaqua](https://db.ygoprodeck.com/card/?search=Windstorm%20of%20Etaqua) | Unlimited |
 | [Windwitch - Blizzard Bell](https://db.ygoprodeck.com/card/?search=Windwitch%20-%20Blizzard%20Bell) | Unlimited |
@@ -11003,6 +11219,8 @@
 | [X-Saber Anu Piranha](https://db.ygoprodeck.com/card/?search=X-Saber%20Anu%20Piranha) | Unlimited |
 | [X-Saber Axel](https://db.ygoprodeck.com/card/?search=X-Saber%20Axel) | Unlimited |
 | [X-Saber Galahad](https://db.ygoprodeck.com/card/?search=X-Saber%20Galahad) | Unlimited |
+
+| Card Name | Status |
 | [X-Saber Palomuro](https://db.ygoprodeck.com/card/?search=X-Saber%20Palomuro) | Unlimited |
 | [X-Saber Pashuul](https://db.ygoprodeck.com/card/?search=X-Saber%20Pashuul) | Unlimited |
 | [X-Saber Souza](https://db.ygoprodeck.com/card/?search=X-Saber%20Souza) | Unlimited |
@@ -11103,6 +11321,8 @@
 | [Zerozerock](https://db.ygoprodeck.com/card/?search=Zerozerock) | Unlimited |
 | [Zexal Alliance](https://db.ygoprodeck.com/card/?search=Zexal%20Alliance) | Unlimited |
 | [Zexal Entrust](https://db.ygoprodeck.com/card/?search=Zexal%20Entrust) | Unlimited |
+
+| Card Name | Status |
 | [Zoa](https://db.ygoprodeck.com/card/?search=Zoa) | Unlimited |
 | [Zodiac Sign](https://db.ygoprodeck.com/card/?search=Zodiac%20Sign) | Unlimited |
 | [Zolga](https://db.ygoprodeck.com/card/?search=Zolga) | Unlimited |
