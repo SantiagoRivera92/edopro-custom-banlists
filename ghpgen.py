@@ -94,15 +94,14 @@ with urllib.request.urlopen(request) as url:
 
 
 	with open(filename, 'w', encoding="utf-8") as outfile:
-		outfile.write("# Common Charity banlist")
-		outfile.write("## The format without Mystic Mine")
+		outfile.write("# Common Charity banlist\n")
 		outfile.write("\n\nIf a card is not in this document, it is not legal to play in the Common Charity format.")
-		outfile.write("\n\n### Limited:\n")
+		outfile.write("\n\n## Limited:\n")
 		for card in limitedCards:
 			writeCard(card, outfile)
-		outfile.write("\n\n### Semi-Limited:")
+		outfile.write("\n\n## Semi-Limited:")
 		for card in semiLimitedCards:
 			writeCard(card, outfile)
-		outfile.write("\n\n### Unimited:")
+		outfile.write("\n\n## Unimited:")
 		for card in unlimitedCards:
 			writeCard(card, outfile)

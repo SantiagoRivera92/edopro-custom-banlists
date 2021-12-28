@@ -1,8 +1,9 @@
-# Common Charity banlist## The format without Mystic Mine
+# Common Charity banlist
+
 
 If a card is not in this document, it is not legal to play in the Common Charity format.
 
-### Limited:
+## Limited:
 
 - [A Hero Lives](https://db.ygoprodeck.com/card/?search=A%20Hero%20Lives)
 - [Armageddon Knight](https://db.ygoprodeck.com/card/?search=Armageddon%20Knight)
@@ -61,11 +62,11 @@ If a card is not in this document, it is not legal to play in the Common Charity
 - [Wall of Revealing Light](https://db.ygoprodeck.com/card/?search=Wall%20of%20Revealing%20Light)
 - [White Dragon Wyverburster](https://db.ygoprodeck.com/card/?search=White%20Dragon%20Wyverburster)
 
-### Semi-Limited:
+## Semi-Limited:
 - [Destiny HERO - Malicious](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Malicious)
 - [Performapal Skullcrobat Joker](https://db.ygoprodeck.com/card/?search=Performapal%20Skullcrobat%20Joker)
 
-### Unimited:
+## Unimited:
 - ["A" Cell Breeding Device](https://db.ygoprodeck.com/card/?search="A"%20Cell%20Breeding%20Device)
 - ["A" Cell Incubator](https://db.ygoprodeck.com/card/?search="A"%20Cell%20Incubator)
 - ["A" Cell Recombination Device](https://db.ygoprodeck.com/card/?search="A"%20Cell%20Recombination%20Device)
