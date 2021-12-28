@@ -46,7 +46,7 @@ status = 'status'
 filename = 'index.md'
 
 def writeCard(card, outfile):
-	outfile.write("\n- %s"%(card.get(name)))
+	outfile.write("\n- [%s](%s)"%(card.get(name), "db.ygoprodeck.com/card/?search=%s"%card.get(name).replace(" ", "%20")))
 
 with urllib.request.urlopen(request) as url:
 	cards = json.loads(url.read().decode()).get(data)

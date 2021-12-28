@@ -16,4 +16,4 @@ Just drop the corresponding .lflist.conf file into ProjectIgnis/repositories/lfl
 
 Common Charity is a different beast than retro formats in that the banlist can change and the cardpool will change with each set release. For that reason, [I wrote a shitty script](https://github.com/diamonddudetcg/edopro-custom-banlists/blob/main/lflistgen.py) anyone can run that outputs the most current banlist provided YGOPRODECK's API is behaving properly.
 
-If you just want to see the banlist on your browser, [just click here](https://github.com/diamonddudetcg/edopro-custom-banlists/blob/main/index.md)
+If you just want to see the banlist on your browser, [just click here](https://diamonddudetcg.github.io/edopro-custom-banlists/)

@@ -4,7074 +4,7074 @@ If a card is not in this document, it is not legal to play in the Common Charity
 
 ## Limited:
 
-- A Hero Lives
-- Armageddon Knight
-- Black Dragon Collapserpent
-- Called by the Grave
-- Card Destruction
-- Chain Strike
-- Cyber Angel Benten
-- Dark Grepher
-- Dimensional Fissure
-- Dinowrestler Pankratops
-- Divine Wind of Mist Valley
-- Draco Face-Off
-- Exodia the Forbidden One
-- Final Countdown
-- Fire Formation - Tenki
-- Foolish Burial
-- Gateway of the Six
-- Gem-Knight Master Diamond
-- Genex Ally Birdman
-- Gold Sarcophagus
-- Imperial Order
-- Infernity Archfiend
-- Instant Fusion
-- Left Arm of the Forbidden One
-- Left Leg of the Forbidden One
-- Macro Cosmos
-- Magical Explosion
-- Magical Mid-Breaker Field
-- Metaverse
-- Mind Control
-- Miscellaneousaurus
-- Monster Reborn
-- Morphing Jar
-- Night Assailant
-- One Day of Peace
-- One for One
-- Phantom Skyblaster
-- Reasoning
-- Red Reboot
-- Red-Eyes Darkness Metal Dragon
-- Reinforcement of the Army
-- Right Arm of the Forbidden One
-- Right Leg of the Forbidden One
-- Scapegoat
-- Servant of Endymion
-- Set Rotation
-- Skill Drain
-- Sky Striker Mecha - Hornet Drones
-- Sky Striker Mecha Modules - Multirole
-- Speedroid Terrortop
-- T.G. Hyper Librarian
-- Terraforming
-- Trickstar Light Stage
-- Upstart Goblin
-- Wall of Revealing Light
-- White Dragon Wyverburster
+- [A Hero Lives](db.ygoprodeck.com/card/?search=A%20Hero%20Lives)
+- [Armageddon Knight](db.ygoprodeck.com/card/?search=Armageddon%20Knight)
+- [Black Dragon Collapserpent](db.ygoprodeck.com/card/?search=Black%20Dragon%20Collapserpent)
+- [Called by the Grave](db.ygoprodeck.com/card/?search=Called%20by%20the%20Grave)
+- [Card Destruction](db.ygoprodeck.com/card/?search=Card%20Destruction)
+- [Chain Strike](db.ygoprodeck.com/card/?search=Chain%20Strike)
+- [Cyber Angel Benten](db.ygoprodeck.com/card/?search=Cyber%20Angel%20Benten)
+- [Dark Grepher](db.ygoprodeck.com/card/?search=Dark%20Grepher)
+- [Dimensional Fissure](db.ygoprodeck.com/card/?search=Dimensional%20Fissure)
+- [Dinowrestler Pankratops](db.ygoprodeck.com/card/?search=Dinowrestler%20Pankratops)
+- [Divine Wind of Mist Valley](db.ygoprodeck.com/card/?search=Divine%20Wind%20of%20Mist%20Valley)
+- [Draco Face-Off](db.ygoprodeck.com/card/?search=Draco%20Face-Off)
+- [Exodia the Forbidden One](db.ygoprodeck.com/card/?search=Exodia%20the%20Forbidden%20One)
+- [Final Countdown](db.ygoprodeck.com/card/?search=Final%20Countdown)
+- [Fire Formation - Tenki](db.ygoprodeck.com/card/?search=Fire%20Formation%20-%20Tenki)
+- [Foolish Burial](db.ygoprodeck.com/card/?search=Foolish%20Burial)
+- [Gateway of the Six](db.ygoprodeck.com/card/?search=Gateway%20of%20the%20Six)
+- [Gem-Knight Master Diamond](db.ygoprodeck.com/card/?search=Gem-Knight%20Master%20Diamond)
+- [Genex Ally Birdman](db.ygoprodeck.com/card/?search=Genex%20Ally%20Birdman)
+- [Gold Sarcophagus](db.ygoprodeck.com/card/?search=Gold%20Sarcophagus)
+- [Imperial Order](db.ygoprodeck.com/card/?search=Imperial%20Order)
+- [Infernity Archfiend](db.ygoprodeck.com/card/?search=Infernity%20Archfiend)
+- [Instant Fusion](db.ygoprodeck.com/card/?search=Instant%20Fusion)
+- [Left Arm of the Forbidden One](db.ygoprodeck.com/card/?search=Left%20Arm%20of%20the%20Forbidden%20One)
+- [Left Leg of the Forbidden One](db.ygoprodeck.com/card/?search=Left%20Leg%20of%20the%20Forbidden%20One)
+- [Macro Cosmos](db.ygoprodeck.com/card/?search=Macro%20Cosmos)
+- [Magical Explosion](db.ygoprodeck.com/card/?search=Magical%20Explosion)
+- [Magical Mid-Breaker Field](db.ygoprodeck.com/card/?search=Magical%20Mid-Breaker%20Field)
+- [Metaverse](db.ygoprodeck.com/card/?search=Metaverse)
+- [Mind Control](db.ygoprodeck.com/card/?search=Mind%20Control)
+- [Miscellaneousaurus](db.ygoprodeck.com/card/?search=Miscellaneousaurus)
+- [Monster Reborn](db.ygoprodeck.com/card/?search=Monster%20Reborn)
+- [Morphing Jar](db.ygoprodeck.com/card/?search=Morphing%20Jar)
+- [Night Assailant](db.ygoprodeck.com/card/?search=Night%20Assailant)
+- [One Day of Peace](db.ygoprodeck.com/card/?search=One%20Day%20of%20Peace)
+- [One for One](db.ygoprodeck.com/card/?search=One%20for%20One)
+- [Phantom Skyblaster](db.ygoprodeck.com/card/?search=Phantom%20Skyblaster)
+- [Reasoning](db.ygoprodeck.com/card/?search=Reasoning)
+- [Red Reboot](db.ygoprodeck.com/card/?search=Red%20Reboot)
+- [Red-Eyes Darkness Metal Dragon](db.ygoprodeck.com/card/?search=Red-Eyes%20Darkness%20Metal%20Dragon)
+- [Reinforcement of the Army](db.ygoprodeck.com/card/?search=Reinforcement%20of%20the%20Army)
+- [Right Arm of the Forbidden One](db.ygoprodeck.com/card/?search=Right%20Arm%20of%20the%20Forbidden%20One)
+- [Right Leg of the Forbidden One](db.ygoprodeck.com/card/?search=Right%20Leg%20of%20the%20Forbidden%20One)
+- [Scapegoat](db.ygoprodeck.com/card/?search=Scapegoat)
+- [Servant of Endymion](db.ygoprodeck.com/card/?search=Servant%20of%20Endymion)
+- [Set Rotation](db.ygoprodeck.com/card/?search=Set%20Rotation)
+- [Skill Drain](db.ygoprodeck.com/card/?search=Skill%20Drain)
+- [Sky Striker Mecha - Hornet Drones](db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20-%20Hornet%20Drones)
+- [Sky Striker Mecha Modules - Multirole](db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20Modules%20-%20Multirole)
+- [Speedroid Terrortop](db.ygoprodeck.com/card/?search=Speedroid%20Terrortop)
+- [T.G. Hyper Librarian](db.ygoprodeck.com/card/?search=T.G.%20Hyper%20Librarian)
+- [Terraforming](db.ygoprodeck.com/card/?search=Terraforming)
+- [Trickstar Light Stage](db.ygoprodeck.com/card/?search=Trickstar%20Light%20Stage)
+- [Upstart Goblin](db.ygoprodeck.com/card/?search=Upstart%20Goblin)
+- [Wall of Revealing Light](db.ygoprodeck.com/card/?search=Wall%20of%20Revealing%20Light)
+- [White Dragon Wyverburster](db.ygoprodeck.com/card/?search=White%20Dragon%20Wyverburster)
 
 ## Semi-Limited:
-- Destiny HERO - Malicious
-- Performapal Skullcrobat Joker
+- [Destiny HERO - Malicious](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Malicious)
+- [Performapal Skullcrobat Joker](db.ygoprodeck.com/card/?search=Performapal%20Skullcrobat%20Joker)
 
 ## Unimited:
-- "A" Cell Breeding Device
-- "A" Cell Incubator
-- "A" Cell Recombination Device
-- "A" Cell Scatter Burst
-- "Infernoble Arms - Hauteclere"
-- 3-Hump Lacooda
-- 4-Starred Ladybug of Doom
-- 7
-- 7 Colored Fish
-- 7 Completed
-- 8-Claws Scorpion
-- A Cat of Ill Omen
-- A Deal with Dark Ruler
-- A Feather of the Phoenix
-- A Feint Plan
-- A Hero Emerges
-- A Legendary Ocean
-- A Major Upset
-- A Man with Wdjat
-- A Rival Appears!
-- A Wingbeat of Giant Dragon
-- A.I. Challenge You
-- A.I. Love Fusion
-- A.I. Meet You
-- A.I. Shadow
-- A.I.'s Ritual
-- A.I.dle Reborn
-- A.I.Q
-- A/D Changer
-- Abaki
-- Abare Ushioni
-- Abominable Chamber of the Unchained
-- Absolute Crusader
-- Absolute End
-- Absolute King Back Jack
-- Absorbing Jar
-- Absorbing Kid from the Sky
-- Abyss Actor - Comic Relief
-- Abyss Actor - Extras
-- Abyss Actor - Leading Lady
-- Abyss Actor - Mellow Madonna
-- Abyss Actor - Superstar
-- Abyss Actor - Trendy Understudy
-- Abyss Actor - Twinkle Little Star
-- Abyss Actor - Wild Hope
-- Abyss Actors Back Stage
-- Abyss Actors' Curtain Call
-- Abyss Keeper
-- Abyss Playhouse - Fantastic Theater
-- Abyss Script - Opening Ceremony
-- Abyss Script - Rise of the Abyss King
-- Abyss Script - Romantic Terror
-- Abyss Soldier
-- Abyss Stungray
-- Abyss Warrior
-- Abyss-scale of Cetus
-- Abyss-scale of the Kraken
-- Abyss-scale of the Mizuchi
-- Abyss-scorn
-- Abyssal Designator
-- Abyssal Kingshark
-- Accel Synchron
-- Accellight
-- Accumulated Fortune
-- Achacha Archer
-- Achacha Chanbara
-- Acid Rain
-- Acid Trap Hole
-- Acidic Downpour
-- Acorno
-- Acrobat Monkey
-- Action Magic - Double Banking
-- Action Magic - Full Turn
-- Adamancipator Crystal - Dragite
-- Adamancipator Crystal - Leonite
-- Adamancipator Crystal - Raptite
-- Adamancipator Laputite
-- Adamancipator Resonance
-- Adhesion Trap Hole
-- Adhesive Explosive
-- Advance Draw
-- Advance Force
-- Advance Zone
-- Advanced Dark
-- Advanced Ritual Art
-- Aegaion the Sea Castrum
-- Aegis of Gaia
-- Aegis of the Ocean Dragon Lord
-- Aerial Recharge
-- Aeropixthree
-- Aether, the Empowering Dragon
-- After the Storm
-- After the Struggle
-- Against the Wind
-- Agave Dragon
-- Agido
-- Ahrima, the Wicked Warden
-- Air Armor Ninja
-- Air Cracking Storm
-- Airknight Parshath
-- Airorca
-- Aitsu
-- Al-Lumi'raj
-- Alchemy Cycle
-- Alector, Sovereign of Birds
-- Alexandrite Dragon
-- Alien Brain
-- Alien Dog
-- Alien Grey
-- Alien Hunter
-- Alien Hypno
-- Alien Infiltrator
-- Alien Mars
-- Alien Mother
-- Alien Psychic
-- Alien Shocktrooper
-- Alien Skull
-- Alien Stealthbuster
-- Alien Warrior
-- Alinsection
-- All-Out Attacks
-- Alligator's Sword
-- Alligator's Sword Dragon
-- Allure of Darkness
-- Allure Queen LV3
-- Alluring Mirror Split
-- Allvain the Essence of Vanity
-- Ally Mind
-- Ally of Justice Clausolas
-- Ally of Justice Core Destroyer
-- Ally of Justice Garadholg
-- Ally of Justice Nullfier
-- Ally of Justice Quarantine
-- Ally of Justice Rudra
-- Ally of Justice Thousand Arms
-- Ally of Justice Unknown Crusher
-- Ally of Justice Unlimiter
-- Aloof Lupine
-- Alpacaribou, Mystical Beast of the Forest
-- Alpha The Magnet Warrior
-- Altar for Tribute
-- Altergeist Camouflage
-- Altergeist Dragvirion
-- Altergeist Emulatelf
-- Altergeist Fifinellag
-- Altergeist Haunted Rock
-- Altergeist Kidolga
-- Altergeist Kunquery
-- Altergeist Marionetter
-- Altergeist Pixiel
-- Altergeist Primebanshee
-- Altergeist Protocol
-- Altergeist Silquitous
-- Alviss of the Nordic Alfar
-- Amabie
-- Amano-Iwato
-- Amanokujaki
-- Amarylease
-- Amaze Attraction Majestic Merry-Go-Round
-- Amaze Attraction Rapid Racing
-- Amaze Attraction Viking Vortex
-- Amaze Attraction Wonder Wheel
-- Amazement Ambassador Bufo
-- Amazement Special Show
-- Amazing Pendulum
-- Amazon of the Seas
-- Amazoness Archer
-- Amazoness Archers
-- Amazoness Blowpiper
-- Amazoness Chain Master
-- Amazoness Empress
-- Amazoness Fighter
-- Amazoness Fighting Spirit
-- Amazoness Heirloom
-- Amazoness Onslaught
-- Amazoness Paladin
-- Amazoness Pet Liger
-- Amazoness Princess
-- Amazoness Queen
-- Amazoness Sage
-- Amazoness Scouts
-- Amazoness Spellcaster
-- Amazoness Spy
-- Amazoness Swords Woman
-- Amazoness Tiger
-- Amazoness Trainee
-- Amazoness Village
-- Ambitious Gofer
-- Ambulance Rescueroid
-- Ambulanceroid
-- Ambush Fangs
-- Ameba
-- Amores of Prophecy
-- Amorphactor Pain, the Imagination Dracoverlord
-- Amorphage Pride
-- Amorphage Wrath
-- Amorphous Persona
-- Amphibian Beast
-- Amphibious Bugroth
-- Amphibious Bugroth MK-3
-- Amplifier
-- Amulet Dragon
-- Amulet of Ambition
-- An Owl of Luck
-- An Unfortunate Report
-- Anarchist Monk Ranshin
-- Anchamoufrite
-- Ancient Brain
-- Ancient City - Rainbow Ruins
-- Ancient Crimson Ape
-- Ancient Dragon
-- Ancient Elf
-- Ancient Gear
-- Ancient Gear Beast
-- Ancient Gear Box
-- Ancient Gear Cannon
-- Ancient Gear Castle
-- Ancient Gear Catapult
-- Ancient Gear Drill
-- Ancient Gear Engineer
-- Ancient Gear Explosive
-- Ancient Gear Factory
-- Ancient Gear Fist
-- Ancient Gear Fortress
-- Ancient Gear Frame
-- Ancient Gear Gadget
-- Ancient Gear Gadjiltron Chimera
-- Ancient Gear Gadjiltron Dragon
-- Ancient Gear Golem
-- Ancient Gear Golem - Ultimate Pound
-- Ancient Gear Howitzer
-- Ancient Gear Hunting Hound
-- Ancient Gear Hydra
-- Ancient Gear Knight
-- Ancient Gear Reactor Dragon
-- Ancient Gear Soldier
-- Ancient Gear Tank
-- Ancient Gear Token
-- Ancient Gear Workshop
-- Ancient Gear Wyvern
-- Ancient Lamp
-- Ancient Leaf
-- Ancient Lizard Warrior
-- Ancient One of the Deep Forest
-- Ancient Rules
-- Ancient Telescope
-- Ancient Tool
-- Ancient Warriors - Deceptive Jia Wen
-- Ancient Warriors - Fearsome Zhang Yuan
-- Ancient Warriors Saga - Borrowing of Arrows
-- Ancient Warriors Saga - Chivalrous Path
-- Ancient Warriors Saga - East-by-South Winds
-- And the Band Played On
-- Anesthrokket Dragon
-- Angel O7
-- Angel Trumpeter
-- Ansatsu
-- Ante
-- Anteatereatingant
-- Anthrosaurus
-- Anti-Aircraft Flower
-- Anti-Fusion Device
-- Anti-Magic Prism
-- Anti-Spell
-- Anti-Spell Fragrance
-- Antialian
-- Ape Fighter
-- Ape Magician
-- Apex Predation
-- Apocatequil
-- Apple of Enlightenment
-- Appointer of the Red Lotus
-- Apprentice Magician
-- Apprentice Piper
-- Appropriate
-- Aqua Armor Ninja
-- Aqua Chorus
-- Aqua Dragon
-- Aqua Jet
-- Aqua Madoor
-- Aqua Spirit
-- Aqua Story - Urashima
-- Aquaactress Arowana
-- Aquaactress Guppy
-- Aquaactress Tetra
-- Aquamirror Cycle
-- Aquamirror Illusion
-- Aquarium Lighting
-- Aquarium Set
-- Aquarium Stage
-- Arcana Call
-- Arcana Force 0 - The Fool
-- Arcana Force EX - The Dark Ruler
-- Arcana Force EX - The Light Ruler
-- Arcana Force I - The Magician
-- Arcana Force III - The Empress
-- Arcana Force IV - The Emperor
-- Arcana Force VI - The Lovers
-- Arcana Force VII - The Chariot
-- Arcana Force XIV - Temperance
-- Arcana Force XVIII - The Moon
-- Arcana Force XXI - The World
-- Arcana Knight Joker
-- Arcana Reading
-- Arcane Apprentice
-- Arcane Archer of the Forest
-- Arcane Barrier
-- Arcanite Magician/Assault Mode
-- Archfiend Black Skull Dragon
-- Archfiend Cavalry
-- Archfiend Eccentrick
-- Archfiend Emperor, the First Lord of Horror
-- Archfiend Interceptor
-- Archfiend Marmot of Nefariousness
-- Archfiend of Gilfer
-- Archfiend Soldier
-- Archfiend's Oath
-- Archfiend's Roar
-- Archfiend's Staff of Despair
-- Archlord Kristya
-- Arcjet Lightcraft
-- Aria the Melodious Diva
-- Armageddon Designator
-- Armaill
-- Armed Changer
-- Armed Dragon Blitz
-- Armed Dragon Lightning
-- Armed Dragon LV3
-- Armed Dragon LV5
-- Armed Dragon LV7
-- Armed Ninja
-- Armed Protector Dragon
-- Armed Samurai - Ben Kei
-- Armed Sea Hunter
-- Armor Break
-- Armor Dragon Ritual
-- Armor Exe
-- Armor Ninjitsu Art of Freezing
-- Armored Axon Kicker
-- Armored Cybern
-- Armored Glass
-- Armored Lizard
-- Armored Starfish
-- Armored Zombie
-- Armoroid
-- Armory Call
-- Arnis, the Empowered Warrior
-- Aroma Garden
-- Aroma Gardening
-- Aroma Jar
-- Aroma Strategy
-- Aromage Cananga
-- Aromage Laurel
-- Aromage Marjoram
-- Aromaseraphy Angelica
-- Array of Revealing Light
-- Arsenal Bug
-- Arsenal Robber
-- Arsenal Summoner
-- Artifact Achilleshield
-- Artifact Aegis
-- Artifact Beagalltach
-- Artifact Chakram
-- Artifact Failnaught
-- Artifact Labrys
-- Artifact Lancea
-- Artifact Mjollnir
-- Artifact Moralltach
-- Artifact Vajra
-- Artifacts Unleashed
-- Ash Blossom & Joyous Spring
-- Asleep at the Switch
-- Assault Beast
-- Assault Blackwing - Sohaya the Rain Storm
-- Assault Counter
-- Assault Dog
-- Assault Mercenary
-- Assault Mode Activate
-- Assault Mode Zero
-- Assault on GHQ
-- Assault Overload
-- Assault Revival
-- Assault Sentinel
-- Assault Slash
-- Assault Spirits
-- Assault Teleport
-- Astra Ghouls
-- Astral Barrier
-- Asura Priest
-- Aswan Apparition
-- At One With the Sword
-- Athena
-- Atlantean Attack Squad
-- Atlantean Dragoons
-- Atlantean Heavy Infantry
-- Atlantean Marksman
-- Atlantean Pikeman
-- Atomic Firefly
-- Attachment Cybern
-- Attack and Receive
-- Attack Gainer
-- Attack of the Cornered Rat
-- Attack Pheromones
-- Attack Reflector Unit
-- Attack the Moon!
-- Attention!
-- Attraffic Control
-- Aurkus, Lightsworn Druid
-- Aurora Paragon
-- Aurora Wing
-- Aussa the Earth Charmer
-- Automatic Laser
-- Autonomous Action Unit
-- Autorokket Dragon
-- Avalanching Aussa
-- Avatar of The Pot
-- Avenging Knight Parshath
-- Awakening of the Possessed
-- Awakening of the Possessed - Gagigobyte
-- Awakening of the Possessed - Rasenryu
-- Awakening of the Sacred Beasts
-- Axe Dragonute
-- Axe of Despair
-- Axe of Fools
-- Axe Raider
-- Aye-Iron
-- Ayers Rock Sunrise
-- Azure-Eyes Silver Dragon
-- B.E.F. Zelos
-- B.E.S. Big Core
-- B.E.S. Blaster Cannon Core
-- B.E.S. Crystal Core
-- Baba Barber
-- Baby Dragon
-- Baby Mudragon
-- Baby Raccoon Ponpoko
-- Baby Raccoon Tantan
-- Baby Tiragon
-- Babycerasaurus
-- Bachibachibachi
-- Back to Square One
-- Back to the Front
-- Back-Up Rider
-- Backfire
-- Background Dragon
-- Backlinker
-- Backs to the Wall
-- Backup Operator
-- Backup Secretary
-- Backup Soldier
-- Backup Squad
-- Backup Warrior
-- Bacon Saver
-- Bad Aim
-- Bad Luck Blast
-- Bad Reaction to Simochi
-- Bait Doll
-- Balance of Judgment
-- Balancer Lord
-- Ballista of Rampart Smashing
-- Ballista Squad
-- Balloon Lizard
-- Bamboo Scrap
-- Banisher of the Light
-- Banisher of the Radiance
-- Banner of Courage
-- Banquet of Millions
-- Baobaboon
-- Barbaroid, the Ultimate Battle Machine
-- Bark of Dark Ruler
-- Barkion's Bark
-- Baron of the Fiend Sword
-- Barox
-- Barrage Blast
-- Barrel Behind the Door
-- Barrel Dragon
-- Barricadeborg Blocker
-- Barrier Resonator
-- Barrier Statue of the Abyss
-- Barrier Statue of the Drought
-- Barrier Statue of the Heavens
-- Barrier Statue of the Inferno
-- Barrier Statue of the Stormwinds
-- Barrier Statue of the Torrent
-- Barrier Wave
-- Basal Rose Shoot
-- Bashing Shield
-- Basic Insect
-- Basilius, Familiar of the Evil Eye
-- Battery Charger
-- Batteryman 9-Volt
-- Batteryman AA
-- Batteryman AAA
-- Batteryman C
-- Batteryman Charger
-- Batteryman D
-- Batteryman Micro-Cell
-- Batteryman Solar
-- Battle Break
-- Battle Fader
-- Battle Footballer
-- Battle Fusion
-- Battle Instinct
-- Battle of the Elements
-- Battle Ox
-- Battle Steer
-- Battle Survivor
-- Battle Teleportation
-- Battle Tuned
-- Battle Waltz
-- Battle Warrior
-- Battle-Scarred
-- Battleguard Howling
-- Battleguard King
-- Battleguard Rage
-- Battlin' Boxer Big Bandage
-- Battlin' Boxer Counterpunch
-- Battlin' Boxer Glassjaw
-- Battlin' Boxer Headgeared
-- Battlin' Boxer Rabbit Puncher
-- Battlin' Boxer Rib Gardna
-- Battlin' Boxer Sparrer
-- Battlin' Boxer Switchitter
-- Battlin' Boxer Veil
-- Bayonater, the Baneful Barrel
-- Bazoo the Soul-Eater
-- Beacon of White
-- Bean Soldier
-- Bearblocker
-- Beast Fangs
-- Beast King Barbaros
-- Beast King Unleashed
-- Beast Magic Attack
-- Beast of Talwar
-- Beast of the Pharaoh
-- Beast Rage
-- Beast Rising
-- Beast Soul Swap
-- Beast-Warrior Puma
-- Beastking of the Swamps
-- Beasts of Phantom
-- Beatdown!
-- Beatraptor
-- Beaver Warrior
-- Beckoned by the World Chalice
-- Beckoning Light
-- Bee List Soldier
-- Beelze Frog
-- Beelze of the Diabolic Dragons
-- Beelzeus of the Diabolic Dragons
-- Beetron
-- Beetrooper Assault Roller
-- Beetrooper Fly & Sting
-- Beetrooper Landing
-- Beetrooper Squad
-- Beginning of Heaven and Earth
-- Begone, Knave!
-- Behegon
-- Behemoth the King of All Animals
-- Beiige, Vanguard of Dark World
-- Belial - Marquis of Darkness
-- Bellcat Fighter
-- Bending Destiny
-- Berfomet
-- Berlineth the Firestorm Vassal
-- Berserk Dragon
-- Berserk Gorilla
-- Berserk Scales
-- Berserker Crush
-- Berserker of the Tenyi
-- Berserker Soul
-- Beta The Magnet Warrior
-- Bickuribox
-- Bicorn Re'em
-- Bicular
-- Big Bang Shot
-- Big Evolution Pill
-- Big Eye
-- Big Insect
-- Big Jaws
-- Big Koala
-- Big Shield Gardna
-- Big Wave Small Wave
-- BIG Win!?
-- Binary Blader
-- Bio-Mage
-- Biofalcon
-- Bird of Paradise Lost
-- Bird of Roses
-- Birdface
-- Birth of the Prominence Flame
-- Birthright
-- Bite Bug
-- Bite Shoes
-- Bitelon
-- Bitron
-- Bitrooper
-- Black and White Wave
-- Black Brachios
-- Black Cat-astrophe
-- Black Dragon Ninja
-- Black Dragon's Chick
-- Black Garden
-- Black Horn of Heaven
-- Black Illusion Ritual
-- Black Luster Ritual
-- Black Luster Soldier
-- Black Luster Soldier - Envoy of the Beginning
-- Black Magic Ritual
-- Black Metal Dragon
-- Black Pendant
-- Black Potan
-- Black Ptera
-- Black Ray Lancer
-- Black Return
-- Black Rose Dragon
-- Black Salvo
-- Black Skull Dragon
-- Black Stego
-- Black Thunder
-- Black Tyranno
-- Black Veloci
-- Black Whirlwind
-- Black Wing Revenge
-- Black-Winged Dragon
-- Black-Winged Strafe
-- Blackback
-- Blackbird Close
-- Blackboost
-- Blackeyes, the Plunder Patroll Seaguide
-- Blackland Fire Dragon
-- Blackwing - Abrolhos the Megaquake
-- Blackwing - Aurora the Northern Lights
-- Blackwing - Auster the South Wind
-- Blackwing - Backlash
-- Blackwing - Blizzard the Far North
-- Blackwing - Bombardment
-- Blackwing - Boobytrap
-- Blackwing - Bora the Spear
-- Blackwing - Boreas the Sharp
-- Blackwing - Breeze the Zephyr
-- Blackwing - Brisote the Tailwind
-- Blackwing - Calima the Haze
-- Blackwing - Decay the Ill Wind
-- Blackwing - Elphin the Raven
-- Blackwing - Etesian of Two Swords
-- Blackwing - Fane the Steel Chain
-- Blackwing - Ghibli the Searing Wind
-- Blackwing - Gust the Backblast
-- Blackwing - Harmattan the Dust
-- Blackwing - Hurricane the Tornado
-- Blackwing - Kalut the Moon Shadow
-- Blackwing - Kochi the Daybreak
-- Blackwing - Kogarashi the Wanderer
-- Blackwing - Mistral the Silver Shield
-- Blackwing - Nothung the Starlight
-- Blackwing - Oroshi the Squall
-- Blackwing - Pinaki the Waxing Moon
-- Blackwing - Shura the Blue Flame
-- Blackwing - Sirocco the Dawn
-- Blackwing - Tornado the Reverse Wind
-- Blackwing - Zephyros the Elite
-- Blackwing Tamer - Obsidian Hawk Joe
-- Blade Bounzer
-- Blade Knight
-- Blade Rabbit
-- Blade Skater
-- Bladefly
-- Blast Asmodian
-- Blast Held by a Tribute
-- Blast Juggler
-- Blast Magician
-- Blast Sphere
-- Blast with Chain
-- Blasting the Ruins
-- Blaze Accelerator
-- Blaze Accelerator Reload
-- Blazewing Butterfly
-- Blazing Hiita
-- Blazing Inpachi
-- Blazing Mirror Force
-- Blessings for Gusto
-- Blessings of the Nile
-- Blind Destruction
-- Blind Spot Strike
-- Blindly Loyal Goblin
-- Blizzard
-- Blizzard Dragon
-- Blizzard Falcon
-- Blizzard Thunderbird
-- Blizzard Warrior
-- Blizzed, Defender of the Ice Barrier
-- Block Attack
-- Block Golem
-- Block Spider
-- Blocker
-- Blockman
-- Blockout Curtain
-- Blood Sucker
-- Bloom Diva the Melodious Choir
-- Bloom Prima the Melodious Choir
-- Blooming of the Darkest Rose
-- Blossom Bombardment
-- Blowback Dragon
-- Blue Dragon Summoner
-- Blue Duston
-- Blue Flame Swordsman
-- Blue Mountain Butterspy
-- Blue Rose Dragon
-- Blue Thunder T-45
-- Blue-Eyed Silver Zombie
-- Blue-Eyes Shining Dragon
-- Blue-Eyes Toon Dragon
-- Blue-Eyes White Dragon
-- Blue-Winged Crown
-- Bluebeard, the Plunder Patroll Shipwright
-- Blustering Winds
-- Boar Soldier
-- Bokoichi the Freightening Car
-- Bolt Penguin
-- Bombardment Beetle
-- Bonding - H2O
-- Bone Crusher
-- Bone Temple Block
-- Boneheimer
-- Bonze Alone
-- Boo-Boo Game
-- Boogie Trap
-- Book of Eclipse
-- Book of Life
-- Book of Moon
-- Book of Secret Arts
-- Book of Taiyou
-- Boompoline!!
-- Boon of the Meklord Emperor
-- Booster Dragon
-- Boot Sector Launch
-- Boot Staggered
-- Boot-Up Soldier - Dread Dynamo
-- Borrel Cooling
-- Borrel Regenerator
-- Borrel Supplier
-- Borreload Dragon
-- Boss Rush
-- Botanical Girl
-- Botanical Lion
-- Bottom Dweller
-- Bottomless Shifting Sand
-- Bottomless Trap Hole
-- Bound Wand
-- Bountiful Artemis
-- Bounzer Guard
-- Bowganian
-- BOXer
-- Boycotton
-- Bracchio-raidus
-- Brain Control
-- Brain Research Lab
-- Brainwashing Beam
-- Branch!
-- Branded Bond
-- Brave Scizzar
-- Bravedrive
-- Bravo, Fighter Fur Hire
-- Break Away
-- Break Off Trap Hole
-- Break the Destiny
-- Break! Draw!
-- Breaker the Dark Magical Warrior
-- Breaker the Magical Warrior
-- Breaking of the World
-- Breakthrough Skill
-- Breakthrough!
-- Breath of Acclamation
-- Bri Synchron
-- Bright Star Dragon
-- Brilliant Spark
-- Brinegir
-- Brionac, Dragon of the Ice Barrier
-- Broken Bamboo Sword
-- Brotherhood of the Fire Fist - Caribou
-- Brotherhood of the Fire Fist - Hawk
-- Brotherhood of the Fire Fist - Horse Prince
-- Brotherhood of the Fire Fist - Leopard
-- Brotherhood of the Fire Fist - Raven
-- Brotherhood of the Fire Fist - Spirit
-- Brotherhood of the Fire Fist - Wolf
-- Broww, Huntsman of Dark World
-- Brron, Mad King of Dark World
-- Bubble Barrier
-- Bubble Crash
-- Bubble Shuffle
-- Bubonic Vermin
-- Bug Emergency
-- Bug Matrix
-- Bug Signal
-- Bujin Mahitotsu
-- Bujin Regalia - The Jewel
-- Bujin Regalia - The Sword
-- Bujincandescence
-- Bujincident
-- Bujinfidel
-- Bujingi Boar
-- Bujingi Centipede
-- Bujingi Ibis
-- Bujingi Ophidian
-- Bujingi Swallow
-- Bujingi Turtle
-- Bujingi Warg
-- Bujingi Wolf
-- Bujinki Amaterasu
-- Bujintervention
-- Bull Blader
-- Bunilla
-- Burden of the Mighty
-- Burgeoning Whirlflame
-- Burglar
-- Burial from a Different Dimension
-- Burner, Dragon Ruler of Sparks
-- Burning Algae
-- Burning Bamboo Sword
-- Burning Beast
-- Burning Land
-- Burst Breath
-- Burst Stream of Destruction
-- Buster Blader
-- Buster Blader, the Destruction Swordmaster
-- Buster Blader, the Dragon Destroyer Swordsman
-- Buster Blaster
-- Buster Rancher
-- Buten
-- Butterflyoke
-- Butterspy Protection
-- Buzzsaw Shark
-- By Order of the Emperor
-- Bye Bye Damage
-- Byroad Sacrifice
-- Byser Shock
-- Cairngorgon, Antiluminescent Knight
-- Caius the Mega Monarch
-- Caius the Shadow Monarch
-- Caligo Claw Crow
-- Call of the Archfiend
-- Call of the Atlanteans
-- Call of the Earthbound
-- Call of the Haunted
-- Call of the Mummy
-- Call of the Reaper
-- Cameraclops
-- Caninetaur
-- Cannon Soldier
-- Cannon Soldier MK-2
-- Cannonball Spear Shellfish
-- Canon the Melodious Diva
-- Canyon
-- Capacitor Stalker
-- Capricious Darklord
-- Caravan of the Ice Barrier
-- Carboneddon
-- Card Advance
-- Card Blocker
-- Card Breaker
-- Card Ejector
-- Card Guard
-- Card of Sanctity
-- Card of the Soul
-- Card Rotator
-- Card Shuffle
-- Card Trader
-- Card Trooper
-- Cardcar D
-- Cards for Black Feathers
-- Cards from the Sky
-- Cards of Consonance
-- Cards of the Red Stone
-- Carpiponica, Mystical Beast of the Forest
-- Cash Back
-- Castle of Dark Illusions
-- Castle of Dragon Souls
-- Castle Walls
-- Cat's Ear Tribe
-- Cataclysmic Circumpolar Chilblainia
-- Cataclysmic Crusted Calcifida
-- Cataclysmic Cryonic Coldo
-- Cataclysmic Scorching Sunburner
-- Catapult Turtle
-- Catapult Warrior
-- Catapult Zone
-- Catche Eve L2
-- Catnipped Kitty
-- Catoblepas, Familiar of the Evil Eye
-- Cattle Call
-- Cauldron of the Old Man
-- Cave Dragon
-- Ceasefire
-- Celestia
-- Celestia, Lightsworn Angel
-- Celestial Sword - Eatos
-- Celestial Transformation
-- Cell Explosion Virus
-- Celtic Guardian
-- Cemetary Bomb
-- Centerfrog
-- Centrifugal Field
-- Ceremonial Bell
-- Cestus of Dagla
-- Chain Destruction
-- Chain Detonation
-- Chain Disappearance
-- Chain Dispel
-- Chain Dog
-- Chain Energy
-- Chain Healing
-- Chain Ignition
-- Chain Material
-- Chain Resonator
-- Chain Summoning
-- Chain Thrasher
-- Chain Whirlwind
-- Chainsaw Insect
-- Chamberlain of the Six Samurai
-- Champion's Vigilance
-- Change of Hero - Reflector Ray
-- Change Slime
-- Changer Synchron
-- Changing Destiny
-- Chaos Betrayer
-- Chaos Burst
-- Chaos Command Magician
-- Chaos Core
-- Chaos End
-- Chaos Form
-- Chaos Greed
-- Chaos Hunter
-- Chaos Infinity
-- Chaos Necromancer
-- Chaos Seed
-- Chaos Sorcerer
-- Chaos Summoning Beast
-- Chaos Trap Hole
-- Chaos Zone
-- Chaosrider Gustaph
-- Charcoal Inpachi
-- Charge Into a Dark World
-- Charge of the Light Brigade
-- Charged-Up Heraldry
-- Charging Gaia the Fierce Knight
-- Charioteer of Prophecy
-- Charm of Shabti
-- Checkmate
-- Checksum Dragon
-- Cheepcheepcheep
-- Chemicritter Carbo Crab
-- Chemicritter Hydron Hawk
-- Chemicritter Oxy Ox
-- Chewbone
-- Child's Play
-- Chimera the Flying Mythical Beast
-- Chimeratech Fortress Dragon
-- Chimeratech Overdragon
-- Chimeratech Rampage Dragon
-- Chiron the Mage
-- Chobham Armor Dragon
-- Chopman the Desperate Outlaw
-- Chorus of Sanctuary
-- Chosen by the World Chalice
-- Chosen of Zefra
-- Chosen One
-- Chow Chow Chan
-- Chow Len the Prophet
-- Chronograph Sorcerer
-- Chronomaly Acambaro Figures
-- Chronomaly Crystal Bones
-- Chronomaly Esperanza Glyph
-- Chronomaly Golden Jet
-- Chronomaly Mayan Machine
-- Chronomaly Moai
-- Chronomaly Moai Carrier
-- Chronomaly Pyramid Eye Tablet
-- Chronomaly Technology
-- Chronomaly Temple - Trilithon
-- Chronomaly Tuspa Rocket
-- Chronomaly Winged Sphinx
-- Chrysalis Chicky
-- Chrysalis Dolphin
-- Chrysalis Larva
-- Chrysalis Mole
-- Chrysalis Pantail
-- Chrysalis Pinny
-- Chthonian Alliance
-- Chthonian Blast
-- Chthonian Polymer
-- Chthonian Soldier
-- Chu-Ske the Mouse Fighter
-- Cipher Bit
-- Cipher Etranger
-- Cipher Mirror Knight
-- Cipher Soldier
-- Cipher Spectrum
-- Cipher Twin Raptor
-- Cipher Wing
-- Circle of the Fire Kings
-- Clavkiys, the Magikey Skyblaster
-- Claw Reacher
-- Clay Charge
-- Cliant
-- Cloak and Dagger
-- Clock Arc
-- Clock Lizard
-- Clock Resonator
-- Clock Spartoi
-- Clock Tower Prison
-- Clock Wyvern
-- Cloning
-- Closed Forest
-- Cloudcastle
-- Cloudian - Ghost Fog
-- Cloudian - Nimbusman
-- Cloudian - Poison Cloud
-- Cloudian - Smoke Ball
-- Cloudian - Storm Dragon
-- Cloudian - Turbulence
-- Cloudian Aerosol
-- Cloudian Squall
-- Clown Zombie
-- Cluster Congester
-- Coach Captain Bearman
-- Coach Goblin
-- Coach King Giantrainer
-- Cobra Jar
-- Cobraman Sakuzy
-- Cockadoodledoo
-- Cockroach Knight
-- Cocoon of Evolution
-- Cocoon Party
-- Cocoon Rebirth
-- Cocoon Veil
-- Codarus
-- Code Talker Inverted
-- Codebreaker Virus Berserker
-- Codebreaker Virus Swordsman
-- Codebreaker Zero Day
-- Coffin Seller
-- Cold Enchanter
-- Cold Feet
-- Collected Power
-- Colossal Fighter
-- Colossal Fighter/Assault Mode
-- Column Switch
-- Combination Attack
-- Combo Fighter
-- Command Knight
-- Command Performance
-- Commander Covington
-- Commander of Swords
-- Commencement Dance
-- Common Charity
-- Common Soul
-- Compulsory Escape Device
-- Compulsory Evacuation Device
-- Comrade Swordsman of Landstar
-- Concentrating Current
-- Condemned Maiden
-- Condemned Witch
-- Condolence Puppet
-- Confusion Chaff
-- Conscription
-- Consecrated Light
-- Consolation Prize
-- Constellar Acubens
-- Constellar Aldebaran
-- Constellar Algiedi
-- Constellar Alrescha
-- Constellar Belt
-- Constellar Kaus
-- Constellar Leonis
-- Constellar Meteor
-- Constellar Pleiades
-- Constellar Rasalhague
-- Constellar Sheratan
-- Constellar Siat
-- Constellar Star Chart
-- Constellar Star Cradle
-- Constellar Twinkle
-- Construction Train Signal Red
-- Contact
-- Contact "C"
-- Contact Gate
-- Contact Out
-- Contact with the Aquamirror
-- Continuous Destruction Punch
-- Contract Laundering
-- Contract with Exodia
-- Contract with the Abyss
-- Contract with the Dark Master
-- Converging Wills Dragon
-- Convert Contact
-- Convulsion of Nature
-- Copy Knight
-- Copy Plant
-- Copycat
-- Core Blaster
-- Corridor of Agony
-- Corroding Shark
-- Corrosive Scales
-- Corruption Cell "A"
-- Cosmic Blazar Dragon
-- Cosmic Compass
-- Cosmic Cyclone
-- Cosmic Flare
-- Cosmic Slicer Zer'oll
-- Cosmo Brain
-- Cosmo Queen
-- Cost Down
-- Counter Cleaner
-- Counter Counter
-- Counter Gem
-- Counterforce
-- Covering Fire
-- Crab Turtle
-- Crackdown
-- Cracking
-- Cracking Dragon
-- Crane Crane
-- Crashbug Road
-- Crashbug X
-- Crashbug Y
-- Crashbug Z
-- Crass Clown
-- Crawling Dragon
-- Crawling Dragon #2
-- Crazy Fish
-- Crealtar, the Impcantation Originator
-- Creation Resonator
-- Creature Seizure
-- Creature Swap
-- Creeping Darkness
-- Creeping Doom Manta
-- Creepy Coney
-- Crevice Into the Different Dimension
-- Crimson Fire
-- Crimson Ninja
-- Crimson Resonator
-- Crimson Sentry
-- Crimson Sunbird
-- Criosphinx
-- Crop Circles
-- Cross Attack
-- Cross Debug
-- Cross Porter
-- Cross-Dimensional Duel
-- Cross-Sword Beetle
-- Crowned by the World Chalice
-- Crusader of Endymion
-- Crusadia Arboria
-- Crusadia Draco
-- Crusadia Krawler
-- Crusadia Leonis
-- Crusadia Power
-- Crusadia Reclusia
-- Crusadia Regulex
-- Crusadia Spatha
-- Crusadia Testament
-- Crusadia Vanguard
-- Crush Card Virus
-- Crusher Run
-- Cryomancer of the Ice Barrier
-- Crystal Abundance
-- Crystal Beacon
-- Crystal Beast Amber Mammoth
-- Crystal Beast Amethyst Cat
-- Crystal Beast Cobalt Eagle
-- Crystal Beast Emerald Tortoise
-- Crystal Beast Ruby Carbuncle
-- Crystal Beast Sapphire Pegasus
-- Crystal Beast Topaz Tiger
-- Crystal Blessing
-- Crystal Conclave
-- Crystal Keeper
-- Crystal Master
-- Crystal Pair
-- Crystal Promise
-- Crystal Raigeki
-- Crystal Release
-- Crystal Rose
-- Crystal Seer
-- Crystal Tree
-- Crystolic Potential
-- Crystron Entry
-- Crystron Impact
-- Crystron Prasiortle
-- Crystron Rion
-- Crystron Rosenix
-- Crystron Smiger
-- Crystron Thystvern
-- Cu Chulainn the Awakened
-- Cuben
-- Cunning of the Six Samurai
-- Cup of Ace
-- Cupid Dunk
-- Cupid Fore
-- Cupid Pitch
-- Cupid Serve
-- Cupid Volley
-- Cure Mermaid
-- Curse of Aging
-- Curse of Anubis
-- Curse of Darkness
-- Curse of Dragon
-- Curse of Dragon, the Cursed Dragon
-- Curse of Fiend
-- Curse of Royal
-- Curse of the Masked Beast
-- Curse of the Shadow Prison
-- Cursed Armaments
-- Cursed Bamboo Sword
-- Cursed Bill
-- Cursed Fig
-- Cursed Seal of the Forbidden Spell
-- Curtain of the Dark Ones
-- Cyber Angel Dakini
-- Cyber Angel Idaten
-- Cyber Angel Izana
-- Cyber Angel Vrash
-- Cyber Archfiend
-- Cyber Dinosaur
-- Cyber Dragon
-- Cyber Dragon Core
-- Cyber Dragon Drei
-- Cyber Dragon Nachster
-- Cyber Dragon Nova
-- Cyber Dragon Sieger
-- Cyber Dragon Vier
-- Cyber Dragon Zwei
-- Cyber Egg Angel
-- Cyber Eltanin
-- Cyber Emergency
-- Cyber End Dragon
-- Cyber Eternal
-- Cyber Falcon
-- Cyber Gymnast
-- Cyber Harpie Lady
-- Cyber Kirin
-- Cyber Larva
-- Cyber Network
-- Cyber Ogre
-- Cyber Ouroboros
-- Cyber Petit Angel
-- Cyber Pharos
-- Cyber Phoenix
-- Cyber Prima
-- Cyber Raider
-- Cyber Repair Plant
-- Cyber Saurus
-- Cyber Shadow Gardna
-- Cyber Shark
-- Cyber Shield
-- Cyber Soldier of Darkworld
-- Cyber Summon Blaster
-- Cyber Tutu
-- Cyber Tutubon
-- Cyber Twin Dragon
-- Cyber Valley
-- Cyber-Tech Alligator
-- Cyberdark Cannon
-- Cyberdark Claw
-- Cyberdark Dragon
-- Cyberdark Edge
-- Cyberdark Horn
-- Cyberdark Impact!
-- Cyberdark Inferno
-- Cyberdark Invasion
-- Cyberdark Keel
-- Cyberdarkness Dragon
-- Cyberload Fusion
-- Cybernetic Cyclopean
-- Cybernetic Fusion Support
-- Cybernetic Hidden Technology
-- Cybernetic Magician
-- Cybernetic Overflow
-- Cybernetic Revolution
-- Cybernetic Zone
-- Cybersal Cyclone
-- Cyberse Accelerator
-- Cyberse Beacon
-- Cyberse Converter
-- Cyberse Gadget
-- Cyberse Integrator
-- Cyberse Reminder
-- Cyberse Wicckid
-- Cyberse Wizard
-- Cyborg Doctor
-- Cycle of the World
-- Cyclon Laser
-- Cyclone Blade
-- Cyclone Boomerang
-- Cycroid
-- Cynet Cascade
-- Cynet Crosswipe
-- Cynet Fusion
-- Cynet Refresh
-- Cynet Regression
-- Cynet Ritual
-- Cynet Storm
-- Cynet Universe
-- D - Chain
-- D - Counter
-- D - Formation
-- D - Fortune
-- D - Shield
-- D - Spirit
-- D - Time
-- D Cubed
-- D-Fusion
-- D. Human
-- D. Tribe
-- D.3.S. Frog
-- D.D. Assailant
-- D.D. Assault Carrier
-- D.D. Borderline
-- D.D. Crazy Beast
-- D.D. Crow
-- D.D. Dynamite
-- D.D. Esper Star Sparrow
-- D.D. Guide
-- D.D. Patrol Plane
-- D.D. Scout Plane
-- D.D. Seeker
-- D.D. Sprite
-- D.D. Survivor
-- D.D. Trainer
-- D.D. Trap Hole
-- D.D. Warrior
-- D.D. Warrior Lady
-- D.D.D. - Different Dimension Derby
-- D.D.M. - Different Dimension Master
-- D.D.R. - Different Dimension Reincarnation
-- D/D Ark
-- D/D Cerberus
-- D/D Evil
-- D/D Ghost
-- D/D Lilith
-- D/D Necro Slime
-- D/D Nighthowl
-- D/D Pandora
-- D/D Proud Chevalier
-- D/D Proud Ogre
-- D/D Recruits
-- D/D Reroll
-- D/D Savant Copernicus
-- D/D Savant Galilei
-- D/D Savant Kepler
-- D/D Savant Newton
-- D/D Savant Nikola
-- D/D Swirl Slime
-- D/D Vice Typhon
-- D/D/D Contract Change
-- D/D/D Doom King Armageddon
-- D/D/D Duo-Dawn King Kali Yuga
-- D/D/D Flame High King Genghis
-- D/D/D Human Resources
-- D/D/D Oblivion King Abyss Ragnarok
-- D/D/D Oracle King d'Arc
-- D/D/D Super Doom King Purple Armageddon
-- D/D/D Supersight King Zero Maxwell
-- D/D/D Supreme King Kaiser
-- D/D/D Wave King Caesar
-- Dai Dance
-- Dai-sojo of the Ice Barrier
-- Damage Condenser
-- Damage Diet
-- Damage Eater
-- Damage Gate
-- Damage Mage
-- Damage Translation
-- Damage Vaccine Omega MAX
-- Dance Princess of the Ice Barrier
-- Dances with Beasts
-- Dancing Elf
-- Dancing Fairy
-- Danger! Chupacabra!
-- Danger! Disturbance! Disorder!
-- Danger! Feets of Strength!
-- Dangerous Machine Type-6
-- Danipon
-- Danmari @Ignister
-- Dante, Traveler of the Burning Abyss
-- Dark Angel
-- Dark Armed Dragon
-- Dark Artist
-- Dark Assailant
-- Dark Balter the Terrible
-- Dark Bat
-- Dark Beckoning Beast
-- Dark Blade
-- Dark Bribe
-- Dark Calling
-- Dark Cat with White Tail
-- Dark Catapulter
-- Dark City
-- Dark Coffin
-- Dark Contract with Errors
-- Dark Contract with the Gate
-- Dark Contract with the Swamp King
-- Dark Contract with the Witch
-- Dark Contract with the Yamimakai
-- Dark Core
-- Dark Crusader
-- Dark Deal
-- Dark Designator
-- Dark Doriado
-- Dark Dragon Ritual
-- Dark Driceratops
-- Dark Dust Spirit
-- Dark Effigy
-- Dark Elf
-- Dark Energy
-- Dark Eradicator Warlock
-- Dark Eruption
-- Dark Eye Nightmare
-- Dark Factory of Mass Production
-- Dark Factory of More Production
-- Dark Flare Knight
-- Dark Fusion
-- Dark General Freed
-- Dark Gray
-- Dark Hole
-- Dark Horus
-- Dark Illusion
-- Dark Jeroid
-- Dark King of the Abyss
-- Dark Lucius LV4
-- Dark Lucius LV6
-- Dark Lucius LV8
-- Dark Magic Attack
-- Dark Magic Curtain
-- Dark Magic Expanded
-- Dark Magic Inheritance
-- Dark Magical Circle
-- Dark Magician
-- Dark Magician Girl
-- Dark Magician Girl the Dragon Knight
-- Dark Magician Knight
-- Dark Magician of Chaos
-- Dark Mambele
-- Dark Master - Zorc
-- Dark Mimic LV1
-- Dark Mimic LV3
-- Dark Necrofear
-- Dark Nephthys
-- Dark Paladin
-- Dark Prisoner
-- Dark Rabbit
-- Dark Rebellion Xyz Dragon
-- Dark Red Enchanter
-- Dark Renewal
-- Dark Requiem Xyz Dragon
-- Dark Resonator
-- Dark Room of Nightmare
-- Dark Rose Fairy
-- Dark Ruler Ha Des
-- Dark Ruler No More
-- Dark Sage
-- Dark Scheme
-- Dark Scorpion - Chick the Yellow
-- Dark Scorpion - Cliff the Trap Remover
-- Dark Scorpion - Gorg the Strong
-- Dark Scorpion - Meanae the Thorn
-- Dark Scorpion Burglars
-- Dark Scorpion Combination
-- Dark Simorgh
-- Dark Smog
-- Dark Snake Syndrome
-- Dark Spider
-- Dark Spirit of the Silent
-- Dark Strike Fighter
-- Dark Summoning Beast
-- Dark Templar @Ignister
-- Dark Tinker
-- Dark Titan of Terror
-- Dark Valkyria
-- Dark Verger
-- Dark Witch
-- Dark World Brainwashing
-- Dark World Dealings
-- Dark World Grimoire
-- Dark World Lightning
-- Dark Zebra
-- Dark-Piercing Light
-- Darkbishop Archfiend
-- Darkblaze Dragon
-- Darkfall
-- Darkfire Dragon
-- Darkfire Soldier #1
-- Darkfire Soldier #2
-- Darklight
-- Darklon
-- Darklord Desire
-- Darklord Marie
-- Darklord Nergal
-- Darklord Uprising
-- Darklord Zerato
-- Darkness Approaches
-- Darkness Neosphere
-- Darknight Parshath
-- Darksea Float
-- Darkstorm Dragon
-- Darkworld Shackles
-- Darkworld Thorns
-- Daruma Dropper
-- Dash Warrior
-- Datacorn
-- Dawn of the Herald
-- Dawnbreak Gardna
-- Daybreaker
-- De-Fusion
-- De-Spell
-- De-Synchro
-- Deal of Phantom
-- Dealer's Choice
-- Debris Dragon
-- Debunk
-- Decayed Commander
-- Deck Devastation Virus
-- Deck Lockdown
-- Decode Talker
-- Decoy Dragon
-- Decoyroid
-- Dedication through Light and Darkness
-- Deep Diver
-- Deep Sea Artisan
-- Deep Sea Diva
-- Deep Sea Minstrel
-- Deep Sea Prima Donna
-- Deep Sea Sentry
-- Deep Sweeper
-- Deep-Space Cruiser IX
-- Deepsea Shark
-- Deepsea Warrior
-- Defect Compiler
-- Defender of the Ice Barrier
-- Defender of the Labyrinth
-- Defender, the Magical Knight
-- Defenders Intersect
-- Defense Draw
-- Defense Zone
-- Defrag Dragon
-- Degen-Force
-- Dekoichi the Battlechanted Locomotive
-- Delta Attacker
-- Delta Crow - Anti Reverse
-- Delta The Magnet Warrior
-- Delta Tri
-- Demise of the Land
-- Demise, Agent of Armageddon
-- Demise, King of Armageddon
-- Demotion
-- Denko Sekka
-- Depth Amulet
-- Des Croaking
-- Des Dendle
-- Des Feral Imp
-- Des Frog
-- Des Kangaroo
-- Des Koala
-- Des Lacooda
-- Des Mosquito
-- Des Volstgalph
-- Des Wombat
-- Descending Lost Star
-- Desert Locusts
-- Desert Protector
-- Desert Sunlight
-- Desertapir
-- Designer Frightfur
-- Deskbot 001
-- Deskbot 002
-- Deskbot 003
-- Deskbot 004
-- Deskbot 005
-- Deskbot 006
-- Deskbot 007
-- Deskbot 008
-- Deskbot 009
-- Deskbot Base
-- Deskbot Jet
-- Despair from the Dark
-- Desperate Tag
-- Despia, Theater of the Branded
-- Despian Tragedy
-- Desrook Archfiend
-- Destiny Board
-- Destiny Draw
-- Destiny Draw (Skill Card)
-- Destiny End Dragoon
-- Destiny HERO - Blade Master
-- Destiny HERO - Captain Tenacious
-- Destiny HERO - Celestial
-- Destiny HERO - Dangerous
-- Destiny HERO - Dark Angel
-- Destiny HERO - Dasher
-- Destiny HERO - Decider
-- Destiny HERO - Defender
-- Destiny HERO - Departed
-- Destiny HERO - Diamond Dude
-- Destiny HERO - Dogma
-- Destiny HERO - Doom Lord
-- Destiny HERO - Double Dude
-- Destiny HERO - Drawhand
-- Destiny HERO - Dread Servant
-- Destiny HERO - Dreadmaster
-- Destiny HERO - Dreamer
-- Destiny HERO - Drilldark
-- Destiny HERO - Dunker
-- Destiny HERO - Dusktopia
-- Destiny HERO - Dynatag
-- Destiny HERO - Dystopia
-- Destiny HERO - Fear Monger
-- Destiny HERO - Plasma
-- Destiny Mirage
-- Destiny Signal
-- Destroyer Golem
-- Destruct Potion
-- Destruction Cyclone
-- Destruction of Destiny
-- Destruction Punch
-- Destruction Ring
-- Destruction Sword Flash
-- Destruction Sword Memories
-- Destruction Swordsman Fusion
-- Destructive Draw
-- Destructotron
-- Detonate
-- Detonation Code
-- Detonator Circle "A"
-- Deus X-Krawler
-- Dewdark of the Ice Barrier
-- Dhampir Vampire Sheridan
-- Dharc the Dark Charmer
-- Dharma Cannon
-- Diabolos, King of the Abyss
-- Diabound Kernel
-- Diamond Core of Koa'ki Meiru
-- Diamond Duston
-- Dian Keto the Cure Master
-- Diana the Light Spirit
-- Dice It
-- Dice Jar
-- Dice Re-Roll
-- Dice Try!
-- Dice-nied
-- Diced Dice
-- Dicelops
-- Dicephoon
-- Diceversity
-- Different Dimension Capsule
-- Different Dimension Deepsea Trench
-- Different Dimension Dragon
-- Different Dimension Encounter
-- Different Dimension Gate
-- Diffusion Wave-Motion
-- Dig Beak
-- Digging for Gold
-- Digital Bug Centibit
-- Digital Bug Cocoondenser
-- Digital Bug Corebage
-- Digital Bug LEDybug
-- Digital Bug Registrider
-- Digital Bug Scaradiator
-- Digital Bug Websolder
-- Digitron
-- Dillingerous Dragon
-- Dimension Distortion
-- Dimension Explosion
-- Dimension Fortress Weapon
-- Dimension Gate
-- Dimension Jar
-- Dimension Slice
-- Dimension Wall
-- Dimensional Alchemist
-- Dimensional Barrier
-- Dimensional Inversion
-- Dimensional Prison
-- Dimensionhole
-- Dimer Synthesis
-- Dino-Sewing
-- Dinomic Powerload
-- Dinomist Ankylos
-- Dinomist Brachion
-- Dinomist Ceratops
-- Dinomist Charge
-- Dinomist Eruption
-- Dinomist Plesios
-- Dinomist Rush
-- Dinomist Spinos
-- Dinomist Stegosaur
-- Dinomists Howling
-- Dinosaur Kingdom
-- Dinowrestler Capaptera
-- Dinowrestler Capoeiraptor
-- Dinowrestler Chimera T Wrextle
-- Dinowrestler Coelasilat
-- Dinowrestler Eskrimamenchi
-- Dinowrestler Giga Spinosavate
-- Dinowrestler King T Wrextle
-- Dinowrestler Martial Ampelo
-- Dinowrestler Martial Anga
-- Dinowrestler Martial Ankylo
-- Dinowrestler Rambrachio
-- Dinowrestler Systegosaur
-- Dinowrestler Terra Parkourio
-- Dinowrestler Valeonyx
-- Diplexer Chimera
-- Disappear
-- Disarm
-- Disarmament
-- Disc Fighter
-- Disciple of the Forbidden Spell
-- Disciples of the True Dracophoenix
-- Discord
-- Disenchanter
-- Disk Magician
-- Dispatchparazzi
-- Disposable Learner Device
-- Dissolverock
-- Disturbance Strategy
-- Divine Dragon Apocralyph
-- Divine Dragon Aquabizarre
-- Divine Dragon Ragnarok
-- Divine Knight Ishzark
-- Divine Punishment
-- Divine Relic Mjollnir
-- Divine Serpent Geh
-- Divine Sword - Phoenix Blade
-- Divine Wrath
-- Dizzying Winds of Yosen Village
-- Djinn Demolisher of Rituals
-- Djinn Disserere of Rituals
-- Djinn Prognosticator of Rituals
-- DMZ Dragon
-- DNA Checkup
-- DNA Surgery
-- DNA Transplant
-- Doble Passe
-- Doctor Cranium
-- Dododo Bot
-- Dododo Buster
-- Dododo Driver
-- Dododo Swordsman
-- Dododo Warrior
-- Dododo Witch
-- Dogmatika Encounter
-- Dogmatika Genesis
-- Dogmatika Nation
-- Dogmatika Nexus
-- Dogmatika Punishment
-- Dogmatika Theo, the Iron Punch
-- Dogmatikacism
-- Dogmatikalamity
-- Dogoran, the Mad Flame Kaiju
-- Doitsu
-- Doki Doki
-- Dokurorider
-- Dokuroyaiba
-- Doma The Angel of Silence
-- Domain of the True Monarchs
-- Domino Effect
-- Don Turtle
-- Don Zaloog
-- Donpa, Marksman Fur Hire
-- Donyoribo @Ignister
-- Doom Donuts
-- Doom Dozer
-- Doom Shaman
-- Doom Virus Dragon
-- Doombearer Psychopompos
-- Doomcaliber Knight
-- Doomdog Octhros
-- Doomkaiser Dragon
-- Doomkaiser Dragon/Assault Mode
-- Doomstar Magician
-- Doppelganger
-- Doppelwarrior
-- Dora of Fate
-- Doriado's Blessing
-- Doshin @Ignister
-- Dotedotengu
-- Dotscaper
-- Double Attack
-- Double Cipher
-- Double Coston
-- Double Cyclone
-- Double Defender
-- Double Dragon Descent
-- Double Magical Arm Bind
-- Double or Nothing!
-- Double Payback
-- Double Resonator
-- Double Shark
-- Double Snare
-- Double Spell
-- Double Summon
-- Double Tag Team
-- Double Tool C&D
-- Double Trap Hole
-- Double-Edged Sword
-- Double-Edged Sword Technique
-- Doyon @Ignister
-- Dr. Frankenderp
-- Dracocension
-- Draconnet
-- Dracoon Lamp
-- Dragged Down into the Grave
-- Dragodies, the Empowered Warrior
-- Dragon Buster Destruction Sword
-- Dragon Caller
-- Dragon Capture Jar
-- Dragon Dowser
-- Dragon Horn Hunter
-- Dragon Ice
-- Dragon Knight of Creation
-- Dragon Laser
-- Dragon Manipulator
-- Dragon Mastery
-- Dragon Piper
-- Dragon Ravine
-- Dragon Seeker
-- Dragon Shield
-- Dragon Shrine
-- Dragon Spirit of White
-- Dragon Treasure
-- Dragon Zombie
-- Dragon's Bind
-- Dragon's Gunfire
-- Dragon's Mirror
-- Dragon's Rage
-- Dragon's Rebirth
-- Dragoncarnation
-- Dragonic Attack
-- Dragonic Tactics
-- Dragonlark Pairen
-- Dragonmaid Send-Off
-- Dragonoid Generator
-- Dragonpit Magician
-- Dragonpulse Magician
-- Dragoons of Draconia
-- Dragunity Aklys
-- Dragunity Angusticlavii
-- Dragunity Arma Leyvaten
-- Dragunity Arma Mystletainn
-- Dragunity Brandistock
-- Dragunity Corsesca
-- Dragunity Couse
-- Dragunity Darkspear
-- Dragunity Divine Lance
-- Dragunity Dux
-- Dragunity Javelin
-- Dragunity Knight - Barcha
-- Dragunity Knight - Gae Bulg
-- Dragunity Knight - Trident
-- Dragunity Legion
-- Dragunity Legionnaire
-- Dragunity Militum
-- Dragunity Partisan
-- Dragunity Pilum
-- Dragunity Primus Pilus
-- Dragunity Senatus
-- Dragunity Tribus
-- Draining Shield
-- Dramatic Rescue
-- Drastic Drop Off
-- Draw Discharge
-- Draw Muscle
-- Draw of Fate
-- Dream Clown
-- Dream Mirror Fantasy
-- Dream Mirror of Chaos
-- Dream Mirror Recap
-- Dreamsprite
-- Drill Barnacle
-- Drill Bug
-- Drill Driver Vespenato
-- Drill Synchron
-- Drillago
-- Drillroid
-- Driving Snow
-- Droll & Lock Bird
-- Drooling Lizard
-- Drop Off
-- Drowning Mirror Force
-- Dual Assembwurm
-- Dual Avatar Ascendance
-- Dual Avatar Compact
-- Dual Avatar Defeating Evil
-- Dual Avatar Return
-- Duck Dummy
-- DUCKER Mobile Cannon
-- Duelist Alliance
-- Duelittle Chimera
-- Duke Shade, the Sinister Shadow Lord
-- Dummy Golem
-- Dunames Dark Witch
-- Dungeon Worm
-- Dupe Frog
-- Dust Barrier
-- Dust Storm of Gusto
-- Dust Tornado
-- Dustflame Blast
-- Duston Roller
-- Dverg of the Nordic Alfar
-- Dwarf Star Dragon Planeter
-- Dweller in the Depths
-- Dwimmered Glimmer
-- Dyna, Hero Fur Hire
-- E - Emergency Call
-- Eagle Eye
-- Eagle Shark
-- Earth Armor Ninja
-- Earth Chant
-- Earth Effigy
-- Earthbound Immortal Revival
-- Earthbound Immortal Wiraqocha Rasca
-- Earthbound Spirit
-- Earthbound Wave
-- Earthquake
-- Earthquake Giant
-- Earthshaker
-- Eater of Millions
-- Eatgaboon
-- Ebon Arrow
-- Ebon Magician Curran
-- Echo Oscillation
-- Eco, Mystical Spirit of the Forest
-- Ectoplasmer
-- Edge Hammer
-- Edge Imp Chain
-- Edge Imp Cotton Eater
-- Edge Imp Frightfuloid
-- Edge Imp Sabres
-- Edge Imp Saw
-- Edge Imp Scythe
-- Edge of the Ring
-- Effect Veiler
-- Ego Boost
-- Ehren, Lightsworn Monk
-- Eisbahn
-- Ekibyo Drakmord
-- El Shaddoll Anoyatyllis
-- El Shaddoll Fusion
-- El Shaddoll Wendigo
-- Elborz, the Sacred Lands of Simorgh
-- Elder of the Six Samurai
-- Electric Lizard
-- Electric Snake
-- Electric Virus
-- Electro-Whip
-- Electromagnetic Bagworm
-- Electromagnetic Turtle
-- Elegant Egotist
-- Elegy the Melodious Diva
-- Element Doom
-- Element Dragon
-- Element Magician
-- Element Saurus
-- Element Soldier
-- Element Valkyrie
-- Elemental Absorber
-- Elemental Burst
-- Elemental HERO Absolute Zero
-- Elemental HERO Avian
-- Elemental HERO Bladedge
-- Elemental HERO Blazeman
-- Elemental HERO Bubbleman
-- Elemental HERO Burstinatrix
-- Elemental HERO Captain Gold
-- Elemental HERO Clayman
-- Elemental HERO Darkbright
-- Elemental HERO Divine Neos
-- Elemental HERO Electrum
-- Elemental HERO Escuridao
-- Elemental HERO Flame Wingman
-- Elemental HERO Flare Neos
-- Elemental HERO Flash
-- Elemental HERO Gaia
-- Elemental HERO Great Tornado
-- Elemental HERO Heat
-- Elemental HERO Ice Edge
-- Elemental HERO Lady Heat
-- Elemental HERO Marine Neos
-- Elemental HERO Mariner
-- Elemental HERO Mudballman
-- Elemental HERO Necroid Shaman
-- Elemental HERO Necroshade
-- Elemental HERO Neo Bubbleman
-- Elemental HERO Neos
-- Elemental HERO Neos Alius
-- Elemental HERO Ocean
-- Elemental HERO Plasma Vice
-- Elemental HERO Prisma
-- Elemental HERO Shadow Mist
-- Elemental HERO Sparkman
-- Elemental HERO Storm Neos
-- Elemental HERO Stratos
-- Elemental HERO Thunder Giant
-- Elemental HERO Voltic
-- Elemental HERO Wild Wingman
-- Elemental HERO Wildedge
-- Elemental HERO Wildheart
-- Elemental HERO Woodsman
-- Elemental Recharge
-- Elementsaber Aina
-- Elementsaber Malo
-- Elephant Statue of Blessing
-- Elephant Statue of Disaster
-- Elephun
-- Eliminating the League
-- Emblem of Dragon Destroyer
-- Emblem of the Awakening
-- Embodiment of Apophis
-- Emergency Assistance
-- Emergency Provisions
-- Emergeroid Call
-- Emerging Emergency Rescute Rescue
-- Emissary from Pandemonium
-- Emissary of the Afterlife
-- Emissary of the Oasis
-- Emperor Maju Garzett
-- Emperor Sem
-- Empowerment
-- Empress Judge
-- Empress Mantis
-- Empress of Prophecy
-- Enchanted Javelin
-- Enchanting Fitting Room
-- Enchanting Mermaid
-- End of the World
-- Endless Decay
-- Endless Traps
-- Endymion's Lab
-- Endymion, the Master Magician
-- Enemy Controller
-- Energy Bravery
-- Energy Drain
-- Engraver of the Mark
-- Enishi, Shien's Chancellor
-- Enlightenment
-- Enraged Battle Ox
-- Enraged Muka Muka
-- Equip Shot
-- Eradicating Aerosol
-- Eradicator Epidemic Virus
-- Eria the Water Charmer
-- Escalation of the Monarchs
-- Escape from the Dark Dimension
-- Escape of the Unchained
-- Escher the Frost Vassal
-- ESP Amplifier
-- Esper Girl
-- Eternal Dread
-- Eternal Drought
-- Eternal Galaxy
-- Eternal Rest
-- Etoile Cyber
-- Euler's Circuit
-- Everliving Underworld Cannon
-- Evil Eye Confrontation
-- Evil Eye of Gorgoneio
-- Evil Eye Reemergence
-- Evil HERO Dark Gaia
-- Evil HERO Infernal Gainer
-- Evil HERO Infernal Prodigy
-- Evil HERO Malicious Edge
-- Evil HERO Malicious Fiend
-- Evil Thorn
-- Evilswarm Azzathoth
-- Evilswarm Heliotrope
-- Evilswarm Mandragora
-- Evilswarm Nightmare
-- Evilswarm O'lantern
-- Evilswarm Obliviwisp
-- Evilswarm Salamandra
-- Evilswarm Thanatos
-- Evilswarm Thunderbird
-- Evilswarm Zahak
-- Evo-Branch
-- Evo-Karma
-- Evo-Miracle
-- Evo-Singularity
-- Evocator Chevalier
-- Evolsaur Darwino
-- Evolsaur Elias
-- Evolsaur Terias
-- Evoltile Gephyro
-- Evoltile Lagosucho
-- Evoltile Megachirella
-- Evoltile Odonto
-- Evoltile Pleuro
-- Evolution Burst
-- Evolutionary Bridge
-- Exarion Universe
-- Exchange
-- Exchange of Night and Day
-- Exchange of the Spirit
-- Execute Protocols
-- Execution of the Contract
-- Exhausting Spell
-- Exile of the Wicked
-- Exiled Force
-- Exodia Necross
-- Exodius the Ultimate Forbidden Lord
-- Exploder Dragon
-- Exploderokket Dragon
-- Explosive Magician
-- Explosive Urchin
-- Explossum
-- Express Train Trolley Olley
-- Expressroid
-- Exterio's Fang
-- Extinction on Schedule
-- Extra Buck
-- Extra Net
-- Extra Veiler
-- Extraceratops
-- F.A. Auto Navigator
-- F.A. Circuit Grand Prix
-- F.A. City Grand Prix
-- F.A. Dark Dragster
-- F.A. Dead Heat
-- F.A. Downforce
-- F.A. Hang On Mach
-- F.A. Motorhome Transport
-- F.A. Off-Road Grand Prix
-- F.A. Overheat
-- F.A. Pit Stop
-- F.A. Shining Star GT
-- F.A. Sonic Meister
-- F.A. Test Run
-- F.A. Turbo Charger
-- F.A. Whip Crosser
-- F.A. Winners
-- Fabled Ashenveil
-- Fabled Dyf
-- Fabled Grimro
-- Fabled Krus
-- Fabled Kushano
-- Fabled Lurrie
-- Fabled Marcosia
-- Fabled Miztoji
-- Fabled Oltro
-- Fabled Ragin
-- Fabled Raven
-- Fabled Topi
-- Fabled Treason
-- Fabled Urustos
-- Factory of 100 Machines
-- Fairy Archer
-- Fairy Archer Ingunar
-- Fairy Box
-- Fairy Dragon
-- Fairy Guardian
-- Fairy Meteor Crush
-- Fairy of the Spring
-- Fairy Tail - Luna
-- Fairy Tail - Rella
-- Fairy Tail - Sleeper
-- Fairy Wind
-- Fairy's Gift
-- Fairy's Hand Mirror
-- Faith Bird
-- Fake Explosion
-- Fake Feather
-- Fake Hero
-- Fake Trap
-- Falchion Beta
-- Fallen Angel of Roses
-- Fallen Paradise
-- Falling Current
-- Falling Down
-- Familiar Knight
-- Familiar-Possessed - Aussa
-- Familiar-Possessed - Dharc
-- Familiar-Possessed - Eria
-- Familiar-Possessed - Hiita
-- Familiar-Possessed - Lyna
-- Familiar-Possessed - Wynn
-- Fandora, the Flying Furtress
-- Farfa, Malebranche of the Burning Abyss
-- Fatal Abacus
-- Faustian Bargain
-- Fear from the Dark
-- Feast of the Wild LV5
-- Feather Shot
-- Feather Wind
-- Feedback Warrior
-- Feedran, the Winds of Mischief
-- Felgrand Dragon
-- Felis, Lightsworn Archer
-- Fencing Fire Ferret
-- Fengli the Soldrapom
-- Fengsheng Mirror
-- Fenrir
-- Feral Imp
-- Ferret Flames
-- Field Barrier
-- Field-Commander Rahz
-- Fiend Comedian
-- Fiend Griefing
-- Fiend Reflection #2
-- Fiend Scorpion
-- Fiend Skull Dragon
-- Fiend's Hand Mirror
-- Fiend's Sanctuary
-- Fiendish Chain
-- Fiendish Engine Omega
-- Fiendish Rhino Warrior
-- Fiery Fervor
-- Fighting Dirty
-- Fighting Spirit
-- Final Attack Orders
-- Final Destiny
-- Final Draw
-- Final Flame
-- Final Fusion
-- Final Gesture
-- Final Psychic Ogre
-- Final Ritual of the Ancients
-- Fine
-- Finite Cards
-- Fire Ant Ascator
-- Fire Cracker
-- Fire Darts
-- Fire Fighting Daruma Doll
-- Fire Formation - Kaiyo
-- Fire Formation - Tenken
-- Fire Formation - Tensen
-- Fire Formation - Tensu
-- Fire Hand
-- Fire King Avatar Barong
-- Fire King Avatar Garunix
-- Fire King Avatar Kirin
-- Fire King Island
-- Fire Kraken
-- Fire Princess
-- Fire Prison
-- Fire Reaper
-- Fire Sorcerer
-- Fire Trooper
-- Firebird
-- Firegrass
-- Fires of Doomsday
-- Firestorm Prominence
-- Firewall Guardian
-- Fireyarou
-- First of the Dragons
-- First Step Towards Infestation
-- First-Aid Squad
-- Fish and Kicks
-- Fish Depth Charge
-- Fish Rain
-- Fishborg Archer
-- Fishborg Doctor
-- Fishborg Launcher
-- Fishborg Planter
-- Fissure
-- Fists of the Unrivaled Tenyi
-- Five Brothers Explosion
-- Five-Headed Dragon
-- Flame Administrator
-- Flame Armor Ninja
-- Flame Bufferlo
-- Flame Cerebrus
-- Flame Champion
-- Flame Dancer
-- Flame Manipulator
-- Flame Ogre
-- Flame Ruler
-- Flame Swordsman
-- Flame Tiger
-- Flame Viper
-- Flamvell Archer
-- Flamvell Baby
-- Flamvell Counter
-- Flamvell Dragnov
-- Flamvell Fiend
-- Flamvell Firedog
-- Flamvell Grunika
-- Flamvell Guard
-- Flamvell Magician
-- Flamvell Poun
-- Flare Resonator
-- Flash Assailant
-- Flash Fusion
-- Flash Knight
-- Flashbang
-- Flawless Perfection of the Tenyi
-- Flelf
-- Fleur Synchron
-- Flick Clown
-- Flight of the Harpies
-- Flint
-- Flint Lock
-- Flint Missile
-- Flip Flop Frog
-- Flip Frozen
-- Floodgate Trap Hole
-- Floowandereeze & Stri
-- Floowandereeze & Toccan
-- Flourishing Frolic
-- Flower Cardian Cherry Blossom with Curtain
-- Flower Cardian Clover with Boar
-- Flower Cardian Maple with Deer
-- Flower Cardian Moonflowerviewing
-- Flower Cardian Paulownia
-- Flower Cardian Paulownia with Phoenix
-- Flower Cardian Peony with Butterfly
-- Flower Cardian Pine
-- Flower Cardian Pine with Crane
-- Flower Cardian Willow
-- Flower Cardian Willow with Calligrapher
-- Flower Cardian Zebra Grass
-- Flower Cardian Zebra Grass with Moon
-- Flower Gathering
-- Flower Stacking
-- Fluffal Bear
-- Fluffal Cat
-- Fluffal Crane
-- Fluffal Dolphin
-- Fluffal Leo
-- Fluffal Rabbit
-- Fluffal Sheep
-- Fluffal Wings
-- Flyfang
-- Flying "C"
-- Flying Fish
-- Flying Kamakiri #1
-- Flying Kamakiri #2
-- Flying Pegasus Railroad Stampede
-- Flying Penguin
-- Flying Red Carp
-- Flying Saucer Muusik'i
-- Fog Control
-- Follow Wind
-- Follow Wing
-- Foolish Burial Goods
-- Foolish Revival
-- Forbidden Apocrypha
-- Forbidden Arts of the Gishki
-- Forbidden Chalice
-- Forbidden Dark Contract with the Swamp King
-- Forbidden Dress
-- Forbidden Lance
-- Forbidden Scripture
-- Force Resonator
-- Forced Requisition
-- Forest
-- Forge of the True Dracos
-- Forgotten Temple of the Deep
-- Form Change
-- Formation Union
-- Formud Skipper
-- Formula Synchron
-- Fortissimo
-- Fortissimo the Mobile Fortress
-- Fortress Warrior
-- Fortress Whale
-- Fortress Whale's Oath
-- Fortune Lady Dark
-- Fortune Lady Earth
-- Fortune Lady Fire
-- Fortune Lady Water
-- Fortune Lady Wind
-- Fossil Dig
-- Fossil Dyna Pachycephalo
-- Fossil Excavation
-- Foucault's Cannon
-- Fox Fire
-- Fragment Fusion
-- Fragrance Storm
-- Fraud Freeze
-- Free-Range Monsters
-- Freed the Brave Wanderer
-- Freed the Matchless General
-- Freezing Beast
-- Freezing Chains of the Ice Barrier
-- Frenzied Panda
-- Frequency Magician
-- Freya, Spirit of Victory
-- Frightfur Bear
-- Frightfur Chimera
-- Frightfur Cruel Whale
-- Frightfur Factory
-- Frightfur Fusion
-- Frightfur Jar
-- Frightfur Leo
-- Frightfur March
-- Frightfur Repair
-- Frightfur Sanctuary
-- Frightfur Sheep
-- Friller Rabca
-- Frontier Wiseman
-- Frontline Base
-- Frostosaurus
-- Frozen Soul
-- Fruits of Kozaky's Studies
-- Fuh-Rin-Ka-Zan
-- Fuhma Shuriken
-- Fuhma Wave
-- Fukubiki
-- Fulfillment of the Contract
-- Full Force Virus
-- Full Salvo
-- Full-Force Strike
-- Fury of Fire
-- Fury of Kairyu-Shin
-- Fury of Thunder
-- Fushi No Tori
-- Fusilier Dragon, the Dual-Mode Beast
-- Fusion Fright Waltz
-- Fusion Gate
-- Fusion of Fire
-- Fusion Party!
-- Fusion Recovery
-- Fusion Recycling Plant
-- Fusion Reserve
-- Fusion Sage
-- Fusion Substitute
-- Fusion Sword Murasame Blade
-- Fusion Tag
-- Fusion Weapon
-- Fusionist
-- Future Fusion
-- Future Glow
-- Future Samurai
-- Future Visions
-- G.B. Hunter
-- Gaap the Divine Soldier
-- Gadget Arms
-- Gadget Driver
-- Gadget Hauler
-- Gadget Soldier
-- Gagaga Child
-- Gagaga Gardna
-- Gagaga Girl
-- Gagaga Magician
-- Gagaga Samurai
-- Gagagabolt
-- Gagagarevenge
-- Gagagarush
-- Gagagashield
-- Gagagatag
-- Gagagawind
-- Gagagigo
-- Gaia Knight, the Force of Earth
-- Gaia Power
-- Gaia Soul the Combustible Collective
-- Gaia the Dragon Champion
-- Gaia The Fierce Knight
-- Gaia the Magical Knight
-- Gaia, the Mid-Knight Sun
-- Gaia, the Polar Knight
-- Gaiarmor Dragonshell
-- Galactic Charity
-- Galactic Spiral Dragon
-- Galaxy Brave
-- Galaxy Cleric
-- Galaxy Cyclone
-- Galaxy Dragon
-- Galaxy Mirror Sage
-- Galaxy Queen's Light
-- Galaxy Serpent
-- Galaxy Storm
-- Galaxy Trance
-- Galaxy Wave
-- Galaxy Wizard
-- Galaxy Worm
-- Galaxy Zero
-- Galaxy-Eyes Photon Dragon
-- Gale Dogra
-- Gale Lizard
-- Gallis the Star Beast
-- Galloping Gaia
-- Gamble
-- Gambler of Legend
-- Gamma the Magnet Warrior
-- Gamushara
-- Ganbara Knight
-- Ganbara Lancer
-- Gandora the Dragon of Destruction
-- Garbage Collector
-- Garbage Lord
-- Garbage Ogre
-- Garma Sword Oath
-- Garmr of the Nordic Beasts
-- Garoozis
-- Garoth, Lightsworn Warrior
-- Garuda the Wind Spirit
-- Garum the Storm Vassal
-- Gatchiri @Ignister
-- Gate Blocker
-- Gate Guardian
-- Gatekeeper
-- Gateway Dragon
-- Gateway to Dark World
-- Gather Your Mind
-- Gatling Dragon
-- Gauntlet Warrior
-- Gazelle the King of Mythical Beasts
-- Gazer Shark
-- Gear Gigant X
-- Gear Golem the Moving Fortress
-- Gearfried the Iron Knight
-- Gearfried the Swordmaster
-- Geargia Change
-- Geargiaccelerator
-- Geargiagear
-- Geargianchor
-- Geargiano
-- Geargiano Mk-II
-- Geargiarmor
-- Geargiarsenal
-- Geargiauger
-- Gearspring Spirit
-- Geartown
-- Gellenduo
-- Gem Flash Energy
-- Gem-Elephant
-- Gem-Knight Amber
-- Gem-Knight Fusion
-- Gem-Knight Garnet
-- Gem-Knight Iolite
-- Gem-Knight Lapis
-- Gem-Knight Lazuli
-- Gem-Knight Obsidian
-- Gem-Knight Pearl
-- Gem-Knight Sapphire
-- Gem-Knight Sardonyx
-- Gem-Knight Seraphinite
-- Gem-Knight Tourmaline
-- Gem-Merchant
-- Gem-Turtle
-- Gemini Booster
-- Gemini Counter
-- Gemini Elf
-- Gemini Imps
-- Gemini Lancer
-- Gemini Soldier
-- Gemini Spark
-- Gemini Summoner
-- Gemini Trap Hole
-- Geminize Lord Golknight
-- Gendo the Ascetic Monk
-- Gene-Warped Warwolf
-- General Gantala of the Ice Barrier
-- General Grunard of the Ice Barrier
-- General Raiho of the Ice Barrier
-- General Wayne of the Ice Barrier
-- Generation Force
-- Generation Shift
-- Genesis Dragon
-- Genetic Woman
-- Genex Ally Changer
-- Genex Ally Chemistrer
-- Genex Ally Crusher
-- Genex Ally Solid
-- Genex Ally Volcannon
-- Genex Blastfan
-- Genex Controller
-- Genex Doctor
-- Genex Gaia
-- Genex Neutron
-- Genex Power Planner
-- Genex Recycled
-- Genex Searcher
-- Genex Spare
-- Genex Undine
-- Genex Worker
-- Gentlemander
-- Geomancer of the Ice Barrier
-- Geonator Transverser
-- Gergonne's End
-- Germ Infection
-- Gernia
-- Get Your Game On!
-- Getsu Fuhma
-- Ghost Beef
-- Ghost Gardna
-- Ghost Knight of Jackal
-- Ghost Meets Girl - A Mayakashi's Manuscript
-- Ghostrick Doll
-- Ghostrick Fairy
-- Ghostrick Jackfrost
-- Ghostrick Jiangshi
-- Ghostrick Mansion
-- Ghostrick Mummy
-- Ghostrick Museum
-- Ghostrick Nekomusume
-- Ghostrick Night
-- Ghostrick Parade
-- Ghostrick Renovation
-- Ghostrick Scare
-- Ghostrick Skeleton
-- Ghostrick Specter
-- Ghostrick Stein
-- Ghostrick Vanish
-- Ghostrick Warwolf
-- Ghostrick Witch
-- Ghostrick Yeti
-- Ghostrick Yuki-onna
-- Ghosts From the Past
-- Giant Axe Mummy
-- Giant Ballpark
-- Giant Flea
-- Giant Germ
-- Giant Kozaky
-- Giant Mech-Soldier
-- Giant Orc
-- Giant Rat
-- Giant Soldier of Stone
-- Giant Starfall
-- Giant Trap Hole
-- Giant Turtle Who Feeds on Flames
-- Gift Card
-- Gift Exchange
-- Gift of the Martyr
-- Gift of the Mystical Elf
-- Giga Gagagigo
-- Giga-Tech Wolf
-- Gigantes
-- Gigantic Cephalotus
-- Giganto
-- Gigastone Omega
-- Gigathunder Giclops
-- Gigobyte
-- Gil Garth
-- Gilasaurus
-- Gilford the Legend
-- Gilford the Lightning
-- Gillagillancer
-- Giltia the D. Knight
-- Gimmick Puppet Des Troy
-- Gimmick Puppet Dreary Doll
-- Gimmick Puppet Humpty Dumpty
-- Gimmick Puppet Magnet Doll
-- Girochin Kuwagata
-- Gishki Abyss
-- Gishki Aquamirror
-- Gishki Ariel
-- Gishki Avance
-- Gishki Beast
-- Gishki Mollusk
-- Gishki Photomirror
-- Gishki Reliever
-- Gishki Shadow
-- Gishki Vanity
-- Gishki Vision
-- Gizmek Makami, the Ferocious Fanged Fortress
-- Gizmek Orochi, the Serpentron Sky Slasher
-- Gizmek Uka, the Festive Fox of Fecundity
-- Glacier Aqua Madoor
-- Gladiator Beast Andal
-- Gladiator Beast Attorix
-- Gladiator Beast Bestiari
-- Gladiator Beast Charge
-- Gladiator Beast Darius
-- Gladiator Beast Dimacari
-- Gladiator Beast Dragases
-- Gladiator Beast Equeste
-- Gladiator Beast Heraklinos
-- Gladiator Beast Hoplomus
-- Gladiator Beast Lanista
-- Gladiator Beast Laquari
-- Gladiator Beast Murmillo
-- Gladiator Beast Sagittarii
-- Gladiator Beast Samnite
-- Gladiator Beast Secutor
-- Gladiator Beast Tygerius
-- Gladiator Beast United
-- Gladiator Beast Vespasius
-- Gladiator Beast War Chariot
-- Gladiator Beast's Battle Archfiend Shield
-- Gladiator Beast's Battle Gladius
-- Gladiator Beast's Battle Halberd
-- Gladiator Beast's Comeback
-- Gladiator Beast's Respite
-- Gladiator Lash
-- Gladiator Naumachia
-- Gladiator Proving Ground
-- Gladiator's Return
-- Gleipnir, the Fetters of Fenrir
-- Glorious Illusion
-- Glowing Crossbow
-- Gluttonous Reptolphin Greethys
-- Goblin Attack Force
-- Goblin Calligrapher
-- Goblin Circus
-- Goblin Decoy Squad
-- Goblin Elite Attack Force
-- Goblin Fan
-- Goblin King
-- Goblin Marauding Squad
-- Goblin of Greed
-- Goblin Out of the Frying Pan
-- Goblin Pothole Squad
-- Goblin Recon Squad
-- Goblin Thief
-- Goblin Zombie
-- Goblin's Secret Remedy
-- Goblindbergh
-- Goddess Bow
-- Goddess of Whim
-- Goddess with the Third Eye
-- Goe Goe the Gallant Ninja
-- Goggle Golem
-- Gogiga Gagagigo
-- Gogogo Aristera & Dexia
-- Gogogo Ghost
-- Gogogo Giant
-- Gogogo Golem
-- Gogogo Golem - Golden Form
-- Gogogo Goram
-- Gogogo Talisman
-- Goka, the Pyre of Malice
-- Gokipole
-- Gokipon
-- Goldd, Wu-Lord of Dark World
-- Golden Bamboo Sword
-- Golden Dragon Summoner
-- Golden Flying Fish
-- Golden Gearbox
-- Golden Homunculus
-- Golden Ladybug
-- Goldenhair, the Newest Plunder Patroll
-- Goldilocks the Battle Landscaper
-- Golem Dragon
-- Golem Sentry
-- Gonogo
-- Good Goblin Housekeeping
-- Googly-Eyes Drum Dragon
-- Gora Turtle
-- Gora Turtle of Illusion
-- Gorgon's Eye
-- Gorgonic Cerberus
-- Gorgonic Gargoyle
-- Gorgonic Ghoul
-- Gorgonic Golem
-- Gorgonic Guardian
-- Gotterdammerung
-- Gottoms' Emergency Call
-- Gouki Bearhug
-- Gouki Destroy Ogre
-- Gouki Face Turn
-- Gouki Finishing Move
-- Gouki Guts
-- Gouki Headbatt
-- Gouki Heel Ogre
-- Gouki Iron Claw
-- Gouki Moonsault
-- Gouki Octostretch
-- Gouki Re-Match
-- Gouki Ringtrainer
-- Gouki Riscorpio
-- Gouki Suprex
-- Gouki Tagpartner
-- Gouki The Blade Ogre
-- Gouki The Giant Ogre
-- Gouki The Great Ogre
-- Gouki The Powerload Ogre
-- Gouki The Solid Ogre
-- Gouki Thunder Ogre
-- Gouki Twistcobra
-- Goyo Defender
-- Gozen Match
-- Gozuki
-- Graceful Dice
-- Graceful Revival
-- Graceful Tear
-- Gradius
-- Gradius' Option
-- Gragonith, Lightsworn Dragon
-- Granadora
-- Grand Convergence
-- Grand Horn of Heaven
-- Grand Tiki Elder
-- Grandmaster of the Six Samurai
-- Grandram
-- Granmarg the Rock Monarch
-- Grappler Angler
-- Grass Phantom
-- Grave Lure
-- Grave of the Super Ancient Organism
-- Grave Protector
-- Grave Squirmer
-- Gravekeeper's Ambusher
-- Gravekeeper's Assailant
-- Gravekeeper's Cannonholder
-- Gravekeeper's Chief
-- Gravekeeper's Commandant
-- Gravekeeper's Curse
-- Gravekeeper's Descendant
-- Gravekeeper's Guard
-- Gravekeeper's Headman
-- Gravekeeper's Lot
-- Gravekeeper's Oracle
-- Gravekeeper's Priestess
-- Gravekeeper's Recruiter
-- Gravekeeper's Servant
-- Gravekeeper's Shaman
-- Gravekeeper's Spear Soldier
-- Gravekeeper's Spiritualist
-- Gravekeeper's Spy
-- Gravekeeper's Stele
-- Gravekeeper's Supernaturalist
-- Gravekeeper's Vassal
-- Gravekeeper's Visionary
-- Gravekeeper's Watcher
-- Gravelstorm
-- Graverobber
-- Graverobber's Retribution
-- Gravi-Crush Dragon
-- Gravitic Orb
-- Gravity Axe - Grarl
-- Gravity Bind
-- Gravity Blaster
-- Gravity Collapse
-- Gravity Controller
-- Gravity Lash
-- Gray Wing
-- Graydle Alligator
-- Graydle Cobra
-- Graydle Combat
-- Graydle Eagle
-- Graydle Impact
-- Graydle Slime Jr.
-- Graydle Split
-- Great Angus
-- Great Long Nose
-- Great Maju Garzett
-- Great Mammoth of Goldfine
-- Great Moth
-- Great Phantom Thief
-- Great Shogun Shien
-- Great Spirit
-- Great White
-- Green Baboon, Defender of the Forest
-- Green Duston
-- Green Gadget
-- Green Phantom King
-- Green Turtle Summoner
-- Greenkappa
-- Gren Maju Da Eiza
-- Gren, Tactician of Dark World
-- Grenosaurus
-- Grid Rod
-- Grid Sweeper
-- Griffore
-- Griggle
-- Grit
-- Ground Attacker Bugroth
-- Ground Collapse
-- Ground Spider
-- Gruesome Goo
-- Gryphon Wing
-- Gryphon's Feather Duster
-- Guard Dog
-- Guard Ghost
-- Guard Mines
-- Guard Penalty
-- Guarded Treasure
-- Guardian Angel Joan
-- Guardian Baou
-- Guardian Ceal
-- Guardian Dreadscythe
-- Guardian Eatos
-- Guardian Elma
-- Guardian Grarl
-- Guardian Kay'est
-- Guardian of Felgrand
-- Guardian of the Labyrinth
-- Guardian of the Throne Room
-- Guardian Sphinx
-- Guardian Statue
-- Guardian Tryce
-- Guardians of the Tomb
-- Guardragon Andrake
-- Guardragon Cataclysm
-- Guardragon Corewakening
-- Guardragon Garmides
-- Guardragon Justicia
-- Guardragon Promineses
-- Guardragon Reincarnation
-- Guardragon Shield
-- Guiding Ariadne
-- Guiding Light
-- Guitar Gurnards Duonigis
-- Guldfaxe of the Nordic Beasts
-- Gundari
-- Gunkan Suship Daily Special
-- Gunkan Suship Ikura
-- Gunkan Suship Ikura-class Dreadnought
-- Gunkan Suship Shari
-- Gunkan Suship Shirauo
-- Gunkan Suship Shirauo-class Carrier
-- Gunkan Suship Uni
-- Gunkan Sushipyard Seaside Supper Spot
-- Gussari @Ignister
-- Gust
-- Gusto Codor
-- Gusto Egul
-- Gusto Falco
-- Gusto Griffin
-- Gusto Gulldo
-- Gusto Thunbolt
-- Gusto Vedir
-- Gyaku-Gire Panda
-- Gyakutenno Megami
-- Gyroid
-- H - Heated Heart
-- Hack Worm
-- Hade-Hane
-- Half Counter
-- Half or Nothing
-- Half Shut
-- Half Unbreak
-- Halfway to Forever
-- Hamburger Recipe
-- Hammer Shark
-- Hammer Shot
-- Hand Destruction
-- Hand of Nephthys
-- Hand of the Six Samurai
-- Hand-Holding Genie
-- Handcuffs Dragon
-- Handigallop
-- Hane-Hane
-- Hanewata
-- Haniwa
-- Hannibal Necromancer
-- Happy Lover
-- Hard Armor
-- Hard-sellin' Goblin
-- Hard-sellin' Zombie
-- Hardened Armed Dragon
-- Harmonic Oscillation
-- Harmonic Waves
-- Harmonizing Magician
-- Harpie Conductor
-- Harpie Dancer
-- Harpie Girl
-- Harpie Harpist
-- Harpie Lady
-- Harpie Lady 1
-- Harpie Lady 2
-- Harpie Lady 3
-- Harpie Lady Elegance
-- Harpie Lady Phoenix Formation
-- Harpie Lady Sisters
-- Harpie Queen
-- Harpie's Feather Rest
-- Harpie's Feather Storm
-- Harpie's Pet Baby Dragon
-- Harpie's Pet Dragon
-- Harpies' Hunting Ground
-- Harvest Angel of Wisdom
-- Hate Buster
-- Haunted Shrine
-- Hayabusa Knight
-- Hazy Flame Cerbereus
-- Hazy Flame Griffin
-- Hazy Flame Hydra
-- Hazy Flame Hyppogrif
-- Hazy Flame Sphynx
-- Hazy Glory
-- Hazy Pillar
-- Head Judging
-- Headless Knight
-- Healing Wave Generator
-- Heart of Clear Water
-- Heart of the Underdog
-- Heartfelt Appeal
-- Heartless Drop Off
-- Heat Wave
-- Heavenly Dragon Circle
-- Heavy Freight Train Derricrane
-- Heavy Mech Support Armor
-- Heavy Mech Support Platform
-- Heavy Slump
-- Heavy Storm Duster
-- Heavymetalfoes Amalgam
-- Hebo, Lord of the River
-- Hecatrice
-- Hedge Guard
-- Helios - The Primordial Sun
-- Heliosphere Dragon
-- Helmer, Helmsman Fur Hire
-- Helping Robo for Combat
-- Helpoemer
-- Herald of Creation
-- Herald of Green Light
-- Herald of Orange Light
-- Herald of Purple Light
-- Heraldic Beast Aberconway
-- Heraldic Beast Basilisk
-- Heraldic Beast Berners Falcon
-- Heraldic Beast Eale
-- Heraldic Beast Unicorn
-- Heraldry Change
-- Herculean Power
-- Hercules Beetle
-- Heritage of the Light
-- Hermit of Prophecy
-- Hero Barrier
-- Hero Blast
-- Hero Counterattack
-- Hero Flash!!
-- Hero Heart
-- Hero Kid
-- Hero Mask
-- Hero Medal
-- Hero of the East
-- Hero Signal
-- Hero Spirit
-- HERO's Bond
-- Heroic Advance
-- Heroic Challenger - Extra Sword
-- Heroic Challenger - Night Watchman
-- Heroic Challenger - Spartan
-- Heroic Challenger - Swordshield
-- Heroic Challenger - War Hammer
-- Heroic Chance
-- Heroic Gift
-- Heroic Retribution Sword
-- Hexa Spirit of the Ice Barrier
-- Hexatellarknight
-- Hey, Trunade!
-- Hi-Speed Re-Level
-- Hi-Speedroid Chanbara
-- Hi-Speedroid Kendama
-- Hibikime
-- Hidden Armory
-- Hidden Parasite
-- Hidden Spellbook
-- Hidden Springs of the Far East
-- Hidden Temples of Necrovalley
-- Hieracosphinx
-- Hieratic Chant
-- Hieratic Dragon of Eset
-- Hieratic Dragon of Gebeb
-- Hieratic Dragon of Nebthet
-- Hieratic Dragon of Nuit
-- Hieratic Dragon of Su
-- Hieratic Dragon of Tefnuit
-- Hieratic Seal of Supremacy
-- Hieratic Seal of the Dragon King
-- Hieratic Seal of the Sun Dragon Overlord
-- Hieroglyph Lithograph
-- High Tide Gyojin
-- High Tide on Fire Island
-- Hiita the Fire Charmer
-- Hiita the Fire Charmer, Ablaze
-- Hinezumi Hanabi
-- Hinotama
-- Hinotama Soul
-- Hippo Carnival
-- Hippo Token
-- Hiro's Shadow Scout
-- Hitotsu-Me Giant
-- Hiyari @Ignister
-- Holding Arms
-- Holding Legs
-- Homunculus the Alchemic Being
-- Honest
-- Honeybot
-- Hop Ear Squadron
-- Hope for Escape
-- Horn of Light
-- Horn of Olifant
-- Horn of the Phantom Beast
-- Horn of the Unicorn
-- Horseytail
-- Horus the Black Flame Dragon LV4
-- Horus the Black Flame Dragon LV6
-- Horus the Black Flame Dragon LV8
-- Horus' Servant
-- Hoshiningen
-- Hourglass of Courage
-- House Duston
-- House of Adhesive Tape
-- Howl of the Wild
-- Howling Insect
-- Hraesvelgr, the Desperate Doom Eagle
-- Huge Revolution
-- Human-Wave Tactics
-- Humanoid Slime
-- Humanoid Worm Drake
-- Humid Winds
-- Hundred-Footed Horror
-- Hungry Burger
-- Hunter Dragon
-- Hunter of Black Feathers
-- Hunter Owl
-- Hunter Spider
-- Hunting Instinct
-- Hushed Psychic Cleric
-- Hydra Viper
-- Hydro Pressure Cannon
-- Hydrogeddon
-- Hydrotortoise, the Empowered Warrior
-- Hyena
-- Hymn of Light
-- Hyosube
-- Hyozanryu
-- Hyper Hammerhead
-- Hyper Metamorphosis
-- Hyper Psychic Riser
-- Hyper Synchron
-- Hypnocorn
-- Hysteric Fairy
-- Hysteric Party
-- Hysteric Sign
-- I'm Just Gonna Attack!
-- Ibicella Lutea
-- Icarus Attack
-- Ice Hand
-- Ice Master
-- Ice Princess Zereort
-- Icejade Acti
-- Icejade Tinola
-- Icy Breeze Refrain
-- Icy Crevasse
-- Igknight Cavalier
-- Igknight Gallant
-- Igknight Margrave
-- Igknight Paladin
-- Igknight Squire
-- Igknight Veteran
-- Igknights Unite
-- Ignition Beast Volcannon
-- Ignition Phoenix
-- Il Blud
-- Illusion Balloons
-- Illusion Magic
-- Illusionist Faceless Mage
-- Illusionist Faceless Magician
-- Illusory Snatcher
-- Imairuka
-- Immortal Ruler
-- Impcantation Bookstone
-- Impcantation Inception
-- Impcantation Penciplume
-- Impcantation Thanatosis
-- Impenetrable Attack
-- Impenetrable Formation
-- Imperial Custom
-- Imperial Iron Wall
-- Imperial Tombs of Necrovalley
-- Imprisoned Queen Archfiend
-- Inaba White Rabbit
-- Inari Fire
-- Incandescent Ordeal
-- Incarnated Machine Angel
-- Indomitable Fighter Lei Lei
-- Indomitable Gladiator Beast
-- Indulged Darklord
-- Infected Mail
-- Infernal Dragon
-- Infernal Incinerator
-- Infernalqueen Archfiend
-- Infernity Avenger
-- Infernity Barrier
-- Infernity Beast
-- Infernity Beetle
-- Infernity Break
-- Infernity Conjurer
-- Infernity Doom Archfiend
-- Infernity Doom Dragon
-- Infernity Dwarf
-- Infernity Force
-- Infernity Guardian
-- Infernity Necromancer
-- Infernity Paranoia
-- Infernity Patriarch
-- Infernity Randomizer
-- Infernity Reflector
-- Infernity Suppression
-- Infernity Wildcat
-- Inferno
-- Inferno Fire Blast
-- Inferno Reckless Summon
-- Inferno Tempest
-- Infernoble Knight Astolfo
-- Infernoble Knight Captain Oliver
-- Infernoble Knight Captain Roland
-- Infernoble Knight Maugis
-- Infernoble Knight Ogier
-- Infernoble Knight Oliver
-- Infernoid Attondel
-- Infernoid Piaty
-- Infernoid Seitsemas
-- Infernoid Sjette
-- Infestation Infection
-- Infestation Pandemic
-- Infestation Ripples
-- Infestation Terminus
-- Infestation Tool
-- Infinite Cards
-- Infinite Dismissal
-- Infinitrack Brutal Dozer
-- Infinitrack Crab Crane
-- Infinitrack Drag Shovel
-- Infinitrack Tunneller
-- Infinity Dark
-- Influence Dragon
-- Informer Spider
-- Injection Fairy Lily
-- Inner Conflict
-- Inpachi
-- Insect Armor with Laser Cannon
-- Insect Barrier
-- Insect Imitation
-- Insect Knight
-- Insect Neglect
-- Insect Princess
-- Insect Queen
-- Insect Soldiers of the Sky
-- Inspection
-- Inspiration
-- Instant Neo Space
-- Interceptomato
-- Interdimensional Matter Transporter
-- Interdimensional Warp
-- Interplanetary Invader "A"
-- Interplanetarypurplythorny Beast
-- Interplanetarypurplythorny Dragon
-- Interrupt Resistor
-- Into the Darkness Below
-- Intrigue Shield
-- Introduction to Gallantry
-- Invader from Another Dimension
-- Invader of Darkness
-- Invader of the Throne
-- Invasion of Flames
-- Inverse Universe
-- Invigoration
-- Invincibility Barrier
-- Invitation to a Dark Sleep
-- Inzektor Ant
-- Inzektor Centipede
-- Inzektor Dragonfly
-- Inzektor Earwig
-- Inzektor Firefly
-- Inzektor Gauntlet
-- Inzektor Giga-Weevil
-- Inzektor Hornet
-- Inzektor Ladybug
-- Inzektor Picofalena
-- Inzektor Sword - Zektkaliber
-- Iron Blacksmith Kotetsu
-- Iron Call
-- Iron Chain Blaster
-- Iron Chain Coil
-- Iron Chain Snake
-- Iron Core Armor
-- Iron Core Immediate Disposal
-- Iron Core Luster
-- Iron Core of Koa'ki Meiru
-- Iron Draw
-- Ironhammer the Giant
-- Island Turtle
-- Isolde, Belle of the Underworld
-- It's a Toon World!
-- It's Jinzo!
-- It's No Monster, It's a God!
-- Ivy Shackles
-- Jabbing Panda
-- Jack Wyvern
-- Jack's Knight
-- Jack-In-The-Hand
-- Jack-o-Bolan
-- Jackpot 7
-- Jade Insect Whistle
-- Jade Knight
-- Jain, Lightsworn Paladin
-- Jain, Twilightsworn General
-- Jam Breeding Machine
-- Jam Defender
-- Jar of Avarice
-- Jar of Generosity
-- Jar of Greed
-- Jar Robber
-- Jar Turtle
-- Jelly Cannon
-- Jellyfish
-- Jenis, Lightsworn Mender
-- Jerry Beans Man
-- Jester Confit
-- Jester Lord
-- Jetroid
-- Jewels of the Valiant
-- Jigabyte
-- Jigen Bakudan
-- Jinzo
-- Jinzo #7
-- Jinzo - Jector
-- Jinzo - Lord
-- Jinzo - Returner
-- Jirai Gumo
-- Jizukiru, the Star Destroying Kaiju
-- Jowgen the Spiritualist
-- Jowls of Dark Demise
-- Joyous Melffys
-- Judge Man
-- Judge of the Ice Barrier
-- Judgment Dragon
-- Judgment of Anubis
-- Judgment of the Branded
-- Judgment of the Desert
-- Judgment of Thunder
-- Jumbo Drill
-- Junk Barrage
-- Junk Blader
-- Junk Box
-- Junk Breaker
-- Junk Defender
-- Junk Forward
-- Junk Puppet
-- Junk Servant
-- Junk Sleep
-- Junk Synchron
-- Junk Warrior
-- Juragedo
-- Jurassic World
-- Jurrac Aeolo
-- Jurrac Brachis
-- Jurrac Dino
-- Jurrac Gallim
-- Jurrac Guaiba
-- Jurrac Impact
-- Jurrac Monoloph
-- Jurrac Protops
-- Jurrac Ptera
-- Jurrac Spinos
-- Jurrac Stauriko
-- Jurrac Tyrannus
-- Just Desserts
-- Justi-Break
-- Justice of Prophecy
-- Jutte Fighter
-- KA-2 Des Scissors
-- Kabazauls
-- Kagemucha Knight
-- Kagemusha of the Blue Flame
-- Kagemusha of the Six Samurai
-- Kageningen
-- Kagetokage
-- Kahkki, Guerilla of Dark World
-- Kai-Den Kendo Spirit
-- Kaibaman
-- Kaiju Capture Mission
-- Kairyu-Shin
-- Kaiser Dragon
-- Kaiser Glider
-- Kaiser Sea Horse
-- Kaiser Sea Snake
-- Kalantosa, Mystical Beast of the Forest
-- Kaminari Attack
-- Kaminote Blow
-- Kamionwizard
-- Kamui, Hope of Gusto
-- Kangaroo Champ
-- Karakuri Anatomy
-- Karakuri Bonze mdl 9763 "Kunamzan"
-- Karakuri Cash Cache
-- Karakuri Cash Inn
-- Karakuri Gama mdl 4624 "Shirokunishi"
-- Karakuri Gama Oil
-- Karakuri Gold Dust
-- Karakuri Komachi mdl 224 "Ninishi"
-- Karakuri Ninja mdl 7749 "Nanashick"
-- Karakuri Ninja mdl 919 "Kuick"
-- Karakuri Soldier mdl 236 "Nisamu"
-- Karakuri Spider
-- Karakuri Steel Shogun mdl 00X "Bureido"
-- Karakuri Strategist mdl 248 "Nishipachi"
-- Karakuri Trick House
-- Karakuri Watchdog mdl 313 "Saizan"
-- Karate Man
-- Karbonala Warrior
-- Karma Cut
-- Karma of the Destruction Swordsman
-- Kasha
-- Kayenn, the Master Magma Blacksmith
-- Kazejin
-- Keeper of the Shrine
-- Kelbek
-- Keldo
-- Key Mace
-- Key Man the Key Warrior
-- Key Mouse
-- Kidmodo Dragon
-- Kikinagashi Fucho
-- Killer Needle
-- King Beast Barbaros
-- King Fog
-- King of the Feral Imps
-- King of the Skull Servants
-- King of the Swamp
-- King of Yamimakai
-- King Pyron
-- King Scarlet
-- King Tiger Wanghu
-- King's Knight
-- Kinka-byo
-- Kiryu
-- Kiseitai
-- Kishido Spirit
-- Knight Day Grepher
-- Knight of Armor Dragon
-- Knight of Legend
-- Knight's Title
-- Koa'ki Meiru Boulder
-- Koa'ki Meiru Doom
-- Koa'ki Meiru Drago
-- Koa'ki Meiru Guardian
-- Koa'ki Meiru Hydro Barrier
-- Koa'ki Meiru Initialize!
-- Koa'ki Meiru Sandman
-- Koa'ki Meiru Sea Panther
-- Koa'ki Meiru War Arms
-- Koa'ki Ring
-- Koalo-Koala
-- Koitsu
-- Kojikocy
-- Konohanasakuya
-- Kotodama
-- Koumori Dragon
-- Kozaky
-- Kozmo Delta Shuttle
-- Kozmo Lightsword
-- Kozmoll Wickedwitch
-- Kozmourning
-- Krawler Axon
-- Krawler Dendrite
-- Krawler Glial
-- Krawler Ranvier
-- Krawler Receptor
-- Krawler Spine
-- Krebons
-- Kryuel
-- Kujakujaku
-- Kuji-Kiri Curse
-- Kumootoko
-- Kunai with Chain
-- Kunoichi
-- Kurama
-- Kuraz the Light Monarch
-- Kuribandit
-- Kuriboh
-- Kuribohrn
-- Kuribon
-- Kuriphoton
-- Kurivolt
-- Kuro-Obi Karate Spirit
-- Kuwagata α
-- Kycoo the Ghost Destroyer
-- Kyoutou Waterfront
-- La Jinn the Mystical Genie of the Lamp
-- Labradorite Dragon
-- Labyrinth of Nightmare
-- Labyrinth Tank
-- Labyrinth Wall
-- Lady Assailant of Flames
-- Lady Ninja Yae
-- Lady of D.
-- Lady of Faith
-- Lady Panther
-- Lair of Darkness
-- Lair Wire
-- Lancephorhynchus
-- Lancer Archfiend
-- Lancer Dragonute
-- Lancer Lindwurm
-- Landrobe the Rock Vassal
-- LANphorhynchus
-- Lantern Shark
-- Larvae Moth
-- Larvas
-- Laser Cannon Armor
-- Laser Qlip
-- Last Counter
-- Last Gamble
-- Last Minute Cancel
-- Last Resort
-- Launcher Commander
-- Launcher Spider
-- Laundry Trap
-- Lava Battleguard
-- Lava Dragon
-- Lava Golem
-- Laval Blaster
-- Laval Burner
-- Laval Cannon
-- Laval Dual Slasher
-- Laval Forest Sprite
-- Laval Lakeside Lady
-- Laval Lancelord
-- Laval Magma Cannoneer
-- Laval Phlogis
-- Laval Volcano Handmaiden
-- Lavalval Dragun
-- Layard the Liberator
-- Leeching the Light
-- Left Arm Offering
-- Lefty Driver
-- Legacy of Yata-Garasu
-- Legend of Heart
-- Legendary Atlantean Tridon
-- Legendary Ebon Steed
-- Legendary Fiend
-- Legendary Jujitsu Master
-- Legendary Knight Critias
-- Legendary Knight Hermos
-- Legendary Knight Timaeus
-- Legendary Maju Garzett
-- Legendary Secret of the Six Samurai
-- Legendary Six Samurai - Enishi
-- Legendary Six Samurai - Kizan
-- Legendary Six Samurai - Mizuho
-- Legendary Six Samurai - Shinai
-- Legendary Sword
-- Legendary Wind-Up Key
-- Leghul
-- Legion the Fiend Jester
-- Lekunga
-- Lemuria, the Forgotten City
-- Leng Ling
-- Leo, the Keeper of the Sacred Tree
-- Leodrake's Mane
-- Leogun
-- Leotaur
-- Leotron
-- Lesser Dragon
-- Lesser Fiend
-- Level Conversion Lab
-- Level Down!?
-- Level Lifter
-- Level Limit - Area A
-- Level Limit - Area B
-- Level Modulation
-- Level Retuner
-- Level Tuning
-- Level Up!
-- Level Warrior
-- Levia-Dragon - Daedalus
-- Leviair the Sea Dragon
-- Liberty at Last!
-- Lich Lord, King of the Underworld
-- Life Absorbing Machine
-- Life Stream Dragon
-- Lifeless Leaffish
-- Light and Darkness Dragon
-- Light Barrier
-- Light Dragon @Ignister
-- Light Effigy
-- Light of Destruction
-- Light of Intervention
-- Light of Judgment
-- Light of Redemption
-- Light Spiral
-- Light-Imprisoning Mirror
-- Lighten the Load
-- Lightforce Sword
-- Lightning Blade
-- Lightning Conger
-- Lightning Vortex
-- Lightning, Dragon Ruler of Drafts
-- Lightray Daedalus
-- Lightray Diabolos
-- Lightray Gearfried
-- Lightray Grepher
-- Lightray Madoor
-- Lightsworn Barrier
-- Lightsworn Judgment
-- Lightsworn Sabre
-- Lightwave Tuning
-- Lillybot
-- Limit Code
-- Limit Impulse
-- Limit Overdrive
-- Limit Reverse
-- Limiter Overload
-- Limiter Removal
-- Lindbloom
-- Lineage of Destruction
-- Linear Accelerator Cannon
-- Linear Equation Cannon
-- Link Back
-- Link Bound
-- Link Bumper
-- Link Burst
-- Link Devotee
-- Link Hole
-- Link Infra-Flier
-- Link Party
-- Link Restart
-- Link Spider
-- Link Streamer
-- Link Turret
-- Linkbelt Wall Dragon
-- Linkerbell
-- Linkslayer
-- Linkuriboh
-- Lion Alligator
-- Lionhearted Locomotive
-- Liquid Beast
-- Little Chimera
-- Little D
-- Little Fairy
-- Little Trooper
-- Little-Winguard
-- Living Fossil
-- Lizard Soldier
-- Ljosalf of the Nordic Alfar
-- Localized Tornado
-- Lock Cat
-- Lockout Gardna
-- Loki, Lord of the Aesir
-- Lone Wolf
-- Lonefire Blossom
-- Lord British Space Fighter
-- Lord of D.
-- Lord of the Lamp
-- Lord of the Red
-- Lord Poison
-- Loss Time
-- Lost Blue Breaker
-- Lost Guardian
-- Lost Wind
-- Loud Cloud the Storm Serpent
-- Low Blow
-- Lucius the Shadow Vassal
-- Lucky Chance
-- Lucky Cloud
-- Lucky Iron Axe
-- Lucky Punch
-- Lumenize
-- Lumina, Lightsworn Summoner
-- Luminous Dragon Ritual
-- Luminous Soldier
-- Luminous Spark
-- Luna Light Perfume
-- Luna the Dark Spirit
-- Lunalight Black Sheep
-- Lunalight Blue Cat
-- Lunalight Cat Dancer
-- Lunalight Crimson Fox
-- Lunalight Emerald Bird
-- Lunalight Fusion
-- Lunalight Kaleido Chick
-- Lunalight Leo Dancer
-- Lunalight Panther Dancer
-- Lunalight Purple Butterfly
-- Lunalight Reincarnation Dance
-- Lunalight Sabre Dancer
-- Lunalight Serenade Dance
-- Lunalight White Rabbit
-- Lunalight Wolf
-- Lunalight Yellow Marten
-- Luster Dragon
-- Luster Dragon #2
-- Lycanthrope
-- Lyla, Lightsworn Sorceress
-- Lyna the Light Charmer
-- Lyrilusc - Cobalt Sparrow
-- Lyrilusc - Recital Starling
-- Lyrilusc - Sapphire Swallow
-- Lyrilusc - Turquoise Warbler
-- M-Warrior #1
-- M-Warrior #2
-- Ma'at
-- Machina Armored Unit
-- Machina Cannon
-- Machina Defender
-- Machina Defense Perimeter
-- Machina Force
-- Machina Fortress
-- Machina Gearframe
-- Machina Irradiator
-- Machina Megaform
-- Machina Overdrive
-- Machina Peacekeeper
-- Machina Resavenger
-- Machina Sniper
-- Machina Soldier
-- Machina Unclaspare
-- Machine Angel Absolute Ritual
-- Machine Angel Ritual
-- Machine Assembly Line
-- Machine Conversion Factory
-- Machine Duplication
-- Machine King
-- Machine King - 3000 B.C.
-- Machine King Prototype
-- Machine Lord Ur
-- Mad Archfiend
-- Mad Dog of Darkness
-- Mad Lobster
-- Mad Reloader
-- Mad Sword Beast
-- Madolche Baaple
-- Madolche Butlerusk
-- Madolche Chateau
-- Madolche Chickolates
-- Madolche Cruffssant
-- Madolche Fresh Sistart
-- Madolche Lesson
-- Madolche Marmalmaide
-- Madolche Mewfeuille
-- Madolche Petingcessoeur
-- Madolche Puddingcess
-- Madolche Queen Tiaramisu
-- Madolche Teacher Glassouffle
-- Madolche Ticket
-- Madolche Waltz
-- Maestroke the Symphony Djinn
-- Mage Power
-- Magellanica, the Deep Sea City
-- Magic Cylinder
-- Magic Deflector
-- Magic Drain
-- Magic Formula
-- Magic Hand
-- Magic Hole Golem
-- Magic Jammer
-- Magic Planter
-- Magic Reflector
-- Magic Triangle of the Ice Barrier
-- Magical Abductor
-- Magical Android
-- Magical Arm Shield
-- Magical Blast
-- Magical Broker
-- Magical Citadel of Endymion
-- Magical Cylinders
-- Magical Dimension
-- Magical Exemplar
-- Magical Ghost
-- Magical Hats
-- Magical Hound
-- Magical Labyrinth
-- Magical Mallet
-- Magical Marionette
-- Magical Merchant
-- Magical Musket - Crooked Crown
-- Magical Plant Mandragola
-- Magical Reflect Slime
-- Magical Something
-- Magical Star Illusion
-- Magical Stone Excavation
-- Magical Thorn
-- Magical Undertaker
-- Magicalibra
-- Magicalized Duston Mop
-- Magician of Black Chaos
-- Magician of Faith
-- Magician's Act
-- Magician's Circle
-- Magician's Left Hand
-- Magician's Right Hand
-- Magician's Robe
-- Magician's Rod
-- Magician's Valkyria
-- Magicians Unite
-- Magikey Battle
-- Magikey Duo
-- Magikey Locking
-- Magikey Unlocking
-- Maginificent Magikey Mafteal
-- Magister of Endymion
-- Magma Dragon
-- Magna Drago
-- Magna-Slash Dragon
-- Magnarokket Dragon
-- Magnet Circle LV2
-- Magnet Conversion
-- Magnet Force
-- Magnet Reverse
-- Magnetic Attraction
-- Magnetic Field
-- Magnetic Mosquito
-- Magnificent Machine Angel
-- Magnum Shield
-- Maha Vailo
-- Mahaama the Fairy Dragon
-- Maharaghi
-- Mahjong Munia Maidens
-- Maiden of the Aqua
-- Maiden of the Moonlight
-- Maiden with Eyes of Blue
-- Majespecter Crow - Yata
-- Majespecter Fox - Kyubi
-- Majespecter Gust
-- Majespecter Sonics
-- Majespecter Storm
-- Majespecter Tempest
-- Majestic Absorption
-- Majestic Dragon
-- Majestic Mech - Goryu
-- Majestic Mech - Ohka
-- Majestic Mech - Senku
-- Majesty with Eyes of Blue
-- Maji-Gire Panda
-- Majioshaleon
-- Majiosheldon
-- Major Riot
-- Maju Garzett
-- Makiu, the Magical Mist
-- Makyura the Destructor
-- Malefic Blue-Eyes White Dragon
-- Malefic Cyber End Dragon
-- Malefic Parallel Gear
-- Malefic Red-Eyes Black Dragon
-- Malefic Stardust Dragon
-- Malefic Truth Dragon
-- Malefic World
-- Malevolent Catastrophe
-- Malevolent Mech - Goku En
-- Malevolent Nuzzler
-- Malfunction
-- Malice Ascendant
-- Malice Dispersion
-- Malice Doll of Demise
-- Malicevorous Fork
-- Malicevorous Knife
-- Malicevorous Spoon
-- Mamemaki
-- Mammoth Graveyard
-- Man Beast of Ares
-- Man Eater
-- Man-Eater Bug
-- Man-Eating Black Shark
-- Man-Eating Treasure Chest
-- Man-Thro' Tro'
-- Mandragon
-- Manga Ryu-Ran
-- Manju of the Ten Thousand Hands
-- Manticore of Darkness
-- Mara of the Nordic Alfar
-- Marauding Captain
-- March of the Monarchs
-- March Towards Ragnarok
-- Mare Mare
-- Margin Trading
-- Mariamne, the True Dracophoenix
-- Marincess Basilalima
-- Marincess Battle Ocean
-- Marincess Cascade
-- Marincess Crown Tail
-- Marincess Current
-- Marincess Great Bubble Reef
-- Marincess Mandarin
-- Marincess Sea Angel
-- Marincess Sea Star
-- Marincess Snow
-- Marincess Wonder Heart
-- Marine Beast
-- Marionette Mite
-- Mark of the Rose
-- Marmiting Captain
-- Marshmallon
-- Marshmallon Glasses
-- Maryokutai
-- Masaki the Legendary Swordsman
-- Mask Change
-- Mask Change II
-- Mask Charge
-- Mask of Brutality
-- Mask of Darkness
-- Mask of Dispel
-- Mask of Restrict
-- Mask of the Accursed
-- Mask of Weakness
-- Masked Beast Des Gardius
-- Masked Dragon
-- Masked HERO Anki
-- Masked HERO Dark Law
-- Masked HERO Koga
-- Masked Ninja Ebisu
-- Masked Sorcerer
-- Mass Hypnosis
-- Massivemorph
-- Master & Expert
-- Master Craftsman Gamil
-- Master Gig
-- Master Kyonshee
-- Master of the Flaming Dragonswords
-- Master with Eyes of Blue
-- Master's Diploman
-- Mataza the Zapper
-- Matching Outfits
-- Mathematician
-- Mathmech Diameter
-- Mausoleum of the Emperor
-- Mausoleum of White
-- Mavelus
-- Maximum Six
-- Mayhem Fur Hire
-- Mayosenju Daibak
-- Mecha Bunny
-- Mecha Phantom Beast Blackfalcon
-- Mecha Phantom Beast Coltwing
-- Mecha Phantom Beast Hamstrat
-- Mecha Phantom Beast Harrliard
-- Mecha Phantom Beast Raiten
-- Mecha Phantom Beast Sabre Hawk
-- Mecha Phantom Beast Stealthray
-- Mecha Phantom Beast Tetherwolf
-- Mecha Sea Dragon Plesion
-- Mecha-Dog Marron
-- Mechanical Hound
-- Mechanical Snail
-- Mechanicalchaser
-- Meda Bat
-- Medallion of the Ice Barrier
-- Medium of the Ice Barrier
-- Medium Piece Golem
-- Medusa Worm
-- Mefist the Infernal General
-- Mega Thunderball
-- Mega Ton Magical Cannon
-- Megalith Bethor
-- Megalith Emergence
-- Megalith Hagith
-- Megalith Och
-- Megalith Phaleg
-- Megalith Phul
-- Megalith Portal
-- Megalith Unformed
-- Megalosmasher X
-- Megamorph
-- Megarock Dragon
-- Megaroid City
-- Megasonic Eye
-- Megazowler
-- Megistric Maginician
-- Mei-Kou, Master of Barriers
-- Mekanikal Arkfiend
-- Mekk-Knight Avram
-- Mekk-Knight Green Horizon
-- Mekk-Knight Orange Sunset
-- Meklord Army of Granel
-- Meklord Army of Skiel
-- Meklord Army of Wisel
-- Meklord Astro Dragon Asterisk
-- Meklord Astro Mekanikle
-- Meklord Emperor Granel
-- Meklord Emperor Skiel
-- Meklord Emperor Wisel
-- Meklord Factory
-- Meklord Fortress
-- Mektimed Blast
-- Melchid the Four-Face Beast
-- Melffy Catty
-- Melffy Fenny
-- Melffy Hide-and-Seek
-- Melffy Mommy
-- Melffy Playhouse
-- Melffy Pony
-- Melffy Puppy
-- Melffy Rabby
-- Melffy Tag
-- Melomelody the Brass Djinn
-- Meltiel, Sage of the Sky
-- Memory Crush King
-- Memory Crusher
-- Memory Loss
-- Mental Seeker
-- Meotoko
-- Merciful Machine Angel
-- Mermaid Archer
-- Mermaid Knight
-- Mermail Abysshilde
-- Mermail Abysslung
-- Mermail Abyssnerei
-- Mermail Abyssnose
-- Mermail Abyssocea
-- Mesmeric Control
-- Messenger of Peace
-- Metal Armored Bug
-- Metal Detector
-- Metal Fish
-- Metal Reflect Slime
-- Metalfoes Counter
-- Metalfoes Orichalc
-- Metalfoes Silverd
-- Metalfoes Steelen
-- Metallizing Parasite - Lunatite
-- Metallizing Parasite - Soltite
-- Metalmorph
-- Metalrokket Dragon
-- Metalsilver Armor
-- Metalzoa
-- Metamorphosed Insect Queen
-- Metaphys Armed Dragon
-- Metaphys Ascension
-- Metaphys Decoy Dragon
-- Metaphys Factor
-- Meteor Black Dragon
-- Meteor Dragon
-- Meteor Flare
-- Meteor of Destruction
-- Meteorain
-- Metrognome
-- Mezuki
-- Michael, the Arch-Lightsworn
-- Michizure
-- Micro Ray
-- Mighty Guard
-- Mighty Warrior
-- Mild Turkey
-- Milla the Temporal Magician
-- Millennium Eye (Skill Card)
-- Millennium Golem
-- Millennium Necklace (Skill Card)
-- Millennium Shield
-- Milus Radiant
-- Mimicking Man-Eater Bug
-- Mimiclay
-- Mimikuril
-- Mimimic
-- Mimir of the Nordic Ascendant
-- Minar
-- Mind Crush
-- Mind Drain
-- Mind Haxorz
-- Mind Over Matter
-- Mind Protector
-- Mind Scan (Skill Card)
-- Mind Trust
-- Mind Wipe
-- Mine Golem
-- Mine Mole
-- Minefield Eruption
-- Minefieldriller
-- Minerva, Scholar of the Sky
-- Mini-Guts
-- Miniaturize
-- Miniborrel Dragon
-- Minoan Centaur
-- Minor Goblin Official
-- Mira the Star-Bearer
-- Miracle Dig
-- Miracle Fertilizer
-- Miracle Flipper
-- Miracle Fusion
-- Miracle Jurassic Egg
-- Miracle Kids
-- Miracle Locus
-- Miracle Restoring
-- Miracle Synchro Fusion
-- Miracle's Wake
-- Miraculous Descent
-- Miraculous Rebirth
-- Mirage Dragon
-- Mirage Knight
-- Mirage Tube
-- Mirror Force
-- Mirror Force Dragon
-- Mirror Force Launcher
-- Mirror Gate
-- Mirror Ladybug
-- Mirror Mail
-- Mirror of Oaths
-- Mirror of the Ice Barrier
-- Mirror of Yata
-- Mirror Resonator
-- Mirror Wall
-- Misairuzame
-- Mischief of the Gnomes
-- Misfortune
-- Mispolymerization
-- Missing Force
-- Mist Archfiend
-- Mist Body
-- Mist Condor
-- Mist Valley Baby Roc
-- Mist Valley Executor
-- Mist Valley Falcon
-- Mist Valley Soldier
-- Mist Valley Thunderbird
-- Mist Valley Watcher
-- Mist Valley Windmaster
-- Mistake
-- Mistaken Accusation
-- Mistar Boy
-- Mithra the Thunder Vassal
-- Mixeroid
-- Moai Interceptor Cannons
-- Mobius the Frost Monarch
-- Mobius the Mega Monarch
-- Mogmole
-- Moisture Creature
-- Mokey Mokey
-- Mokey Mokey King
-- Mokey Mokey Smackdown
-- Molten Behemoth
-- Molten Conduction Field
-- Molten Destruction
-- Molten Whirlwind Wall
-- Molten Zombie
-- Molting Escape
-- Monk Fighter
-- Monk of the Tenyi
-- Monoceros
-- Monster Assortment
-- Monster Egg
-- Monster Gate
-- Monster Reborn Reborn
-- Monster Recovery
-- Monster Reincarnation
-- Monster Slots
-- Monster Tamer
-- Montage Dragon
-- Moon Dragon Quilla
-- Moon Envoy
-- Moon Mirror Shield
-- Moonlit Papillon
-- Morale Boost
-- Moray of Greed
-- Mordschlag
-- Morinphen
-- Mormolith
-- Morphing Jar #2
-- Morpho Butterspy
-- Morphtransition
-- Morphtronic Bind
-- Morphtronic Boarden
-- Morphtronic Boomboxen
-- Morphtronic Cameran
-- Morphtronic Celfon
-- Morphtronic Clocken
-- Morphtronic Cord
-- Morphtronic Datatron
-- Morphtronic Engine
-- Morphtronic Forcefield
-- Morphtronic Lantron
-- Morphtronic Magnen
-- Morphtronic Magnen Bar
-- Morphtronic Map
-- Morphtronic Mix-up
-- Morphtronic Monitron
-- Morphtronic Repair Unit
-- Morphtronic Rusty Engine
-- Morphtronic Scopen
-- Morphtronic Slingen
-- Morphtronic Smartfon
-- Morphtronic Staplen
-- Morphtronic Vacuumen
-- Morphtronic Videon
-- Morphtronics, Scramble!
-- Mother Grizzly
-- Moulinglacia the Elemental Lord
-- Mound of the Bound Creator
-- Mountain
-- Mozarta the Melodious Maestra
-- Mr. Volcano
-- Ms. Judge
-- Mucus Yolk
-- Muddy Mudragon
-- Mudora
-- Muka Muka
-- Multiplication of Ants
-- Multiply
-- Murmur of the Forest
-- Musakani Magatama
-- Muscle Medic
-- Mushroom Man
-- Mushroom Man #2
-- Musician King
-- Mustering of the Dark Scorpions
-- Musto, Oracle of Gusto
-- Mutually Affured Destruction
-- Muzurhythm the String Djinn
-- My Body as a Shield
-- Mysterious Guard
-- Mysterious Puppeteer
-- Mysterious Triangle
-- Mystery Shell Dragon
-- Mystic Box
-- Mystic Clown
-- Mystic Horseman
-- Mystic Lamp
-- Mystic Macrocarpa Seed
-- Mystic Plasma Zone
-- Mystic Probe
-- Mystic Swordsman LV2
-- Mystic Swordsman LV4
-- Mystic Swordsman LV6
-- Mystic Tomato
-- Mystical Beast of Serket
-- Mystical Cards of Light
-- Mystical Elf
-- Mystical Moon
-- Mystical Sand
-- Mystical Sheep #1
-- Mystical Sheep #2
-- Mystical Shine Ball
-- Mystical Space Typhoon
-- Mystical Wind Typhoon
-- Mystik Wok
-- Mystrick Hulder
-- Mythic Tree Dragon
-- Mythic Water Dragon
-- Mythical Beast Cerberus
-- Mythical Beast Medusa
-- Mythical Bestiamorph
-- Mythical Bestiary
-- Mythical Institution
-- Myutant Blast
-- Myutant Clash
-- Myutant Cry
-- Myutant Expansion
-- Myutant Fusion
-- Myutant GB-88
-- Nagel's Protection
-- Nanobreaker
-- Narrow Pass
-- Natural Disaster
-- Natural Tune
-- Nature's Reflection
-- Naturia Antjaw
-- Naturia Beans
-- Naturia Beetle
-- Naturia Cosmobeet
-- Naturia Dragonfly
-- Naturia Exterio
-- Naturia Forest
-- Naturia Fruitfly
-- Naturia Hydrangea
-- Naturia Ladybug
-- Naturia Mantis
-- Naturia Marron
-- Naturia Mosquito
-- Naturia Pumpkin
-- Naturia Ragweed
-- Naturia Rock
-- Naturia Spiderfang
-- Naturia Stag Beetle
-- Naturia Stinkbug
-- Naturia Strawberry
-- Naturia Sunflower
-- Naturia Tulip
-- Naturia Vein
-- Nebula Dragon
-- Neck Hunter
-- Necklace of Command
-- Necro Fleur
-- Necro Fusion
-- Necro Gardna
-- Necro Linker
-- Necroface
-- Necrolancer the Time-lord
-- Necroquip Prism
-- Necrovalley
-- Necrovalley Temple
-- Needle Ball
-- Needle Ceiling
-- Needle Soldier
-- Needle Sunfish
-- Needle Wall
-- Needle Worm
-- Needlebug Nest
-- Nefarious Archfiend Eater of Nefariousness
-- Negate Attack
-- Neiroy, the Dream Mirror Disciple
-- Neko Mane King
-- Nekogal #1
-- Nekogal #2
-- Nemeses Adrastea
-- Nemuriko
-- Neo Aqua Madoor
-- Neo Bug
-- Neo Flamvell Garuda
-- Neo Flamvell Lady
-- Neo Flamvell Origin
-- Neo Flamvell Sabre
-- Neo Flamvell Shaman
-- Neo Space
-- Neo Space Connector
-- Neo the Magic Swordsman
-- Neo-Parshath, the Sky Paladin
-- Neo-Spacian Air Hummingbird
-- Neo-Spacian Aqua Dolphin
-- Neo-Spacian Dark Panther
-- Neo-Spacian Flare Scarab
-- Neo-Spacian Glow Moss
-- Neo-Spacian Grand Mole
-- Neo-Spacian Marine Dolphin
-- Neo-Spacian Twinkle Moss
-- Neos Force
-- Nephe Shaddoll Fusion
-- Nettles
-- Neutron Blast
-- Newdoria
-- NEX
-- Next to be Lost
-- Night Beam
-- Night Express Knight
-- Night Flight
-- Night Sword Serpent
-- Night Wing Sorceress
-- Night's End Sorcerer
-- Nightmare Archfiends
-- Nightmare Horse
-- Nightmare Penguin
-- Nightmare Sonic Blast!
-- Nightmare Wheel
-- Nightmare's Steelcage
-- Nimble Angler
-- Nimble Beaver
-- Nimble Manta
-- Nimble Momonga
-- Nin-Ken Dog
-- Nine-Lives Cat
-- Nine-Tailed Fox
-- Ninja Grandmaster Sasuke
-- Ninjitsu Art Notebook
-- Ninjitsu Art of Decoy
-- Ninjitsu Art of Shadow Sealing
-- Ninjitsu Art of Super-Transformation
-- Ninjitsu Art of Transformation
-- Nitro Synchron
-- Nitro Warrior
-- Nitwit Outwit
-- Niwatori
-- No Entry!!
-- No More Mrs. Nice Mai!
-- Noble Arms - Arfeudutyr
-- Noble Arms - Caliburn
-- Noble Arms - Clarent
-- Noble Arms - Gallatin
-- Noble Knight Joan
-- Nobledragon Magician
-- Nobleman of Crossout
-- Nobleman of Extermination
-- Nobleman-Eater Bug
-- Noctovision Dragon
-- Noisy Gnat
-- Nomadic Force
-- Non Aggression Area
-- Non-Fusion Area
-- Non-Spellcasting Area
-- Nopenguin
-- Nordic Relic Brisingamen
-- Nordic Relic Draupnir
-- Nordic Relic Gungnir
-- Nordic Relic Laevateinn
-- Nordic Relic Megingjord
-- Nova Summoner
-- Nubian Guard
-- Number 107: Galaxy-Eyes Tachyon Dragon
-- Number 10: Illumiknight
-- Number 12: Crimson Shadow Armor Ninja
-- Number 17: Leviathan Dragon
-- Number 25: Force Focus
-- Number 29: Mannequin Cat
-- Number 30: Acid Golem of Destruction
-- Number 32: Shark Drake
-- Number 34: Terror-Byte
-- Number 39: Utopia
-- Number 40: Gimmick Puppet of Strings
-- Number 43: Manipulator of Souls
-- Number 48: Shadow Lich
-- Number 51: Finisher the Strong Arm
-- Number 58: Burner Visor
-- Number 59: Crooked Cook
-- Number 62: Galaxy-Eyes Prime Photon Dragon
-- Number 66: Master Key Beetle
-- Number 6: Chronomaly Atlandis
-- Number 73: Abyss Splash
-- Number 78: Number Archive
-- Number 7: Lucky Straight
-- Number 81: Superdreadnought Rail Cannon Super Dora
-- Number 83: Galaxy Queen
-- Number 96: Dark Mist
-- Number 98: Antitopian
-- Number C106: Giant Red Hand
-- Number C39: Utopia Ray
-- Number C39: Utopia Ray V
-- Number C5: Chaos Chimera Dragon
-- Number C73: Abyss Supra Splash
-- Number F0: Utopic Future
-- Numbers Overlay Boost
-- Numbing Grub in the Ice Barrier
-- Numen erat Testudo
-- Numinous Healer
-- Nutrient Z
-- Nuvia the Wicked
-- O - Oversoul
-- Oasis of Dragon Souls
-- Obnoxious Celtic Guard
-- Obsessive Uvualoop
-- Obsidian Dragon
-- Octoberser
-- Ocubeam
-- Odd-Eyes Absolute Dragon
-- Odd-Eyes Advent
-- Odd-Eyes Dragon
-- Odd-Eyes Fusion
-- Odd-Eyes Gravity Dragon
-- Odd-Eyes Meteorburst Dragon
-- Odd-Eyes Mirage Dragon
-- Odd-Eyes Pendulum Dragon
-- Odd-Eyes Persona Dragon
-- Odd-Eyes Phantom Dragon
-- Odd-Eyes Vortex Dragon
-- Odin's Eye
-- Odin, Father of the Aesir
-- Offering to the Immortals
-- Offering to the Snake Deity
-- Offerings to the Doomed
-- Ogre of the Black Shadow
-- Oilman
-- Ojama Black
-- Ojama Blue
-- Ojama Country
-- Ojama Delta Hurricane!!
-- Ojama Duo
-- Ojama Green
-- Ojama King
-- Ojama Knight
-- Ojama Pink
-- Ojama Red
-- Ojama Trio
-- Ojama Yellow
-- Ojamagic
-- Ojamuscle
-- Old Mind
-- Old Vindictive Magician
-- Omega Goggles
-- Ominous Fortunetelling
-- One by One
-- One or Eight
-- One-Eyed Shield Dragon
-- One-Kuri-Way
-- One-Shot Wand
-- One-Time Passcode
-- Oni Tank T-34
-- Oni-Gami Combo
-- Onikuji
-- Onomatopaira
-- Ooguchi
-- Ookazi
-- Oops!
-- Opening of the Spirit Gates
-- Opera the Melodious Diva
-- Oppressed People
-- Opti-Camouflage Armor
-- Opticlops
-- Option Hunter
-- Oracle of the Herald
-- Oracle of the Sun
-- Orb of Yasaka
-- Orbital Bombardment
-- Orbital Hydralander
-- Orcust Knightmare
-- Orcustrated Attack
-- Orcustrated Core
-- Orcustrated Einsatz
-- Orcustrated Release
-- Ordeal of a Traveler
-- Order to Charge
-- Order to Smash
-- Orichalcos Shunoros
-- Oscillo Hero
-- Oshaleon
-- Ostinato
-- Otherworld - The "A" Zone
-- Otohime
-- Otoshidamashi
-- Out of the Blue
-- Outstanding Dog Marron
-- Outstanding Dog Mary
-- Over Destiny
-- Over Limit
-- Overdoom Line
-- Overdrive
-- Overflow Dragon
-- Overlay Booster
-- Overlay Eater
-- Overlay Owl
-- Overlay Regen
-- Overlay Sentinel
-- Overload Fusion
-- Overpowering Eye
-- Overwind
-- Overworked
-- Owner's Seal
-- Oxygeddon
-- Oyster Meister
-- Packet Link
-- Packet Swap
-- Painful Decision
-- Pair Cycroid
-- Pal-O'Mine-zation!
-- Paladin of Felgrand
-- Paladin of Storm Dragon
-- Paladin of the Cursed Dragon
-- Paladin of White Dragon
-- Pale Beast
-- Paleozoic Cambroraster
-- Paleozoic Canadia
-- Paleozoic Dinomischus
-- Paleozoic Eldonia
-- Paleozoic Hallucigenia
-- Paleozoic Leanchoilia
-- Paleozoic Marrella
-- Paleozoic Olenoides
-- Paleozoic Pikaia
-- Pandaborg
-- Pandemonium
-- Pandemonium Watchbear
-- Pandora's Jewelry Box
-- Panther Shark
-- Panther Warrior
-- Panzer Dragon
-- Parallel eXceed
-- Parallel Panzer
-- Parallel Port Armor
-- Parallel World Fusion
-- Paralyzing Potion
-- Parametalfoes Fusion
-- Parametalfoes Melcaster
-- Parasite Paracide
-- Parasite Paranoid
-- Parasitic Ticky
-- Parrot Dragon
-- Parry
-- Parry Knights
-- Parsec, the Interstellar Dragon
-- Parthian Shot
-- Particle Fusion
-- Past Image
-- Patchwork Fluffal
-- Patrician of Darkness
-- Patroid
-- Pazuzule
-- Peacock
-- Peak Performance
-- Peeking Goblin
-- Pegasus Wing
-- Penalty Game!
-- Pendulum Back
-- Pendulum Call
-- Pendulum Dimension
-- Pendulum Encore
-- Pendulum Hole
-- Pendulum Impenetrable
-- Pendulum Machine
-- Pendulum Reborn
-- Pendulum Rising
-- Pendulum Shift
-- Pendulum Storm
-- Pendulum Switch
-- Penguin Brave
-- Penguin Cleric
-- Penguin Knight
-- Penguin Ninja
-- Penguin Soldier
-- Penguin Squire
-- People Running About
-- Perditious Puppeteer
-- Perfectly Ultimate Great Moth
-- Performage Damage Juggler
-- Performage Flame Eater
-- Performage Hat Tricker
-- Performage Mirror Conductor
-- Performage Stilts Launcher
-- Performage Trick Clown
-- Performance Hurricane
-- Performance of Sword
-- Performapal Bit Bite Turtle
-- Performapal Bot-Eyes Lizard
-- Performapal Bowhopper
-- Performapal Bubblebowwow
-- Performapal Call
-- Performapal Camelump
-- Performapal Card Gardna
-- Performapal Changeraffe
-- Performapal Clay Breaker
-- Performapal Corn
-- Performapal Dramatic Theater
-- Performapal Drummerilla
-- Performapal Extra Slinger
-- Performapal Fire Mufflerlion
-- Performapal Fireflux
-- Performapal Flip Hippo
-- Performapal Friendonkey
-- Performapal Gatlinghoul
-- Performapal Gold Fang
-- Performapal Gongato
-- Performapal Handsamuraiger
-- Performapal Handstandaccoon
-- Performapal Hip Hippo
-- Performapal Inflater Tapir
-- Performapal Kaleidoscorp
-- Performapal Lebellman
-- Performapal Life Swordsman
-- Performapal Lizardraw
-- Performapal Odd-Eyes Light Phoenix
-- Performapal Odd-Eyes Unicorn
-- Performapal Partnaga
-- Performapal Pendulum Sorcerer
-- Performapal Pinch Helper
-- Performapal Radish Horse
-- Performapal Rain Goat
-- Performapal Recasting
-- Performapal Revival
-- Performapal Revue Dancer
-- Performapal Salutiger
-- Performapal Seal Eel
-- Performapal Secondonkey
-- Performapal Sellshell Crab
-- Performapal Show Down
-- Performapal Silver Claw
-- Performapal Skeeter Skimmer
-- Performapal Spikeagle
-- Performapal Springoose
-- Performapal Stamp Turtle
-- Performapal Swincobra
-- Performapal Sword Fish
-- Performapal Teeter Totter Hopper
-- Performapal Thunderhino
-- Performapal Trampolynx
-- Performapal Trump Girl
-- Performapal Trump Witch
-- Performapal Trumpanda
-- Performapal Turn Trooper
-- Performapal U Go Golem
-- Performapal Uni
-- Performapal Whip Snake
-- Periallis, Empress of Blossoms
-- Peropero Cerperus
-- Personal Spoofing
-- Pestilence
-- Peten the Dark Clown
-- Petit Angel
-- Petit Dragon
-- Petit Moth
-- Phantasm Emperor Trilojig
-- Phantasm Spiral Assault
-- Phantasm Spiral Crash
-- Phantasm Spiral Grip
-- Phantasm Spiral Power
-- Phantasm Spiral Wave
-- Phantasm Token
-- Phantasmal Martyr Token
-- Phantasmal Martyrs
-- Phantom Beast Cross-Wing
-- Phantom Beast Rock-Lizard
-- Phantom Beast Thunder-Pegasus
-- Phantom Beast Wild-Horn
-- Phantom Bounzer
-- Phantom Cricket
-- Phantom Gryphon
-- Phantom Hand
-- Phantom King Hydride
-- Phantom Knights' Fog Blade
-- Phantom Knights' Spear
-- Phantom Knights' Sword
-- Phantom Knights' Wing
-- Phantom Magician
-- Phantom of Chaos
-- Pharaoh's Servant
-- Pharaoh's Treasure
-- Pharaonic Guardian Sphinx
-- Pharaonic Protector
-- Phoenix Beast Gairuda
-- Phoenix Gearfried
-- Phoenix Wing Wind Blast
-- Phoenixian Seed
-- Photon Caesar
-- Photon Cerberus
-- Photon Change
-- Photon Chargeman
-- Photon Circle
-- Photon Crusher
-- Photon Generator Unit
-- Photon Hand
-- Photon Lead
-- Photon Leo
-- Photon Lizard
-- Photon Papilloperative
-- Photon Sabre Tiger
-- Photon Sanctuary
-- Photon Strike Bounzer
-- Photon Thrasher
-- Photon Trident
-- Photon Vanisher
-- Photon Veil
-- Physical Double
-- Pianissimo
-- Pikeru's Second Sight
-- Pilgrim of the Ice Barrier
-- Pilgrim Reaper
-- Pinch Hopper
-- Pineapple Blast
-- Pinecono
-- Pinpoint Dash
-- Pinpoint Guard
-- Piranha Army
-- Pitch-Black Power Stone
-- Pitch-Black Warwolf
-- Pitch-Dark Dragon
-- Piwraithe the Ghost Pirate
-- Pixie Knight
-- Pixie Ring
-- Plague Wolf
-- Plaguespreader Zombie
-- Planet Pathfinder
-- Plant Food Chain
-- Plasma Ball
-- Playful Possum
-- Poison Chain
-- Poison Draw Frog
-- Poison Fangs
-- Poison Mummy
-- Poison of the Old Man
-- Poisonous Winds
-- Poki Draco
-- Pole Position
-- Pollinosis
-- Poly-Chemicritter Hydragon
-- Polymerization
-- Pop-Up
-- Portable Battery Pack
-- Poseidon Wave
-- Possessed Dark Soul
-- Pot of Avarice
-- Pot of Benevolence
-- Pot of Desires
-- Pot of Dichotomy
-- Pot of Duality
-- Pot of Generosity
-- Pot of Riches
-- Pot of The Forbidden
-- Power Bond
-- Power Break
-- Power Breaker
-- Power Capsule
-- Power Filter
-- Power Frame
-- Power Giant
-- Power Injector
-- Power Invader
-- Power of Dark
-- Power of Friendship
-- Power of Kaishin
-- Power Supplier
-- Power Tool Dragon
-- Power Up!
-- Power Wall
-- Power-Up Adapter
-- Powered Tuner
-- Powerful Rebirth
-- Powersink Stone
-- Pragtical
-- Prank-Kids Rocksies
-- Pre-Preparation of Rites
-- Precious Cards from Beyond
-- Predaplant Banksiogre
-- Predaplant Chlamydosundew
-- Predaplant Cordyceps
-- Predaplant Darlingtonia Cobra
-- Predaplant Dragostapelia
-- Predaplant Drosophyllum Hydra
-- Predaplant Moray Nepenthes
-- Predaplant Ophrys Scorpio
-- Predaplant Squid Drosera
-- Predaplast
-- Predaponics
-- Prediction Princess Arrowsylph
-- Prediction Princess Astromorrigan
-- Prediction Princess Coinorma
-- Prediction Princess Crystaldine
-- Prediction Princess Petalelf
-- Prediction Princess Tarotrei
-- Prediction Ritual
-- Premature Return
-- Prepare to Strike Back
-- Prescience
-- Present Card
-- Prevent Rat
-- Prevention Star
-- Prickle Fairy
-- Pride of the Plunder Patroll
-- Pride of the Weak
-- Prideful Roar
-- Priestess with Eyes of Blue
-- Primal Cry
-- Primal Seed
-- Prime Material Dragon
-- Primineral Mandstrong
-- Primitive Butterfly
-- Primordial Soup
-- Princess of Tsurugi
-- Prior of the Ice Barrier
-- Prisman
-- Prohibition
-- Prologue of the Destruction Swordsman
-- Prometeor, the Burning Star
-- Prometheus, King of the Shadows
-- Prominence Hand
-- Prominence, Molten Swordsman
-- Prompthorn
-- Proof of Powerlessness
-- Protective Soul Ailin
-- Protector of the Sanctuary
-- Protector of the Throne
-- Protector with Eyes of Blue
-- Proto-Cyber Dragon
-- Protocol Gardna
-- Proton Blast
-- Protron
-- Proxy F Magician
-- Prufinesse, the Tactical Trapper
-- Pseudo Space
-- Psi-Blocker
-- Psi-Curse
-- Psi-Impulse
-- Psi-Station
-- PSY-Frame Accelerator
-- PSY-Frame Multi-Threader
-- PSY-Framegear Alpha
-- PSY-Framegear Epsilon
-- Psychic Ace
-- Psychic Blade
-- Psychic Commander
-- Psychic Fervor
-- Psychic Jumper
-- Psychic Kappa
-- Psychic Overload
-- Psychic Path
-- Psychic Reactor
-- Psychic Rejuvenation
-- Psychic Shockwave
-- Psychic Snail
-- Psychic Soul
-- Psychic Sword
-- Psychic Tracker
-- Psychokinesis
-- Pulse Mines
-- Pumpking the King of Ghosts
-- Pumprincess the Princess of Ghosts
-- Punch-in-the-Box
-- Punished Eagle
-- Puny Penguin
-- Puppet Master
-- Puppet Parade
-- Puppet Plant
-- Purge Ray
-- Pursuit Chaser
-- Purushaddoll Aeon
-- Putrid Pudding Body Buddies
-- Puzzle Reborn
-- Puzzlomino, the Drop-n-Deleter
-- Pyramid Energy
-- Pyramid of Light
-- Pyramid of Wonders
-- Pyramid Turtle
-- Pyro Clock of Destiny
-- Pyrotech Mech - Shiryu
-- Pyroxene Fusion
-- Qlimate Change
-- Qlipper Launch
-- Quaking Mirror Force
-- Quantum Cat
-- Quarantine
-- Queen Angel of Roses
-- Queen Bird
-- Queen of Autumn Leaves
-- Queen of Thorns
-- Queen's Bodyguard
-- Queen's Double
-- Queen's Knight
-- Queen's Pawn
-- Quick Charger
-- Quick Launch
-- Quickdraw Synchron
-- Quill Pen of Gulldos
-- Quillbolt Hedgehog
-- R - Righteous Justice
-- R-Genex Accelerator
-- R-Genex Crusher
-- R-Genex Magma
-- R-Genex Oracle
-- R-Genex Turbo
-- Ra's Disciple
-- Ra'ten, the Heavenly General
-- Rabid Horseman
-- Rabidragon
-- Radian, the Multidimensional Kaiju
-- Radiant Jeral
-- Radiant Spirit
-- Radiant Vouirescence
-- Radius, the Half-Moon Dragon
-- Rafale, Champion Fur Hire
-- Rage of Kairyu-Shin
-- Rage of the Deep Sea
-- Raging Cloudian
-- Raging Earth
-- Raging Eria
-- Raging Flame Sprite
-- Raging Mad Plants
-- Raging Storm Dragon - Beaufort IX
-- Rai Rider
-- Raiden, Hand of the Lightsworn
-- Raider's Unbreakable Mind
-- Raidraptor - Avenge Vulture
-- Raidraptor - Blade Burner Falcon
-- Raidraptor - Booster Strix
-- Raidraptor - Fuzzy Lanius
-- Raidraptor - Heel Eagle
-- Raidraptor - Last Strix
-- Raidraptor - Mimicry Lanius
-- Raidraptor - Napalm Dragonius
-- Raidraptor - Nest
-- Raidraptor - Pain Lanius
-- Raidraptor - Readiness
-- Raidraptor - Return
-- Raidraptor - Revolution Falcon
-- Raidraptor - Rise Falcon
-- Raidraptor - Sharp Lanius
-- Raidraptor - Singing Lanius
-- Raidraptor - Skull Eagle
-- Raidraptor - Vanishing Lanius
-- Raidraptor - Wild Vulture
-- Raidraptor's Phantom Knights Claw
-- Raigeki Bottle
-- Raigeki Break
-- Rain Bozu
-- Rain of Mercy
-- Rain Storm
-- Rainbow Dark Dragon
-- Rainbow Dragon
-- Rainbow Flower
-- Rainbow Gravity
-- Rainbow Kuriboh
-- Rainbow Neos
-- Rainbow Path
-- Rainbow Refraction
-- Rainbow Veil
-- Raise Body Heat
-- Raiza the Storm Monarch
-- Rallis the Star Bird
-- RAM Clouder
-- Rampaging Smashtank Rhynosaber
-- Rank-Up-Magic - The Seventh One
-- Rank-Up-Magic Admiration of the Thousands
-- Rank-Up-Magic Astral Force
-- Rank-Up-Magic Cipher Ascension
-- Rank-Up-Magic Raptor's Force
-- Ranryu
-- Rapid Trigger
-- Rapid-Fire Magician
-- Raptor Wing Strike
-- Raptor's Gust
-- Raptor's Ultimate Mace
-- Rare Fish
-- Rare Metal Dragon
-- Rare Metalmorph
-- Rare Value
-- Raregold Armor
-- Raremetalfoes Bismugear
-- Rasetsu
-- Ravenous Crocodragon Archethys
-- Ray & Temperature
-- Ray of Hope
-- Razor Lizard
-- Re-Cover
-- Re-dyce-cle
-- Re-Fusion
-- Re-qliate
-- Reactan, Dragon Ruler of Pebbles
-- Ready for Intercepting
-- Really Eternal Rest
-- Realm of Light
-- Reaper of the Cards
-- Reaper Scythe - Dreadscythe
-- Reboot
-- Reborn Tengu
-- Reborn Zombie
-- Rebuildeer
-- Recall
-- Recardination
-- Reckless Greed
-- Reckoned Power
-- Recoded Alive
-- Recon, Scout Fur Hire
-- Recovery Sorcerer
-- Recurring Nightmare
-- Recycle
-- Recycling Batteries
-- Red Archery Girl
-- Red Carpet
-- Red Cocoon
-- Red Dragon Archfiend
-- Red Dragon Archfiend/Assault Mode
-- Red Dragon Vase
-- Red Duston
-- Red Familiar
-- Red Gadget
-- Red Gardna
-- Red Hared Hasty Horse
-- Red Medicine
-- Red Mirror
-- Red Nova
-- Red Ogre
-- Red Potan
-- Red Reign
-- Red Resonator
-- Red Rising Dragon
-- Red Screen
-- Red Sparrow Summoner
-- Red Sprinter
-- Red Warg
-- Red Wyvern
-- Red-Eyes Archfiend of Lightning
-- Red-Eyes Black Dragon
-- Red-Eyes Black Dragon Sword
-- Red-Eyes Black Flare Dragon
-- Red-Eyes Black Metal Dragon
-- Red-Eyes Burn
-- Red-Eyes Darkness Dragon
-- Red-Eyes Fusion
-- Red-Eyes Insight
-- Red-Eyes Retro Dragon
-- Red-Eyes Spirit
-- Red-Eyes Toon Dragon
-- Red-Eyes Transmigration
-- Red-Eyes Wyvern
-- Red-Eyes Zombie Dragon
-- Red-Headed Oni
-- Redeemable Jar
-- Reed Butterfly
-- Reese the Ice Mistress
-- Reeze, Whirlwind of Gusto
-- Reflect Bounder
-- Regenerating Mummy
-- Regenerating Rose
-- Regretful Rebirth
-- Regulus
-- Reign-Beaux, Overlord of Dark World
-- Reinforce Truth
-- Reinforced Space
-- Reinforcement of the Army's Troops
-- Reinforcements
-- Reject Reborn
-- Rekindling
-- Relay Soul
-- Release from Stone
-- Release Restraint
-- Release Restraint Wave
-- Release, Reverse, Burst
-- Relieve Monster
-- Relinkuriboh
-- Relinquished
-- Relinquished Spider
-- Reload
-- Remote Rebirth
-- Remote Revenge
-- Remove Brainwashing
-- Remove Trap
-- Renge, Gatekeeper of Dark World
-- Reptilianne Coatl
-- Reptilianne Gardna
-- Reptilianne Gorgon
-- Reptilianne Hydra
-- Reptilianne Lamia
-- Reptilianne Medusa
-- Reptilianne Naga
-- Reptilianne Nyami
-- Reptilianne Poison
-- Reptilianne Rage
-- Reptilianne Recoil
-- Reptilianne Scylla
-- Reptilianne Servant
-- Reptilianne Spawn
-- Reptilianne Viper
-- Rescue Cat
-- Rescue Ferret
-- Rescue Interlacer
-- Rescue Rabbit
-- Rescue Warrior
-- Rescueroid
-- Resonance Insect
-- Resonant Destruction
-- Resonator Call
-- Resonator Command
-- Resonator Engine
-- Respect Play
-- Restoration of the Monarchs
-- Restoration Point Guard
-- Restructer Revolution
-- Resurgam Xyz
-- Ret-time Reviver Emit-ter
-- Retaliating "C"
-- Return
-- Return of the Doomed
-- Return of the Dragon Lords
-- Return of the Monarchs
-- Return of the Red-Eyes
-- Return of the Six Samurai
-- Return of the Zombies
-- Return Zombie
-- Revendread Evolution
-- Revendread Origin
-- Reversal of Fate
-- Reversal Quiz
-- Reverse Breaker
-- Reverse Buster
-- Reverse Glasses
-- Reverse of Neos
-- Reverse Reuse
-- Reverse Trap
-- Reversible Beetle
-- Revival Gift
-- Revival Jam
-- Revival of Dokurorider
-- Revival of the Immortals
-- Revival Rose
-- Revolving Switchyard
-- Rhaimundos of the Red Sword
-- Rhinotaurus
-- Ribbon of Rebirth
-- Rider of the Storm Winds
-- Righty Driver
-- Rigorous Reaver
-- Rikka Queen Strenna
-- Ring of Defense
-- Ring of Destruction
-- Ring of Magnetism
-- Rinyan, Lightsworn Rogue
-- Riryoku
-- Riryoku Field
-- Rise of the Fallen
-- Rise of the Salamangreat
-- Rise of the Snake Deity
-- Rise to Full Height
-- Risebell the Star Adjuster
-- Risebell the Star Psycher
-- Risebell the Summoner
-- Rising Air Current
-- Rising Energy
-- Rising Fire
-- Rising Sun Slash
-- Rite of Spirit
-- Ritual Beast Ambush
-- Ritual Beast Return
-- Ritual Beast Tamer Zeframpilica
-- Ritual Buster
-- Ritual Ceremony
-- Ritual Foregone
-- Ritual of Black Mastery
-- Ritual of Destruction
-- Ritual of Grace
-- Ritual Raven
-- Ritual Sanctuary
-- Ritual Sealing
-- Ritual Weapon
-- Rivalry of Warlords
-- Road Synchron
-- Road Warrior
-- Roar of the Earthbound Immortal
-- Roaring Earth
-- Roaring Ocean Snake
-- Robbin' Goblin
-- Robbin' Zombie
-- Robolady
-- Robot Buster Destruction Sword
-- Robotic Knight
-- Roboyarou
-- Roc from the Valley of Haze
-- Rock Band Xenoguitar
-- Rock Bombardment
-- Rock Ogre Grotto #1
-- Rocket Arrow Express
-- Rocket Hand
-- Rocket Hermos Cannon
-- Rocket Jumper
-- Rocket Pilder
-- Rocket Warrior
-- Rod of Silence - Kay'est
-- Rod of the Mind's Eye
-- Rodenut
-- Rogue Doll
-- Rogue of Endymion
-- Rokket Recharger
-- Rokket Synchron
-- Roll Out!
-- ROM Cloudia
-- Ronintoadin
-- Rookie Fur Hire
-- Root Water
-- Rope of Life
-- Rose Archer
-- Rose Bell of Revelation
-- Rose Fairy
-- Rose Girl
-- Rose Lover
-- Rose Paladin
-- Rose Spectre of Dunn
-- Rose Tentacles
-- Rose Witch
-- Roulette Barrel
-- Roulette Spider
-- Royal Command
-- Royal Decree
-- Royal Firestorm Guards
-- Royal Keeper
-- Royal Knight
-- Royal Magical Library
-- Royal Penguins Garden
-- Royal Tribute
-- Royal Writ of Taxation
-- Rude Kaiser
-- Ruffian Railcar
-- Ruin, Angel of Oblivion
-- Ruin, Queen of Oblivion
-- Ruins of the Divine Dragon Lords
-- Runaway Karakuri
-- Rune-Eyes Pendulum Dragon
-- Rush Recklessly
-- Rush Warrior
-- Ryko, Lightsworn Hunter
-- Ryu Kokki
-- Ryu Okami
-- Ryu Senshi
-- Ryu-Kishin
-- Ryu-Kishin Clown
-- Ryu-Kishin Powered
-- Ryu-Ran
-- S-Force Dog Tag
-- S-Force Professor DiGamma
-- S-Force Showdown
-- S-Force Specimen
-- Saambell the Star Bonder
-- Saambell the Summoner
-- Sabatiel - The Philosopher's Stone
-- Saber Beetle
-- Sabersaurus
-- Sacred Crane
-- Sacred Phoenix of Nephthys
-- Sacred Serpent's Wake
-- Sacred Spirit of the Ice Barrier
-- Sacred Sword of Seven Stars
-- Safe Zone
-- Sage of Stillness
-- Sage's Stone
-- Saggi the Dark Clown
-- Sagitta, Maverick Fur Hire
-- Sakuretsu Armor
-- Salamandra
-- Salamangreat Beat Bison
-- Salamangreat Burning Shell
-- Salamangreat Claw
-- Salamangreat Emerald Eagle
-- Salamangreat Falco
-- Salamangreat Fennec
-- Salamangreat Fowl
-- Salamangreat Foxer
-- Salamangreat Foxy
-- Salamangreat Gift
-- Salamangreat Heatleo
-- Salamangreat Jack Jaguar
-- Salamangreat Meer
-- Salamangreat Mole
-- Salamangreat Parro
-- Salamangreat Raccoon
-- Salamangreat Rage
-- Salamangreat Recureance
-- Salamangreat Sanctuary
-- Salamangreat Sunlight Wolf
-- Salamangreat Transcendence
-- Salamangreat Violet Chimera
-- Salamangreat Wolvie
-- Salamangreat Zebroid X
-- Salvage
-- Salvagent Driver
-- Samsara
-- Samsara Kaiser
-- Samurai of the Ice Barrier
-- Samurai Skull
-- Sand Gambler
-- Sand Moth
-- Sand Stone
-- Sanga of the Thunder
-- Sangan
-- Sanguine Swamp
-- Sanwitch
-- Sargasso Lighthouse
-- Sargasso the D.D. Battlefield
-- Saryuja's Shackles
-- Sasuke Samurai
-- Sasuke Samurai #2
-- Sasuke Samurai #3
-- Satellarknight Betelgeuse
-- Satellarknight Capella
-- Satellarknight Procyon
-- Satellarknight Unukalhai
-- Satellarknight Vega
-- Satellite Cannon
-- Sauropod Brachion
-- Savage Colosseum
-- Scapeghost
-- Scarlet Security
-- Scarr, Scout of Dark World
-- Scary Moth
-- Schuberta the Melodious Maestra
-- Schwarzschild Limit Dragon
-- Science Soldier
-- Score the Melodious Diva
-- Scramble Egg
-- Scrap Archfiend
-- Scrap Beast
-- Scrap Breaker
-- Scrap Chimera
-- Scrap Crash
-- Scrap Dragon
-- Scrap Factory
-- Scrap Goblin
-- Scrap Golem
-- Scrap Kong
-- Scrap Lube
-- Scrap Orthros
-- Scrap Rage
-- Scrap Raptor
-- Scrap Recycler
-- Scrap Searcher
-- Scrap Shark
-- Scrap Sheen
-- Scrap Soldier
-- Scrap Worm
-- Scrap-Iron Scarecrow
-- Scrap-Iron Statue
-- Scrapstorm
-- Scrapyard
-- Screams of the Branded
-- Scroll of Bewitchment
-- Scrounging Goblin
-- Scrum Force
-- Sea Archiver
-- Sea Kamen
-- Sea Koala
-- Sea Serpent Warrior of Darkness
-- Sea Stealth Attack
-- Seal, Strategist Fur Hire
-- Sealing Ceremony of Katon
-- Sealing Ceremony of Mokuton
-- Sealing Ceremony of Raiton
-- Sealing Ceremony of Suiton
-- Sealmaster Meisei
-- Searchlightman
-- Searing Fire Wall
-- Sebek's Blessing
-- Second Booster
-- Second Coin Toss
-- Second Goblin
-- Secret Barrel
-- Secret Blast
-- Secret Guards of the Ice Barrier
-- Secret Pass to the Treasures
-- Secret Sect Druid Dru
-- Secret Sect Druid Wid
-- Secret Village of the Spellcasters
-- Secrets of the Gallant
-- Sectarian of Secrets
-- Secure Gardna
-- Security Block
-- Security Orb
-- Seed Cannon
-- Seed of Deception
-- Seed of Flame
-- Seismic Crasher
-- Seismic Shockwave
-- Seiyaryu
-- Self-Destruct Ant
-- Self-Mummification
-- Senet Switch
-- Senior Silver Ninja
-- Senju of the Thousand Hands
-- Senri Eye
-- Sentinel of the Seas
-- Seraphim Papillion
-- Serenade the Melodious Diva
-- Serene Psychic Witch
-- Sergeant Electro
-- Serpent Night Dragon
-- Serpent Suppression
-- Serpentine Princess
-- Servant of Catabolism
-- Setuppercut
-- Seven Swords Warrior
-- Seven Tools of the Bandit
-- Sextet Summon
-- Shaddoll Beast
-- Shaddoll Construct
-- Shaddoll Core
-- Shaddoll Dragon
-- Shaddoll Falco
-- Shaddoll Hedgehog
-- Shaddoll Hound
-- Shaddoll Squamata
-- Shaddoll Zefracore
-- Shaddoll Zefranaga
-- Shadow Delver
-- Shadow Ghoul
-- Shadow Impulse
-- Shadow of Eyes
-- Shadow Reborn
-- Shadow Specter
-- Shadow Spell
-- Shadow Tamer
-- Shadow Vampire
-- Shadow-Imprisoning Mirror
-- Shadowknight Archfiend
-- Shadowslayer
-- Shaman of the Tenyi
-- Shapesister
-- Shapesnatch
-- Shard of Greed
-- Share the Pain
-- Shared Ride
-- Shark Caesar
-- Shark Cruiser
-- Shark Fortress
-- Shark Stickers
-- Sharkraken
-- Shattered Axe
-- Sheep Token
-- Shelrokket Dragon
-- Shield & Sword
-- Shield Crush
-- Shield Handler
-- Shield Spear
-- Shield Warrior
-- Shield Wing
-- Shien's Advisor
-- Shien's Castle of Mist
-- Shien's Daredevil
-- Shien's Dojo
-- Shien's Footsoldier
-- Shien's Scheme
-- Shien's Spy
-- Shien's Squire
-- Shift
-- Shifting Shadows
-- Shinato's Ark
-- Shine Knight
-- Shining Abyss
-- Shining Angel
-- Shining Elf
-- Shining Friendship
-- Shinobi Insect Hagakuremino
-- Shinobi Necro
-- Shinobird Crane
-- Shinobird Crow
-- Shinobird Pigeon
-- Shinobird Power Spot
-- Shinobird Salvation
-- Shinobird's Calling
-- Shiny Black "C"
-- Shiny Black "C" Squadder
-- Shiranui Samurai
-- Shiranui Samuraisaga
-- Shiranui Smith
-- Shiranui Solitaire
-- Shiranui Spiritmaster
-- Shiranui Squiresaga
-- Shiranui Style Samsara
-- Shiranui Style Solemnity
-- Shiranui Style Success
-- Shiranui Style Swallow's Slash
-- Shiranui Style Synthesis
-- Shiranui Swordmaster
-- Shiranui Swordsaga
-- Shire, Lightsworn Spirit
-- Shock Troops of the Ice Barrier
-- Shocktopus
-- Shogi Knight
-- Shogi Lance
-- Shooting Star
-- Shooting Star Bow - Ceal
-- Shore Knight
-- Short Circuit
-- Shovel Crusher
-- Showdown of the Secret Sense Scroll Techniques
-- Shreddder
-- Shrine of Mist Valley
-- Shrink
-- Shuffle Reborn
-- Shutendoji
-- Side Effects?
-- Silent Abyss
-- Silent Angler
-- Silent Doom
-- Silent Graveyard
-- Silent Insect
-- Silent Magician LV4
-- Silent Magician LV8
-- Silent Psychic Wizard
-- Silent Strider
-- Silent Swordsman LV3
-- Silent Swordsman LV5
-- Silent Swordsman LV7
-- Sillva, Warlord of Dark World
-- Silpheed
-- Silver Bow and Arrow
-- Silver Fang
-- Silver Wing
-- Silver's Cry
-- SIMM Tablir
-- Simorgh Onslaught
-- Simorgh Repulsion
-- Simorgh Sky Battle
-- Simorgh, Bird of Beginning
-- Simorgh, Bird of Calamity
-- Simorgh, Bird of Protection
-- Simultaneous Loss
-- Single Purchase
-- Sinister Seeds
-- Sinister Serpent
-- Sinister Shadow Games
-- Sinister Yorishiro
-- Sirenorca
-- Six Samurai United
-- Six Scrolls of the Samurai
-- Six Strike - Thunder Blast
-- Six Strike - Triple Impact
-- Six Style - Dual Wield
-- Skelengel
-- Skelesaurus
-- Skelgon
-- Skill Successor
-- Skilled Blue Magician
-- Skilled Dark Magician
-- Skilled Red Magician
-- Skilled White Magician
-- Skreech
-- Skull Conductor
-- Skull Dice
-- Skull Dog Marron
-- Skull Invitation
-- Skull Knight
-- Skull Knight #2
-- Skull Kraken
-- Skull Lair
-- Skull Mariner
-- Skull Meister
-- Skull Red Bird
-- Skull Servant
-- Skull Stalker
-- Skull-Mark Ladybug
-- Skullbird
-- Sky Dragon
-- Sky Iris
-- Sky Scourge Cidhels
-- Sky Scout
-- Sky Striker Airspace - Area Zero
-- Sky Striker Maneuver - Jamming Waves!
-- Sky Striker Mecha - Eagle Booster
-- Sky Striker Mecha - Shark Cannon
-- Sky Striker Mecharmory - Hercules Base
-- Skyscraper
-- Skystarray
-- Slate Warrior
-- Sleeping Lion
-- Slime Toad
-- Slip of Fortune
-- Slip Summon
-- Slot Machine
-- Slower Swallow
-- Slushy
-- Small Piece Golem
-- Smashing Ground
-- Smile Action
-- Smile Universe
-- Smile World
-- Snake Fang
-- Snake Whistle
-- Snakeyashi
-- Snapdragon
-- Sniffer Dragon
-- Snipe Hunter
-- Snow Dragon
-- Snow Plow Hustle Rustle
-- Snowdust Dragon
-- Snowman Creator
-- Snowman Eater
-- Snowman Effect
-- Sogen
-- Soitsu
-- Solar Flare Dragon
-- Solar Ray
-- Solar Recharge
-- Solar Wind Jammer
-- Soldier Dragons
-- Soldier Gaia the Fierce Knight
-- Solemn Authority
-- Solemn Judgment
-- Solemn Strike
-- Solemn Warning
-- Solemn Wishes
-- Solidarity
-- Solitaire Magician
-- Solitary Sword of Poison
-- Solo the Melodious Songstress
-- Solomon's Lawbook
-- Sonata the Melodious Diva
-- Sonic Bird
-- Sonic Boom
-- Sonic Chick
-- Sonic Duck
-- Sonic Jammer
-- Sonic Shooter
-- Sonic Tracker
-- Sonic Warrior
-- Soprano the Melodious Songstress
-- Sorcerer of Dark Magic
-- Sorcerer of the Doomed
-- Sorcerous Spell Wall
-- Sorciere de Fleur
-- Soul Absorption
-- Soul Demolition
-- Soul Devouring Bamboo Sword
-- Soul Drain Dragon
-- Soul Exchange
-- Soul Hunter
-- Soul Levy
-- Soul of Purity and Light
-- Soul of the Pure
-- Soul Release
-- Soul Resurrection
-- Soul Reversal
-- Soul Rope
-- Soul Strike
-- Soul Taker
-- Soul Tiger
-- Soul-Absorbing Bone Tower
-- Souleater
-- Souls of the Forgotten
-- Sound the Retreat!
-- Space Cyclone
-- Space Gift
-- Space Insulator
-- Space Mambo
-- Spacegate
-- Spacetime Transcendence
-- Spark Blaster
-- Sparks
-- Spatial Collapse
-- Spear Cretin
-- Spear Dragon
-- Spear Shark
-- Spearfish Soldier
-- Special Schedule
-- Speed Bird
-- Speed Recovery
-- Speed Warrior
-- Speedburst Dragon
-- Speedlift
-- Speedroid Block-n-Roll
-- Speedroid CarTurbo
-- Speedroid Den-Den Daiko Duke
-- Speedroid Double Yoyo
-- Speedroid Gum Prize
-- Speedroid Horse Stilts
-- Speedroid Maliciousmagnet
-- Speedroid Marble Machine
-- Speedroid Menko
-- Speedroid Passinglider
-- Speedroid Red-Eyed Dice
-- Speedroid Skull Marbles
-- Speedroid Taketomborg
-- Speedroid Tri-Eyed Dice
-- Spell Absorption
-- Spell Canceller
-- Spell Chronicle
-- Spell Economics
-- Spell Gear
-- Spell of Mask
-- Spell of Pain
-- Spell Power Grasp
-- Spell Purification
-- Spell Reactor RE
-- Spell Recycler
-- Spell Reproduction
-- Spell Shattering Arrow
-- Spell Shield Type-8
-- Spell Striker
-- Spell Wall
-- Spellbinding Circle
-- Spellbook Library of the Heliosphere
-- Spellbook Magician of Prophecy
-- Spellbook of Knowledge
-- Spellbook of Miracles
-- Spellbook of Power
-- Spellbook of Secrets
-- Spellbook of Wisdom
-- Spellbook Organization
-- Spellbreaker of the Ice Barrier
-- Sphere Kuriboh
-- Spherous Lady
-- Spider Egg
-- Spider Web
-- Spiders' Lair
-- Spike Seadra
-- Spikebot
-- Spikeshield with Chain
-- Spined Gillman
-- Spiral Discharge
-- Spiral Flame Strike
-- Spiral Fusion
-- Spiral Reborn
-- Spiral Serpent
-- Spiral Spear Strike
-- Spirit Barrier
-- Spirit Burner
-- Spirit Caller
-- Spirit Elimination
-- Spirit Force
-- Spirit Message "A"
-- Spirit Message "I"
-- Spirit Message "L"
-- Spirit Message "N"
-- Spirit of Flames
-- Spirit of the Books
-- Spirit of the Breeze
-- Spirit of the Harp
-- Spirit of the Pot of Greed
-- Spirit of the Six Samurai
-- Spirit Reaper
-- Spirit Ryu
-- Spirit's Invitation
-- Spiritual Beast Rampengu
-- Spiritual Earth Art - Kurogane
-- Spiritual Energy Settle Machine
-- Spiritual Entanglement
-- Spiritual Fire Art - Kurenai
-- Spiritual Forest
-- Spiritual Water Art - Aoi
-- Spiritual Wind Art - Miyabi
-- Spiritualism
-- Splash Capture
-- Splash Mage
-- Splendid Rose
-- Splendid Venus
-- Spore
-- Sprind the Irondash Dragon
-- Spring of Rebirth
-- Springans Blast!
-- Springans Booty
-- Springans Branga
-- Springans Brothers
-- Springans Call!
-- Springans Captain Sargas
-- Springans Interluder
-- Springans Pedor
-- Springans Rockey
-- Sprite's Blessing
-- Spy-C-Spy
-- Spyder Spider
-- SPYRAL MISSION - Rescue
-- Squeaknight
-- Squib Draw
-- Squirt Squid
-- St. Joan
-- Stack Reviver
-- Stairs of Mail
-- Stairway to a Fabled Realm
-- Stamping Destruction
-- Stand In
-- Stand-Off
-- Star Blast
-- Star Boy
-- Star Changer
-- Star Drawing
-- Star Light, Star Bright
-- Star Mine
-- Star Seraph Sage
-- Star Seraph Scout
-- Star Seraph Sword
-- Star Siphon
-- Stardust Assault Warrior
-- Stardust Dragon
-- Stardust Dragon/Assault Mode
-- Stardust Flash
-- Stardust Trail
-- Stardust Warrior
-- Stardust Wish
-- Stardust Xiaolong
-- Starduston
-- Starfish
-- Stargazer Magician
-- Staring Contest
-- Starlight Junktion
-- Starry Knight Ciel
-- Starry Knight Orbitael
-- Starship Spy Plane
-- Statue of Anguish Pattern
-- Staunch Defender
-- Stealth Bird
-- Stealthroid
-- Steam Gyroid
-- Steamroid
-- Steel Ogre Grotto #1
-- Steel Ogre Grotto #2
-- Steel Scorpion
-- Steel Star Regulator
-- Steelswarm Cell
-- Steelswarm Gatekeeper
-- Steelswarm Genome
-- Steelswarm Mantis
-- Steelswarm Sentinel
-- Stegocyber
-- Stellarknight Alpha
-- Stellarnova Wave
-- Stim-Pack
-- Stinging Swordsman
-- Stoic of Prophecy
-- Stone Armadiller
-- Stone Dragon
-- Stone Ogre Grotto
-- Stone Statue of the Aztecs
-- Stonehenge Methods
-- Stop Defense
-- Storm
-- Storm Cipher
-- Storming Mirror Force
-- Storming Wynn
-- Straight Flush
-- Strategist of the Ice Barrier
-- Stray Asmodian
-- Stray Lambs
-- Stream, Dragon Ruler of Droplets
-- Strength of Prophecy
-- Strike Ninja
-- Strike of the Monarchs
-- Strike Slash
-- Striping Partner
-- Stronghold Guardian
-- Stronghold the Moving Fortress
-- Stuffed Animal
-- Stumbling
-- Stygian Dirge
-- Stygian Security
-- Stygian Street Patrol
-- Submarine Frog
-- Submarineroid
-- Submersible Carrier Aero Shark
-- Subsurface Stage Divers
-- Subterror Behemoth Phospheroglacier
-- Subterror Behemoth Speleogeist
-- Subterror Guru
-- Subterror Succession
-- Success Probability 0%
-- Succubus Knight
-- Suijin
-- Summon Breaker
-- Summon Cloud
-- Summon Gate
-- Summon Limit
-- Summon Over
-- Summon Reactor SK
-- Summoned Skull
-- Summoner Monk
-- Summoner of Illusions
-- Summoner's Art
-- Summoning Curse
-- Sun Dragon Inti
-- Sunavalon Daphne
-- Sunlight Unicorn
-- Sunny Pixie
-- Sunvine Cross Breed
-- Supay
-- Super Anti-Kaiju War Machine Mecha-Dogoran
-- Super Armored Robot Armed Black Iron "C"
-- Super Conductor Tyranno
-- Super Defense Robot Elephan
-- Super Defense Robot Lio
-- Super Defense Robot Monki
-- Super Double Summon
-- Super Hippo Carnival
-- Super Junior Confrontation
-- Super Polymerization
-- Super Quantal Alphan Spike
-- Super Quantal Alphancall Appeal
-- Super Quantal Fairy Alphan
-- Super Quantal Mech Beast Magnaliger
-- Super Quantal Mech Ship Magnacarrier
-- Super Quantal Mech Sword - Magnaslayer
-- Super Quantal Union - Magnaformation
-- Super Quantum Red Layer
-- Super Rejuvenation
-- Super Robolady
-- Super Roboyarou
-- Super Rush Headlong
-- Super Rush Recklessly
-- Super Solar Nutrient
-- Super Soldier Rebirth
-- Super Soldier Soul
-- Super Soldier Synthesis
-- Super Strident Blaze
-- Super Team Buddy Force Unite!
-- Super Vehicroid - Mobile Base
-- Super War-Lion
-- Super-Ancient Dinobeast
-- Super-Nimble Mega Hamster
-- Superalloy Beast Raptinus
-- Superancient Deepsea King Coelacanth
-- Supercharge
-- Superdreadnought Rail Cannon Gustav Max
-- Superheavy Samurai Battleball
-- Superheavy Samurai Big Benkei
-- Superheavy Samurai Big Waraji
-- Superheavy Samurai Blowtorch
-- Superheavy Samurai Blue Brawler
-- Superheavy Samurai Drum
-- Superheavy Samurai General Coral
-- Superheavy Samurai General Jade
-- Superheavy Samurai Gigagloves
-- Superheavy Samurai Kabuto
-- Superheavy Samurai Magnet
-- Superheavy Samurai Ogre Shutendoji
-- Superheavy Samurai Prepped Defense
-- Superheavy Samurai Scarecrow
-- Superheavy Samurai Soulbang Cannon
-- Superheavy Samurai Soulbeads
-- Superheavy Samurai Soulbreaker Armor
-- Superheavy Samurai Soulbuster Gauntlet
-- Superheavy Samurai Soulclaw
-- Superheavy Samurai Soulfire Suit
-- Superheavy Samurai Soulhorns
-- Superheavy Samurai Soulpiercer
-- Superheavy Samurai Soulshield Wall
-- Superheavy Samurai Swordmaster Musashi
-- Superheavy Samurai Swordsman
-- Superheavy Samurai Thief
-- Superheavy Samurai Transporter
-- Superheavy Samurai Trumpeter
-- Superheavy Samurai Wagon
-- Superheavy Samurai Warlord Susanowo
-- Supernatural Regeneration
-- Supervise
-- Supply
-- Supply Squad
-- Suppression Collider
-- Supremacy Berry
-- Supreme King Dragon Clear Wing
-- Supreme King Dragon Dark Rebellion
-- Supreme King Dragon Darkwurm
-- Supreme King Dragon Odd-Eyes
-- Supreme King Z-ARC
-- Supreme Rage
-- Surface
-- Survival Instinct
-- Survival of the Fittest
-- Svartalf of the Nordic Alfar
-- Swallowtail Butterspy
-- Swamp Battleguard
-- Swamp Mirrorer
-- Swap Frog
-- Swarm of Locusts
-- Swarm of Scarabs
-- Sweet Corn
-- Swift Birdman Joe
-- Swift Gaia the Fierce Knight
-- Swift Samurai Storm!
-- Swift Scarecrow
-- Swiftstrike Armor
-- Swing of Memories
-- Sword Arm of Dragon
-- Sword Hunter
-- Sword Master
-- Sword of Dark Destruction
-- Sword of Dark Rites
-- Sword of Deep-Seated
-- Sword of Kusanagi
-- Sword of Sparkles
-- Sword of the Soul-Eater
-- Sword Slasher
-- Swords of Burning Light
-- Swords of Concealing Light
-- Swords of Revealing Light
-- Swordsman from a Distant Land
-- Swordsman of Landstar
-- Swordsoul Assessment
-- Swordsoul Blackout
-- Swordstalker
-- Sylvan Blessing
-- Sylvan Cherubsprout
-- Sylvan Guardioak
-- Sylvan Lotuswain
-- Sylvan Waterslide
-- Symbol of Heritage
-- Symbols of Duty
-- Symph Amplifire
-- Symphonic Warrior Guitaar
-- Symphonic Warrior Miccs
-- Symphonic Warrior Synthess
-- Synchro Barrier
-- Synchro Blast Wave
-- Synchro Boost
-- Synchro Cracker
-- Synchro Deflector
-- Synchro Magnet
-- Synchro Material
-- Synchro Soldier
-- Synchro Strike
-- Synchro Transmission
-- Synchron Carrier
-- Synchron Explorer
-- Synchronized Realm
-- Synkron Resonator
-- Synthesis Spell
-- Synthetic Seraphim
-- Synthetic Seraphim Token
-- System Down
-- SZW - Fenrir Sword
-- T.A.D.P.O.L.E.
-- T.G. Booster Raptor
-- T.G. Catapult Dragon
-- T.G. Cyber Magician
-- T.G. Jet Falcon
-- T.G. Power Gladiator
-- T.G. Recipro Dragonfly
-- T.G. Rush Rhino
-- T.G. Striker
-- T.G. Tank Grub
-- T.G. Warwolf
-- T.G. Wonder Magician
-- TA.I. Strike
-- Tachyon Spiral Galaxy
-- Tachyon Transmigration
-- Tackle Crusader
-- Tactical Espionage Expert
-- Tail Swipe
-- Tailor of the Fickle
-- Tailwind of Gusto
-- Tainted Wisdom
-- Takuhee
-- Talisman of Spell Sealing
-- Talisman of Trap Sealing
-- Tamtam the Melodious Diva
-- Tanngnjostr of the Nordic Beasts
-- Tanngrisnir of the Nordic Beasts
-- Taotie Dragon
-- Tardy Orc
-- Tasuke Knight
-- Tatakawa Knight
-- Taunt
-- Telekinetic Power Well
-- Telekinetic Shocker
-- Telepathic Power
-- Teleport
-- Temple of Skulls
-- Temple of the Kings
-- Temple of the Mind's Eye
-- Temple of the Six
-- Temple of the Sun
-- Temtempo the Percussion Djinn
-- Tenacity of the Monarchs
-- Tenkabito Shien
-- Tenshin
-- Tenyi Spirit - Adhara
-- Tenyi Spirit - Ashuna
-- Tenyi Spirit - Mapura
-- Tenyi Spirit - Nahata
-- Tenyi Spirit - Sahasrara
-- Tenyi Spirit - Shthana
-- Tenyi Spirit - Vishuda
-- Terminal World
-- Terminal World NEXT
-- Terra the Terrible
-- Terratiger, the Empowered Warrior
-- Terrene Toothed Tsuchinoko
-- Terrible Deal
-- Terrifying Toddler of Torment
-- Terror of Trishula
-- Terrorking Salmon
-- Terrors of the Underroot
-- Test Ape
-- Test Tiger
-- Testudo erat Numen
-- Tethys, Goddess of Light
-- Texchanger
-- TG-SX1
-- TG1-EM1
-- TGX1-HL
-- TGX300
-- That Six
-- That Wacky Magic!
-- That Which Feeds on Life
-- The 13th Grave
-- The A. Forces
-- The Accumulator
-- The Agent of Creation - Venus
-- The Agent of Entropy - Uranus
-- The Agent of Force - Mars
-- The Agent of Judgment - Saturn
-- The Agent of Wisdom - Mercury
-- The All-Seeing White Tiger
-- The Ascended of Thunder
-- The Atmosphere
-- The Beginning of the End
-- The Big Cattle Drive
-- The Big March of Animals
-- The Big Saturn
-- The Bistro Butcher
-- The Black Stone of Legend
-- The Blazing Mars
-- The Calculator
-- The Calibrator
-- The Cheerful Coffin
-- The Claw of Hermos
-- The Creator
-- The Creator Incarnate
-- The Dark - Hex-Sealed Fusion
-- The Dark Creator
-- The Dark Door
-- The Deep Grave
-- The Despair Uranus
-- The Dragon Dwelling in the Cave
-- The Dragon's Bead
-- The Earl of Demise
-- The Earth - Hex-Sealed Fusion
-- The Emperor's Holiday
-- The Eye of Timaeus
-- The Eye of Truth
-- The Fabled Abanc
-- The Fabled Cerburrel
-- The Fabled Chawa
-- The Fabled Ganashia
-- The Fabled Kokkator
-- The Fabled Nozoochee
-- The Fabled Peggulsus
-- The Fang of Critias
-- The Fiend Megacyber
-- The First Monarch
-- The Flute of Summoning Dragon
-- The Flute of Summoning Kuriboh
-- The Forceful Checkpoint
-- The Forces of Darkness
-- The Forgiving Maiden
-- The Fountain in the Sky
-- The Furious Sea King
-- The Gates of Dark World
-- The Gift of Greed
-- The Golden Apples
-- The Grand Jupiter
-- The Graveyard in the Fourth Dimension
-- The Great Emperor Penguin
-- The Gross Ghost of Fled Dreams
-- The Huge Revolution is Over
-- The Humble Sentry
-- The Hunter with 7 Weapons
-- The Illusory Gentleman
-- The Immortal Bushi
-- The Immortal of Thunder
-- The Inexperienced Spy
-- The Judgement Hand
-- The Kaiju Files
-- The Kick Man
-- The Lady in Wight
-- The Law of the Normal
-- The League of Uniform Nomenclature
-- The Legendary Fisherman
-- The Legendary Fisherman II
-- The Legendary Fisherman III
-- The Light - Hex-Sealed Fusion
-- The Little Swordsman of Aile
-- The Mask of Remnants
-- The Masked Beast
-- The Melody of Awakening Dragon
-- The Monarchs Awaken
-- The Monarchs Erupt
-- The Monarchs Stormforth
-- The Nordic Lights
-- The Paths of Destiny
-- The Phantom Knights of Ancient Cloak
-- The Phantom Knights of Cloven Helm
-- The Phantom Knights of Cursed Javelin
-- The Phantom Knights of Dark Gauntlets
-- The Phantom Knights of Fragile Armor
-- The Phantom Knights of Lost Vambrace
-- The Phantom Knights of Ragged Gloves
-- The Phantom Knights of Shade Brigandine
-- The Phantom Knights of Shadow Veil
-- The Phantom Knights of Silent Boots
-- The Phantom Knights of Stained Greaves
-- The Phantom Knights of Tomb Shield
-- The Phantom Knights of Wrong Magnetring
-- The Phantom Knights' Rank-Up-Magic Launch
-- The Portrait's Secret
-- The Prime Monarch
-- The Psychic Duelist
-- The Puppet Magic of Dark Ruler
-- The Regulation of Tribe
-- The Reliable Guardian
-- The Resolute Meklord Army
-- The Return to the Normal
-- The Revenge of the Normal
-- The Rock Spirit
-- The Sanctuary in the Sky
-- The Second Sarcophagus
-- The Secret of the Bandit
-- The Shadow Who Controls the Dark
-- The Shallow Grave
-- The Six Samurai - Irou
-- The Six Samurai - Kamon
-- The Six Samurai - Nisashi
-- The Six Samurai - Yaichi
-- The Six Samurai - Yariza
-- The Six Samurai - Zanji
-- The Snake Hair
-- The Spell Absorbing Life
-- The Statue of Easter Island
-- The Stern Mystic
-- The Suppression Pluto
-- The Thing in the Crater
-- The Third Sarcophagus
-- The Transmigration Prophecy
-- The Tricky
-- The Tripper Mercury
-- The Trojan Horse
-- The True Name
-- The Unfriendly Amazon
-- The Unhappy Girl
-- The Unhappy Maiden
-- The Warrior Returning Alive
-- The White Stone of Ancients
-- The White Stone of Legend
-- The Wicked Worm Beast
-- The World Legacy
-- Theban Nightmare
-- Thestalos the Firestorm Monarch
-- Thor, Lord of the Aesir
-- Thorn of Malice
-- Thousand Dragon
-- Thousand Energy
-- Thousand Knives
-- Thousand Needles
-- Thousand-Eyes Idol
-- Thousand-Eyes Restrict
-- Thousand-Eyes Spell
-- Threatening Roar
-- Three of a Kind
-- Three Strikes Barrier
-- Three Thousand Needles
-- Three Trolling Trolls
-- Three-Headed Geedo
-- Three-Legged Zombies
-- Threshold Borg
-- Throwstone Unit
-- Thunder Crash
-- Thunder Dragon
-- Thunder Dragon Discharge
-- Thunder Dragonlord
-- Thunder Dragonmatrix
-- Thunder Dragons' Hundred Thunders
-- Thunder End Dragon
-- Thunder Hand
-- Thunder Kid
-- Thunder King Rai-Oh
-- Thunder Nyan Nyan
-- Thunder of Ruler
-- Thunder Short
-- Ties of the Brethren
-- Tiger Axe
-- Tiger Dragon
-- Tiki Curse
-- Tiki Soul
-- Tilted Try
-- Time Escaper
-- Time Machine
-- Time Magic Hammer
-- Time Passage
-- Time Thief Bezel Ship
-- Time Thief Chronocorder
-- Time Thief Flyback
-- Time Thief Hack
-- Time Thief Redoer
-- Time Thief Regulator
-- Time Thief Retrograde
-- Time Thief Startup
-- Time Thief Winder
-- Time Wizard
-- Timeater
-- Timegazer Magician
-- Timidity
-- Tin Goldfish
-- Tindangle Acute Cerberus
-- Tindangle Angel
-- Tindangle Base Gardna
-- Tindangle Delaunay
-- Tindangle Hound
-- Tindangle Intruder
-- Tindangle Protector
-- Tindangle Trinity
-- Token Collector
-- Token Feastevil
-- Token Stampede
-- Token Sundae
-- Token Thanksgiving
-- Toll
-- Toll Hike
-- Tomozaurus
-- Tongyo
-- Toon Alligator
-- Toon Ancient Gear Golem
-- Toon Barrel Dragon
-- Toon Buster Blader
-- Toon Cannon Soldier
-- Toon Cyber Dragon
-- Toon Dark Magician
-- Toon Dark Magician Girl
-- Toon Defense
-- Toon Gemini Elf
-- Toon Goblin Attack Force
-- Toon Mask
-- Toon Masked Sorcerer
-- Toon Mayhem!
-- Toon Mermaid
-- Toon Rollback
-- Toon Summoned Skull
-- Toon Table of Contents
-- Toon World
-- Top Runner
-- Torment Token
-- Tornado
-- Tornado Bird
-- Tornado Dragon
-- Tornado Wall
-- Torpedo Fish
-- Torpedo Takedown
-- Torque Tune Gear
-- Torrential Tribute
-- Totem Five
-- Tour Bus From the Underworld
-- Tour Guide From the Underworld
-- Tour of Doom
-- Tower of Babel
-- Toy Knight
-- Toy Vendor
-- Trade-In
-- Trading Places
-- Traffic Ghost
-- Tragedy
-- Tragoedia
-- Train Connection
-- Training Fur Hire, Fur All Your Training Needs
-- Trakodon
-- Trance Archfiend
-- Trance the Magic Swordsman
-- Trancefamiliar
-- Transcendent Wings
-- Transcicada
-- Transforming Sphere
-- Transmigration Break
-- Transmission Gear
-- Transmodify
-- Transonic Bird
-- Trap Eater
-- Trap Hole
-- Trap Jammer
-- Trap Master
-- Trap of Board Eraser
-- Trap of Darkness
-- Trap of the Imperial Tomb
-- Trap Reactor Y FI
-- Trap Stun
-- Trap Trick
-- Traptrix Nepenthes
-- Traptrix Trap Hole Nightmare
-- Treacherous Trap Hole
-- Treasure Panda
-- Treaty on Uniform Nomenclature
-- Tree Otter
-- Treeborn Frog
-- Tremendous Fire
-- Trent
-- Tri-and-Guess
-- Tri-Brigade Nervall
-- Tri-Brigade Oath
-- Tri-Brigade Rendezvous
-- Tri-Brigade Revolt
-- Tri-Brigade Rugal the Silver Sheller
-- Tri-Brigade Stand-Off
-- Tri-Wight
-- Trial of Nightmare
-- Trial of the Princesses
-- Triamid Dancer
-- Triamid Fortress
-- Triamid Loading
-- Triangle Ecstasy Spark
-- Triangle Power
-- Trias Hierarchia
-- Tribal Synergy
-- Tribe-Infecting Virus
-- Tribute Doll
-- Tribute to the Doomed
-- Trick Box
-- Trickstar Bloom
-- Trickstar Bouquet
-- Trickstar Candina
-- Trickstar Delfiendium
-- Trickstar Fusion
-- Trickstar Light Arena
-- Trickstar Lilybell
-- Trickstar Lycoris
-- Trickstar Mandrake
-- Trickstar Narkissus
-- Trickstar Nightshade
-- Tricky Spell 4
-- Tricular
-- Trident Warrior
-- Trifortressops
-- Triggered Summon
-- Trigon
-- Triple Burst Dragon
-- Tripod Fish
-- Tripwire Beast
-- Tristan, Knight of the Underworld
-- Trojan Gladiator Beast
-- Troop Dragon
-- Truckroid
-- True Draco Apocalypse
-- True Draco Heritage
-- True King Agnimazud, the Vanisher
-- True King's Return
-- Tsukuyomi
-- Tune Warrior
-- Tuned Magician
-- Tuner Capture
-- Tuning
-- Tuningware
-- Turbo Booster
-- Turbo Synchron
-- Turbo Warrior
-- Turnabout
-- Turning of the World
-- Turret Warrior
-- Turtle Bird
-- Turtle Oath
-- Turtle Tiger
-- Turu-Purun
-- Tutan Mask
-- Twilight Cloth
-- Twilight Ninja Getsuga, the Shogun
-- Twilight Ninja Nichirin, the Chunin
-- Twilight Ninja Shingetsu
-- Twilight Rose Knight
-- Twilight Twin Dragons
-- Twin Long Rods #2
-- Twin Photon Lizard
-- Twin Swords of Flashing Light - Tryce
-- Twin Triangle Dragon
-- Twin Twisters
-- Twin-Barrel Dragon
-- Twin-Headed Behemoth
-- Twin-Headed Fire Dragon
-- Twin-Headed Thunder Dragon
-- Twin-Headed Wolf
-- Twin-Shield Defender
-- Twin-Sword Marauder
-- Twisted Personality
-- Twister
-- Two Thousand Needles
-- Two Toads with One Sting
-- Two-for-One Team
-- Two-Headed King Rex
-- Two-Man Cell Battle
-- Two-Mouth Darkruler
-- Two-Pronged Attack
-- Tyhone
-- Tyhone #2
-- Type Zero Magic Crusher
-- Typhoon
-- Tyr of the Nordic Champions
-- Tyranno Infinity
-- Tyrant Burst Dragon
-- Tyrant Dino Fusion
-- Tyrant Dragon
-- Tyrant Farm
-- Tyrant Wing
-- Tyrant's Tantrum
-- Tyrant's Tirade
-- Tyrant's Tummyache
-- Tytannial, Princess of Camellias
-- U.A. Dreadnought Dunker
-- U.A. Libero Spiker
-- U.A. Locker Room
-- U.A. Man of the Match
-- U.A. Penalty Box
-- U.A. Player Manager
-- U.A. Powered Jersey
-- U.A. Rival Rebounder
-- U.A. Signing Deal
-- U.A. Stadium
-- UFO Turtle
-- UFOroid
-- Ultimate Ancient Gear Golem
-- Ultimate Baseball Kid
-- Ultimate Obedient Fiend
-- Ultimate Providence
-- Ultimate Tyranno
-- Ultimaya Tzolkin
-- Ultra Evolution Pill
-- Umbral Horror Ghost
-- Umbral Horror Ghoul
-- Umbral Horror Unform
-- Umbral Horror Will o' the Wisp
-- Umbral Soul
-- Umi
-- Umiiruka
-- Uminotaurus
-- Unauthorized Bootup Device
-- Unbreakable Spirit
-- Unchained Twins - Aruha
-- Unchained Twins - Rakea
-- Unchained Twins - Sarama
-- Undaunted Bumpkin Beast
-- Underclock Taker
-- Underworld Egg Clutch
-- Unending Nightmare
-- Unexpected Dai
-- Uni-Horned Familiar
-- Uni-Song Tuning
-- Uni-Zombie
-- Unicycular
-- Unification
-- Unified Front
-- Uniflora, Mystical Beast of the Forest
-- Unifrog
-- Union Attack
-- Union Combination
-- Union Hangar
-- Union Rider
-- Union Scramble
-- United Resistance
-- United We Stand
-- Universal Adapter
-- Unknown Synchron
-- Unknown Warrior of Fiend
-- Unleash Your Power!
-- Unmasked Dragon
-- Unpossessed
-- Unshaven Angler
-- Unstable Evolution
-- Until Noble Arms are Needed Once Again
-- Update Jammer
-- Upstart Golden Ninja
-- Uraby
-- Urgent Synthesis
-- Urgent Tuning
-- Ursarctic Drytron
-- Ushi Oni
-- Utopian Aura
-- V-Tiger Jet
-- Vain Betrayer
-- Valerifawn, Mystical Beast of the Forest
-- Valhalla, Hall of the Fallen
-- Valkyrian Knight
-- Valkyrie Chariot
-- Valkyrie Funfte
-- Valkyrie of the Nordic Ascendant
-- Valkyrion the Magna Warrior
-- Vampire Awakening
-- Vampire Baby
-- Vampire Domination
-- Vampire Dragon
-- Vampire Familiar
-- Vampire Genesis
-- Vampire Grace
-- Vampire Grimson
-- Vampire Kingdom
-- Vampire Lady
-- Vampire Lord
-- Vampire Red Baron
-- Vampire Retainer
-- Vampire Scarlet Scourge
-- Vampire's Curse
-- Vampire's Desire
-- Vampire's Domain
-- Vampiric Koala
-- Vampiric Orchis
-- Van'Dalgyon the Dark Dragon Lord
-- Vanadis of the Nordic Ascendant
-- Vanguard of the Dragon
-- Vanity's Call
-- Vanity's Fiend
-- Vanity's Ruler
-- Vanquishing Light
-- Variable Form
-- Variety Comes Out
-- Vehicroid Connection Zone
-- Veil of Darkness
-- Vendread Anima
-- Vendread Daybreak
-- Vendread Nightmare
-- Vendread Revenants
-- Vendread Striges
-- Vengeful Bog Spirit
-- Vengeful Servant
-- Vengeful Shinobi
-- Vennominon the King of Poisonous Snakes
-- Vennu, Bright Bird of Divinity
-- Venom Boa
-- Venom Burn
-- Venom Cobra
-- Venom Serpent
-- Venom Shot
-- Venom Snake
-- Venom Swamp
-- Ventdra, the Empowered Warrior
-- Verdant Sanctuary
-- Vermillion Sparrow
-- Versago the Destroyer
-- Vertical Landing
-- Vessel for the Dragon Cycle
-- Vice Berserker
-- Vice Dragon
-- Vicious Claw
-- Victoria
-- Victory Viper XX03
-- Vile Germs
-- Vilepawn Archfiend
-- Violent Rain
-- Violet Crystal
-- Viper's Rebirth
-- Virtual World Gate - Qinglong
-- Virtual World Gate - Xuanwu
-- Virtual World Kirin - Lili
-- Virtual World Shell - Jaja
-- Virtual World Xiezhi - Jiji
-- Viser Des
-- Void Feast
-- Void Ogre Dragon
-- Volcanic Blaster
-- Volcanic Counter
-- Volcanic Eruption
-- Volcanic Hammerer
-- Volcanic Queen
-- Volcanic Rat
-- Volcanic Recharge
-- Volcanic Rocket
-- Volcanic Scattershot
-- Volcanic Shell
-- Voltester
-- Voltic Kong
-- Vorse Raider
-- Vortex Trooper
-- Vorticular Drumgon
-- VW-Tiger Catapult
-- VWXYZ-Dragon Catapult Cannon
-- Vylon Component
-- Vylon Element
-- Vylon Filament
-- Vylon Matter
-- Vylon Ohm
-- Vylon Pentachloro
-- Vylon Prism
-- Vylon Segment
-- Vylon Soldier
-- Vylon Stella
-- Vylon Tesseract
-- Vylon Tetra
-- Vylon Vanguard
-- W Nebula Meteorite
-- W-Wing Catapult
-- Waboku
-- Waking the Dragon
-- Wall of Disruption
-- Wall of Illusion
-- Wall of Ivy
-- Wall Shadow
-- Wandering Mummy
-- War Rock Big Blow
-- War Rock Generations
-- War Rock Mammud
-- War Rock Ordeal
-- War Rock Orpis
-- War Rock Skyler
-- War-Lion Ritual
-- Warlock of the Ice Barrier
-- Warrior Dai Grepher
-- Warrior Elimination
-- Warrior Lady of the Wasteland
-- Warrior of Atlantis
-- Warrior of Zera
-- Wasteland
-- Watapon
-- Watch Cat
-- Watch Dog
-- Water Dragon
-- Water Hazard
-- Water Leviathan @Ignister
-- Water Magician
-- Water Omotics
-- Water Spirit
-- Wattaildragon
-- Wattbetta
-- Wattcancel
-- Wattcannon
-- Wattcine
-- Wattcobra
-- Wattcube
-- Wattdragonfly
-- Wattfox
-- Watthopper
-- Wattjustment
-- Wattkeeper
-- Wattkey
-- Wattkid
-- Wattkinetic Puppeteer
-- Wattkiwi
-- Wattlemur
-- Wattmole
-- Wattpheasant
-- Wattrain
-- Wattwoodpecker
-- Wave-Motion Cannon
-- Wavering Eyes
-- Weapon Change
-- Weather Report
-- Weed Out
-- Weeping Idol
-- Wetha
-- Wetlands
-- Where Arf Thou?
-- Whiptail Crow
-- Whirlwind of Gusto
-- Whirlwind Prodigy
-- Whirlwind Weasel
-- White Dragon Ritual
-- White Duston
-- White Elephant's Gift
-- White Hole
-- White Magical Hat
-- White Magician Pikeru
-- White Night Dragon
-- White Night Queen
-- White Ninja
-- White Potan
-- White Stingray
-- White Tiger Summoner
-- White-Horned Dragon
-- Wicked Acolyte Chilam Sabak
-- Wicked Rebirth
-- Wicked-Breaking Flamberge - Baou
-- Widespread Dud
-- Widespread Ruin
-- Wightmare
-- Wightprince
-- Wightprincess
-- Wild Fire
-- Wild Nature's Release
-- Wild Tornado
-- Will of the Salamangreat
-- Wind Effigy
-- Wind Pegasus @Ignister
-- Wind-Up Bat
-- Wind-Up Dog
-- Wind-Up Factory
-- Wind-Up Honeybee
-- Wind-Up Soldier
-- Wind-Up Warrior
-- Winda, Priestess of Gusto
-- Windstorm of Etaqua
-- Windwitch - Blizzard Bell
-- Windwitch - Glass Bell
-- Windwitch - Ice Bell
-- Windwitch - Snow Bell
-- Winged Cleaver
-- Winged Dragon, Guardian of the Fortress #1
-- Winged Dragon, Guardian of the Fortress #2
-- Winged Kuriboh
-- Winged Kuriboh LV10
-- Winged Minion
-- Winged Rhynos
-- Winged Sage Falcos
-- Wings of Wicked Flame
-- Wingweaver
-- Wiretap
-- Witch Doctor of Chaos
-- Witch Doctor of Sparta
-- Witch of the Black Forest
-- Witch of the Black Rose
-- Witch's Apprentice
-- Witchcrafter Draping
-- Witchcrafter Genni
-- Witchcrafter Golem Aruru
-- Witchcrafter Patronus
-- Witchcrafter Unveiling
-- Witty Phantom
-- Wiz, Sage Fur Hire
-- Wizard Buster Destruction Sword
-- Wodan the Resident of the Forest
-- Wolf
-- Wolf Axwielder
-- Wolf in Sheep's Clothing
-- Wonder Balloons
-- Wonder Clover
-- Wonder Garage
-- Wonder Wand
-- Wonder Xyz
-- Woodborg Inpachi
-- Woodland Archer
-- Woodland Sprite
-- World Carrotweight Champion
-- World Chalice Guardragon
-- World Chalice Guardragon Almarduke
-- World Dino Wrestling
-- World Legacy - "World Key"
-- World Legacy - "World Shield"
-- World Legacy - "World Wand"
-- World Legacy Awakens
-- World Legacy Bestowal
-- World Legacy Clash
-- World Legacy Cliffhanger
-- World Legacy Collapse
-- World Legacy Guardragon Mardark
-- World Legacy in Shadow
-- World Legacy Landmark
-- World Legacy Pawns
-- World Legacy Struggle
-- World Legacy's Corruption
-- World Legacy's Heart
-- World Legacy's Memory
-- World Legacy's Mind Meld
-- World Legacy's Nightmare
-- World Reassembly
-- World Soul - Carbon
-- World Suppression
-- Worm Apocalypse
-- Worm Bait
-- Worm Barses
-- Worm Call
-- Worm Cartaros
-- Worm Dimikles
-- Worm Drake
-- Worm Falco
-- Worm Gulse
-- Worm Hope
-- Worm Illidan
-- Worm Jetelikpse
-- Worm Linx
-- Worm Millidith
-- Worm Prince
-- Worm Rakuyeh
-- Worm Tentacles
-- Worm Ugly
-- Worm Xex
-- Worm Yagan
-- Wow Warrior
-- Wrecker Panda
-- Wretched Ghost of the Attic
-- Wroughtweiler
-- Wulf, Lightsworn Beast
-- Wynn the Wind Charmer
-- X-Head Cannon
-- X-Krawler Neurogos
-- X-Krawler Synaphysis
-- X-Saber Airbellum
-- X-Saber Anu Piranha
-- X-Saber Axel
-- X-Saber Galahad
-- X-Saber Palomuro
-- X-Saber Pashuul
-- X-Saber Souza
-- X-Saber Urbellum
-- X-Saber Uruz
-- Xiangke Magician
-- Xiangsheng Magician
-- Xing Zhen Hu
-- Xing Zhen Hu Replica
-- Xtra HERO Cross Crusader
-- XX-Saber Boggart Knight
-- XX-Saber Faultroll
-- XX-Saber Fulhelmknight
-- XX-Saber Ragigura
-- XY-Dragon Cannon
-- Xyz Agent
-- Xyz Avenger
-- Xyz Block
-- Xyz Burst
-- Xyz Dimension Splash
-- Xyz Double Back
-- Xyz Effect
-- Xyz Energy
-- Xyz Import
-- Xyz Override
-- Xyz Reception
-- Xyz Reflect
-- Xyz Remora
-- Xyz Revenge Shuffle
-- Xyz Reversal
-- Xyz Revive Splash
-- Xyz Shift
-- Xyz Slidolphin
-- Xyz Soul
-- Xyz Tribalrivals
-- Xyz Unit
-- Xyz Wrath
-- Xyz Xtreme !!
-- XYZ-Dragon Cannon
-- XZ-Tank Cannon
-- Y-Dragon Head
-- Yado Karu
-- Yaiba Robo
-- Yajiro Invader
-- Yaksha
-- Yamadron
-- Yami
-- Yamorimori
-- Yang Zing Brutality
-- Yang Zing Prana
-- Yang Zing Unleashed
-- Yaranzo
-- Yazi, Evil of the Yang Zing
-- Yellow Duston
-- Yellow Gadget
-- Yellow Luster Shield
-- Yellow-Bellied Oni
-- Yoko-Zuna Sumo Spirit
-- Yokotuner
-- Yomi Ship
-- Yosen Whirlwind
-- Yosenju Izna
-- Yosenju Kama 1
-- Yosenju Kama 2
-- Yosenju Kama 3
-- Yosenju Kodam
-- Yosenju Magat
-- Yosenju Oroshi Channeling
-- Yosenju Sabu
-- Yosenju Shinchu L
-- Yosenju Shinchu R
-- Yosenju Tsujik
-- Yosenju Wind Worship
-- Yosenjus' Secret Move
-- Yosenjus' Sword Sting
-- You and A.I.
-- You're in Danger!
-- Yuki-Musume, the Ice Mayakashi
-- YZ-Tank Dragon
-- Z-Metal Tank
-- Z-ONE
-- Zaborg the Thunder Monarch
-- Zany Zebra
-- Zap Mustung
-- Zefra Path
-- Zefra War
-- Zefrasaber, Swordmaster of the Nekroz
-- Zefraxa, Flame Beast of the Nekroz
-- Zenmaiday
-- Zenmailfunction
-- Zenmailstrom
-- Zenmairch
-- Zeradias, Herald of Heaven
-- Zero Extra Link
-- Zero Force
-- Zero Gardna
-- Zero Gravity
-- Zerozerock
-- Zexal Alliance
-- Zexal Entrust
-- Zoa
-- Zodiac Sign
-- Zolga
-- Zoma the Spirit
-- Zombie Mammoth
-- Zombie Master
-- Zombie Necronize
-- Zombie Power Struggle
-- Zombie Tiger
-- Zombie Warrior
-- Zombie World
-- Zombina
-- Zombino
-- Zombyra the Dark
-- Zone Eater
-- Zoodiac Bunnyblast
-- Zoodiac Combo
-- Zoodiac Gathering
-- Zoodiac Hammerkong
-- Zoodiac Kataroost
-- Zoodiac Ramram
-- ZS - Armed Sage
-- ZS - Vanish Sage
-- Zubaba Buster
-- Zubaba General
-- Zubaba Knight
-- Zure, Knight of Dark World
-- Zushin the Sleeping Giant
-- ZW - Eagle Claw
-- ZW - Pegasus Twin Saber
-- ZW - Sleipnir Mail
-- ZW - Ultimate Shield
-- ZW - Unicorn Spear
+- ["A" Cell Breeding Device](db.ygoprodeck.com/card/?search="A"%20Cell%20Breeding%20Device)
+- ["A" Cell Incubator](db.ygoprodeck.com/card/?search="A"%20Cell%20Incubator)
+- ["A" Cell Recombination Device](db.ygoprodeck.com/card/?search="A"%20Cell%20Recombination%20Device)
+- ["A" Cell Scatter Burst](db.ygoprodeck.com/card/?search="A"%20Cell%20Scatter%20Burst)
+- ["Infernoble Arms - Hauteclere"](db.ygoprodeck.com/card/?search="Infernoble%20Arms%20-%20Hauteclere")
+- [3-Hump Lacooda](db.ygoprodeck.com/card/?search=3-Hump%20Lacooda)
+- [4-Starred Ladybug of Doom](db.ygoprodeck.com/card/?search=4-Starred%20Ladybug%20of%20Doom)
+- [7](db.ygoprodeck.com/card/?search=7)
+- [7 Colored Fish](db.ygoprodeck.com/card/?search=7%20Colored%20Fish)
+- [7 Completed](db.ygoprodeck.com/card/?search=7%20Completed)
+- [8-Claws Scorpion](db.ygoprodeck.com/card/?search=8-Claws%20Scorpion)
+- [A Cat of Ill Omen](db.ygoprodeck.com/card/?search=A%20Cat%20of%20Ill%20Omen)
+- [A Deal with Dark Ruler](db.ygoprodeck.com/card/?search=A%20Deal%20with%20Dark%20Ruler)
+- [A Feather of the Phoenix](db.ygoprodeck.com/card/?search=A%20Feather%20of%20the%20Phoenix)
+- [A Feint Plan](db.ygoprodeck.com/card/?search=A%20Feint%20Plan)
+- [A Hero Emerges](db.ygoprodeck.com/card/?search=A%20Hero%20Emerges)
+- [A Legendary Ocean](db.ygoprodeck.com/card/?search=A%20Legendary%20Ocean)
+- [A Major Upset](db.ygoprodeck.com/card/?search=A%20Major%20Upset)
+- [A Man with Wdjat](db.ygoprodeck.com/card/?search=A%20Man%20with%20Wdjat)
+- [A Rival Appears!](db.ygoprodeck.com/card/?search=A%20Rival%20Appears!)
+- [A Wingbeat of Giant Dragon](db.ygoprodeck.com/card/?search=A%20Wingbeat%20of%20Giant%20Dragon)
+- [A.I. Challenge You](db.ygoprodeck.com/card/?search=A.I.%20Challenge%20You)
+- [A.I. Love Fusion](db.ygoprodeck.com/card/?search=A.I.%20Love%20Fusion)
+- [A.I. Meet You](db.ygoprodeck.com/card/?search=A.I.%20Meet%20You)
+- [A.I. Shadow](db.ygoprodeck.com/card/?search=A.I.%20Shadow)
+- [A.I.'s Ritual](db.ygoprodeck.com/card/?search=A.I.'s%20Ritual)
+- [A.I.dle Reborn](db.ygoprodeck.com/card/?search=A.I.dle%20Reborn)
+- [A.I.Q](db.ygoprodeck.com/card/?search=A.I.Q)
+- [A/D Changer](db.ygoprodeck.com/card/?search=A/D%20Changer)
+- [Abaki](db.ygoprodeck.com/card/?search=Abaki)
+- [Abare Ushioni](db.ygoprodeck.com/card/?search=Abare%20Ushioni)
+- [Abominable Chamber of the Unchained](db.ygoprodeck.com/card/?search=Abominable%20Chamber%20of%20the%20Unchained)
+- [Absolute Crusader](db.ygoprodeck.com/card/?search=Absolute%20Crusader)
+- [Absolute End](db.ygoprodeck.com/card/?search=Absolute%20End)
+- [Absolute King Back Jack](db.ygoprodeck.com/card/?search=Absolute%20King%20Back%20Jack)
+- [Absorbing Jar](db.ygoprodeck.com/card/?search=Absorbing%20Jar)
+- [Absorbing Kid from the Sky](db.ygoprodeck.com/card/?search=Absorbing%20Kid%20from%20the%20Sky)
+- [Abyss Actor - Comic Relief](db.ygoprodeck.com/card/?search=Abyss%20Actor%20-%20Comic%20Relief)
+- [Abyss Actor - Extras](db.ygoprodeck.com/card/?search=Abyss%20Actor%20-%20Extras)
+- [Abyss Actor - Leading Lady](db.ygoprodeck.com/card/?search=Abyss%20Actor%20-%20Leading%20Lady)
+- [Abyss Actor - Mellow Madonna](db.ygoprodeck.com/card/?search=Abyss%20Actor%20-%20Mellow%20Madonna)
+- [Abyss Actor - Superstar](db.ygoprodeck.com/card/?search=Abyss%20Actor%20-%20Superstar)
+- [Abyss Actor - Trendy Understudy](db.ygoprodeck.com/card/?search=Abyss%20Actor%20-%20Trendy%20Understudy)
+- [Abyss Actor - Twinkle Little Star](db.ygoprodeck.com/card/?search=Abyss%20Actor%20-%20Twinkle%20Little%20Star)
+- [Abyss Actor - Wild Hope](db.ygoprodeck.com/card/?search=Abyss%20Actor%20-%20Wild%20Hope)
+- [Abyss Actors Back Stage](db.ygoprodeck.com/card/?search=Abyss%20Actors%20Back%20Stage)
+- [Abyss Actors' Curtain Call](db.ygoprodeck.com/card/?search=Abyss%20Actors'%20Curtain%20Call)
+- [Abyss Keeper](db.ygoprodeck.com/card/?search=Abyss%20Keeper)
+- [Abyss Playhouse - Fantastic Theater](db.ygoprodeck.com/card/?search=Abyss%20Playhouse%20-%20Fantastic%20Theater)
+- [Abyss Script - Opening Ceremony](db.ygoprodeck.com/card/?search=Abyss%20Script%20-%20Opening%20Ceremony)
+- [Abyss Script - Rise of the Abyss King](db.ygoprodeck.com/card/?search=Abyss%20Script%20-%20Rise%20of%20the%20Abyss%20King)
+- [Abyss Script - Romantic Terror](db.ygoprodeck.com/card/?search=Abyss%20Script%20-%20Romantic%20Terror)
+- [Abyss Soldier](db.ygoprodeck.com/card/?search=Abyss%20Soldier)
+- [Abyss Stungray](db.ygoprodeck.com/card/?search=Abyss%20Stungray)
+- [Abyss Warrior](db.ygoprodeck.com/card/?search=Abyss%20Warrior)
+- [Abyss-scale of Cetus](db.ygoprodeck.com/card/?search=Abyss-scale%20of%20Cetus)
+- [Abyss-scale of the Kraken](db.ygoprodeck.com/card/?search=Abyss-scale%20of%20the%20Kraken)
+- [Abyss-scale of the Mizuchi](db.ygoprodeck.com/card/?search=Abyss-scale%20of%20the%20Mizuchi)
+- [Abyss-scorn](db.ygoprodeck.com/card/?search=Abyss-scorn)
+- [Abyssal Designator](db.ygoprodeck.com/card/?search=Abyssal%20Designator)
+- [Abyssal Kingshark](db.ygoprodeck.com/card/?search=Abyssal%20Kingshark)
+- [Accel Synchron](db.ygoprodeck.com/card/?search=Accel%20Synchron)
+- [Accellight](db.ygoprodeck.com/card/?search=Accellight)
+- [Accumulated Fortune](db.ygoprodeck.com/card/?search=Accumulated%20Fortune)
+- [Achacha Archer](db.ygoprodeck.com/card/?search=Achacha%20Archer)
+- [Achacha Chanbara](db.ygoprodeck.com/card/?search=Achacha%20Chanbara)
+- [Acid Rain](db.ygoprodeck.com/card/?search=Acid%20Rain)
+- [Acid Trap Hole](db.ygoprodeck.com/card/?search=Acid%20Trap%20Hole)
+- [Acidic Downpour](db.ygoprodeck.com/card/?search=Acidic%20Downpour)
+- [Acorno](db.ygoprodeck.com/card/?search=Acorno)
+- [Acrobat Monkey](db.ygoprodeck.com/card/?search=Acrobat%20Monkey)
+- [Action Magic - Double Banking](db.ygoprodeck.com/card/?search=Action%20Magic%20-%20Double%20Banking)
+- [Action Magic - Full Turn](db.ygoprodeck.com/card/?search=Action%20Magic%20-%20Full%20Turn)
+- [Adamancipator Crystal - Dragite](db.ygoprodeck.com/card/?search=Adamancipator%20Crystal%20-%20Dragite)
+- [Adamancipator Crystal - Leonite](db.ygoprodeck.com/card/?search=Adamancipator%20Crystal%20-%20Leonite)
+- [Adamancipator Crystal - Raptite](db.ygoprodeck.com/card/?search=Adamancipator%20Crystal%20-%20Raptite)
+- [Adamancipator Laputite](db.ygoprodeck.com/card/?search=Adamancipator%20Laputite)
+- [Adamancipator Resonance](db.ygoprodeck.com/card/?search=Adamancipator%20Resonance)
+- [Adhesion Trap Hole](db.ygoprodeck.com/card/?search=Adhesion%20Trap%20Hole)
+- [Adhesive Explosive](db.ygoprodeck.com/card/?search=Adhesive%20Explosive)
+- [Advance Draw](db.ygoprodeck.com/card/?search=Advance%20Draw)
+- [Advance Force](db.ygoprodeck.com/card/?search=Advance%20Force)
+- [Advance Zone](db.ygoprodeck.com/card/?search=Advance%20Zone)
+- [Advanced Dark](db.ygoprodeck.com/card/?search=Advanced%20Dark)
+- [Advanced Ritual Art](db.ygoprodeck.com/card/?search=Advanced%20Ritual%20Art)
+- [Aegaion the Sea Castrum](db.ygoprodeck.com/card/?search=Aegaion%20the%20Sea%20Castrum)
+- [Aegis of Gaia](db.ygoprodeck.com/card/?search=Aegis%20of%20Gaia)
+- [Aegis of the Ocean Dragon Lord](db.ygoprodeck.com/card/?search=Aegis%20of%20the%20Ocean%20Dragon%20Lord)
+- [Aerial Recharge](db.ygoprodeck.com/card/?search=Aerial%20Recharge)
+- [Aeropixthree](db.ygoprodeck.com/card/?search=Aeropixthree)
+- [Aether, the Empowering Dragon](db.ygoprodeck.com/card/?search=Aether,%20the%20Empowering%20Dragon)
+- [After the Storm](db.ygoprodeck.com/card/?search=After%20the%20Storm)
+- [After the Struggle](db.ygoprodeck.com/card/?search=After%20the%20Struggle)
+- [Against the Wind](db.ygoprodeck.com/card/?search=Against%20the%20Wind)
+- [Agave Dragon](db.ygoprodeck.com/card/?search=Agave%20Dragon)
+- [Agido](db.ygoprodeck.com/card/?search=Agido)
+- [Ahrima, the Wicked Warden](db.ygoprodeck.com/card/?search=Ahrima,%20the%20Wicked%20Warden)
+- [Air Armor Ninja](db.ygoprodeck.com/card/?search=Air%20Armor%20Ninja)
+- [Air Cracking Storm](db.ygoprodeck.com/card/?search=Air%20Cracking%20Storm)
+- [Airknight Parshath](db.ygoprodeck.com/card/?search=Airknight%20Parshath)
+- [Airorca](db.ygoprodeck.com/card/?search=Airorca)
+- [Aitsu](db.ygoprodeck.com/card/?search=Aitsu)
+- [Al-Lumi'raj](db.ygoprodeck.com/card/?search=Al-Lumi'raj)
+- [Alchemy Cycle](db.ygoprodeck.com/card/?search=Alchemy%20Cycle)
+- [Alector, Sovereign of Birds](db.ygoprodeck.com/card/?search=Alector,%20Sovereign%20of%20Birds)
+- [Alexandrite Dragon](db.ygoprodeck.com/card/?search=Alexandrite%20Dragon)
+- [Alien Brain](db.ygoprodeck.com/card/?search=Alien%20Brain)
+- [Alien Dog](db.ygoprodeck.com/card/?search=Alien%20Dog)
+- [Alien Grey](db.ygoprodeck.com/card/?search=Alien%20Grey)
+- [Alien Hunter](db.ygoprodeck.com/card/?search=Alien%20Hunter)
+- [Alien Hypno](db.ygoprodeck.com/card/?search=Alien%20Hypno)
+- [Alien Infiltrator](db.ygoprodeck.com/card/?search=Alien%20Infiltrator)
+- [Alien Mars](db.ygoprodeck.com/card/?search=Alien%20Mars)
+- [Alien Mother](db.ygoprodeck.com/card/?search=Alien%20Mother)
+- [Alien Psychic](db.ygoprodeck.com/card/?search=Alien%20Psychic)
+- [Alien Shocktrooper](db.ygoprodeck.com/card/?search=Alien%20Shocktrooper)
+- [Alien Skull](db.ygoprodeck.com/card/?search=Alien%20Skull)
+- [Alien Stealthbuster](db.ygoprodeck.com/card/?search=Alien%20Stealthbuster)
+- [Alien Warrior](db.ygoprodeck.com/card/?search=Alien%20Warrior)
+- [Alinsection](db.ygoprodeck.com/card/?search=Alinsection)
+- [All-Out Attacks](db.ygoprodeck.com/card/?search=All-Out%20Attacks)
+- [Alligator's Sword](db.ygoprodeck.com/card/?search=Alligator's%20Sword)
+- [Alligator's Sword Dragon](db.ygoprodeck.com/card/?search=Alligator's%20Sword%20Dragon)
+- [Allure of Darkness](db.ygoprodeck.com/card/?search=Allure%20of%20Darkness)
+- [Allure Queen LV3](db.ygoprodeck.com/card/?search=Allure%20Queen%20LV3)
+- [Alluring Mirror Split](db.ygoprodeck.com/card/?search=Alluring%20Mirror%20Split)
+- [Allvain the Essence of Vanity](db.ygoprodeck.com/card/?search=Allvain%20the%20Essence%20of%20Vanity)
+- [Ally Mind](db.ygoprodeck.com/card/?search=Ally%20Mind)
+- [Ally of Justice Clausolas](db.ygoprodeck.com/card/?search=Ally%20of%20Justice%20Clausolas)
+- [Ally of Justice Core Destroyer](db.ygoprodeck.com/card/?search=Ally%20of%20Justice%20Core%20Destroyer)
+- [Ally of Justice Garadholg](db.ygoprodeck.com/card/?search=Ally%20of%20Justice%20Garadholg)
+- [Ally of Justice Nullfier](db.ygoprodeck.com/card/?search=Ally%20of%20Justice%20Nullfier)
+- [Ally of Justice Quarantine](db.ygoprodeck.com/card/?search=Ally%20of%20Justice%20Quarantine)
+- [Ally of Justice Rudra](db.ygoprodeck.com/card/?search=Ally%20of%20Justice%20Rudra)
+- [Ally of Justice Thousand Arms](db.ygoprodeck.com/card/?search=Ally%20of%20Justice%20Thousand%20Arms)
+- [Ally of Justice Unknown Crusher](db.ygoprodeck.com/card/?search=Ally%20of%20Justice%20Unknown%20Crusher)
+- [Ally of Justice Unlimiter](db.ygoprodeck.com/card/?search=Ally%20of%20Justice%20Unlimiter)
+- [Aloof Lupine](db.ygoprodeck.com/card/?search=Aloof%20Lupine)
+- [Alpacaribou, Mystical Beast of the Forest](db.ygoprodeck.com/card/?search=Alpacaribou,%20Mystical%20Beast%20of%20the%20Forest)
+- [Alpha The Magnet Warrior](db.ygoprodeck.com/card/?search=Alpha%20The%20Magnet%20Warrior)
+- [Altar for Tribute](db.ygoprodeck.com/card/?search=Altar%20for%20Tribute)
+- [Altergeist Camouflage](db.ygoprodeck.com/card/?search=Altergeist%20Camouflage)
+- [Altergeist Dragvirion](db.ygoprodeck.com/card/?search=Altergeist%20Dragvirion)
+- [Altergeist Emulatelf](db.ygoprodeck.com/card/?search=Altergeist%20Emulatelf)
+- [Altergeist Fifinellag](db.ygoprodeck.com/card/?search=Altergeist%20Fifinellag)
+- [Altergeist Haunted Rock](db.ygoprodeck.com/card/?search=Altergeist%20Haunted%20Rock)
+- [Altergeist Kidolga](db.ygoprodeck.com/card/?search=Altergeist%20Kidolga)
+- [Altergeist Kunquery](db.ygoprodeck.com/card/?search=Altergeist%20Kunquery)
+- [Altergeist Marionetter](db.ygoprodeck.com/card/?search=Altergeist%20Marionetter)
+- [Altergeist Pixiel](db.ygoprodeck.com/card/?search=Altergeist%20Pixiel)
+- [Altergeist Primebanshee](db.ygoprodeck.com/card/?search=Altergeist%20Primebanshee)
+- [Altergeist Protocol](db.ygoprodeck.com/card/?search=Altergeist%20Protocol)
+- [Altergeist Silquitous](db.ygoprodeck.com/card/?search=Altergeist%20Silquitous)
+- [Alviss of the Nordic Alfar](db.ygoprodeck.com/card/?search=Alviss%20of%20the%20Nordic%20Alfar)
+- [Amabie](db.ygoprodeck.com/card/?search=Amabie)
+- [Amano-Iwato](db.ygoprodeck.com/card/?search=Amano-Iwato)
+- [Amanokujaki](db.ygoprodeck.com/card/?search=Amanokujaki)
+- [Amarylease](db.ygoprodeck.com/card/?search=Amarylease)
+- [Amaze Attraction Majestic Merry-Go-Round](db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Majestic%20Merry-Go-Round)
+- [Amaze Attraction Rapid Racing](db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Rapid%20Racing)
+- [Amaze Attraction Viking Vortex](db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Viking%20Vortex)
+- [Amaze Attraction Wonder Wheel](db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Wonder%20Wheel)
+- [Amazement Ambassador Bufo](db.ygoprodeck.com/card/?search=Amazement%20Ambassador%20Bufo)
+- [Amazement Special Show](db.ygoprodeck.com/card/?search=Amazement%20Special%20Show)
+- [Amazing Pendulum](db.ygoprodeck.com/card/?search=Amazing%20Pendulum)
+- [Amazon of the Seas](db.ygoprodeck.com/card/?search=Amazon%20of%20the%20Seas)
+- [Amazoness Archer](db.ygoprodeck.com/card/?search=Amazoness%20Archer)
+- [Amazoness Archers](db.ygoprodeck.com/card/?search=Amazoness%20Archers)
+- [Amazoness Blowpiper](db.ygoprodeck.com/card/?search=Amazoness%20Blowpiper)
+- [Amazoness Chain Master](db.ygoprodeck.com/card/?search=Amazoness%20Chain%20Master)
+- [Amazoness Empress](db.ygoprodeck.com/card/?search=Amazoness%20Empress)
+- [Amazoness Fighter](db.ygoprodeck.com/card/?search=Amazoness%20Fighter)
+- [Amazoness Fighting Spirit](db.ygoprodeck.com/card/?search=Amazoness%20Fighting%20Spirit)
+- [Amazoness Heirloom](db.ygoprodeck.com/card/?search=Amazoness%20Heirloom)
+- [Amazoness Onslaught](db.ygoprodeck.com/card/?search=Amazoness%20Onslaught)
+- [Amazoness Paladin](db.ygoprodeck.com/card/?search=Amazoness%20Paladin)
+- [Amazoness Pet Liger](db.ygoprodeck.com/card/?search=Amazoness%20Pet%20Liger)
+- [Amazoness Princess](db.ygoprodeck.com/card/?search=Amazoness%20Princess)
+- [Amazoness Queen](db.ygoprodeck.com/card/?search=Amazoness%20Queen)
+- [Amazoness Sage](db.ygoprodeck.com/card/?search=Amazoness%20Sage)
+- [Amazoness Scouts](db.ygoprodeck.com/card/?search=Amazoness%20Scouts)
+- [Amazoness Spellcaster](db.ygoprodeck.com/card/?search=Amazoness%20Spellcaster)
+- [Amazoness Spy](db.ygoprodeck.com/card/?search=Amazoness%20Spy)
+- [Amazoness Swords Woman](db.ygoprodeck.com/card/?search=Amazoness%20Swords%20Woman)
+- [Amazoness Tiger](db.ygoprodeck.com/card/?search=Amazoness%20Tiger)
+- [Amazoness Trainee](db.ygoprodeck.com/card/?search=Amazoness%20Trainee)
+- [Amazoness Village](db.ygoprodeck.com/card/?search=Amazoness%20Village)
+- [Ambitious Gofer](db.ygoprodeck.com/card/?search=Ambitious%20Gofer)
+- [Ambulance Rescueroid](db.ygoprodeck.com/card/?search=Ambulance%20Rescueroid)
+- [Ambulanceroid](db.ygoprodeck.com/card/?search=Ambulanceroid)
+- [Ambush Fangs](db.ygoprodeck.com/card/?search=Ambush%20Fangs)
+- [Ameba](db.ygoprodeck.com/card/?search=Ameba)
+- [Amores of Prophecy](db.ygoprodeck.com/card/?search=Amores%20of%20Prophecy)
+- [Amorphactor Pain, the Imagination Dracoverlord](db.ygoprodeck.com/card/?search=Amorphactor%20Pain,%20the%20Imagination%20Dracoverlord)
+- [Amorphage Pride](db.ygoprodeck.com/card/?search=Amorphage%20Pride)
+- [Amorphage Wrath](db.ygoprodeck.com/card/?search=Amorphage%20Wrath)
+- [Amorphous Persona](db.ygoprodeck.com/card/?search=Amorphous%20Persona)
+- [Amphibian Beast](db.ygoprodeck.com/card/?search=Amphibian%20Beast)
+- [Amphibious Bugroth](db.ygoprodeck.com/card/?search=Amphibious%20Bugroth)
+- [Amphibious Bugroth MK-3](db.ygoprodeck.com/card/?search=Amphibious%20Bugroth%20MK-3)
+- [Amplifier](db.ygoprodeck.com/card/?search=Amplifier)
+- [Amulet Dragon](db.ygoprodeck.com/card/?search=Amulet%20Dragon)
+- [Amulet of Ambition](db.ygoprodeck.com/card/?search=Amulet%20of%20Ambition)
+- [An Owl of Luck](db.ygoprodeck.com/card/?search=An%20Owl%20of%20Luck)
+- [An Unfortunate Report](db.ygoprodeck.com/card/?search=An%20Unfortunate%20Report)
+- [Anarchist Monk Ranshin](db.ygoprodeck.com/card/?search=Anarchist%20Monk%20Ranshin)
+- [Anchamoufrite](db.ygoprodeck.com/card/?search=Anchamoufrite)
+- [Ancient Brain](db.ygoprodeck.com/card/?search=Ancient%20Brain)
+- [Ancient City - Rainbow Ruins](db.ygoprodeck.com/card/?search=Ancient%20City%20-%20Rainbow%20Ruins)
+- [Ancient Crimson Ape](db.ygoprodeck.com/card/?search=Ancient%20Crimson%20Ape)
+- [Ancient Dragon](db.ygoprodeck.com/card/?search=Ancient%20Dragon)
+- [Ancient Elf](db.ygoprodeck.com/card/?search=Ancient%20Elf)
+- [Ancient Gear](db.ygoprodeck.com/card/?search=Ancient%20Gear)
+- [Ancient Gear Beast](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Beast)
+- [Ancient Gear Box](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Box)
+- [Ancient Gear Cannon](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Cannon)
+- [Ancient Gear Castle](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Castle)
+- [Ancient Gear Catapult](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Catapult)
+- [Ancient Gear Drill](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Drill)
+- [Ancient Gear Engineer](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Engineer)
+- [Ancient Gear Explosive](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Explosive)
+- [Ancient Gear Factory](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Factory)
+- [Ancient Gear Fist](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Fist)
+- [Ancient Gear Fortress](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Fortress)
+- [Ancient Gear Frame](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Frame)
+- [Ancient Gear Gadget](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Gadget)
+- [Ancient Gear Gadjiltron Chimera](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Gadjiltron%20Chimera)
+- [Ancient Gear Gadjiltron Dragon](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Gadjiltron%20Dragon)
+- [Ancient Gear Golem](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Golem)
+- [Ancient Gear Golem - Ultimate Pound](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Golem%20-%20Ultimate%20Pound)
+- [Ancient Gear Howitzer](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Howitzer)
+- [Ancient Gear Hunting Hound](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Hunting%20Hound)
+- [Ancient Gear Hydra](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Hydra)
+- [Ancient Gear Knight](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Knight)
+- [Ancient Gear Reactor Dragon](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Reactor%20Dragon)
+- [Ancient Gear Soldier](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Soldier)
+- [Ancient Gear Tank](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Tank)
+- [Ancient Gear Token](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Token)
+- [Ancient Gear Workshop](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Workshop)
+- [Ancient Gear Wyvern](db.ygoprodeck.com/card/?search=Ancient%20Gear%20Wyvern)
+- [Ancient Lamp](db.ygoprodeck.com/card/?search=Ancient%20Lamp)
+- [Ancient Leaf](db.ygoprodeck.com/card/?search=Ancient%20Leaf)
+- [Ancient Lizard Warrior](db.ygoprodeck.com/card/?search=Ancient%20Lizard%20Warrior)
+- [Ancient One of the Deep Forest](db.ygoprodeck.com/card/?search=Ancient%20One%20of%20the%20Deep%20Forest)
+- [Ancient Rules](db.ygoprodeck.com/card/?search=Ancient%20Rules)
+- [Ancient Telescope](db.ygoprodeck.com/card/?search=Ancient%20Telescope)
+- [Ancient Tool](db.ygoprodeck.com/card/?search=Ancient%20Tool)
+- [Ancient Warriors - Deceptive Jia Wen](db.ygoprodeck.com/card/?search=Ancient%20Warriors%20-%20Deceptive%20Jia%20Wen)
+- [Ancient Warriors - Fearsome Zhang Yuan](db.ygoprodeck.com/card/?search=Ancient%20Warriors%20-%20Fearsome%20Zhang%20Yuan)
+- [Ancient Warriors Saga - Borrowing of Arrows](db.ygoprodeck.com/card/?search=Ancient%20Warriors%20Saga%20-%20Borrowing%20of%20Arrows)
+- [Ancient Warriors Saga - Chivalrous Path](db.ygoprodeck.com/card/?search=Ancient%20Warriors%20Saga%20-%20Chivalrous%20Path)
+- [Ancient Warriors Saga - East-by-South Winds](db.ygoprodeck.com/card/?search=Ancient%20Warriors%20Saga%20-%20East-by-South%20Winds)
+- [And the Band Played On](db.ygoprodeck.com/card/?search=And%20the%20Band%20Played%20On)
+- [Anesthrokket Dragon](db.ygoprodeck.com/card/?search=Anesthrokket%20Dragon)
+- [Angel O7](db.ygoprodeck.com/card/?search=Angel%20O7)
+- [Angel Trumpeter](db.ygoprodeck.com/card/?search=Angel%20Trumpeter)
+- [Ansatsu](db.ygoprodeck.com/card/?search=Ansatsu)
+- [Ante](db.ygoprodeck.com/card/?search=Ante)
+- [Anteatereatingant](db.ygoprodeck.com/card/?search=Anteatereatingant)
+- [Anthrosaurus](db.ygoprodeck.com/card/?search=Anthrosaurus)
+- [Anti-Aircraft Flower](db.ygoprodeck.com/card/?search=Anti-Aircraft%20Flower)
+- [Anti-Fusion Device](db.ygoprodeck.com/card/?search=Anti-Fusion%20Device)
+- [Anti-Magic Prism](db.ygoprodeck.com/card/?search=Anti-Magic%20Prism)
+- [Anti-Spell](db.ygoprodeck.com/card/?search=Anti-Spell)
+- [Anti-Spell Fragrance](db.ygoprodeck.com/card/?search=Anti-Spell%20Fragrance)
+- [Antialian](db.ygoprodeck.com/card/?search=Antialian)
+- [Ape Fighter](db.ygoprodeck.com/card/?search=Ape%20Fighter)
+- [Ape Magician](db.ygoprodeck.com/card/?search=Ape%20Magician)
+- [Apex Predation](db.ygoprodeck.com/card/?search=Apex%20Predation)
+- [Apocatequil](db.ygoprodeck.com/card/?search=Apocatequil)
+- [Apple of Enlightenment](db.ygoprodeck.com/card/?search=Apple%20of%20Enlightenment)
+- [Appointer of the Red Lotus](db.ygoprodeck.com/card/?search=Appointer%20of%20the%20Red%20Lotus)
+- [Apprentice Magician](db.ygoprodeck.com/card/?search=Apprentice%20Magician)
+- [Apprentice Piper](db.ygoprodeck.com/card/?search=Apprentice%20Piper)
+- [Appropriate](db.ygoprodeck.com/card/?search=Appropriate)
+- [Aqua Armor Ninja](db.ygoprodeck.com/card/?search=Aqua%20Armor%20Ninja)
+- [Aqua Chorus](db.ygoprodeck.com/card/?search=Aqua%20Chorus)
+- [Aqua Dragon](db.ygoprodeck.com/card/?search=Aqua%20Dragon)
+- [Aqua Jet](db.ygoprodeck.com/card/?search=Aqua%20Jet)
+- [Aqua Madoor](db.ygoprodeck.com/card/?search=Aqua%20Madoor)
+- [Aqua Spirit](db.ygoprodeck.com/card/?search=Aqua%20Spirit)
+- [Aqua Story - Urashima](db.ygoprodeck.com/card/?search=Aqua%20Story%20-%20Urashima)
+- [Aquaactress Arowana](db.ygoprodeck.com/card/?search=Aquaactress%20Arowana)
+- [Aquaactress Guppy](db.ygoprodeck.com/card/?search=Aquaactress%20Guppy)
+- [Aquaactress Tetra](db.ygoprodeck.com/card/?search=Aquaactress%20Tetra)
+- [Aquamirror Cycle](db.ygoprodeck.com/card/?search=Aquamirror%20Cycle)
+- [Aquamirror Illusion](db.ygoprodeck.com/card/?search=Aquamirror%20Illusion)
+- [Aquarium Lighting](db.ygoprodeck.com/card/?search=Aquarium%20Lighting)
+- [Aquarium Set](db.ygoprodeck.com/card/?search=Aquarium%20Set)
+- [Aquarium Stage](db.ygoprodeck.com/card/?search=Aquarium%20Stage)
+- [Arcana Call](db.ygoprodeck.com/card/?search=Arcana%20Call)
+- [Arcana Force 0 - The Fool](db.ygoprodeck.com/card/?search=Arcana%20Force%200%20-%20The%20Fool)
+- [Arcana Force EX - The Dark Ruler](db.ygoprodeck.com/card/?search=Arcana%20Force%20EX%20-%20The%20Dark%20Ruler)
+- [Arcana Force EX - The Light Ruler](db.ygoprodeck.com/card/?search=Arcana%20Force%20EX%20-%20The%20Light%20Ruler)
+- [Arcana Force I - The Magician](db.ygoprodeck.com/card/?search=Arcana%20Force%20I%20-%20The%20Magician)
+- [Arcana Force III - The Empress](db.ygoprodeck.com/card/?search=Arcana%20Force%20III%20-%20The%20Empress)
+- [Arcana Force IV - The Emperor](db.ygoprodeck.com/card/?search=Arcana%20Force%20IV%20-%20The%20Emperor)
+- [Arcana Force VI - The Lovers](db.ygoprodeck.com/card/?search=Arcana%20Force%20VI%20-%20The%20Lovers)
+- [Arcana Force VII - The Chariot](db.ygoprodeck.com/card/?search=Arcana%20Force%20VII%20-%20The%20Chariot)
+- [Arcana Force XIV - Temperance](db.ygoprodeck.com/card/?search=Arcana%20Force%20XIV%20-%20Temperance)
+- [Arcana Force XVIII - The Moon](db.ygoprodeck.com/card/?search=Arcana%20Force%20XVIII%20-%20The%20Moon)
+- [Arcana Force XXI - The World](db.ygoprodeck.com/card/?search=Arcana%20Force%20XXI%20-%20The%20World)
+- [Arcana Knight Joker](db.ygoprodeck.com/card/?search=Arcana%20Knight%20Joker)
+- [Arcana Reading](db.ygoprodeck.com/card/?search=Arcana%20Reading)
+- [Arcane Apprentice](db.ygoprodeck.com/card/?search=Arcane%20Apprentice)
+- [Arcane Archer of the Forest](db.ygoprodeck.com/card/?search=Arcane%20Archer%20of%20the%20Forest)
+- [Arcane Barrier](db.ygoprodeck.com/card/?search=Arcane%20Barrier)
+- [Arcanite Magician/Assault Mode](db.ygoprodeck.com/card/?search=Arcanite%20Magician/Assault%20Mode)
+- [Archfiend Black Skull Dragon](db.ygoprodeck.com/card/?search=Archfiend%20Black%20Skull%20Dragon)
+- [Archfiend Cavalry](db.ygoprodeck.com/card/?search=Archfiend%20Cavalry)
+- [Archfiend Eccentrick](db.ygoprodeck.com/card/?search=Archfiend%20Eccentrick)
+- [Archfiend Emperor, the First Lord of Horror](db.ygoprodeck.com/card/?search=Archfiend%20Emperor,%20the%20First%20Lord%20of%20Horror)
+- [Archfiend Interceptor](db.ygoprodeck.com/card/?search=Archfiend%20Interceptor)
+- [Archfiend Marmot of Nefariousness](db.ygoprodeck.com/card/?search=Archfiend%20Marmot%20of%20Nefariousness)
+- [Archfiend of Gilfer](db.ygoprodeck.com/card/?search=Archfiend%20of%20Gilfer)
+- [Archfiend Soldier](db.ygoprodeck.com/card/?search=Archfiend%20Soldier)
+- [Archfiend's Oath](db.ygoprodeck.com/card/?search=Archfiend's%20Oath)
+- [Archfiend's Roar](db.ygoprodeck.com/card/?search=Archfiend's%20Roar)
+- [Archfiend's Staff of Despair](db.ygoprodeck.com/card/?search=Archfiend's%20Staff%20of%20Despair)
+- [Archlord Kristya](db.ygoprodeck.com/card/?search=Archlord%20Kristya)
+- [Arcjet Lightcraft](db.ygoprodeck.com/card/?search=Arcjet%20Lightcraft)
+- [Aria the Melodious Diva](db.ygoprodeck.com/card/?search=Aria%20the%20Melodious%20Diva)
+- [Armageddon Designator](db.ygoprodeck.com/card/?search=Armageddon%20Designator)
+- [Armaill](db.ygoprodeck.com/card/?search=Armaill)
+- [Armed Changer](db.ygoprodeck.com/card/?search=Armed%20Changer)
+- [Armed Dragon Blitz](db.ygoprodeck.com/card/?search=Armed%20Dragon%20Blitz)
+- [Armed Dragon Lightning](db.ygoprodeck.com/card/?search=Armed%20Dragon%20Lightning)
+- [Armed Dragon LV3](db.ygoprodeck.com/card/?search=Armed%20Dragon%20LV3)
+- [Armed Dragon LV5](db.ygoprodeck.com/card/?search=Armed%20Dragon%20LV5)
+- [Armed Dragon LV7](db.ygoprodeck.com/card/?search=Armed%20Dragon%20LV7)
+- [Armed Ninja](db.ygoprodeck.com/card/?search=Armed%20Ninja)
+- [Armed Protector Dragon](db.ygoprodeck.com/card/?search=Armed%20Protector%20Dragon)
+- [Armed Samurai - Ben Kei](db.ygoprodeck.com/card/?search=Armed%20Samurai%20-%20Ben%20Kei)
+- [Armed Sea Hunter](db.ygoprodeck.com/card/?search=Armed%20Sea%20Hunter)
+- [Armor Break](db.ygoprodeck.com/card/?search=Armor%20Break)
+- [Armor Dragon Ritual](db.ygoprodeck.com/card/?search=Armor%20Dragon%20Ritual)
+- [Armor Exe](db.ygoprodeck.com/card/?search=Armor%20Exe)
+- [Armor Ninjitsu Art of Freezing](db.ygoprodeck.com/card/?search=Armor%20Ninjitsu%20Art%20of%20Freezing)
+- [Armored Axon Kicker](db.ygoprodeck.com/card/?search=Armored%20Axon%20Kicker)
+- [Armored Cybern](db.ygoprodeck.com/card/?search=Armored%20Cybern)
+- [Armored Glass](db.ygoprodeck.com/card/?search=Armored%20Glass)
+- [Armored Lizard](db.ygoprodeck.com/card/?search=Armored%20Lizard)
+- [Armored Starfish](db.ygoprodeck.com/card/?search=Armored%20Starfish)
+- [Armored Zombie](db.ygoprodeck.com/card/?search=Armored%20Zombie)
+- [Armoroid](db.ygoprodeck.com/card/?search=Armoroid)
+- [Armory Call](db.ygoprodeck.com/card/?search=Armory%20Call)
+- [Arnis, the Empowered Warrior](db.ygoprodeck.com/card/?search=Arnis,%20the%20Empowered%20Warrior)
+- [Aroma Garden](db.ygoprodeck.com/card/?search=Aroma%20Garden)
+- [Aroma Gardening](db.ygoprodeck.com/card/?search=Aroma%20Gardening)
+- [Aroma Jar](db.ygoprodeck.com/card/?search=Aroma%20Jar)
+- [Aroma Strategy](db.ygoprodeck.com/card/?search=Aroma%20Strategy)
+- [Aromage Cananga](db.ygoprodeck.com/card/?search=Aromage%20Cananga)
+- [Aromage Laurel](db.ygoprodeck.com/card/?search=Aromage%20Laurel)
+- [Aromage Marjoram](db.ygoprodeck.com/card/?search=Aromage%20Marjoram)
+- [Aromaseraphy Angelica](db.ygoprodeck.com/card/?search=Aromaseraphy%20Angelica)
+- [Array of Revealing Light](db.ygoprodeck.com/card/?search=Array%20of%20Revealing%20Light)
+- [Arsenal Bug](db.ygoprodeck.com/card/?search=Arsenal%20Bug)
+- [Arsenal Robber](db.ygoprodeck.com/card/?search=Arsenal%20Robber)
+- [Arsenal Summoner](db.ygoprodeck.com/card/?search=Arsenal%20Summoner)
+- [Artifact Achilleshield](db.ygoprodeck.com/card/?search=Artifact%20Achilleshield)
+- [Artifact Aegis](db.ygoprodeck.com/card/?search=Artifact%20Aegis)
+- [Artifact Beagalltach](db.ygoprodeck.com/card/?search=Artifact%20Beagalltach)
+- [Artifact Chakram](db.ygoprodeck.com/card/?search=Artifact%20Chakram)
+- [Artifact Failnaught](db.ygoprodeck.com/card/?search=Artifact%20Failnaught)
+- [Artifact Labrys](db.ygoprodeck.com/card/?search=Artifact%20Labrys)
+- [Artifact Lancea](db.ygoprodeck.com/card/?search=Artifact%20Lancea)
+- [Artifact Mjollnir](db.ygoprodeck.com/card/?search=Artifact%20Mjollnir)
+- [Artifact Moralltach](db.ygoprodeck.com/card/?search=Artifact%20Moralltach)
+- [Artifact Vajra](db.ygoprodeck.com/card/?search=Artifact%20Vajra)
+- [Artifacts Unleashed](db.ygoprodeck.com/card/?search=Artifacts%20Unleashed)
+- [Ash Blossom & Joyous Spring](db.ygoprodeck.com/card/?search=Ash%20Blossom%20&%20Joyous%20Spring)
+- [Asleep at the Switch](db.ygoprodeck.com/card/?search=Asleep%20at%20the%20Switch)
+- [Assault Beast](db.ygoprodeck.com/card/?search=Assault%20Beast)
+- [Assault Blackwing - Sohaya the Rain Storm](db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Sohaya%20the%20Rain%20Storm)
+- [Assault Counter](db.ygoprodeck.com/card/?search=Assault%20Counter)
+- [Assault Dog](db.ygoprodeck.com/card/?search=Assault%20Dog)
+- [Assault Mercenary](db.ygoprodeck.com/card/?search=Assault%20Mercenary)
+- [Assault Mode Activate](db.ygoprodeck.com/card/?search=Assault%20Mode%20Activate)
+- [Assault Mode Zero](db.ygoprodeck.com/card/?search=Assault%20Mode%20Zero)
+- [Assault on GHQ](db.ygoprodeck.com/card/?search=Assault%20on%20GHQ)
+- [Assault Overload](db.ygoprodeck.com/card/?search=Assault%20Overload)
+- [Assault Revival](db.ygoprodeck.com/card/?search=Assault%20Revival)
+- [Assault Sentinel](db.ygoprodeck.com/card/?search=Assault%20Sentinel)
+- [Assault Slash](db.ygoprodeck.com/card/?search=Assault%20Slash)
+- [Assault Spirits](db.ygoprodeck.com/card/?search=Assault%20Spirits)
+- [Assault Teleport](db.ygoprodeck.com/card/?search=Assault%20Teleport)
+- [Astra Ghouls](db.ygoprodeck.com/card/?search=Astra%20Ghouls)
+- [Astral Barrier](db.ygoprodeck.com/card/?search=Astral%20Barrier)
+- [Asura Priest](db.ygoprodeck.com/card/?search=Asura%20Priest)
+- [Aswan Apparition](db.ygoprodeck.com/card/?search=Aswan%20Apparition)
+- [At One With the Sword](db.ygoprodeck.com/card/?search=At%20One%20With%20the%20Sword)
+- [Athena](db.ygoprodeck.com/card/?search=Athena)
+- [Atlantean Attack Squad](db.ygoprodeck.com/card/?search=Atlantean%20Attack%20Squad)
+- [Atlantean Dragoons](db.ygoprodeck.com/card/?search=Atlantean%20Dragoons)
+- [Atlantean Heavy Infantry](db.ygoprodeck.com/card/?search=Atlantean%20Heavy%20Infantry)
+- [Atlantean Marksman](db.ygoprodeck.com/card/?search=Atlantean%20Marksman)
+- [Atlantean Pikeman](db.ygoprodeck.com/card/?search=Atlantean%20Pikeman)
+- [Atomic Firefly](db.ygoprodeck.com/card/?search=Atomic%20Firefly)
+- [Attachment Cybern](db.ygoprodeck.com/card/?search=Attachment%20Cybern)
+- [Attack and Receive](db.ygoprodeck.com/card/?search=Attack%20and%20Receive)
+- [Attack Gainer](db.ygoprodeck.com/card/?search=Attack%20Gainer)
+- [Attack of the Cornered Rat](db.ygoprodeck.com/card/?search=Attack%20of%20the%20Cornered%20Rat)
+- [Attack Pheromones](db.ygoprodeck.com/card/?search=Attack%20Pheromones)
+- [Attack Reflector Unit](db.ygoprodeck.com/card/?search=Attack%20Reflector%20Unit)
+- [Attack the Moon!](db.ygoprodeck.com/card/?search=Attack%20the%20Moon!)
+- [Attention!](db.ygoprodeck.com/card/?search=Attention!)
+- [Attraffic Control](db.ygoprodeck.com/card/?search=Attraffic%20Control)
+- [Aurkus, Lightsworn Druid](db.ygoprodeck.com/card/?search=Aurkus,%20Lightsworn%20Druid)
+- [Aurora Paragon](db.ygoprodeck.com/card/?search=Aurora%20Paragon)
+- [Aurora Wing](db.ygoprodeck.com/card/?search=Aurora%20Wing)
+- [Aussa the Earth Charmer](db.ygoprodeck.com/card/?search=Aussa%20the%20Earth%20Charmer)
+- [Automatic Laser](db.ygoprodeck.com/card/?search=Automatic%20Laser)
+- [Autonomous Action Unit](db.ygoprodeck.com/card/?search=Autonomous%20Action%20Unit)
+- [Autorokket Dragon](db.ygoprodeck.com/card/?search=Autorokket%20Dragon)
+- [Avalanching Aussa](db.ygoprodeck.com/card/?search=Avalanching%20Aussa)
+- [Avatar of The Pot](db.ygoprodeck.com/card/?search=Avatar%20of%20The%20Pot)
+- [Avenging Knight Parshath](db.ygoprodeck.com/card/?search=Avenging%20Knight%20Parshath)
+- [Awakening of the Possessed](db.ygoprodeck.com/card/?search=Awakening%20of%20the%20Possessed)
+- [Awakening of the Possessed - Gagigobyte](db.ygoprodeck.com/card/?search=Awakening%20of%20the%20Possessed%20-%20Gagigobyte)
+- [Awakening of the Possessed - Rasenryu](db.ygoprodeck.com/card/?search=Awakening%20of%20the%20Possessed%20-%20Rasenryu)
+- [Awakening of the Sacred Beasts](db.ygoprodeck.com/card/?search=Awakening%20of%20the%20Sacred%20Beasts)
+- [Axe Dragonute](db.ygoprodeck.com/card/?search=Axe%20Dragonute)
+- [Axe of Despair](db.ygoprodeck.com/card/?search=Axe%20of%20Despair)
+- [Axe of Fools](db.ygoprodeck.com/card/?search=Axe%20of%20Fools)
+- [Axe Raider](db.ygoprodeck.com/card/?search=Axe%20Raider)
+- [Aye-Iron](db.ygoprodeck.com/card/?search=Aye-Iron)
+- [Ayers Rock Sunrise](db.ygoprodeck.com/card/?search=Ayers%20Rock%20Sunrise)
+- [Azure-Eyes Silver Dragon](db.ygoprodeck.com/card/?search=Azure-Eyes%20Silver%20Dragon)
+- [B.E.F. Zelos](db.ygoprodeck.com/card/?search=B.E.F.%20Zelos)
+- [B.E.S. Big Core](db.ygoprodeck.com/card/?search=B.E.S.%20Big%20Core)
+- [B.E.S. Blaster Cannon Core](db.ygoprodeck.com/card/?search=B.E.S.%20Blaster%20Cannon%20Core)
+- [B.E.S. Crystal Core](db.ygoprodeck.com/card/?search=B.E.S.%20Crystal%20Core)
+- [Baba Barber](db.ygoprodeck.com/card/?search=Baba%20Barber)
+- [Baby Dragon](db.ygoprodeck.com/card/?search=Baby%20Dragon)
+- [Baby Mudragon](db.ygoprodeck.com/card/?search=Baby%20Mudragon)
+- [Baby Raccoon Ponpoko](db.ygoprodeck.com/card/?search=Baby%20Raccoon%20Ponpoko)
+- [Baby Raccoon Tantan](db.ygoprodeck.com/card/?search=Baby%20Raccoon%20Tantan)
+- [Baby Tiragon](db.ygoprodeck.com/card/?search=Baby%20Tiragon)
+- [Babycerasaurus](db.ygoprodeck.com/card/?search=Babycerasaurus)
+- [Bachibachibachi](db.ygoprodeck.com/card/?search=Bachibachibachi)
+- [Back to Square One](db.ygoprodeck.com/card/?search=Back%20to%20Square%20One)
+- [Back to the Front](db.ygoprodeck.com/card/?search=Back%20to%20the%20Front)
+- [Back-Up Rider](db.ygoprodeck.com/card/?search=Back-Up%20Rider)
+- [Backfire](db.ygoprodeck.com/card/?search=Backfire)
+- [Background Dragon](db.ygoprodeck.com/card/?search=Background%20Dragon)
+- [Backlinker](db.ygoprodeck.com/card/?search=Backlinker)
+- [Backs to the Wall](db.ygoprodeck.com/card/?search=Backs%20to%20the%20Wall)
+- [Backup Operator](db.ygoprodeck.com/card/?search=Backup%20Operator)
+- [Backup Secretary](db.ygoprodeck.com/card/?search=Backup%20Secretary)
+- [Backup Soldier](db.ygoprodeck.com/card/?search=Backup%20Soldier)
+- [Backup Squad](db.ygoprodeck.com/card/?search=Backup%20Squad)
+- [Backup Warrior](db.ygoprodeck.com/card/?search=Backup%20Warrior)
+- [Bacon Saver](db.ygoprodeck.com/card/?search=Bacon%20Saver)
+- [Bad Aim](db.ygoprodeck.com/card/?search=Bad%20Aim)
+- [Bad Luck Blast](db.ygoprodeck.com/card/?search=Bad%20Luck%20Blast)
+- [Bad Reaction to Simochi](db.ygoprodeck.com/card/?search=Bad%20Reaction%20to%20Simochi)
+- [Bait Doll](db.ygoprodeck.com/card/?search=Bait%20Doll)
+- [Balance of Judgment](db.ygoprodeck.com/card/?search=Balance%20of%20Judgment)
+- [Balancer Lord](db.ygoprodeck.com/card/?search=Balancer%20Lord)
+- [Ballista of Rampart Smashing](db.ygoprodeck.com/card/?search=Ballista%20of%20Rampart%20Smashing)
+- [Ballista Squad](db.ygoprodeck.com/card/?search=Ballista%20Squad)
+- [Balloon Lizard](db.ygoprodeck.com/card/?search=Balloon%20Lizard)
+- [Bamboo Scrap](db.ygoprodeck.com/card/?search=Bamboo%20Scrap)
+- [Banisher of the Light](db.ygoprodeck.com/card/?search=Banisher%20of%20the%20Light)
+- [Banisher of the Radiance](db.ygoprodeck.com/card/?search=Banisher%20of%20the%20Radiance)
+- [Banner of Courage](db.ygoprodeck.com/card/?search=Banner%20of%20Courage)
+- [Banquet of Millions](db.ygoprodeck.com/card/?search=Banquet%20of%20Millions)
+- [Baobaboon](db.ygoprodeck.com/card/?search=Baobaboon)
+- [Barbaroid, the Ultimate Battle Machine](db.ygoprodeck.com/card/?search=Barbaroid,%20the%20Ultimate%20Battle%20Machine)
+- [Bark of Dark Ruler](db.ygoprodeck.com/card/?search=Bark%20of%20Dark%20Ruler)
+- [Barkion's Bark](db.ygoprodeck.com/card/?search=Barkion's%20Bark)
+- [Baron of the Fiend Sword](db.ygoprodeck.com/card/?search=Baron%20of%20the%20Fiend%20Sword)
+- [Barox](db.ygoprodeck.com/card/?search=Barox)
+- [Barrage Blast](db.ygoprodeck.com/card/?search=Barrage%20Blast)
+- [Barrel Behind the Door](db.ygoprodeck.com/card/?search=Barrel%20Behind%20the%20Door)
+- [Barrel Dragon](db.ygoprodeck.com/card/?search=Barrel%20Dragon)
+- [Barricadeborg Blocker](db.ygoprodeck.com/card/?search=Barricadeborg%20Blocker)
+- [Barrier Resonator](db.ygoprodeck.com/card/?search=Barrier%20Resonator)
+- [Barrier Statue of the Abyss](db.ygoprodeck.com/card/?search=Barrier%20Statue%20of%20the%20Abyss)
+- [Barrier Statue of the Drought](db.ygoprodeck.com/card/?search=Barrier%20Statue%20of%20the%20Drought)
+- [Barrier Statue of the Heavens](db.ygoprodeck.com/card/?search=Barrier%20Statue%20of%20the%20Heavens)
+- [Barrier Statue of the Inferno](db.ygoprodeck.com/card/?search=Barrier%20Statue%20of%20the%20Inferno)
+- [Barrier Statue of the Stormwinds](db.ygoprodeck.com/card/?search=Barrier%20Statue%20of%20the%20Stormwinds)
+- [Barrier Statue of the Torrent](db.ygoprodeck.com/card/?search=Barrier%20Statue%20of%20the%20Torrent)
+- [Barrier Wave](db.ygoprodeck.com/card/?search=Barrier%20Wave)
+- [Basal Rose Shoot](db.ygoprodeck.com/card/?search=Basal%20Rose%20Shoot)
+- [Bashing Shield](db.ygoprodeck.com/card/?search=Bashing%20Shield)
+- [Basic Insect](db.ygoprodeck.com/card/?search=Basic%20Insect)
+- [Basilius, Familiar of the Evil Eye](db.ygoprodeck.com/card/?search=Basilius,%20Familiar%20of%20the%20Evil%20Eye)
+- [Battery Charger](db.ygoprodeck.com/card/?search=Battery%20Charger)
+- [Batteryman 9-Volt](db.ygoprodeck.com/card/?search=Batteryman%209-Volt)
+- [Batteryman AA](db.ygoprodeck.com/card/?search=Batteryman%20AA)
+- [Batteryman AAA](db.ygoprodeck.com/card/?search=Batteryman%20AAA)
+- [Batteryman C](db.ygoprodeck.com/card/?search=Batteryman%20C)
+- [Batteryman Charger](db.ygoprodeck.com/card/?search=Batteryman%20Charger)
+- [Batteryman D](db.ygoprodeck.com/card/?search=Batteryman%20D)
+- [Batteryman Micro-Cell](db.ygoprodeck.com/card/?search=Batteryman%20Micro-Cell)
+- [Batteryman Solar](db.ygoprodeck.com/card/?search=Batteryman%20Solar)
+- [Battle Break](db.ygoprodeck.com/card/?search=Battle%20Break)
+- [Battle Fader](db.ygoprodeck.com/card/?search=Battle%20Fader)
+- [Battle Footballer](db.ygoprodeck.com/card/?search=Battle%20Footballer)
+- [Battle Fusion](db.ygoprodeck.com/card/?search=Battle%20Fusion)
+- [Battle Instinct](db.ygoprodeck.com/card/?search=Battle%20Instinct)
+- [Battle of the Elements](db.ygoprodeck.com/card/?search=Battle%20of%20the%20Elements)
+- [Battle Ox](db.ygoprodeck.com/card/?search=Battle%20Ox)
+- [Battle Steer](db.ygoprodeck.com/card/?search=Battle%20Steer)
+- [Battle Survivor](db.ygoprodeck.com/card/?search=Battle%20Survivor)
+- [Battle Teleportation](db.ygoprodeck.com/card/?search=Battle%20Teleportation)
+- [Battle Tuned](db.ygoprodeck.com/card/?search=Battle%20Tuned)
+- [Battle Waltz](db.ygoprodeck.com/card/?search=Battle%20Waltz)
+- [Battle Warrior](db.ygoprodeck.com/card/?search=Battle%20Warrior)
+- [Battle-Scarred](db.ygoprodeck.com/card/?search=Battle-Scarred)
+- [Battleguard Howling](db.ygoprodeck.com/card/?search=Battleguard%20Howling)
+- [Battleguard King](db.ygoprodeck.com/card/?search=Battleguard%20King)
+- [Battleguard Rage](db.ygoprodeck.com/card/?search=Battleguard%20Rage)
+- [Battlin' Boxer Big Bandage](db.ygoprodeck.com/card/?search=Battlin'%20Boxer%20Big%20Bandage)
+- [Battlin' Boxer Counterpunch](db.ygoprodeck.com/card/?search=Battlin'%20Boxer%20Counterpunch)
+- [Battlin' Boxer Glassjaw](db.ygoprodeck.com/card/?search=Battlin'%20Boxer%20Glassjaw)
+- [Battlin' Boxer Headgeared](db.ygoprodeck.com/card/?search=Battlin'%20Boxer%20Headgeared)
+- [Battlin' Boxer Rabbit Puncher](db.ygoprodeck.com/card/?search=Battlin'%20Boxer%20Rabbit%20Puncher)
+- [Battlin' Boxer Rib Gardna](db.ygoprodeck.com/card/?search=Battlin'%20Boxer%20Rib%20Gardna)
+- [Battlin' Boxer Sparrer](db.ygoprodeck.com/card/?search=Battlin'%20Boxer%20Sparrer)
+- [Battlin' Boxer Switchitter](db.ygoprodeck.com/card/?search=Battlin'%20Boxer%20Switchitter)
+- [Battlin' Boxer Veil](db.ygoprodeck.com/card/?search=Battlin'%20Boxer%20Veil)
+- [Bayonater, the Baneful Barrel](db.ygoprodeck.com/card/?search=Bayonater,%20the%20Baneful%20Barrel)
+- [Bazoo the Soul-Eater](db.ygoprodeck.com/card/?search=Bazoo%20the%20Soul-Eater)
+- [Beacon of White](db.ygoprodeck.com/card/?search=Beacon%20of%20White)
+- [Bean Soldier](db.ygoprodeck.com/card/?search=Bean%20Soldier)
+- [Bearblocker](db.ygoprodeck.com/card/?search=Bearblocker)
+- [Beast Fangs](db.ygoprodeck.com/card/?search=Beast%20Fangs)
+- [Beast King Barbaros](db.ygoprodeck.com/card/?search=Beast%20King%20Barbaros)
+- [Beast King Unleashed](db.ygoprodeck.com/card/?search=Beast%20King%20Unleashed)
+- [Beast Magic Attack](db.ygoprodeck.com/card/?search=Beast%20Magic%20Attack)
+- [Beast of Talwar](db.ygoprodeck.com/card/?search=Beast%20of%20Talwar)
+- [Beast of the Pharaoh](db.ygoprodeck.com/card/?search=Beast%20of%20the%20Pharaoh)
+- [Beast Rage](db.ygoprodeck.com/card/?search=Beast%20Rage)
+- [Beast Rising](db.ygoprodeck.com/card/?search=Beast%20Rising)
+- [Beast Soul Swap](db.ygoprodeck.com/card/?search=Beast%20Soul%20Swap)
+- [Beast-Warrior Puma](db.ygoprodeck.com/card/?search=Beast-Warrior%20Puma)
+- [Beastking of the Swamps](db.ygoprodeck.com/card/?search=Beastking%20of%20the%20Swamps)
+- [Beasts of Phantom](db.ygoprodeck.com/card/?search=Beasts%20of%20Phantom)
+- [Beatdown!](db.ygoprodeck.com/card/?search=Beatdown!)
+- [Beatraptor](db.ygoprodeck.com/card/?search=Beatraptor)
+- [Beaver Warrior](db.ygoprodeck.com/card/?search=Beaver%20Warrior)
+- [Beckoned by the World Chalice](db.ygoprodeck.com/card/?search=Beckoned%20by%20the%20World%20Chalice)
+- [Beckoning Light](db.ygoprodeck.com/card/?search=Beckoning%20Light)
+- [Bee List Soldier](db.ygoprodeck.com/card/?search=Bee%20List%20Soldier)
+- [Beelze Frog](db.ygoprodeck.com/card/?search=Beelze%20Frog)
+- [Beelze of the Diabolic Dragons](db.ygoprodeck.com/card/?search=Beelze%20of%20the%20Diabolic%20Dragons)
+- [Beelzeus of the Diabolic Dragons](db.ygoprodeck.com/card/?search=Beelzeus%20of%20the%20Diabolic%20Dragons)
+- [Beetron](db.ygoprodeck.com/card/?search=Beetron)
+- [Beetrooper Assault Roller](db.ygoprodeck.com/card/?search=Beetrooper%20Assault%20Roller)
+- [Beetrooper Fly & Sting](db.ygoprodeck.com/card/?search=Beetrooper%20Fly%20&%20Sting)
+- [Beetrooper Landing](db.ygoprodeck.com/card/?search=Beetrooper%20Landing)
+- [Beetrooper Squad](db.ygoprodeck.com/card/?search=Beetrooper%20Squad)
+- [Beginning of Heaven and Earth](db.ygoprodeck.com/card/?search=Beginning%20of%20Heaven%20and%20Earth)
+- [Begone, Knave!](db.ygoprodeck.com/card/?search=Begone,%20Knave!)
+- [Behegon](db.ygoprodeck.com/card/?search=Behegon)
+- [Behemoth the King of All Animals](db.ygoprodeck.com/card/?search=Behemoth%20the%20King%20of%20All%20Animals)
+- [Beiige, Vanguard of Dark World](db.ygoprodeck.com/card/?search=Beiige,%20Vanguard%20of%20Dark%20World)
+- [Belial - Marquis of Darkness](db.ygoprodeck.com/card/?search=Belial%20-%20Marquis%20of%20Darkness)
+- [Bellcat Fighter](db.ygoprodeck.com/card/?search=Bellcat%20Fighter)
+- [Bending Destiny](db.ygoprodeck.com/card/?search=Bending%20Destiny)
+- [Berfomet](db.ygoprodeck.com/card/?search=Berfomet)
+- [Berlineth the Firestorm Vassal](db.ygoprodeck.com/card/?search=Berlineth%20the%20Firestorm%20Vassal)
+- [Berserk Dragon](db.ygoprodeck.com/card/?search=Berserk%20Dragon)
+- [Berserk Gorilla](db.ygoprodeck.com/card/?search=Berserk%20Gorilla)
+- [Berserk Scales](db.ygoprodeck.com/card/?search=Berserk%20Scales)
+- [Berserker Crush](db.ygoprodeck.com/card/?search=Berserker%20Crush)
+- [Berserker of the Tenyi](db.ygoprodeck.com/card/?search=Berserker%20of%20the%20Tenyi)
+- [Berserker Soul](db.ygoprodeck.com/card/?search=Berserker%20Soul)
+- [Beta The Magnet Warrior](db.ygoprodeck.com/card/?search=Beta%20The%20Magnet%20Warrior)
+- [Bickuribox](db.ygoprodeck.com/card/?search=Bickuribox)
+- [Bicorn Re'em](db.ygoprodeck.com/card/?search=Bicorn%20Re'em)
+- [Bicular](db.ygoprodeck.com/card/?search=Bicular)
+- [Big Bang Shot](db.ygoprodeck.com/card/?search=Big%20Bang%20Shot)
+- [Big Evolution Pill](db.ygoprodeck.com/card/?search=Big%20Evolution%20Pill)
+- [Big Eye](db.ygoprodeck.com/card/?search=Big%20Eye)
+- [Big Insect](db.ygoprodeck.com/card/?search=Big%20Insect)
+- [Big Jaws](db.ygoprodeck.com/card/?search=Big%20Jaws)
+- [Big Koala](db.ygoprodeck.com/card/?search=Big%20Koala)
+- [Big Shield Gardna](db.ygoprodeck.com/card/?search=Big%20Shield%20Gardna)
+- [Big Wave Small Wave](db.ygoprodeck.com/card/?search=Big%20Wave%20Small%20Wave)
+- [BIG Win!?](db.ygoprodeck.com/card/?search=BIG%20Win!?)
+- [Binary Blader](db.ygoprodeck.com/card/?search=Binary%20Blader)
+- [Bio-Mage](db.ygoprodeck.com/card/?search=Bio-Mage)
+- [Biofalcon](db.ygoprodeck.com/card/?search=Biofalcon)
+- [Bird of Paradise Lost](db.ygoprodeck.com/card/?search=Bird%20of%20Paradise%20Lost)
+- [Bird of Roses](db.ygoprodeck.com/card/?search=Bird%20of%20Roses)
+- [Birdface](db.ygoprodeck.com/card/?search=Birdface)
+- [Birth of the Prominence Flame](db.ygoprodeck.com/card/?search=Birth%20of%20the%20Prominence%20Flame)
+- [Birthright](db.ygoprodeck.com/card/?search=Birthright)
+- [Bite Bug](db.ygoprodeck.com/card/?search=Bite%20Bug)
+- [Bite Shoes](db.ygoprodeck.com/card/?search=Bite%20Shoes)
+- [Bitelon](db.ygoprodeck.com/card/?search=Bitelon)
+- [Bitron](db.ygoprodeck.com/card/?search=Bitron)
+- [Bitrooper](db.ygoprodeck.com/card/?search=Bitrooper)
+- [Black and White Wave](db.ygoprodeck.com/card/?search=Black%20and%20White%20Wave)
+- [Black Brachios](db.ygoprodeck.com/card/?search=Black%20Brachios)
+- [Black Cat-astrophe](db.ygoprodeck.com/card/?search=Black%20Cat-astrophe)
+- [Black Dragon Ninja](db.ygoprodeck.com/card/?search=Black%20Dragon%20Ninja)
+- [Black Dragon's Chick](db.ygoprodeck.com/card/?search=Black%20Dragon's%20Chick)
+- [Black Garden](db.ygoprodeck.com/card/?search=Black%20Garden)
+- [Black Horn of Heaven](db.ygoprodeck.com/card/?search=Black%20Horn%20of%20Heaven)
+- [Black Illusion Ritual](db.ygoprodeck.com/card/?search=Black%20Illusion%20Ritual)
+- [Black Luster Ritual](db.ygoprodeck.com/card/?search=Black%20Luster%20Ritual)
+- [Black Luster Soldier](db.ygoprodeck.com/card/?search=Black%20Luster%20Soldier)
+- [Black Luster Soldier - Envoy of the Beginning](db.ygoprodeck.com/card/?search=Black%20Luster%20Soldier%20-%20Envoy%20of%20the%20Beginning)
+- [Black Magic Ritual](db.ygoprodeck.com/card/?search=Black%20Magic%20Ritual)
+- [Black Metal Dragon](db.ygoprodeck.com/card/?search=Black%20Metal%20Dragon)
+- [Black Pendant](db.ygoprodeck.com/card/?search=Black%20Pendant)
+- [Black Potan](db.ygoprodeck.com/card/?search=Black%20Potan)
+- [Black Ptera](db.ygoprodeck.com/card/?search=Black%20Ptera)
+- [Black Ray Lancer](db.ygoprodeck.com/card/?search=Black%20Ray%20Lancer)
+- [Black Return](db.ygoprodeck.com/card/?search=Black%20Return)
+- [Black Rose Dragon](db.ygoprodeck.com/card/?search=Black%20Rose%20Dragon)
+- [Black Salvo](db.ygoprodeck.com/card/?search=Black%20Salvo)
+- [Black Skull Dragon](db.ygoprodeck.com/card/?search=Black%20Skull%20Dragon)
+- [Black Stego](db.ygoprodeck.com/card/?search=Black%20Stego)
+- [Black Thunder](db.ygoprodeck.com/card/?search=Black%20Thunder)
+- [Black Tyranno](db.ygoprodeck.com/card/?search=Black%20Tyranno)
+- [Black Veloci](db.ygoprodeck.com/card/?search=Black%20Veloci)
+- [Black Whirlwind](db.ygoprodeck.com/card/?search=Black%20Whirlwind)
+- [Black Wing Revenge](db.ygoprodeck.com/card/?search=Black%20Wing%20Revenge)
+- [Black-Winged Dragon](db.ygoprodeck.com/card/?search=Black-Winged%20Dragon)
+- [Black-Winged Strafe](db.ygoprodeck.com/card/?search=Black-Winged%20Strafe)
+- [Blackback](db.ygoprodeck.com/card/?search=Blackback)
+- [Blackbird Close](db.ygoprodeck.com/card/?search=Blackbird%20Close)
+- [Blackboost](db.ygoprodeck.com/card/?search=Blackboost)
+- [Blackeyes, the Plunder Patroll Seaguide](db.ygoprodeck.com/card/?search=Blackeyes,%20the%20Plunder%20Patroll%20Seaguide)
+- [Blackland Fire Dragon](db.ygoprodeck.com/card/?search=Blackland%20Fire%20Dragon)
+- [Blackwing - Abrolhos the Megaquake](db.ygoprodeck.com/card/?search=Blackwing%20-%20Abrolhos%20the%20Megaquake)
+- [Blackwing - Aurora the Northern Lights](db.ygoprodeck.com/card/?search=Blackwing%20-%20Aurora%20the%20Northern%20Lights)
+- [Blackwing - Auster the South Wind](db.ygoprodeck.com/card/?search=Blackwing%20-%20Auster%20the%20South%20Wind)
+- [Blackwing - Backlash](db.ygoprodeck.com/card/?search=Blackwing%20-%20Backlash)
+- [Blackwing - Blizzard the Far North](db.ygoprodeck.com/card/?search=Blackwing%20-%20Blizzard%20the%20Far%20North)
+- [Blackwing - Bombardment](db.ygoprodeck.com/card/?search=Blackwing%20-%20Bombardment)
+- [Blackwing - Boobytrap](db.ygoprodeck.com/card/?search=Blackwing%20-%20Boobytrap)
+- [Blackwing - Bora the Spear](db.ygoprodeck.com/card/?search=Blackwing%20-%20Bora%20the%20Spear)
+- [Blackwing - Boreas the Sharp](db.ygoprodeck.com/card/?search=Blackwing%20-%20Boreas%20the%20Sharp)
+- [Blackwing - Breeze the Zephyr](db.ygoprodeck.com/card/?search=Blackwing%20-%20Breeze%20the%20Zephyr)
+- [Blackwing - Brisote the Tailwind](db.ygoprodeck.com/card/?search=Blackwing%20-%20Brisote%20the%20Tailwind)
+- [Blackwing - Calima the Haze](db.ygoprodeck.com/card/?search=Blackwing%20-%20Calima%20the%20Haze)
+- [Blackwing - Decay the Ill Wind](db.ygoprodeck.com/card/?search=Blackwing%20-%20Decay%20the%20Ill%20Wind)
+- [Blackwing - Elphin the Raven](db.ygoprodeck.com/card/?search=Blackwing%20-%20Elphin%20the%20Raven)
+- [Blackwing - Etesian of Two Swords](db.ygoprodeck.com/card/?search=Blackwing%20-%20Etesian%20of%20Two%20Swords)
+- [Blackwing - Fane the Steel Chain](db.ygoprodeck.com/card/?search=Blackwing%20-%20Fane%20the%20Steel%20Chain)
+- [Blackwing - Ghibli the Searing Wind](db.ygoprodeck.com/card/?search=Blackwing%20-%20Ghibli%20the%20Searing%20Wind)
+- [Blackwing - Gust the Backblast](db.ygoprodeck.com/card/?search=Blackwing%20-%20Gust%20the%20Backblast)
+- [Blackwing - Harmattan the Dust](db.ygoprodeck.com/card/?search=Blackwing%20-%20Harmattan%20the%20Dust)
+- [Blackwing - Hurricane the Tornado](db.ygoprodeck.com/card/?search=Blackwing%20-%20Hurricane%20the%20Tornado)
+- [Blackwing - Kalut the Moon Shadow](db.ygoprodeck.com/card/?search=Blackwing%20-%20Kalut%20the%20Moon%20Shadow)
+- [Blackwing - Kochi the Daybreak](db.ygoprodeck.com/card/?search=Blackwing%20-%20Kochi%20the%20Daybreak)
+- [Blackwing - Kogarashi the Wanderer](db.ygoprodeck.com/card/?search=Blackwing%20-%20Kogarashi%20the%20Wanderer)
+- [Blackwing - Mistral the Silver Shield](db.ygoprodeck.com/card/?search=Blackwing%20-%20Mistral%20the%20Silver%20Shield)
+- [Blackwing - Nothung the Starlight](db.ygoprodeck.com/card/?search=Blackwing%20-%20Nothung%20the%20Starlight)
+- [Blackwing - Oroshi the Squall](db.ygoprodeck.com/card/?search=Blackwing%20-%20Oroshi%20the%20Squall)
+- [Blackwing - Pinaki the Waxing Moon](db.ygoprodeck.com/card/?search=Blackwing%20-%20Pinaki%20the%20Waxing%20Moon)
+- [Blackwing - Shura the Blue Flame](db.ygoprodeck.com/card/?search=Blackwing%20-%20Shura%20the%20Blue%20Flame)
+- [Blackwing - Sirocco the Dawn](db.ygoprodeck.com/card/?search=Blackwing%20-%20Sirocco%20the%20Dawn)
+- [Blackwing - Tornado the Reverse Wind](db.ygoprodeck.com/card/?search=Blackwing%20-%20Tornado%20the%20Reverse%20Wind)
+- [Blackwing - Zephyros the Elite](db.ygoprodeck.com/card/?search=Blackwing%20-%20Zephyros%20the%20Elite)
+- [Blackwing Tamer - Obsidian Hawk Joe](db.ygoprodeck.com/card/?search=Blackwing%20Tamer%20-%20Obsidian%20Hawk%20Joe)
+- [Blade Bounzer](db.ygoprodeck.com/card/?search=Blade%20Bounzer)
+- [Blade Knight](db.ygoprodeck.com/card/?search=Blade%20Knight)
+- [Blade Rabbit](db.ygoprodeck.com/card/?search=Blade%20Rabbit)
+- [Blade Skater](db.ygoprodeck.com/card/?search=Blade%20Skater)
+- [Bladefly](db.ygoprodeck.com/card/?search=Bladefly)
+- [Blast Asmodian](db.ygoprodeck.com/card/?search=Blast%20Asmodian)
+- [Blast Held by a Tribute](db.ygoprodeck.com/card/?search=Blast%20Held%20by%20a%20Tribute)
+- [Blast Juggler](db.ygoprodeck.com/card/?search=Blast%20Juggler)
+- [Blast Magician](db.ygoprodeck.com/card/?search=Blast%20Magician)
+- [Blast Sphere](db.ygoprodeck.com/card/?search=Blast%20Sphere)
+- [Blast with Chain](db.ygoprodeck.com/card/?search=Blast%20with%20Chain)
+- [Blasting the Ruins](db.ygoprodeck.com/card/?search=Blasting%20the%20Ruins)
+- [Blaze Accelerator](db.ygoprodeck.com/card/?search=Blaze%20Accelerator)
+- [Blaze Accelerator Reload](db.ygoprodeck.com/card/?search=Blaze%20Accelerator%20Reload)
+- [Blazewing Butterfly](db.ygoprodeck.com/card/?search=Blazewing%20Butterfly)
+- [Blazing Hiita](db.ygoprodeck.com/card/?search=Blazing%20Hiita)
+- [Blazing Inpachi](db.ygoprodeck.com/card/?search=Blazing%20Inpachi)
+- [Blazing Mirror Force](db.ygoprodeck.com/card/?search=Blazing%20Mirror%20Force)
+- [Blessings for Gusto](db.ygoprodeck.com/card/?search=Blessings%20for%20Gusto)
+- [Blessings of the Nile](db.ygoprodeck.com/card/?search=Blessings%20of%20the%20Nile)
+- [Blind Destruction](db.ygoprodeck.com/card/?search=Blind%20Destruction)
+- [Blind Spot Strike](db.ygoprodeck.com/card/?search=Blind%20Spot%20Strike)
+- [Blindly Loyal Goblin](db.ygoprodeck.com/card/?search=Blindly%20Loyal%20Goblin)
+- [Blizzard](db.ygoprodeck.com/card/?search=Blizzard)
+- [Blizzard Dragon](db.ygoprodeck.com/card/?search=Blizzard%20Dragon)
+- [Blizzard Falcon](db.ygoprodeck.com/card/?search=Blizzard%20Falcon)
+- [Blizzard Thunderbird](db.ygoprodeck.com/card/?search=Blizzard%20Thunderbird)
+- [Blizzard Warrior](db.ygoprodeck.com/card/?search=Blizzard%20Warrior)
+- [Blizzed, Defender of the Ice Barrier](db.ygoprodeck.com/card/?search=Blizzed,%20Defender%20of%20the%20Ice%20Barrier)
+- [Block Attack](db.ygoprodeck.com/card/?search=Block%20Attack)
+- [Block Golem](db.ygoprodeck.com/card/?search=Block%20Golem)
+- [Block Spider](db.ygoprodeck.com/card/?search=Block%20Spider)
+- [Blocker](db.ygoprodeck.com/card/?search=Blocker)
+- [Blockman](db.ygoprodeck.com/card/?search=Blockman)
+- [Blockout Curtain](db.ygoprodeck.com/card/?search=Blockout%20Curtain)
+- [Blood Sucker](db.ygoprodeck.com/card/?search=Blood%20Sucker)
+- [Bloom Diva the Melodious Choir](db.ygoprodeck.com/card/?search=Bloom%20Diva%20the%20Melodious%20Choir)
+- [Bloom Prima the Melodious Choir](db.ygoprodeck.com/card/?search=Bloom%20Prima%20the%20Melodious%20Choir)
+- [Blooming of the Darkest Rose](db.ygoprodeck.com/card/?search=Blooming%20of%20the%20Darkest%20Rose)
+- [Blossom Bombardment](db.ygoprodeck.com/card/?search=Blossom%20Bombardment)
+- [Blowback Dragon](db.ygoprodeck.com/card/?search=Blowback%20Dragon)
+- [Blue Dragon Summoner](db.ygoprodeck.com/card/?search=Blue%20Dragon%20Summoner)
+- [Blue Duston](db.ygoprodeck.com/card/?search=Blue%20Duston)
+- [Blue Flame Swordsman](db.ygoprodeck.com/card/?search=Blue%20Flame%20Swordsman)
+- [Blue Mountain Butterspy](db.ygoprodeck.com/card/?search=Blue%20Mountain%20Butterspy)
+- [Blue Rose Dragon](db.ygoprodeck.com/card/?search=Blue%20Rose%20Dragon)
+- [Blue Thunder T-45](db.ygoprodeck.com/card/?search=Blue%20Thunder%20T-45)
+- [Blue-Eyed Silver Zombie](db.ygoprodeck.com/card/?search=Blue-Eyed%20Silver%20Zombie)
+- [Blue-Eyes Shining Dragon](db.ygoprodeck.com/card/?search=Blue-Eyes%20Shining%20Dragon)
+- [Blue-Eyes Toon Dragon](db.ygoprodeck.com/card/?search=Blue-Eyes%20Toon%20Dragon)
+- [Blue-Eyes White Dragon](db.ygoprodeck.com/card/?search=Blue-Eyes%20White%20Dragon)
+- [Blue-Winged Crown](db.ygoprodeck.com/card/?search=Blue-Winged%20Crown)
+- [Bluebeard, the Plunder Patroll Shipwright](db.ygoprodeck.com/card/?search=Bluebeard,%20the%20Plunder%20Patroll%20Shipwright)
+- [Blustering Winds](db.ygoprodeck.com/card/?search=Blustering%20Winds)
+- [Boar Soldier](db.ygoprodeck.com/card/?search=Boar%20Soldier)
+- [Bokoichi the Freightening Car](db.ygoprodeck.com/card/?search=Bokoichi%20the%20Freightening%20Car)
+- [Bolt Penguin](db.ygoprodeck.com/card/?search=Bolt%20Penguin)
+- [Bombardment Beetle](db.ygoprodeck.com/card/?search=Bombardment%20Beetle)
+- [Bonding - H2O](db.ygoprodeck.com/card/?search=Bonding%20-%20H2O)
+- [Bone Crusher](db.ygoprodeck.com/card/?search=Bone%20Crusher)
+- [Bone Temple Block](db.ygoprodeck.com/card/?search=Bone%20Temple%20Block)
+- [Boneheimer](db.ygoprodeck.com/card/?search=Boneheimer)
+- [Bonze Alone](db.ygoprodeck.com/card/?search=Bonze%20Alone)
+- [Boo-Boo Game](db.ygoprodeck.com/card/?search=Boo-Boo%20Game)
+- [Boogie Trap](db.ygoprodeck.com/card/?search=Boogie%20Trap)
+- [Book of Eclipse](db.ygoprodeck.com/card/?search=Book%20of%20Eclipse)
+- [Book of Life](db.ygoprodeck.com/card/?search=Book%20of%20Life)
+- [Book of Moon](db.ygoprodeck.com/card/?search=Book%20of%20Moon)
+- [Book of Secret Arts](db.ygoprodeck.com/card/?search=Book%20of%20Secret%20Arts)
+- [Book of Taiyou](db.ygoprodeck.com/card/?search=Book%20of%20Taiyou)
+- [Boompoline!!](db.ygoprodeck.com/card/?search=Boompoline!!)
+- [Boon of the Meklord Emperor](db.ygoprodeck.com/card/?search=Boon%20of%20the%20Meklord%20Emperor)
+- [Booster Dragon](db.ygoprodeck.com/card/?search=Booster%20Dragon)
+- [Boot Sector Launch](db.ygoprodeck.com/card/?search=Boot%20Sector%20Launch)
+- [Boot Staggered](db.ygoprodeck.com/card/?search=Boot%20Staggered)
+- [Boot-Up Soldier - Dread Dynamo](db.ygoprodeck.com/card/?search=Boot-Up%20Soldier%20-%20Dread%20Dynamo)
+- [Borrel Cooling](db.ygoprodeck.com/card/?search=Borrel%20Cooling)
+- [Borrel Regenerator](db.ygoprodeck.com/card/?search=Borrel%20Regenerator)
+- [Borrel Supplier](db.ygoprodeck.com/card/?search=Borrel%20Supplier)
+- [Borreload Dragon](db.ygoprodeck.com/card/?search=Borreload%20Dragon)
+- [Boss Rush](db.ygoprodeck.com/card/?search=Boss%20Rush)
+- [Botanical Girl](db.ygoprodeck.com/card/?search=Botanical%20Girl)
+- [Botanical Lion](db.ygoprodeck.com/card/?search=Botanical%20Lion)
+- [Bottom Dweller](db.ygoprodeck.com/card/?search=Bottom%20Dweller)
+- [Bottomless Shifting Sand](db.ygoprodeck.com/card/?search=Bottomless%20Shifting%20Sand)
+- [Bottomless Trap Hole](db.ygoprodeck.com/card/?search=Bottomless%20Trap%20Hole)
+- [Bound Wand](db.ygoprodeck.com/card/?search=Bound%20Wand)
+- [Bountiful Artemis](db.ygoprodeck.com/card/?search=Bountiful%20Artemis)
+- [Bounzer Guard](db.ygoprodeck.com/card/?search=Bounzer%20Guard)
+- [Bowganian](db.ygoprodeck.com/card/?search=Bowganian)
+- [BOXer](db.ygoprodeck.com/card/?search=BOXer)
+- [Boycotton](db.ygoprodeck.com/card/?search=Boycotton)
+- [Bracchio-raidus](db.ygoprodeck.com/card/?search=Bracchio-raidus)
+- [Brain Control](db.ygoprodeck.com/card/?search=Brain%20Control)
+- [Brain Research Lab](db.ygoprodeck.com/card/?search=Brain%20Research%20Lab)
+- [Brainwashing Beam](db.ygoprodeck.com/card/?search=Brainwashing%20Beam)
+- [Branch!](db.ygoprodeck.com/card/?search=Branch!)
+- [Branded Bond](db.ygoprodeck.com/card/?search=Branded%20Bond)
+- [Brave Scizzar](db.ygoprodeck.com/card/?search=Brave%20Scizzar)
+- [Bravedrive](db.ygoprodeck.com/card/?search=Bravedrive)
+- [Bravo, Fighter Fur Hire](db.ygoprodeck.com/card/?search=Bravo,%20Fighter%20Fur%20Hire)
+- [Break Away](db.ygoprodeck.com/card/?search=Break%20Away)
+- [Break Off Trap Hole](db.ygoprodeck.com/card/?search=Break%20Off%20Trap%20Hole)
+- [Break the Destiny](db.ygoprodeck.com/card/?search=Break%20the%20Destiny)
+- [Break! Draw!](db.ygoprodeck.com/card/?search=Break!%20Draw!)
+- [Breaker the Dark Magical Warrior](db.ygoprodeck.com/card/?search=Breaker%20the%20Dark%20Magical%20Warrior)
+- [Breaker the Magical Warrior](db.ygoprodeck.com/card/?search=Breaker%20the%20Magical%20Warrior)
+- [Breaking of the World](db.ygoprodeck.com/card/?search=Breaking%20of%20the%20World)
+- [Breakthrough Skill](db.ygoprodeck.com/card/?search=Breakthrough%20Skill)
+- [Breakthrough!](db.ygoprodeck.com/card/?search=Breakthrough!)
+- [Breath of Acclamation](db.ygoprodeck.com/card/?search=Breath%20of%20Acclamation)
+- [Bri Synchron](db.ygoprodeck.com/card/?search=Bri%20Synchron)
+- [Bright Star Dragon](db.ygoprodeck.com/card/?search=Bright%20Star%20Dragon)
+- [Brilliant Spark](db.ygoprodeck.com/card/?search=Brilliant%20Spark)
+- [Brinegir](db.ygoprodeck.com/card/?search=Brinegir)
+- [Brionac, Dragon of the Ice Barrier](db.ygoprodeck.com/card/?search=Brionac,%20Dragon%20of%20the%20Ice%20Barrier)
+- [Broken Bamboo Sword](db.ygoprodeck.com/card/?search=Broken%20Bamboo%20Sword)
+- [Brotherhood of the Fire Fist - Caribou](db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Caribou)
+- [Brotherhood of the Fire Fist - Hawk](db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Hawk)
+- [Brotherhood of the Fire Fist - Horse Prince](db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Horse%20Prince)
+- [Brotherhood of the Fire Fist - Leopard](db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Leopard)
+- [Brotherhood of the Fire Fist - Raven](db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Raven)
+- [Brotherhood of the Fire Fist - Spirit](db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Spirit)
+- [Brotherhood of the Fire Fist - Wolf](db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Wolf)
+- [Broww, Huntsman of Dark World](db.ygoprodeck.com/card/?search=Broww,%20Huntsman%20of%20Dark%20World)
+- [Brron, Mad King of Dark World](db.ygoprodeck.com/card/?search=Brron,%20Mad%20King%20of%20Dark%20World)
+- [Bubble Barrier](db.ygoprodeck.com/card/?search=Bubble%20Barrier)
+- [Bubble Crash](db.ygoprodeck.com/card/?search=Bubble%20Crash)
+- [Bubble Shuffle](db.ygoprodeck.com/card/?search=Bubble%20Shuffle)
+- [Bubonic Vermin](db.ygoprodeck.com/card/?search=Bubonic%20Vermin)
+- [Bug Emergency](db.ygoprodeck.com/card/?search=Bug%20Emergency)
+- [Bug Matrix](db.ygoprodeck.com/card/?search=Bug%20Matrix)
+- [Bug Signal](db.ygoprodeck.com/card/?search=Bug%20Signal)
+- [Bujin Mahitotsu](db.ygoprodeck.com/card/?search=Bujin%20Mahitotsu)
+- [Bujin Regalia - The Jewel](db.ygoprodeck.com/card/?search=Bujin%20Regalia%20-%20The%20Jewel)
+- [Bujin Regalia - The Sword](db.ygoprodeck.com/card/?search=Bujin%20Regalia%20-%20The%20Sword)
+- [Bujincandescence](db.ygoprodeck.com/card/?search=Bujincandescence)
+- [Bujincident](db.ygoprodeck.com/card/?search=Bujincident)
+- [Bujinfidel](db.ygoprodeck.com/card/?search=Bujinfidel)
+- [Bujingi Boar](db.ygoprodeck.com/card/?search=Bujingi%20Boar)
+- [Bujingi Centipede](db.ygoprodeck.com/card/?search=Bujingi%20Centipede)
+- [Bujingi Ibis](db.ygoprodeck.com/card/?search=Bujingi%20Ibis)
+- [Bujingi Ophidian](db.ygoprodeck.com/card/?search=Bujingi%20Ophidian)
+- [Bujingi Swallow](db.ygoprodeck.com/card/?search=Bujingi%20Swallow)
+- [Bujingi Turtle](db.ygoprodeck.com/card/?search=Bujingi%20Turtle)
+- [Bujingi Warg](db.ygoprodeck.com/card/?search=Bujingi%20Warg)
+- [Bujingi Wolf](db.ygoprodeck.com/card/?search=Bujingi%20Wolf)
+- [Bujinki Amaterasu](db.ygoprodeck.com/card/?search=Bujinki%20Amaterasu)
+- [Bujintervention](db.ygoprodeck.com/card/?search=Bujintervention)
+- [Bull Blader](db.ygoprodeck.com/card/?search=Bull%20Blader)
+- [Bunilla](db.ygoprodeck.com/card/?search=Bunilla)
+- [Burden of the Mighty](db.ygoprodeck.com/card/?search=Burden%20of%20the%20Mighty)
+- [Burgeoning Whirlflame](db.ygoprodeck.com/card/?search=Burgeoning%20Whirlflame)
+- [Burglar](db.ygoprodeck.com/card/?search=Burglar)
+- [Burial from a Different Dimension](db.ygoprodeck.com/card/?search=Burial%20from%20a%20Different%20Dimension)
+- [Burner, Dragon Ruler of Sparks](db.ygoprodeck.com/card/?search=Burner,%20Dragon%20Ruler%20of%20Sparks)
+- [Burning Algae](db.ygoprodeck.com/card/?search=Burning%20Algae)
+- [Burning Bamboo Sword](db.ygoprodeck.com/card/?search=Burning%20Bamboo%20Sword)
+- [Burning Beast](db.ygoprodeck.com/card/?search=Burning%20Beast)
+- [Burning Land](db.ygoprodeck.com/card/?search=Burning%20Land)
+- [Burst Breath](db.ygoprodeck.com/card/?search=Burst%20Breath)
+- [Burst Stream of Destruction](db.ygoprodeck.com/card/?search=Burst%20Stream%20of%20Destruction)
+- [Buster Blader](db.ygoprodeck.com/card/?search=Buster%20Blader)
+- [Buster Blader, the Destruction Swordmaster](db.ygoprodeck.com/card/?search=Buster%20Blader,%20the%20Destruction%20Swordmaster)
+- [Buster Blader, the Dragon Destroyer Swordsman](db.ygoprodeck.com/card/?search=Buster%20Blader,%20the%20Dragon%20Destroyer%20Swordsman)
+- [Buster Blaster](db.ygoprodeck.com/card/?search=Buster%20Blaster)
+- [Buster Rancher](db.ygoprodeck.com/card/?search=Buster%20Rancher)
+- [Buten](db.ygoprodeck.com/card/?search=Buten)
+- [Butterflyoke](db.ygoprodeck.com/card/?search=Butterflyoke)
+- [Butterspy Protection](db.ygoprodeck.com/card/?search=Butterspy%20Protection)
+- [Buzzsaw Shark](db.ygoprodeck.com/card/?search=Buzzsaw%20Shark)
+- [By Order of the Emperor](db.ygoprodeck.com/card/?search=By%20Order%20of%20the%20Emperor)
+- [Bye Bye Damage](db.ygoprodeck.com/card/?search=Bye%20Bye%20Damage)
+- [Byroad Sacrifice](db.ygoprodeck.com/card/?search=Byroad%20Sacrifice)
+- [Byser Shock](db.ygoprodeck.com/card/?search=Byser%20Shock)
+- [Cairngorgon, Antiluminescent Knight](db.ygoprodeck.com/card/?search=Cairngorgon,%20Antiluminescent%20Knight)
+- [Caius the Mega Monarch](db.ygoprodeck.com/card/?search=Caius%20the%20Mega%20Monarch)
+- [Caius the Shadow Monarch](db.ygoprodeck.com/card/?search=Caius%20the%20Shadow%20Monarch)
+- [Caligo Claw Crow](db.ygoprodeck.com/card/?search=Caligo%20Claw%20Crow)
+- [Call of the Archfiend](db.ygoprodeck.com/card/?search=Call%20of%20the%20Archfiend)
+- [Call of the Atlanteans](db.ygoprodeck.com/card/?search=Call%20of%20the%20Atlanteans)
+- [Call of the Earthbound](db.ygoprodeck.com/card/?search=Call%20of%20the%20Earthbound)
+- [Call of the Haunted](db.ygoprodeck.com/card/?search=Call%20of%20the%20Haunted)
+- [Call of the Mummy](db.ygoprodeck.com/card/?search=Call%20of%20the%20Mummy)
+- [Call of the Reaper](db.ygoprodeck.com/card/?search=Call%20of%20the%20Reaper)
+- [Cameraclops](db.ygoprodeck.com/card/?search=Cameraclops)
+- [Caninetaur](db.ygoprodeck.com/card/?search=Caninetaur)
+- [Cannon Soldier](db.ygoprodeck.com/card/?search=Cannon%20Soldier)
+- [Cannon Soldier MK-2](db.ygoprodeck.com/card/?search=Cannon%20Soldier%20MK-2)
+- [Cannonball Spear Shellfish](db.ygoprodeck.com/card/?search=Cannonball%20Spear%20Shellfish)
+- [Canon the Melodious Diva](db.ygoprodeck.com/card/?search=Canon%20the%20Melodious%20Diva)
+- [Canyon](db.ygoprodeck.com/card/?search=Canyon)
+- [Capacitor Stalker](db.ygoprodeck.com/card/?search=Capacitor%20Stalker)
+- [Capricious Darklord](db.ygoprodeck.com/card/?search=Capricious%20Darklord)
+- [Caravan of the Ice Barrier](db.ygoprodeck.com/card/?search=Caravan%20of%20the%20Ice%20Barrier)
+- [Carboneddon](db.ygoprodeck.com/card/?search=Carboneddon)
+- [Card Advance](db.ygoprodeck.com/card/?search=Card%20Advance)
+- [Card Blocker](db.ygoprodeck.com/card/?search=Card%20Blocker)
+- [Card Breaker](db.ygoprodeck.com/card/?search=Card%20Breaker)
+- [Card Ejector](db.ygoprodeck.com/card/?search=Card%20Ejector)
+- [Card Guard](db.ygoprodeck.com/card/?search=Card%20Guard)
+- [Card of Sanctity](db.ygoprodeck.com/card/?search=Card%20of%20Sanctity)
+- [Card of the Soul](db.ygoprodeck.com/card/?search=Card%20of%20the%20Soul)
+- [Card Rotator](db.ygoprodeck.com/card/?search=Card%20Rotator)
+- [Card Shuffle](db.ygoprodeck.com/card/?search=Card%20Shuffle)
+- [Card Trader](db.ygoprodeck.com/card/?search=Card%20Trader)
+- [Card Trooper](db.ygoprodeck.com/card/?search=Card%20Trooper)
+- [Cardcar D](db.ygoprodeck.com/card/?search=Cardcar%20D)
+- [Cards for Black Feathers](db.ygoprodeck.com/card/?search=Cards%20for%20Black%20Feathers)
+- [Cards from the Sky](db.ygoprodeck.com/card/?search=Cards%20from%20the%20Sky)
+- [Cards of Consonance](db.ygoprodeck.com/card/?search=Cards%20of%20Consonance)
+- [Cards of the Red Stone](db.ygoprodeck.com/card/?search=Cards%20of%20the%20Red%20Stone)
+- [Carpiponica, Mystical Beast of the Forest](db.ygoprodeck.com/card/?search=Carpiponica,%20Mystical%20Beast%20of%20the%20Forest)
+- [Cash Back](db.ygoprodeck.com/card/?search=Cash%20Back)
+- [Castle of Dark Illusions](db.ygoprodeck.com/card/?search=Castle%20of%20Dark%20Illusions)
+- [Castle of Dragon Souls](db.ygoprodeck.com/card/?search=Castle%20of%20Dragon%20Souls)
+- [Castle Walls](db.ygoprodeck.com/card/?search=Castle%20Walls)
+- [Cat's Ear Tribe](db.ygoprodeck.com/card/?search=Cat's%20Ear%20Tribe)
+- [Cataclysmic Circumpolar Chilblainia](db.ygoprodeck.com/card/?search=Cataclysmic%20Circumpolar%20Chilblainia)
+- [Cataclysmic Crusted Calcifida](db.ygoprodeck.com/card/?search=Cataclysmic%20Crusted%20Calcifida)
+- [Cataclysmic Cryonic Coldo](db.ygoprodeck.com/card/?search=Cataclysmic%20Cryonic%20Coldo)
+- [Cataclysmic Scorching Sunburner](db.ygoprodeck.com/card/?search=Cataclysmic%20Scorching%20Sunburner)
+- [Catapult Turtle](db.ygoprodeck.com/card/?search=Catapult%20Turtle)
+- [Catapult Warrior](db.ygoprodeck.com/card/?search=Catapult%20Warrior)
+- [Catapult Zone](db.ygoprodeck.com/card/?search=Catapult%20Zone)
+- [Catche Eve L2](db.ygoprodeck.com/card/?search=Catche%20Eve%20L2)
+- [Catnipped Kitty](db.ygoprodeck.com/card/?search=Catnipped%20Kitty)
+- [Catoblepas, Familiar of the Evil Eye](db.ygoprodeck.com/card/?search=Catoblepas,%20Familiar%20of%20the%20Evil%20Eye)
+- [Cattle Call](db.ygoprodeck.com/card/?search=Cattle%20Call)
+- [Cauldron of the Old Man](db.ygoprodeck.com/card/?search=Cauldron%20of%20the%20Old%20Man)
+- [Cave Dragon](db.ygoprodeck.com/card/?search=Cave%20Dragon)
+- [Ceasefire](db.ygoprodeck.com/card/?search=Ceasefire)
+- [Celestia](db.ygoprodeck.com/card/?search=Celestia)
+- [Celestia, Lightsworn Angel](db.ygoprodeck.com/card/?search=Celestia,%20Lightsworn%20Angel)
+- [Celestial Sword - Eatos](db.ygoprodeck.com/card/?search=Celestial%20Sword%20-%20Eatos)
+- [Celestial Transformation](db.ygoprodeck.com/card/?search=Celestial%20Transformation)
+- [Cell Explosion Virus](db.ygoprodeck.com/card/?search=Cell%20Explosion%20Virus)
+- [Celtic Guardian](db.ygoprodeck.com/card/?search=Celtic%20Guardian)
+- [Cemetary Bomb](db.ygoprodeck.com/card/?search=Cemetary%20Bomb)
+- [Centerfrog](db.ygoprodeck.com/card/?search=Centerfrog)
+- [Centrifugal Field](db.ygoprodeck.com/card/?search=Centrifugal%20Field)
+- [Ceremonial Bell](db.ygoprodeck.com/card/?search=Ceremonial%20Bell)
+- [Cestus of Dagla](db.ygoprodeck.com/card/?search=Cestus%20of%20Dagla)
+- [Chain Destruction](db.ygoprodeck.com/card/?search=Chain%20Destruction)
+- [Chain Detonation](db.ygoprodeck.com/card/?search=Chain%20Detonation)
+- [Chain Disappearance](db.ygoprodeck.com/card/?search=Chain%20Disappearance)
+- [Chain Dispel](db.ygoprodeck.com/card/?search=Chain%20Dispel)
+- [Chain Dog](db.ygoprodeck.com/card/?search=Chain%20Dog)
+- [Chain Energy](db.ygoprodeck.com/card/?search=Chain%20Energy)
+- [Chain Healing](db.ygoprodeck.com/card/?search=Chain%20Healing)
+- [Chain Ignition](db.ygoprodeck.com/card/?search=Chain%20Ignition)
+- [Chain Material](db.ygoprodeck.com/card/?search=Chain%20Material)
+- [Chain Resonator](db.ygoprodeck.com/card/?search=Chain%20Resonator)
+- [Chain Summoning](db.ygoprodeck.com/card/?search=Chain%20Summoning)
+- [Chain Thrasher](db.ygoprodeck.com/card/?search=Chain%20Thrasher)
+- [Chain Whirlwind](db.ygoprodeck.com/card/?search=Chain%20Whirlwind)
+- [Chainsaw Insect](db.ygoprodeck.com/card/?search=Chainsaw%20Insect)
+- [Chamberlain of the Six Samurai](db.ygoprodeck.com/card/?search=Chamberlain%20of%20the%20Six%20Samurai)
+- [Champion's Vigilance](db.ygoprodeck.com/card/?search=Champion's%20Vigilance)
+- [Change of Hero - Reflector Ray](db.ygoprodeck.com/card/?search=Change%20of%20Hero%20-%20Reflector%20Ray)
+- [Change Slime](db.ygoprodeck.com/card/?search=Change%20Slime)
+- [Changer Synchron](db.ygoprodeck.com/card/?search=Changer%20Synchron)
+- [Changing Destiny](db.ygoprodeck.com/card/?search=Changing%20Destiny)
+- [Chaos Betrayer](db.ygoprodeck.com/card/?search=Chaos%20Betrayer)
+- [Chaos Burst](db.ygoprodeck.com/card/?search=Chaos%20Burst)
+- [Chaos Command Magician](db.ygoprodeck.com/card/?search=Chaos%20Command%20Magician)
+- [Chaos Core](db.ygoprodeck.com/card/?search=Chaos%20Core)
+- [Chaos End](db.ygoprodeck.com/card/?search=Chaos%20End)
+- [Chaos Form](db.ygoprodeck.com/card/?search=Chaos%20Form)
+- [Chaos Greed](db.ygoprodeck.com/card/?search=Chaos%20Greed)
+- [Chaos Hunter](db.ygoprodeck.com/card/?search=Chaos%20Hunter)
+- [Chaos Infinity](db.ygoprodeck.com/card/?search=Chaos%20Infinity)
+- [Chaos Necromancer](db.ygoprodeck.com/card/?search=Chaos%20Necromancer)
+- [Chaos Seed](db.ygoprodeck.com/card/?search=Chaos%20Seed)
+- [Chaos Sorcerer](db.ygoprodeck.com/card/?search=Chaos%20Sorcerer)
+- [Chaos Summoning Beast](db.ygoprodeck.com/card/?search=Chaos%20Summoning%20Beast)
+- [Chaos Trap Hole](db.ygoprodeck.com/card/?search=Chaos%20Trap%20Hole)
+- [Chaos Zone](db.ygoprodeck.com/card/?search=Chaos%20Zone)
+- [Chaosrider Gustaph](db.ygoprodeck.com/card/?search=Chaosrider%20Gustaph)
+- [Charcoal Inpachi](db.ygoprodeck.com/card/?search=Charcoal%20Inpachi)
+- [Charge Into a Dark World](db.ygoprodeck.com/card/?search=Charge%20Into%20a%20Dark%20World)
+- [Charge of the Light Brigade](db.ygoprodeck.com/card/?search=Charge%20of%20the%20Light%20Brigade)
+- [Charged-Up Heraldry](db.ygoprodeck.com/card/?search=Charged-Up%20Heraldry)
+- [Charging Gaia the Fierce Knight](db.ygoprodeck.com/card/?search=Charging%20Gaia%20the%20Fierce%20Knight)
+- [Charioteer of Prophecy](db.ygoprodeck.com/card/?search=Charioteer%20of%20Prophecy)
+- [Charm of Shabti](db.ygoprodeck.com/card/?search=Charm%20of%20Shabti)
+- [Checkmate](db.ygoprodeck.com/card/?search=Checkmate)
+- [Checksum Dragon](db.ygoprodeck.com/card/?search=Checksum%20Dragon)
+- [Cheepcheepcheep](db.ygoprodeck.com/card/?search=Cheepcheepcheep)
+- [Chemicritter Carbo Crab](db.ygoprodeck.com/card/?search=Chemicritter%20Carbo%20Crab)
+- [Chemicritter Hydron Hawk](db.ygoprodeck.com/card/?search=Chemicritter%20Hydron%20Hawk)
+- [Chemicritter Oxy Ox](db.ygoprodeck.com/card/?search=Chemicritter%20Oxy%20Ox)
+- [Chewbone](db.ygoprodeck.com/card/?search=Chewbone)
+- [Child's Play](db.ygoprodeck.com/card/?search=Child's%20Play)
+- [Chimera the Flying Mythical Beast](db.ygoprodeck.com/card/?search=Chimera%20the%20Flying%20Mythical%20Beast)
+- [Chimeratech Fortress Dragon](db.ygoprodeck.com/card/?search=Chimeratech%20Fortress%20Dragon)
+- [Chimeratech Overdragon](db.ygoprodeck.com/card/?search=Chimeratech%20Overdragon)
+- [Chimeratech Rampage Dragon](db.ygoprodeck.com/card/?search=Chimeratech%20Rampage%20Dragon)
+- [Chiron the Mage](db.ygoprodeck.com/card/?search=Chiron%20the%20Mage)
+- [Chobham Armor Dragon](db.ygoprodeck.com/card/?search=Chobham%20Armor%20Dragon)
+- [Chopman the Desperate Outlaw](db.ygoprodeck.com/card/?search=Chopman%20the%20Desperate%20Outlaw)
+- [Chorus of Sanctuary](db.ygoprodeck.com/card/?search=Chorus%20of%20Sanctuary)
+- [Chosen by the World Chalice](db.ygoprodeck.com/card/?search=Chosen%20by%20the%20World%20Chalice)
+- [Chosen of Zefra](db.ygoprodeck.com/card/?search=Chosen%20of%20Zefra)
+- [Chosen One](db.ygoprodeck.com/card/?search=Chosen%20One)
+- [Chow Chow Chan](db.ygoprodeck.com/card/?search=Chow%20Chow%20Chan)
+- [Chow Len the Prophet](db.ygoprodeck.com/card/?search=Chow%20Len%20the%20Prophet)
+- [Chronograph Sorcerer](db.ygoprodeck.com/card/?search=Chronograph%20Sorcerer)
+- [Chronomaly Acambaro Figures](db.ygoprodeck.com/card/?search=Chronomaly%20Acambaro%20Figures)
+- [Chronomaly Crystal Bones](db.ygoprodeck.com/card/?search=Chronomaly%20Crystal%20Bones)
+- [Chronomaly Esperanza Glyph](db.ygoprodeck.com/card/?search=Chronomaly%20Esperanza%20Glyph)
+- [Chronomaly Golden Jet](db.ygoprodeck.com/card/?search=Chronomaly%20Golden%20Jet)
+- [Chronomaly Mayan Machine](db.ygoprodeck.com/card/?search=Chronomaly%20Mayan%20Machine)
+- [Chronomaly Moai](db.ygoprodeck.com/card/?search=Chronomaly%20Moai)
+- [Chronomaly Moai Carrier](db.ygoprodeck.com/card/?search=Chronomaly%20Moai%20Carrier)
+- [Chronomaly Pyramid Eye Tablet](db.ygoprodeck.com/card/?search=Chronomaly%20Pyramid%20Eye%20Tablet)
+- [Chronomaly Technology](db.ygoprodeck.com/card/?search=Chronomaly%20Technology)
+- [Chronomaly Temple - Trilithon](db.ygoprodeck.com/card/?search=Chronomaly%20Temple%20-%20Trilithon)
+- [Chronomaly Tuspa Rocket](db.ygoprodeck.com/card/?search=Chronomaly%20Tuspa%20Rocket)
+- [Chronomaly Winged Sphinx](db.ygoprodeck.com/card/?search=Chronomaly%20Winged%20Sphinx)
+- [Chrysalis Chicky](db.ygoprodeck.com/card/?search=Chrysalis%20Chicky)
+- [Chrysalis Dolphin](db.ygoprodeck.com/card/?search=Chrysalis%20Dolphin)
+- [Chrysalis Larva](db.ygoprodeck.com/card/?search=Chrysalis%20Larva)
+- [Chrysalis Mole](db.ygoprodeck.com/card/?search=Chrysalis%20Mole)
+- [Chrysalis Pantail](db.ygoprodeck.com/card/?search=Chrysalis%20Pantail)
+- [Chrysalis Pinny](db.ygoprodeck.com/card/?search=Chrysalis%20Pinny)
+- [Chthonian Alliance](db.ygoprodeck.com/card/?search=Chthonian%20Alliance)
+- [Chthonian Blast](db.ygoprodeck.com/card/?search=Chthonian%20Blast)
+- [Chthonian Polymer](db.ygoprodeck.com/card/?search=Chthonian%20Polymer)
+- [Chthonian Soldier](db.ygoprodeck.com/card/?search=Chthonian%20Soldier)
+- [Chu-Ske the Mouse Fighter](db.ygoprodeck.com/card/?search=Chu-Ske%20the%20Mouse%20Fighter)
+- [Cipher Bit](db.ygoprodeck.com/card/?search=Cipher%20Bit)
+- [Cipher Etranger](db.ygoprodeck.com/card/?search=Cipher%20Etranger)
+- [Cipher Mirror Knight](db.ygoprodeck.com/card/?search=Cipher%20Mirror%20Knight)
+- [Cipher Soldier](db.ygoprodeck.com/card/?search=Cipher%20Soldier)
+- [Cipher Spectrum](db.ygoprodeck.com/card/?search=Cipher%20Spectrum)
+- [Cipher Twin Raptor](db.ygoprodeck.com/card/?search=Cipher%20Twin%20Raptor)
+- [Cipher Wing](db.ygoprodeck.com/card/?search=Cipher%20Wing)
+- [Circle of the Fire Kings](db.ygoprodeck.com/card/?search=Circle%20of%20the%20Fire%20Kings)
+- [Clavkiys, the Magikey Skyblaster](db.ygoprodeck.com/card/?search=Clavkiys,%20the%20Magikey%20Skyblaster)
+- [Claw Reacher](db.ygoprodeck.com/card/?search=Claw%20Reacher)
+- [Clay Charge](db.ygoprodeck.com/card/?search=Clay%20Charge)
+- [Cliant](db.ygoprodeck.com/card/?search=Cliant)
+- [Cloak and Dagger](db.ygoprodeck.com/card/?search=Cloak%20and%20Dagger)
+- [Clock Arc](db.ygoprodeck.com/card/?search=Clock%20Arc)
+- [Clock Lizard](db.ygoprodeck.com/card/?search=Clock%20Lizard)
+- [Clock Resonator](db.ygoprodeck.com/card/?search=Clock%20Resonator)
+- [Clock Spartoi](db.ygoprodeck.com/card/?search=Clock%20Spartoi)
+- [Clock Tower Prison](db.ygoprodeck.com/card/?search=Clock%20Tower%20Prison)
+- [Clock Wyvern](db.ygoprodeck.com/card/?search=Clock%20Wyvern)
+- [Cloning](db.ygoprodeck.com/card/?search=Cloning)
+- [Closed Forest](db.ygoprodeck.com/card/?search=Closed%20Forest)
+- [Cloudcastle](db.ygoprodeck.com/card/?search=Cloudcastle)
+- [Cloudian - Ghost Fog](db.ygoprodeck.com/card/?search=Cloudian%20-%20Ghost%20Fog)
+- [Cloudian - Nimbusman](db.ygoprodeck.com/card/?search=Cloudian%20-%20Nimbusman)
+- [Cloudian - Poison Cloud](db.ygoprodeck.com/card/?search=Cloudian%20-%20Poison%20Cloud)
+- [Cloudian - Smoke Ball](db.ygoprodeck.com/card/?search=Cloudian%20-%20Smoke%20Ball)
+- [Cloudian - Storm Dragon](db.ygoprodeck.com/card/?search=Cloudian%20-%20Storm%20Dragon)
+- [Cloudian - Turbulence](db.ygoprodeck.com/card/?search=Cloudian%20-%20Turbulence)
+- [Cloudian Aerosol](db.ygoprodeck.com/card/?search=Cloudian%20Aerosol)
+- [Cloudian Squall](db.ygoprodeck.com/card/?search=Cloudian%20Squall)
+- [Clown Zombie](db.ygoprodeck.com/card/?search=Clown%20Zombie)
+- [Cluster Congester](db.ygoprodeck.com/card/?search=Cluster%20Congester)
+- [Coach Captain Bearman](db.ygoprodeck.com/card/?search=Coach%20Captain%20Bearman)
+- [Coach Goblin](db.ygoprodeck.com/card/?search=Coach%20Goblin)
+- [Coach King Giantrainer](db.ygoprodeck.com/card/?search=Coach%20King%20Giantrainer)
+- [Cobra Jar](db.ygoprodeck.com/card/?search=Cobra%20Jar)
+- [Cobraman Sakuzy](db.ygoprodeck.com/card/?search=Cobraman%20Sakuzy)
+- [Cockadoodledoo](db.ygoprodeck.com/card/?search=Cockadoodledoo)
+- [Cockroach Knight](db.ygoprodeck.com/card/?search=Cockroach%20Knight)
+- [Cocoon of Evolution](db.ygoprodeck.com/card/?search=Cocoon%20of%20Evolution)
+- [Cocoon Party](db.ygoprodeck.com/card/?search=Cocoon%20Party)
+- [Cocoon Rebirth](db.ygoprodeck.com/card/?search=Cocoon%20Rebirth)
+- [Cocoon Veil](db.ygoprodeck.com/card/?search=Cocoon%20Veil)
+- [Codarus](db.ygoprodeck.com/card/?search=Codarus)
+- [Code Talker Inverted](db.ygoprodeck.com/card/?search=Code%20Talker%20Inverted)
+- [Codebreaker Virus Berserker](db.ygoprodeck.com/card/?search=Codebreaker%20Virus%20Berserker)
+- [Codebreaker Virus Swordsman](db.ygoprodeck.com/card/?search=Codebreaker%20Virus%20Swordsman)
+- [Codebreaker Zero Day](db.ygoprodeck.com/card/?search=Codebreaker%20Zero%20Day)
+- [Coffin Seller](db.ygoprodeck.com/card/?search=Coffin%20Seller)
+- [Cold Enchanter](db.ygoprodeck.com/card/?search=Cold%20Enchanter)
+- [Cold Feet](db.ygoprodeck.com/card/?search=Cold%20Feet)
+- [Collected Power](db.ygoprodeck.com/card/?search=Collected%20Power)
+- [Colossal Fighter](db.ygoprodeck.com/card/?search=Colossal%20Fighter)
+- [Colossal Fighter/Assault Mode](db.ygoprodeck.com/card/?search=Colossal%20Fighter/Assault%20Mode)
+- [Column Switch](db.ygoprodeck.com/card/?search=Column%20Switch)
+- [Combination Attack](db.ygoprodeck.com/card/?search=Combination%20Attack)
+- [Combo Fighter](db.ygoprodeck.com/card/?search=Combo%20Fighter)
+- [Command Knight](db.ygoprodeck.com/card/?search=Command%20Knight)
+- [Command Performance](db.ygoprodeck.com/card/?search=Command%20Performance)
+- [Commander Covington](db.ygoprodeck.com/card/?search=Commander%20Covington)
+- [Commander of Swords](db.ygoprodeck.com/card/?search=Commander%20of%20Swords)
+- [Commencement Dance](db.ygoprodeck.com/card/?search=Commencement%20Dance)
+- [Common Charity](db.ygoprodeck.com/card/?search=Common%20Charity)
+- [Common Soul](db.ygoprodeck.com/card/?search=Common%20Soul)
+- [Compulsory Escape Device](db.ygoprodeck.com/card/?search=Compulsory%20Escape%20Device)
+- [Compulsory Evacuation Device](db.ygoprodeck.com/card/?search=Compulsory%20Evacuation%20Device)
+- [Comrade Swordsman of Landstar](db.ygoprodeck.com/card/?search=Comrade%20Swordsman%20of%20Landstar)
+- [Concentrating Current](db.ygoprodeck.com/card/?search=Concentrating%20Current)
+- [Condemned Maiden](db.ygoprodeck.com/card/?search=Condemned%20Maiden)
+- [Condemned Witch](db.ygoprodeck.com/card/?search=Condemned%20Witch)
+- [Condolence Puppet](db.ygoprodeck.com/card/?search=Condolence%20Puppet)
+- [Confusion Chaff](db.ygoprodeck.com/card/?search=Confusion%20Chaff)
+- [Conscription](db.ygoprodeck.com/card/?search=Conscription)
+- [Consecrated Light](db.ygoprodeck.com/card/?search=Consecrated%20Light)
+- [Consolation Prize](db.ygoprodeck.com/card/?search=Consolation%20Prize)
+- [Constellar Acubens](db.ygoprodeck.com/card/?search=Constellar%20Acubens)
+- [Constellar Aldebaran](db.ygoprodeck.com/card/?search=Constellar%20Aldebaran)
+- [Constellar Algiedi](db.ygoprodeck.com/card/?search=Constellar%20Algiedi)
+- [Constellar Alrescha](db.ygoprodeck.com/card/?search=Constellar%20Alrescha)
+- [Constellar Belt](db.ygoprodeck.com/card/?search=Constellar%20Belt)
+- [Constellar Kaus](db.ygoprodeck.com/card/?search=Constellar%20Kaus)
+- [Constellar Leonis](db.ygoprodeck.com/card/?search=Constellar%20Leonis)
+- [Constellar Meteor](db.ygoprodeck.com/card/?search=Constellar%20Meteor)
+- [Constellar Pleiades](db.ygoprodeck.com/card/?search=Constellar%20Pleiades)
+- [Constellar Rasalhague](db.ygoprodeck.com/card/?search=Constellar%20Rasalhague)
+- [Constellar Sheratan](db.ygoprodeck.com/card/?search=Constellar%20Sheratan)
+- [Constellar Siat](db.ygoprodeck.com/card/?search=Constellar%20Siat)
+- [Constellar Star Chart](db.ygoprodeck.com/card/?search=Constellar%20Star%20Chart)
+- [Constellar Star Cradle](db.ygoprodeck.com/card/?search=Constellar%20Star%20Cradle)
+- [Constellar Twinkle](db.ygoprodeck.com/card/?search=Constellar%20Twinkle)
+- [Construction Train Signal Red](db.ygoprodeck.com/card/?search=Construction%20Train%20Signal%20Red)
+- [Contact](db.ygoprodeck.com/card/?search=Contact)
+- [Contact "C"](db.ygoprodeck.com/card/?search=Contact%20"C")
+- [Contact Gate](db.ygoprodeck.com/card/?search=Contact%20Gate)
+- [Contact Out](db.ygoprodeck.com/card/?search=Contact%20Out)
+- [Contact with the Aquamirror](db.ygoprodeck.com/card/?search=Contact%20with%20the%20Aquamirror)
+- [Continuous Destruction Punch](db.ygoprodeck.com/card/?search=Continuous%20Destruction%20Punch)
+- [Contract Laundering](db.ygoprodeck.com/card/?search=Contract%20Laundering)
+- [Contract with Exodia](db.ygoprodeck.com/card/?search=Contract%20with%20Exodia)
+- [Contract with the Abyss](db.ygoprodeck.com/card/?search=Contract%20with%20the%20Abyss)
+- [Contract with the Dark Master](db.ygoprodeck.com/card/?search=Contract%20with%20the%20Dark%20Master)
+- [Converging Wills Dragon](db.ygoprodeck.com/card/?search=Converging%20Wills%20Dragon)
+- [Convert Contact](db.ygoprodeck.com/card/?search=Convert%20Contact)
+- [Convulsion of Nature](db.ygoprodeck.com/card/?search=Convulsion%20of%20Nature)
+- [Copy Knight](db.ygoprodeck.com/card/?search=Copy%20Knight)
+- [Copy Plant](db.ygoprodeck.com/card/?search=Copy%20Plant)
+- [Copycat](db.ygoprodeck.com/card/?search=Copycat)
+- [Core Blaster](db.ygoprodeck.com/card/?search=Core%20Blaster)
+- [Corridor of Agony](db.ygoprodeck.com/card/?search=Corridor%20of%20Agony)
+- [Corroding Shark](db.ygoprodeck.com/card/?search=Corroding%20Shark)
+- [Corrosive Scales](db.ygoprodeck.com/card/?search=Corrosive%20Scales)
+- [Corruption Cell "A"](db.ygoprodeck.com/card/?search=Corruption%20Cell%20"A")
+- [Cosmic Blazar Dragon](db.ygoprodeck.com/card/?search=Cosmic%20Blazar%20Dragon)
+- [Cosmic Compass](db.ygoprodeck.com/card/?search=Cosmic%20Compass)
+- [Cosmic Cyclone](db.ygoprodeck.com/card/?search=Cosmic%20Cyclone)
+- [Cosmic Flare](db.ygoprodeck.com/card/?search=Cosmic%20Flare)
+- [Cosmic Slicer Zer'oll](db.ygoprodeck.com/card/?search=Cosmic%20Slicer%20Zer'oll)
+- [Cosmo Brain](db.ygoprodeck.com/card/?search=Cosmo%20Brain)
+- [Cosmo Queen](db.ygoprodeck.com/card/?search=Cosmo%20Queen)
+- [Cost Down](db.ygoprodeck.com/card/?search=Cost%20Down)
+- [Counter Cleaner](db.ygoprodeck.com/card/?search=Counter%20Cleaner)
+- [Counter Counter](db.ygoprodeck.com/card/?search=Counter%20Counter)
+- [Counter Gem](db.ygoprodeck.com/card/?search=Counter%20Gem)
+- [Counterforce](db.ygoprodeck.com/card/?search=Counterforce)
+- [Covering Fire](db.ygoprodeck.com/card/?search=Covering%20Fire)
+- [Crab Turtle](db.ygoprodeck.com/card/?search=Crab%20Turtle)
+- [Crackdown](db.ygoprodeck.com/card/?search=Crackdown)
+- [Cracking](db.ygoprodeck.com/card/?search=Cracking)
+- [Cracking Dragon](db.ygoprodeck.com/card/?search=Cracking%20Dragon)
+- [Crane Crane](db.ygoprodeck.com/card/?search=Crane%20Crane)
+- [Crashbug Road](db.ygoprodeck.com/card/?search=Crashbug%20Road)
+- [Crashbug X](db.ygoprodeck.com/card/?search=Crashbug%20X)
+- [Crashbug Y](db.ygoprodeck.com/card/?search=Crashbug%20Y)
+- [Crashbug Z](db.ygoprodeck.com/card/?search=Crashbug%20Z)
+- [Crass Clown](db.ygoprodeck.com/card/?search=Crass%20Clown)
+- [Crawling Dragon](db.ygoprodeck.com/card/?search=Crawling%20Dragon)
+- [Crawling Dragon #2](db.ygoprodeck.com/card/?search=Crawling%20Dragon%20#2)
+- [Crazy Fish](db.ygoprodeck.com/card/?search=Crazy%20Fish)
+- [Crealtar, the Impcantation Originator](db.ygoprodeck.com/card/?search=Crealtar,%20the%20Impcantation%20Originator)
+- [Creation Resonator](db.ygoprodeck.com/card/?search=Creation%20Resonator)
+- [Creature Seizure](db.ygoprodeck.com/card/?search=Creature%20Seizure)
+- [Creature Swap](db.ygoprodeck.com/card/?search=Creature%20Swap)
+- [Creeping Darkness](db.ygoprodeck.com/card/?search=Creeping%20Darkness)
+- [Creeping Doom Manta](db.ygoprodeck.com/card/?search=Creeping%20Doom%20Manta)
+- [Creepy Coney](db.ygoprodeck.com/card/?search=Creepy%20Coney)
+- [Crevice Into the Different Dimension](db.ygoprodeck.com/card/?search=Crevice%20Into%20the%20Different%20Dimension)
+- [Crimson Fire](db.ygoprodeck.com/card/?search=Crimson%20Fire)
+- [Crimson Ninja](db.ygoprodeck.com/card/?search=Crimson%20Ninja)
+- [Crimson Resonator](db.ygoprodeck.com/card/?search=Crimson%20Resonator)
+- [Crimson Sentry](db.ygoprodeck.com/card/?search=Crimson%20Sentry)
+- [Crimson Sunbird](db.ygoprodeck.com/card/?search=Crimson%20Sunbird)
+- [Criosphinx](db.ygoprodeck.com/card/?search=Criosphinx)
+- [Crop Circles](db.ygoprodeck.com/card/?search=Crop%20Circles)
+- [Cross Attack](db.ygoprodeck.com/card/?search=Cross%20Attack)
+- [Cross Debug](db.ygoprodeck.com/card/?search=Cross%20Debug)
+- [Cross Porter](db.ygoprodeck.com/card/?search=Cross%20Porter)
+- [Cross-Dimensional Duel](db.ygoprodeck.com/card/?search=Cross-Dimensional%20Duel)
+- [Cross-Sword Beetle](db.ygoprodeck.com/card/?search=Cross-Sword%20Beetle)
+- [Crowned by the World Chalice](db.ygoprodeck.com/card/?search=Crowned%20by%20the%20World%20Chalice)
+- [Crusader of Endymion](db.ygoprodeck.com/card/?search=Crusader%20of%20Endymion)
+- [Crusadia Arboria](db.ygoprodeck.com/card/?search=Crusadia%20Arboria)
+- [Crusadia Draco](db.ygoprodeck.com/card/?search=Crusadia%20Draco)
+- [Crusadia Krawler](db.ygoprodeck.com/card/?search=Crusadia%20Krawler)
+- [Crusadia Leonis](db.ygoprodeck.com/card/?search=Crusadia%20Leonis)
+- [Crusadia Power](db.ygoprodeck.com/card/?search=Crusadia%20Power)
+- [Crusadia Reclusia](db.ygoprodeck.com/card/?search=Crusadia%20Reclusia)
+- [Crusadia Regulex](db.ygoprodeck.com/card/?search=Crusadia%20Regulex)
+- [Crusadia Spatha](db.ygoprodeck.com/card/?search=Crusadia%20Spatha)
+- [Crusadia Testament](db.ygoprodeck.com/card/?search=Crusadia%20Testament)
+- [Crusadia Vanguard](db.ygoprodeck.com/card/?search=Crusadia%20Vanguard)
+- [Crush Card Virus](db.ygoprodeck.com/card/?search=Crush%20Card%20Virus)
+- [Crusher Run](db.ygoprodeck.com/card/?search=Crusher%20Run)
+- [Cryomancer of the Ice Barrier](db.ygoprodeck.com/card/?search=Cryomancer%20of%20the%20Ice%20Barrier)
+- [Crystal Abundance](db.ygoprodeck.com/card/?search=Crystal%20Abundance)
+- [Crystal Beacon](db.ygoprodeck.com/card/?search=Crystal%20Beacon)
+- [Crystal Beast Amber Mammoth](db.ygoprodeck.com/card/?search=Crystal%20Beast%20Amber%20Mammoth)
+- [Crystal Beast Amethyst Cat](db.ygoprodeck.com/card/?search=Crystal%20Beast%20Amethyst%20Cat)
+- [Crystal Beast Cobalt Eagle](db.ygoprodeck.com/card/?search=Crystal%20Beast%20Cobalt%20Eagle)
+- [Crystal Beast Emerald Tortoise](db.ygoprodeck.com/card/?search=Crystal%20Beast%20Emerald%20Tortoise)
+- [Crystal Beast Ruby Carbuncle](db.ygoprodeck.com/card/?search=Crystal%20Beast%20Ruby%20Carbuncle)
+- [Crystal Beast Sapphire Pegasus](db.ygoprodeck.com/card/?search=Crystal%20Beast%20Sapphire%20Pegasus)
+- [Crystal Beast Topaz Tiger](db.ygoprodeck.com/card/?search=Crystal%20Beast%20Topaz%20Tiger)
+- [Crystal Blessing](db.ygoprodeck.com/card/?search=Crystal%20Blessing)
+- [Crystal Conclave](db.ygoprodeck.com/card/?search=Crystal%20Conclave)
+- [Crystal Keeper](db.ygoprodeck.com/card/?search=Crystal%20Keeper)
+- [Crystal Master](db.ygoprodeck.com/card/?search=Crystal%20Master)
+- [Crystal Pair](db.ygoprodeck.com/card/?search=Crystal%20Pair)
+- [Crystal Promise](db.ygoprodeck.com/card/?search=Crystal%20Promise)
+- [Crystal Raigeki](db.ygoprodeck.com/card/?search=Crystal%20Raigeki)
+- [Crystal Release](db.ygoprodeck.com/card/?search=Crystal%20Release)
+- [Crystal Rose](db.ygoprodeck.com/card/?search=Crystal%20Rose)
+- [Crystal Seer](db.ygoprodeck.com/card/?search=Crystal%20Seer)
+- [Crystal Tree](db.ygoprodeck.com/card/?search=Crystal%20Tree)
+- [Crystolic Potential](db.ygoprodeck.com/card/?search=Crystolic%20Potential)
+- [Crystron Entry](db.ygoprodeck.com/card/?search=Crystron%20Entry)
+- [Crystron Impact](db.ygoprodeck.com/card/?search=Crystron%20Impact)
+- [Crystron Prasiortle](db.ygoprodeck.com/card/?search=Crystron%20Prasiortle)
+- [Crystron Rion](db.ygoprodeck.com/card/?search=Crystron%20Rion)
+- [Crystron Rosenix](db.ygoprodeck.com/card/?search=Crystron%20Rosenix)
+- [Crystron Smiger](db.ygoprodeck.com/card/?search=Crystron%20Smiger)
+- [Crystron Thystvern](db.ygoprodeck.com/card/?search=Crystron%20Thystvern)
+- [Cu Chulainn the Awakened](db.ygoprodeck.com/card/?search=Cu%20Chulainn%20the%20Awakened)
+- [Cuben](db.ygoprodeck.com/card/?search=Cuben)
+- [Cunning of the Six Samurai](db.ygoprodeck.com/card/?search=Cunning%20of%20the%20Six%20Samurai)
+- [Cup of Ace](db.ygoprodeck.com/card/?search=Cup%20of%20Ace)
+- [Cupid Dunk](db.ygoprodeck.com/card/?search=Cupid%20Dunk)
+- [Cupid Fore](db.ygoprodeck.com/card/?search=Cupid%20Fore)
+- [Cupid Pitch](db.ygoprodeck.com/card/?search=Cupid%20Pitch)
+- [Cupid Serve](db.ygoprodeck.com/card/?search=Cupid%20Serve)
+- [Cupid Volley](db.ygoprodeck.com/card/?search=Cupid%20Volley)
+- [Cure Mermaid](db.ygoprodeck.com/card/?search=Cure%20Mermaid)
+- [Curse of Aging](db.ygoprodeck.com/card/?search=Curse%20of%20Aging)
+- [Curse of Anubis](db.ygoprodeck.com/card/?search=Curse%20of%20Anubis)
+- [Curse of Darkness](db.ygoprodeck.com/card/?search=Curse%20of%20Darkness)
+- [Curse of Dragon](db.ygoprodeck.com/card/?search=Curse%20of%20Dragon)
+- [Curse of Dragon, the Cursed Dragon](db.ygoprodeck.com/card/?search=Curse%20of%20Dragon,%20the%20Cursed%20Dragon)
+- [Curse of Fiend](db.ygoprodeck.com/card/?search=Curse%20of%20Fiend)
+- [Curse of Royal](db.ygoprodeck.com/card/?search=Curse%20of%20Royal)
+- [Curse of the Masked Beast](db.ygoprodeck.com/card/?search=Curse%20of%20the%20Masked%20Beast)
+- [Curse of the Shadow Prison](db.ygoprodeck.com/card/?search=Curse%20of%20the%20Shadow%20Prison)
+- [Cursed Armaments](db.ygoprodeck.com/card/?search=Cursed%20Armaments)
+- [Cursed Bamboo Sword](db.ygoprodeck.com/card/?search=Cursed%20Bamboo%20Sword)
+- [Cursed Bill](db.ygoprodeck.com/card/?search=Cursed%20Bill)
+- [Cursed Fig](db.ygoprodeck.com/card/?search=Cursed%20Fig)
+- [Cursed Seal of the Forbidden Spell](db.ygoprodeck.com/card/?search=Cursed%20Seal%20of%20the%20Forbidden%20Spell)
+- [Curtain of the Dark Ones](db.ygoprodeck.com/card/?search=Curtain%20of%20the%20Dark%20Ones)
+- [Cyber Angel Dakini](db.ygoprodeck.com/card/?search=Cyber%20Angel%20Dakini)
+- [Cyber Angel Idaten](db.ygoprodeck.com/card/?search=Cyber%20Angel%20Idaten)
+- [Cyber Angel Izana](db.ygoprodeck.com/card/?search=Cyber%20Angel%20Izana)
+- [Cyber Angel Vrash](db.ygoprodeck.com/card/?search=Cyber%20Angel%20Vrash)
+- [Cyber Archfiend](db.ygoprodeck.com/card/?search=Cyber%20Archfiend)
+- [Cyber Dinosaur](db.ygoprodeck.com/card/?search=Cyber%20Dinosaur)
+- [Cyber Dragon](db.ygoprodeck.com/card/?search=Cyber%20Dragon)
+- [Cyber Dragon Core](db.ygoprodeck.com/card/?search=Cyber%20Dragon%20Core)
+- [Cyber Dragon Drei](db.ygoprodeck.com/card/?search=Cyber%20Dragon%20Drei)
+- [Cyber Dragon Nachster](db.ygoprodeck.com/card/?search=Cyber%20Dragon%20Nachster)
+- [Cyber Dragon Nova](db.ygoprodeck.com/card/?search=Cyber%20Dragon%20Nova)
+- [Cyber Dragon Sieger](db.ygoprodeck.com/card/?search=Cyber%20Dragon%20Sieger)
+- [Cyber Dragon Vier](db.ygoprodeck.com/card/?search=Cyber%20Dragon%20Vier)
+- [Cyber Dragon Zwei](db.ygoprodeck.com/card/?search=Cyber%20Dragon%20Zwei)
+- [Cyber Egg Angel](db.ygoprodeck.com/card/?search=Cyber%20Egg%20Angel)
+- [Cyber Eltanin](db.ygoprodeck.com/card/?search=Cyber%20Eltanin)
+- [Cyber Emergency](db.ygoprodeck.com/card/?search=Cyber%20Emergency)
+- [Cyber End Dragon](db.ygoprodeck.com/card/?search=Cyber%20End%20Dragon)
+- [Cyber Eternal](db.ygoprodeck.com/card/?search=Cyber%20Eternal)
+- [Cyber Falcon](db.ygoprodeck.com/card/?search=Cyber%20Falcon)
+- [Cyber Gymnast](db.ygoprodeck.com/card/?search=Cyber%20Gymnast)
+- [Cyber Harpie Lady](db.ygoprodeck.com/card/?search=Cyber%20Harpie%20Lady)
+- [Cyber Kirin](db.ygoprodeck.com/card/?search=Cyber%20Kirin)
+- [Cyber Larva](db.ygoprodeck.com/card/?search=Cyber%20Larva)
+- [Cyber Network](db.ygoprodeck.com/card/?search=Cyber%20Network)
+- [Cyber Ogre](db.ygoprodeck.com/card/?search=Cyber%20Ogre)
+- [Cyber Ouroboros](db.ygoprodeck.com/card/?search=Cyber%20Ouroboros)
+- [Cyber Petit Angel](db.ygoprodeck.com/card/?search=Cyber%20Petit%20Angel)
+- [Cyber Pharos](db.ygoprodeck.com/card/?search=Cyber%20Pharos)
+- [Cyber Phoenix](db.ygoprodeck.com/card/?search=Cyber%20Phoenix)
+- [Cyber Prima](db.ygoprodeck.com/card/?search=Cyber%20Prima)
+- [Cyber Raider](db.ygoprodeck.com/card/?search=Cyber%20Raider)
+- [Cyber Repair Plant](db.ygoprodeck.com/card/?search=Cyber%20Repair%20Plant)
+- [Cyber Saurus](db.ygoprodeck.com/card/?search=Cyber%20Saurus)
+- [Cyber Shadow Gardna](db.ygoprodeck.com/card/?search=Cyber%20Shadow%20Gardna)
+- [Cyber Shark](db.ygoprodeck.com/card/?search=Cyber%20Shark)
+- [Cyber Shield](db.ygoprodeck.com/card/?search=Cyber%20Shield)
+- [Cyber Soldier of Darkworld](db.ygoprodeck.com/card/?search=Cyber%20Soldier%20of%20Darkworld)
+- [Cyber Summon Blaster](db.ygoprodeck.com/card/?search=Cyber%20Summon%20Blaster)
+- [Cyber Tutu](db.ygoprodeck.com/card/?search=Cyber%20Tutu)
+- [Cyber Tutubon](db.ygoprodeck.com/card/?search=Cyber%20Tutubon)
+- [Cyber Twin Dragon](db.ygoprodeck.com/card/?search=Cyber%20Twin%20Dragon)
+- [Cyber Valley](db.ygoprodeck.com/card/?search=Cyber%20Valley)
+- [Cyber-Tech Alligator](db.ygoprodeck.com/card/?search=Cyber-Tech%20Alligator)
+- [Cyberdark Cannon](db.ygoprodeck.com/card/?search=Cyberdark%20Cannon)
+- [Cyberdark Claw](db.ygoprodeck.com/card/?search=Cyberdark%20Claw)
+- [Cyberdark Dragon](db.ygoprodeck.com/card/?search=Cyberdark%20Dragon)
+- [Cyberdark Edge](db.ygoprodeck.com/card/?search=Cyberdark%20Edge)
+- [Cyberdark Horn](db.ygoprodeck.com/card/?search=Cyberdark%20Horn)
+- [Cyberdark Impact!](db.ygoprodeck.com/card/?search=Cyberdark%20Impact!)
+- [Cyberdark Inferno](db.ygoprodeck.com/card/?search=Cyberdark%20Inferno)
+- [Cyberdark Invasion](db.ygoprodeck.com/card/?search=Cyberdark%20Invasion)
+- [Cyberdark Keel](db.ygoprodeck.com/card/?search=Cyberdark%20Keel)
+- [Cyberdarkness Dragon](db.ygoprodeck.com/card/?search=Cyberdarkness%20Dragon)
+- [Cyberload Fusion](db.ygoprodeck.com/card/?search=Cyberload%20Fusion)
+- [Cybernetic Cyclopean](db.ygoprodeck.com/card/?search=Cybernetic%20Cyclopean)
+- [Cybernetic Fusion Support](db.ygoprodeck.com/card/?search=Cybernetic%20Fusion%20Support)
+- [Cybernetic Hidden Technology](db.ygoprodeck.com/card/?search=Cybernetic%20Hidden%20Technology)
+- [Cybernetic Magician](db.ygoprodeck.com/card/?search=Cybernetic%20Magician)
+- [Cybernetic Overflow](db.ygoprodeck.com/card/?search=Cybernetic%20Overflow)
+- [Cybernetic Revolution](db.ygoprodeck.com/card/?search=Cybernetic%20Revolution)
+- [Cybernetic Zone](db.ygoprodeck.com/card/?search=Cybernetic%20Zone)
+- [Cybersal Cyclone](db.ygoprodeck.com/card/?search=Cybersal%20Cyclone)
+- [Cyberse Accelerator](db.ygoprodeck.com/card/?search=Cyberse%20Accelerator)
+- [Cyberse Beacon](db.ygoprodeck.com/card/?search=Cyberse%20Beacon)
+- [Cyberse Converter](db.ygoprodeck.com/card/?search=Cyberse%20Converter)
+- [Cyberse Gadget](db.ygoprodeck.com/card/?search=Cyberse%20Gadget)
+- [Cyberse Integrator](db.ygoprodeck.com/card/?search=Cyberse%20Integrator)
+- [Cyberse Reminder](db.ygoprodeck.com/card/?search=Cyberse%20Reminder)
+- [Cyberse Wicckid](db.ygoprodeck.com/card/?search=Cyberse%20Wicckid)
+- [Cyberse Wizard](db.ygoprodeck.com/card/?search=Cyberse%20Wizard)
+- [Cyborg Doctor](db.ygoprodeck.com/card/?search=Cyborg%20Doctor)
+- [Cycle of the World](db.ygoprodeck.com/card/?search=Cycle%20of%20the%20World)
+- [Cyclon Laser](db.ygoprodeck.com/card/?search=Cyclon%20Laser)
+- [Cyclone Blade](db.ygoprodeck.com/card/?search=Cyclone%20Blade)
+- [Cyclone Boomerang](db.ygoprodeck.com/card/?search=Cyclone%20Boomerang)
+- [Cycroid](db.ygoprodeck.com/card/?search=Cycroid)
+- [Cynet Cascade](db.ygoprodeck.com/card/?search=Cynet%20Cascade)
+- [Cynet Crosswipe](db.ygoprodeck.com/card/?search=Cynet%20Crosswipe)
+- [Cynet Fusion](db.ygoprodeck.com/card/?search=Cynet%20Fusion)
+- [Cynet Refresh](db.ygoprodeck.com/card/?search=Cynet%20Refresh)
+- [Cynet Regression](db.ygoprodeck.com/card/?search=Cynet%20Regression)
+- [Cynet Ritual](db.ygoprodeck.com/card/?search=Cynet%20Ritual)
+- [Cynet Storm](db.ygoprodeck.com/card/?search=Cynet%20Storm)
+- [Cynet Universe](db.ygoprodeck.com/card/?search=Cynet%20Universe)
+- [D - Chain](db.ygoprodeck.com/card/?search=D%20-%20Chain)
+- [D - Counter](db.ygoprodeck.com/card/?search=D%20-%20Counter)
+- [D - Formation](db.ygoprodeck.com/card/?search=D%20-%20Formation)
+- [D - Fortune](db.ygoprodeck.com/card/?search=D%20-%20Fortune)
+- [D - Shield](db.ygoprodeck.com/card/?search=D%20-%20Shield)
+- [D - Spirit](db.ygoprodeck.com/card/?search=D%20-%20Spirit)
+- [D - Time](db.ygoprodeck.com/card/?search=D%20-%20Time)
+- [D Cubed](db.ygoprodeck.com/card/?search=D%20Cubed)
+- [D-Fusion](db.ygoprodeck.com/card/?search=D-Fusion)
+- [D. Human](db.ygoprodeck.com/card/?search=D.%20Human)
+- [D. Tribe](db.ygoprodeck.com/card/?search=D.%20Tribe)
+- [D.3.S. Frog](db.ygoprodeck.com/card/?search=D.3.S.%20Frog)
+- [D.D. Assailant](db.ygoprodeck.com/card/?search=D.D.%20Assailant)
+- [D.D. Assault Carrier](db.ygoprodeck.com/card/?search=D.D.%20Assault%20Carrier)
+- [D.D. Borderline](db.ygoprodeck.com/card/?search=D.D.%20Borderline)
+- [D.D. Crazy Beast](db.ygoprodeck.com/card/?search=D.D.%20Crazy%20Beast)
+- [D.D. Crow](db.ygoprodeck.com/card/?search=D.D.%20Crow)
+- [D.D. Dynamite](db.ygoprodeck.com/card/?search=D.D.%20Dynamite)
+- [D.D. Esper Star Sparrow](db.ygoprodeck.com/card/?search=D.D.%20Esper%20Star%20Sparrow)
+- [D.D. Guide](db.ygoprodeck.com/card/?search=D.D.%20Guide)
+- [D.D. Patrol Plane](db.ygoprodeck.com/card/?search=D.D.%20Patrol%20Plane)
+- [D.D. Scout Plane](db.ygoprodeck.com/card/?search=D.D.%20Scout%20Plane)
+- [D.D. Seeker](db.ygoprodeck.com/card/?search=D.D.%20Seeker)
+- [D.D. Sprite](db.ygoprodeck.com/card/?search=D.D.%20Sprite)
+- [D.D. Survivor](db.ygoprodeck.com/card/?search=D.D.%20Survivor)
+- [D.D. Trainer](db.ygoprodeck.com/card/?search=D.D.%20Trainer)
+- [D.D. Trap Hole](db.ygoprodeck.com/card/?search=D.D.%20Trap%20Hole)
+- [D.D. Warrior](db.ygoprodeck.com/card/?search=D.D.%20Warrior)
+- [D.D. Warrior Lady](db.ygoprodeck.com/card/?search=D.D.%20Warrior%20Lady)
+- [D.D.D. - Different Dimension Derby](db.ygoprodeck.com/card/?search=D.D.D.%20-%20Different%20Dimension%20Derby)
+- [D.D.M. - Different Dimension Master](db.ygoprodeck.com/card/?search=D.D.M.%20-%20Different%20Dimension%20Master)
+- [D.D.R. - Different Dimension Reincarnation](db.ygoprodeck.com/card/?search=D.D.R.%20-%20Different%20Dimension%20Reincarnation)
+- [D/D Ark](db.ygoprodeck.com/card/?search=D/D%20Ark)
+- [D/D Cerberus](db.ygoprodeck.com/card/?search=D/D%20Cerberus)
+- [D/D Evil](db.ygoprodeck.com/card/?search=D/D%20Evil)
+- [D/D Ghost](db.ygoprodeck.com/card/?search=D/D%20Ghost)
+- [D/D Lilith](db.ygoprodeck.com/card/?search=D/D%20Lilith)
+- [D/D Necro Slime](db.ygoprodeck.com/card/?search=D/D%20Necro%20Slime)
+- [D/D Nighthowl](db.ygoprodeck.com/card/?search=D/D%20Nighthowl)
+- [D/D Pandora](db.ygoprodeck.com/card/?search=D/D%20Pandora)
+- [D/D Proud Chevalier](db.ygoprodeck.com/card/?search=D/D%20Proud%20Chevalier)
+- [D/D Proud Ogre](db.ygoprodeck.com/card/?search=D/D%20Proud%20Ogre)
+- [D/D Recruits](db.ygoprodeck.com/card/?search=D/D%20Recruits)
+- [D/D Reroll](db.ygoprodeck.com/card/?search=D/D%20Reroll)
+- [D/D Savant Copernicus](db.ygoprodeck.com/card/?search=D/D%20Savant%20Copernicus)
+- [D/D Savant Galilei](db.ygoprodeck.com/card/?search=D/D%20Savant%20Galilei)
+- [D/D Savant Kepler](db.ygoprodeck.com/card/?search=D/D%20Savant%20Kepler)
+- [D/D Savant Newton](db.ygoprodeck.com/card/?search=D/D%20Savant%20Newton)
+- [D/D Savant Nikola](db.ygoprodeck.com/card/?search=D/D%20Savant%20Nikola)
+- [D/D Swirl Slime](db.ygoprodeck.com/card/?search=D/D%20Swirl%20Slime)
+- [D/D Vice Typhon](db.ygoprodeck.com/card/?search=D/D%20Vice%20Typhon)
+- [D/D/D Contract Change](db.ygoprodeck.com/card/?search=D/D/D%20Contract%20Change)
+- [D/D/D Doom King Armageddon](db.ygoprodeck.com/card/?search=D/D/D%20Doom%20King%20Armageddon)
+- [D/D/D Duo-Dawn King Kali Yuga](db.ygoprodeck.com/card/?search=D/D/D%20Duo-Dawn%20King%20Kali%20Yuga)
+- [D/D/D Flame High King Genghis](db.ygoprodeck.com/card/?search=D/D/D%20Flame%20High%20King%20Genghis)
+- [D/D/D Human Resources](db.ygoprodeck.com/card/?search=D/D/D%20Human%20Resources)
+- [D/D/D Oblivion King Abyss Ragnarok](db.ygoprodeck.com/card/?search=D/D/D%20Oblivion%20King%20Abyss%20Ragnarok)
+- [D/D/D Oracle King d'Arc](db.ygoprodeck.com/card/?search=D/D/D%20Oracle%20King%20d'Arc)
+- [D/D/D Super Doom King Purple Armageddon](db.ygoprodeck.com/card/?search=D/D/D%20Super%20Doom%20King%20Purple%20Armageddon)
+- [D/D/D Supersight King Zero Maxwell](db.ygoprodeck.com/card/?search=D/D/D%20Supersight%20King%20Zero%20Maxwell)
+- [D/D/D Supreme King Kaiser](db.ygoprodeck.com/card/?search=D/D/D%20Supreme%20King%20Kaiser)
+- [D/D/D Wave King Caesar](db.ygoprodeck.com/card/?search=D/D/D%20Wave%20King%20Caesar)
+- [Dai Dance](db.ygoprodeck.com/card/?search=Dai%20Dance)
+- [Dai-sojo of the Ice Barrier](db.ygoprodeck.com/card/?search=Dai-sojo%20of%20the%20Ice%20Barrier)
+- [Damage Condenser](db.ygoprodeck.com/card/?search=Damage%20Condenser)
+- [Damage Diet](db.ygoprodeck.com/card/?search=Damage%20Diet)
+- [Damage Eater](db.ygoprodeck.com/card/?search=Damage%20Eater)
+- [Damage Gate](db.ygoprodeck.com/card/?search=Damage%20Gate)
+- [Damage Mage](db.ygoprodeck.com/card/?search=Damage%20Mage)
+- [Damage Translation](db.ygoprodeck.com/card/?search=Damage%20Translation)
+- [Damage Vaccine Omega MAX](db.ygoprodeck.com/card/?search=Damage%20Vaccine%20Omega%20MAX)
+- [Dance Princess of the Ice Barrier](db.ygoprodeck.com/card/?search=Dance%20Princess%20of%20the%20Ice%20Barrier)
+- [Dances with Beasts](db.ygoprodeck.com/card/?search=Dances%20with%20Beasts)
+- [Dancing Elf](db.ygoprodeck.com/card/?search=Dancing%20Elf)
+- [Dancing Fairy](db.ygoprodeck.com/card/?search=Dancing%20Fairy)
+- [Danger! Chupacabra!](db.ygoprodeck.com/card/?search=Danger!%20Chupacabra!)
+- [Danger! Disturbance! Disorder!](db.ygoprodeck.com/card/?search=Danger!%20Disturbance!%20Disorder!)
+- [Danger! Feets of Strength!](db.ygoprodeck.com/card/?search=Danger!%20Feets%20of%20Strength!)
+- [Dangerous Machine Type-6](db.ygoprodeck.com/card/?search=Dangerous%20Machine%20Type-6)
+- [Danipon](db.ygoprodeck.com/card/?search=Danipon)
+- [Danmari @Ignister](db.ygoprodeck.com/card/?search=Danmari%20@Ignister)
+- [Dante, Traveler of the Burning Abyss](db.ygoprodeck.com/card/?search=Dante,%20Traveler%20of%20the%20Burning%20Abyss)
+- [Dark Angel](db.ygoprodeck.com/card/?search=Dark%20Angel)
+- [Dark Armed Dragon](db.ygoprodeck.com/card/?search=Dark%20Armed%20Dragon)
+- [Dark Artist](db.ygoprodeck.com/card/?search=Dark%20Artist)
+- [Dark Assailant](db.ygoprodeck.com/card/?search=Dark%20Assailant)
+- [Dark Balter the Terrible](db.ygoprodeck.com/card/?search=Dark%20Balter%20the%20Terrible)
+- [Dark Bat](db.ygoprodeck.com/card/?search=Dark%20Bat)
+- [Dark Beckoning Beast](db.ygoprodeck.com/card/?search=Dark%20Beckoning%20Beast)
+- [Dark Blade](db.ygoprodeck.com/card/?search=Dark%20Blade)
+- [Dark Bribe](db.ygoprodeck.com/card/?search=Dark%20Bribe)
+- [Dark Calling](db.ygoprodeck.com/card/?search=Dark%20Calling)
+- [Dark Cat with White Tail](db.ygoprodeck.com/card/?search=Dark%20Cat%20with%20White%20Tail)
+- [Dark Catapulter](db.ygoprodeck.com/card/?search=Dark%20Catapulter)
+- [Dark City](db.ygoprodeck.com/card/?search=Dark%20City)
+- [Dark Coffin](db.ygoprodeck.com/card/?search=Dark%20Coffin)
+- [Dark Contract with Errors](db.ygoprodeck.com/card/?search=Dark%20Contract%20with%20Errors)
+- [Dark Contract with the Gate](db.ygoprodeck.com/card/?search=Dark%20Contract%20with%20the%20Gate)
+- [Dark Contract with the Swamp King](db.ygoprodeck.com/card/?search=Dark%20Contract%20with%20the%20Swamp%20King)
+- [Dark Contract with the Witch](db.ygoprodeck.com/card/?search=Dark%20Contract%20with%20the%20Witch)
+- [Dark Contract with the Yamimakai](db.ygoprodeck.com/card/?search=Dark%20Contract%20with%20the%20Yamimakai)
+- [Dark Core](db.ygoprodeck.com/card/?search=Dark%20Core)
+- [Dark Crusader](db.ygoprodeck.com/card/?search=Dark%20Crusader)
+- [Dark Deal](db.ygoprodeck.com/card/?search=Dark%20Deal)
+- [Dark Designator](db.ygoprodeck.com/card/?search=Dark%20Designator)
+- [Dark Doriado](db.ygoprodeck.com/card/?search=Dark%20Doriado)
+- [Dark Dragon Ritual](db.ygoprodeck.com/card/?search=Dark%20Dragon%20Ritual)
+- [Dark Driceratops](db.ygoprodeck.com/card/?search=Dark%20Driceratops)
+- [Dark Dust Spirit](db.ygoprodeck.com/card/?search=Dark%20Dust%20Spirit)
+- [Dark Effigy](db.ygoprodeck.com/card/?search=Dark%20Effigy)
+- [Dark Elf](db.ygoprodeck.com/card/?search=Dark%20Elf)
+- [Dark Energy](db.ygoprodeck.com/card/?search=Dark%20Energy)
+- [Dark Eradicator Warlock](db.ygoprodeck.com/card/?search=Dark%20Eradicator%20Warlock)
+- [Dark Eruption](db.ygoprodeck.com/card/?search=Dark%20Eruption)
+- [Dark Eye Nightmare](db.ygoprodeck.com/card/?search=Dark%20Eye%20Nightmare)
+- [Dark Factory of Mass Production](db.ygoprodeck.com/card/?search=Dark%20Factory%20of%20Mass%20Production)
+- [Dark Factory of More Production](db.ygoprodeck.com/card/?search=Dark%20Factory%20of%20More%20Production)
+- [Dark Flare Knight](db.ygoprodeck.com/card/?search=Dark%20Flare%20Knight)
+- [Dark Fusion](db.ygoprodeck.com/card/?search=Dark%20Fusion)
+- [Dark General Freed](db.ygoprodeck.com/card/?search=Dark%20General%20Freed)
+- [Dark Gray](db.ygoprodeck.com/card/?search=Dark%20Gray)
+- [Dark Hole](db.ygoprodeck.com/card/?search=Dark%20Hole)
+- [Dark Horus](db.ygoprodeck.com/card/?search=Dark%20Horus)
+- [Dark Illusion](db.ygoprodeck.com/card/?search=Dark%20Illusion)
+- [Dark Jeroid](db.ygoprodeck.com/card/?search=Dark%20Jeroid)
+- [Dark King of the Abyss](db.ygoprodeck.com/card/?search=Dark%20King%20of%20the%20Abyss)
+- [Dark Lucius LV4](db.ygoprodeck.com/card/?search=Dark%20Lucius%20LV4)
+- [Dark Lucius LV6](db.ygoprodeck.com/card/?search=Dark%20Lucius%20LV6)
+- [Dark Lucius LV8](db.ygoprodeck.com/card/?search=Dark%20Lucius%20LV8)
+- [Dark Magic Attack](db.ygoprodeck.com/card/?search=Dark%20Magic%20Attack)
+- [Dark Magic Curtain](db.ygoprodeck.com/card/?search=Dark%20Magic%20Curtain)
+- [Dark Magic Expanded](db.ygoprodeck.com/card/?search=Dark%20Magic%20Expanded)
+- [Dark Magic Inheritance](db.ygoprodeck.com/card/?search=Dark%20Magic%20Inheritance)
+- [Dark Magical Circle](db.ygoprodeck.com/card/?search=Dark%20Magical%20Circle)
+- [Dark Magician](db.ygoprodeck.com/card/?search=Dark%20Magician)
+- [Dark Magician Girl](db.ygoprodeck.com/card/?search=Dark%20Magician%20Girl)
+- [Dark Magician Girl the Dragon Knight](db.ygoprodeck.com/card/?search=Dark%20Magician%20Girl%20the%20Dragon%20Knight)
+- [Dark Magician Knight](db.ygoprodeck.com/card/?search=Dark%20Magician%20Knight)
+- [Dark Magician of Chaos](db.ygoprodeck.com/card/?search=Dark%20Magician%20of%20Chaos)
+- [Dark Mambele](db.ygoprodeck.com/card/?search=Dark%20Mambele)
+- [Dark Master - Zorc](db.ygoprodeck.com/card/?search=Dark%20Master%20-%20Zorc)
+- [Dark Mimic LV1](db.ygoprodeck.com/card/?search=Dark%20Mimic%20LV1)
+- [Dark Mimic LV3](db.ygoprodeck.com/card/?search=Dark%20Mimic%20LV3)
+- [Dark Necrofear](db.ygoprodeck.com/card/?search=Dark%20Necrofear)
+- [Dark Nephthys](db.ygoprodeck.com/card/?search=Dark%20Nephthys)
+- [Dark Paladin](db.ygoprodeck.com/card/?search=Dark%20Paladin)
+- [Dark Prisoner](db.ygoprodeck.com/card/?search=Dark%20Prisoner)
+- [Dark Rabbit](db.ygoprodeck.com/card/?search=Dark%20Rabbit)
+- [Dark Rebellion Xyz Dragon](db.ygoprodeck.com/card/?search=Dark%20Rebellion%20Xyz%20Dragon)
+- [Dark Red Enchanter](db.ygoprodeck.com/card/?search=Dark%20Red%20Enchanter)
+- [Dark Renewal](db.ygoprodeck.com/card/?search=Dark%20Renewal)
+- [Dark Requiem Xyz Dragon](db.ygoprodeck.com/card/?search=Dark%20Requiem%20Xyz%20Dragon)
+- [Dark Resonator](db.ygoprodeck.com/card/?search=Dark%20Resonator)
+- [Dark Room of Nightmare](db.ygoprodeck.com/card/?search=Dark%20Room%20of%20Nightmare)
+- [Dark Rose Fairy](db.ygoprodeck.com/card/?search=Dark%20Rose%20Fairy)
+- [Dark Ruler Ha Des](db.ygoprodeck.com/card/?search=Dark%20Ruler%20Ha%20Des)
+- [Dark Ruler No More](db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More)
+- [Dark Sage](db.ygoprodeck.com/card/?search=Dark%20Sage)
+- [Dark Scheme](db.ygoprodeck.com/card/?search=Dark%20Scheme)
+- [Dark Scorpion - Chick the Yellow](db.ygoprodeck.com/card/?search=Dark%20Scorpion%20-%20Chick%20the%20Yellow)
+- [Dark Scorpion - Cliff the Trap Remover](db.ygoprodeck.com/card/?search=Dark%20Scorpion%20-%20Cliff%20the%20Trap%20Remover)
+- [Dark Scorpion - Gorg the Strong](db.ygoprodeck.com/card/?search=Dark%20Scorpion%20-%20Gorg%20the%20Strong)
+- [Dark Scorpion - Meanae the Thorn](db.ygoprodeck.com/card/?search=Dark%20Scorpion%20-%20Meanae%20the%20Thorn)
+- [Dark Scorpion Burglars](db.ygoprodeck.com/card/?search=Dark%20Scorpion%20Burglars)
+- [Dark Scorpion Combination](db.ygoprodeck.com/card/?search=Dark%20Scorpion%20Combination)
+- [Dark Simorgh](db.ygoprodeck.com/card/?search=Dark%20Simorgh)
+- [Dark Smog](db.ygoprodeck.com/card/?search=Dark%20Smog)
+- [Dark Snake Syndrome](db.ygoprodeck.com/card/?search=Dark%20Snake%20Syndrome)
+- [Dark Spider](db.ygoprodeck.com/card/?search=Dark%20Spider)
+- [Dark Spirit of the Silent](db.ygoprodeck.com/card/?search=Dark%20Spirit%20of%20the%20Silent)
+- [Dark Strike Fighter](db.ygoprodeck.com/card/?search=Dark%20Strike%20Fighter)
+- [Dark Summoning Beast](db.ygoprodeck.com/card/?search=Dark%20Summoning%20Beast)
+- [Dark Templar @Ignister](db.ygoprodeck.com/card/?search=Dark%20Templar%20@Ignister)
+- [Dark Tinker](db.ygoprodeck.com/card/?search=Dark%20Tinker)
+- [Dark Titan of Terror](db.ygoprodeck.com/card/?search=Dark%20Titan%20of%20Terror)
+- [Dark Valkyria](db.ygoprodeck.com/card/?search=Dark%20Valkyria)
+- [Dark Verger](db.ygoprodeck.com/card/?search=Dark%20Verger)
+- [Dark Witch](db.ygoprodeck.com/card/?search=Dark%20Witch)
+- [Dark World Brainwashing](db.ygoprodeck.com/card/?search=Dark%20World%20Brainwashing)
+- [Dark World Dealings](db.ygoprodeck.com/card/?search=Dark%20World%20Dealings)
+- [Dark World Grimoire](db.ygoprodeck.com/card/?search=Dark%20World%20Grimoire)
+- [Dark World Lightning](db.ygoprodeck.com/card/?search=Dark%20World%20Lightning)
+- [Dark Zebra](db.ygoprodeck.com/card/?search=Dark%20Zebra)
+- [Dark-Piercing Light](db.ygoprodeck.com/card/?search=Dark-Piercing%20Light)
+- [Darkbishop Archfiend](db.ygoprodeck.com/card/?search=Darkbishop%20Archfiend)
+- [Darkblaze Dragon](db.ygoprodeck.com/card/?search=Darkblaze%20Dragon)
+- [Darkfall](db.ygoprodeck.com/card/?search=Darkfall)
+- [Darkfire Dragon](db.ygoprodeck.com/card/?search=Darkfire%20Dragon)
+- [Darkfire Soldier #1](db.ygoprodeck.com/card/?search=Darkfire%20Soldier%20#1)
+- [Darkfire Soldier #2](db.ygoprodeck.com/card/?search=Darkfire%20Soldier%20#2)
+- [Darklight](db.ygoprodeck.com/card/?search=Darklight)
+- [Darklon](db.ygoprodeck.com/card/?search=Darklon)
+- [Darklord Desire](db.ygoprodeck.com/card/?search=Darklord%20Desire)
+- [Darklord Marie](db.ygoprodeck.com/card/?search=Darklord%20Marie)
+- [Darklord Nergal](db.ygoprodeck.com/card/?search=Darklord%20Nergal)
+- [Darklord Uprising](db.ygoprodeck.com/card/?search=Darklord%20Uprising)
+- [Darklord Zerato](db.ygoprodeck.com/card/?search=Darklord%20Zerato)
+- [Darkness Approaches](db.ygoprodeck.com/card/?search=Darkness%20Approaches)
+- [Darkness Neosphere](db.ygoprodeck.com/card/?search=Darkness%20Neosphere)
+- [Darknight Parshath](db.ygoprodeck.com/card/?search=Darknight%20Parshath)
+- [Darksea Float](db.ygoprodeck.com/card/?search=Darksea%20Float)
+- [Darkstorm Dragon](db.ygoprodeck.com/card/?search=Darkstorm%20Dragon)
+- [Darkworld Shackles](db.ygoprodeck.com/card/?search=Darkworld%20Shackles)
+- [Darkworld Thorns](db.ygoprodeck.com/card/?search=Darkworld%20Thorns)
+- [Daruma Dropper](db.ygoprodeck.com/card/?search=Daruma%20Dropper)
+- [Dash Warrior](db.ygoprodeck.com/card/?search=Dash%20Warrior)
+- [Datacorn](db.ygoprodeck.com/card/?search=Datacorn)
+- [Dawn of the Herald](db.ygoprodeck.com/card/?search=Dawn%20of%20the%20Herald)
+- [Dawnbreak Gardna](db.ygoprodeck.com/card/?search=Dawnbreak%20Gardna)
+- [Daybreaker](db.ygoprodeck.com/card/?search=Daybreaker)
+- [De-Fusion](db.ygoprodeck.com/card/?search=De-Fusion)
+- [De-Spell](db.ygoprodeck.com/card/?search=De-Spell)
+- [De-Synchro](db.ygoprodeck.com/card/?search=De-Synchro)
+- [Deal of Phantom](db.ygoprodeck.com/card/?search=Deal%20of%20Phantom)
+- [Dealer's Choice](db.ygoprodeck.com/card/?search=Dealer's%20Choice)
+- [Debris Dragon](db.ygoprodeck.com/card/?search=Debris%20Dragon)
+- [Debunk](db.ygoprodeck.com/card/?search=Debunk)
+- [Decayed Commander](db.ygoprodeck.com/card/?search=Decayed%20Commander)
+- [Deck Devastation Virus](db.ygoprodeck.com/card/?search=Deck%20Devastation%20Virus)
+- [Deck Lockdown](db.ygoprodeck.com/card/?search=Deck%20Lockdown)
+- [Decode Talker](db.ygoprodeck.com/card/?search=Decode%20Talker)
+- [Decoy Dragon](db.ygoprodeck.com/card/?search=Decoy%20Dragon)
+- [Decoyroid](db.ygoprodeck.com/card/?search=Decoyroid)
+- [Dedication through Light and Darkness](db.ygoprodeck.com/card/?search=Dedication%20through%20Light%20and%20Darkness)
+- [Deep Diver](db.ygoprodeck.com/card/?search=Deep%20Diver)
+- [Deep Sea Artisan](db.ygoprodeck.com/card/?search=Deep%20Sea%20Artisan)
+- [Deep Sea Diva](db.ygoprodeck.com/card/?search=Deep%20Sea%20Diva)
+- [Deep Sea Minstrel](db.ygoprodeck.com/card/?search=Deep%20Sea%20Minstrel)
+- [Deep Sea Prima Donna](db.ygoprodeck.com/card/?search=Deep%20Sea%20Prima%20Donna)
+- [Deep Sea Sentry](db.ygoprodeck.com/card/?search=Deep%20Sea%20Sentry)
+- [Deep Sweeper](db.ygoprodeck.com/card/?search=Deep%20Sweeper)
+- [Deep-Space Cruiser IX](db.ygoprodeck.com/card/?search=Deep-Space%20Cruiser%20IX)
+- [Deepsea Shark](db.ygoprodeck.com/card/?search=Deepsea%20Shark)
+- [Deepsea Warrior](db.ygoprodeck.com/card/?search=Deepsea%20Warrior)
+- [Defect Compiler](db.ygoprodeck.com/card/?search=Defect%20Compiler)
+- [Defender of the Ice Barrier](db.ygoprodeck.com/card/?search=Defender%20of%20the%20Ice%20Barrier)
+- [Defender of the Labyrinth](db.ygoprodeck.com/card/?search=Defender%20of%20the%20Labyrinth)
+- [Defender, the Magical Knight](db.ygoprodeck.com/card/?search=Defender,%20the%20Magical%20Knight)
+- [Defenders Intersect](db.ygoprodeck.com/card/?search=Defenders%20Intersect)
+- [Defense Draw](db.ygoprodeck.com/card/?search=Defense%20Draw)
+- [Defense Zone](db.ygoprodeck.com/card/?search=Defense%20Zone)
+- [Defrag Dragon](db.ygoprodeck.com/card/?search=Defrag%20Dragon)
+- [Degen-Force](db.ygoprodeck.com/card/?search=Degen-Force)
+- [Dekoichi the Battlechanted Locomotive](db.ygoprodeck.com/card/?search=Dekoichi%20the%20Battlechanted%20Locomotive)
+- [Delta Attacker](db.ygoprodeck.com/card/?search=Delta%20Attacker)
+- [Delta Crow - Anti Reverse](db.ygoprodeck.com/card/?search=Delta%20Crow%20-%20Anti%20Reverse)
+- [Delta The Magnet Warrior](db.ygoprodeck.com/card/?search=Delta%20The%20Magnet%20Warrior)
+- [Delta Tri](db.ygoprodeck.com/card/?search=Delta%20Tri)
+- [Demise of the Land](db.ygoprodeck.com/card/?search=Demise%20of%20the%20Land)
+- [Demise, Agent of Armageddon](db.ygoprodeck.com/card/?search=Demise,%20Agent%20of%20Armageddon)
+- [Demise, King of Armageddon](db.ygoprodeck.com/card/?search=Demise,%20King%20of%20Armageddon)
+- [Demotion](db.ygoprodeck.com/card/?search=Demotion)
+- [Denko Sekka](db.ygoprodeck.com/card/?search=Denko%20Sekka)
+- [Depth Amulet](db.ygoprodeck.com/card/?search=Depth%20Amulet)
+- [Des Croaking](db.ygoprodeck.com/card/?search=Des%20Croaking)
+- [Des Dendle](db.ygoprodeck.com/card/?search=Des%20Dendle)
+- [Des Feral Imp](db.ygoprodeck.com/card/?search=Des%20Feral%20Imp)
+- [Des Frog](db.ygoprodeck.com/card/?search=Des%20Frog)
+- [Des Kangaroo](db.ygoprodeck.com/card/?search=Des%20Kangaroo)
+- [Des Koala](db.ygoprodeck.com/card/?search=Des%20Koala)
+- [Des Lacooda](db.ygoprodeck.com/card/?search=Des%20Lacooda)
+- [Des Mosquito](db.ygoprodeck.com/card/?search=Des%20Mosquito)
+- [Des Volstgalph](db.ygoprodeck.com/card/?search=Des%20Volstgalph)
+- [Des Wombat](db.ygoprodeck.com/card/?search=Des%20Wombat)
+- [Descending Lost Star](db.ygoprodeck.com/card/?search=Descending%20Lost%20Star)
+- [Desert Locusts](db.ygoprodeck.com/card/?search=Desert%20Locusts)
+- [Desert Protector](db.ygoprodeck.com/card/?search=Desert%20Protector)
+- [Desert Sunlight](db.ygoprodeck.com/card/?search=Desert%20Sunlight)
+- [Desertapir](db.ygoprodeck.com/card/?search=Desertapir)
+- [Designer Frightfur](db.ygoprodeck.com/card/?search=Designer%20Frightfur)
+- [Deskbot 001](db.ygoprodeck.com/card/?search=Deskbot%20001)
+- [Deskbot 002](db.ygoprodeck.com/card/?search=Deskbot%20002)
+- [Deskbot 003](db.ygoprodeck.com/card/?search=Deskbot%20003)
+- [Deskbot 004](db.ygoprodeck.com/card/?search=Deskbot%20004)
+- [Deskbot 005](db.ygoprodeck.com/card/?search=Deskbot%20005)
+- [Deskbot 006](db.ygoprodeck.com/card/?search=Deskbot%20006)
+- [Deskbot 007](db.ygoprodeck.com/card/?search=Deskbot%20007)
+- [Deskbot 008](db.ygoprodeck.com/card/?search=Deskbot%20008)
+- [Deskbot 009](db.ygoprodeck.com/card/?search=Deskbot%20009)
+- [Deskbot Base](db.ygoprodeck.com/card/?search=Deskbot%20Base)
+- [Deskbot Jet](db.ygoprodeck.com/card/?search=Deskbot%20Jet)
+- [Despair from the Dark](db.ygoprodeck.com/card/?search=Despair%20from%20the%20Dark)
+- [Desperate Tag](db.ygoprodeck.com/card/?search=Desperate%20Tag)
+- [Despia, Theater of the Branded](db.ygoprodeck.com/card/?search=Despia,%20Theater%20of%20the%20Branded)
+- [Despian Tragedy](db.ygoprodeck.com/card/?search=Despian%20Tragedy)
+- [Desrook Archfiend](db.ygoprodeck.com/card/?search=Desrook%20Archfiend)
+- [Destiny Board](db.ygoprodeck.com/card/?search=Destiny%20Board)
+- [Destiny Draw](db.ygoprodeck.com/card/?search=Destiny%20Draw)
+- [Destiny Draw (Skill Card)](db.ygoprodeck.com/card/?search=Destiny%20Draw%20(Skill%20Card))
+- [Destiny End Dragoon](db.ygoprodeck.com/card/?search=Destiny%20End%20Dragoon)
+- [Destiny HERO - Blade Master](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Blade%20Master)
+- [Destiny HERO - Captain Tenacious](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Captain%20Tenacious)
+- [Destiny HERO - Celestial](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Celestial)
+- [Destiny HERO - Dangerous](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dangerous)
+- [Destiny HERO - Dark Angel](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dark%20Angel)
+- [Destiny HERO - Dasher](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dasher)
+- [Destiny HERO - Decider](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Decider)
+- [Destiny HERO - Defender](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Defender)
+- [Destiny HERO - Departed](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Departed)
+- [Destiny HERO - Diamond Dude](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Diamond%20Dude)
+- [Destiny HERO - Dogma](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dogma)
+- [Destiny HERO - Doom Lord](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Doom%20Lord)
+- [Destiny HERO - Double Dude](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Double%20Dude)
+- [Destiny HERO - Drawhand](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Drawhand)
+- [Destiny HERO - Dread Servant](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dread%20Servant)
+- [Destiny HERO - Dreadmaster](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dreadmaster)
+- [Destiny HERO - Dreamer](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dreamer)
+- [Destiny HERO - Drilldark](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Drilldark)
+- [Destiny HERO - Dunker](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dunker)
+- [Destiny HERO - Dusktopia](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dusktopia)
+- [Destiny HERO - Dynatag](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dynatag)
+- [Destiny HERO - Dystopia](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dystopia)
+- [Destiny HERO - Fear Monger](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Fear%20Monger)
+- [Destiny HERO - Plasma](db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Plasma)
+- [Destiny Mirage](db.ygoprodeck.com/card/?search=Destiny%20Mirage)
+- [Destiny Signal](db.ygoprodeck.com/card/?search=Destiny%20Signal)
+- [Destroyer Golem](db.ygoprodeck.com/card/?search=Destroyer%20Golem)
+- [Destruct Potion](db.ygoprodeck.com/card/?search=Destruct%20Potion)
+- [Destruction Cyclone](db.ygoprodeck.com/card/?search=Destruction%20Cyclone)
+- [Destruction of Destiny](db.ygoprodeck.com/card/?search=Destruction%20of%20Destiny)
+- [Destruction Punch](db.ygoprodeck.com/card/?search=Destruction%20Punch)
+- [Destruction Ring](db.ygoprodeck.com/card/?search=Destruction%20Ring)
+- [Destruction Sword Flash](db.ygoprodeck.com/card/?search=Destruction%20Sword%20Flash)
+- [Destruction Sword Memories](db.ygoprodeck.com/card/?search=Destruction%20Sword%20Memories)
+- [Destruction Swordsman Fusion](db.ygoprodeck.com/card/?search=Destruction%20Swordsman%20Fusion)
+- [Destructive Draw](db.ygoprodeck.com/card/?search=Destructive%20Draw)
+- [Destructotron](db.ygoprodeck.com/card/?search=Destructotron)
+- [Detonate](db.ygoprodeck.com/card/?search=Detonate)
+- [Detonation Code](db.ygoprodeck.com/card/?search=Detonation%20Code)
+- [Detonator Circle "A"](db.ygoprodeck.com/card/?search=Detonator%20Circle%20"A")
+- [Deus X-Krawler](db.ygoprodeck.com/card/?search=Deus%20X-Krawler)
+- [Dewdark of the Ice Barrier](db.ygoprodeck.com/card/?search=Dewdark%20of%20the%20Ice%20Barrier)
+- [Dhampir Vampire Sheridan](db.ygoprodeck.com/card/?search=Dhampir%20Vampire%20Sheridan)
+- [Dharc the Dark Charmer](db.ygoprodeck.com/card/?search=Dharc%20the%20Dark%20Charmer)
+- [Dharma Cannon](db.ygoprodeck.com/card/?search=Dharma%20Cannon)
+- [Diabolos, King of the Abyss](db.ygoprodeck.com/card/?search=Diabolos,%20King%20of%20the%20Abyss)
+- [Diabound Kernel](db.ygoprodeck.com/card/?search=Diabound%20Kernel)
+- [Diamond Core of Koa'ki Meiru](db.ygoprodeck.com/card/?search=Diamond%20Core%20of%20Koa'ki%20Meiru)
+- [Diamond Duston](db.ygoprodeck.com/card/?search=Diamond%20Duston)
+- [Dian Keto the Cure Master](db.ygoprodeck.com/card/?search=Dian%20Keto%20the%20Cure%20Master)
+- [Diana the Light Spirit](db.ygoprodeck.com/card/?search=Diana%20the%20Light%20Spirit)
+- [Dice It](db.ygoprodeck.com/card/?search=Dice%20It)
+- [Dice Jar](db.ygoprodeck.com/card/?search=Dice%20Jar)
+- [Dice Re-Roll](db.ygoprodeck.com/card/?search=Dice%20Re-Roll)
+- [Dice Try!](db.ygoprodeck.com/card/?search=Dice%20Try!)
+- [Dice-nied](db.ygoprodeck.com/card/?search=Dice-nied)
+- [Diced Dice](db.ygoprodeck.com/card/?search=Diced%20Dice)
+- [Dicelops](db.ygoprodeck.com/card/?search=Dicelops)
+- [Dicephoon](db.ygoprodeck.com/card/?search=Dicephoon)
+- [Diceversity](db.ygoprodeck.com/card/?search=Diceversity)
+- [Different Dimension Capsule](db.ygoprodeck.com/card/?search=Different%20Dimension%20Capsule)
+- [Different Dimension Deepsea Trench](db.ygoprodeck.com/card/?search=Different%20Dimension%20Deepsea%20Trench)
+- [Different Dimension Dragon](db.ygoprodeck.com/card/?search=Different%20Dimension%20Dragon)
+- [Different Dimension Encounter](db.ygoprodeck.com/card/?search=Different%20Dimension%20Encounter)
+- [Different Dimension Gate](db.ygoprodeck.com/card/?search=Different%20Dimension%20Gate)
+- [Diffusion Wave-Motion](db.ygoprodeck.com/card/?search=Diffusion%20Wave-Motion)
+- [Dig Beak](db.ygoprodeck.com/card/?search=Dig%20Beak)
+- [Digging for Gold](db.ygoprodeck.com/card/?search=Digging%20for%20Gold)
+- [Digital Bug Centibit](db.ygoprodeck.com/card/?search=Digital%20Bug%20Centibit)
+- [Digital Bug Cocoondenser](db.ygoprodeck.com/card/?search=Digital%20Bug%20Cocoondenser)
+- [Digital Bug Corebage](db.ygoprodeck.com/card/?search=Digital%20Bug%20Corebage)
+- [Digital Bug LEDybug](db.ygoprodeck.com/card/?search=Digital%20Bug%20LEDybug)
+- [Digital Bug Registrider](db.ygoprodeck.com/card/?search=Digital%20Bug%20Registrider)
+- [Digital Bug Scaradiator](db.ygoprodeck.com/card/?search=Digital%20Bug%20Scaradiator)
+- [Digital Bug Websolder](db.ygoprodeck.com/card/?search=Digital%20Bug%20Websolder)
+- [Digitron](db.ygoprodeck.com/card/?search=Digitron)
+- [Dillingerous Dragon](db.ygoprodeck.com/card/?search=Dillingerous%20Dragon)
+- [Dimension Distortion](db.ygoprodeck.com/card/?search=Dimension%20Distortion)
+- [Dimension Explosion](db.ygoprodeck.com/card/?search=Dimension%20Explosion)
+- [Dimension Fortress Weapon](db.ygoprodeck.com/card/?search=Dimension%20Fortress%20Weapon)
+- [Dimension Gate](db.ygoprodeck.com/card/?search=Dimension%20Gate)
+- [Dimension Jar](db.ygoprodeck.com/card/?search=Dimension%20Jar)
+- [Dimension Slice](db.ygoprodeck.com/card/?search=Dimension%20Slice)
+- [Dimension Wall](db.ygoprodeck.com/card/?search=Dimension%20Wall)
+- [Dimensional Alchemist](db.ygoprodeck.com/card/?search=Dimensional%20Alchemist)
+- [Dimensional Barrier](db.ygoprodeck.com/card/?search=Dimensional%20Barrier)
+- [Dimensional Inversion](db.ygoprodeck.com/card/?search=Dimensional%20Inversion)
+- [Dimensional Prison](db.ygoprodeck.com/card/?search=Dimensional%20Prison)
+- [Dimensionhole](db.ygoprodeck.com/card/?search=Dimensionhole)
+- [Dimer Synthesis](db.ygoprodeck.com/card/?search=Dimer%20Synthesis)
+- [Dino-Sewing](db.ygoprodeck.com/card/?search=Dino-Sewing)
+- [Dinomic Powerload](db.ygoprodeck.com/card/?search=Dinomic%20Powerload)
+- [Dinomist Ankylos](db.ygoprodeck.com/card/?search=Dinomist%20Ankylos)
+- [Dinomist Brachion](db.ygoprodeck.com/card/?search=Dinomist%20Brachion)
+- [Dinomist Ceratops](db.ygoprodeck.com/card/?search=Dinomist%20Ceratops)
+- [Dinomist Charge](db.ygoprodeck.com/card/?search=Dinomist%20Charge)
+- [Dinomist Eruption](db.ygoprodeck.com/card/?search=Dinomist%20Eruption)
+- [Dinomist Plesios](db.ygoprodeck.com/card/?search=Dinomist%20Plesios)
+- [Dinomist Rush](db.ygoprodeck.com/card/?search=Dinomist%20Rush)
+- [Dinomist Spinos](db.ygoprodeck.com/card/?search=Dinomist%20Spinos)
+- [Dinomist Stegosaur](db.ygoprodeck.com/card/?search=Dinomist%20Stegosaur)
+- [Dinomists Howling](db.ygoprodeck.com/card/?search=Dinomists%20Howling)
+- [Dinosaur Kingdom](db.ygoprodeck.com/card/?search=Dinosaur%20Kingdom)
+- [Dinowrestler Capaptera](db.ygoprodeck.com/card/?search=Dinowrestler%20Capaptera)
+- [Dinowrestler Capoeiraptor](db.ygoprodeck.com/card/?search=Dinowrestler%20Capoeiraptor)
+- [Dinowrestler Chimera T Wrextle](db.ygoprodeck.com/card/?search=Dinowrestler%20Chimera%20T%20Wrextle)
+- [Dinowrestler Coelasilat](db.ygoprodeck.com/card/?search=Dinowrestler%20Coelasilat)
+- [Dinowrestler Eskrimamenchi](db.ygoprodeck.com/card/?search=Dinowrestler%20Eskrimamenchi)
+- [Dinowrestler Giga Spinosavate](db.ygoprodeck.com/card/?search=Dinowrestler%20Giga%20Spinosavate)
+- [Dinowrestler King T Wrextle](db.ygoprodeck.com/card/?search=Dinowrestler%20King%20T%20Wrextle)
+- [Dinowrestler Martial Ampelo](db.ygoprodeck.com/card/?search=Dinowrestler%20Martial%20Ampelo)
+- [Dinowrestler Martial Anga](db.ygoprodeck.com/card/?search=Dinowrestler%20Martial%20Anga)
+- [Dinowrestler Martial Ankylo](db.ygoprodeck.com/card/?search=Dinowrestler%20Martial%20Ankylo)
+- [Dinowrestler Rambrachio](db.ygoprodeck.com/card/?search=Dinowrestler%20Rambrachio)
+- [Dinowrestler Systegosaur](db.ygoprodeck.com/card/?search=Dinowrestler%20Systegosaur)
+- [Dinowrestler Terra Parkourio](db.ygoprodeck.com/card/?search=Dinowrestler%20Terra%20Parkourio)
+- [Dinowrestler Valeonyx](db.ygoprodeck.com/card/?search=Dinowrestler%20Valeonyx)
+- [Diplexer Chimera](db.ygoprodeck.com/card/?search=Diplexer%20Chimera)
+- [Disappear](db.ygoprodeck.com/card/?search=Disappear)
+- [Disarm](db.ygoprodeck.com/card/?search=Disarm)
+- [Disarmament](db.ygoprodeck.com/card/?search=Disarmament)
+- [Disc Fighter](db.ygoprodeck.com/card/?search=Disc%20Fighter)
+- [Disciple of the Forbidden Spell](db.ygoprodeck.com/card/?search=Disciple%20of%20the%20Forbidden%20Spell)
+- [Disciples of the True Dracophoenix](db.ygoprodeck.com/card/?search=Disciples%20of%20the%20True%20Dracophoenix)
+- [Discord](db.ygoprodeck.com/card/?search=Discord)
+- [Disenchanter](db.ygoprodeck.com/card/?search=Disenchanter)
+- [Disk Magician](db.ygoprodeck.com/card/?search=Disk%20Magician)
+- [Dispatchparazzi](db.ygoprodeck.com/card/?search=Dispatchparazzi)
+- [Disposable Learner Device](db.ygoprodeck.com/card/?search=Disposable%20Learner%20Device)
+- [Dissolverock](db.ygoprodeck.com/card/?search=Dissolverock)
+- [Disturbance Strategy](db.ygoprodeck.com/card/?search=Disturbance%20Strategy)
+- [Divine Dragon Apocralyph](db.ygoprodeck.com/card/?search=Divine%20Dragon%20Apocralyph)
+- [Divine Dragon Aquabizarre](db.ygoprodeck.com/card/?search=Divine%20Dragon%20Aquabizarre)
+- [Divine Dragon Ragnarok](db.ygoprodeck.com/card/?search=Divine%20Dragon%20Ragnarok)
+- [Divine Knight Ishzark](db.ygoprodeck.com/card/?search=Divine%20Knight%20Ishzark)
+- [Divine Punishment](db.ygoprodeck.com/card/?search=Divine%20Punishment)
+- [Divine Relic Mjollnir](db.ygoprodeck.com/card/?search=Divine%20Relic%20Mjollnir)
+- [Divine Serpent Geh](db.ygoprodeck.com/card/?search=Divine%20Serpent%20Geh)
+- [Divine Sword - Phoenix Blade](db.ygoprodeck.com/card/?search=Divine%20Sword%20-%20Phoenix%20Blade)
+- [Divine Wrath](db.ygoprodeck.com/card/?search=Divine%20Wrath)
+- [Dizzying Winds of Yosen Village](db.ygoprodeck.com/card/?search=Dizzying%20Winds%20of%20Yosen%20Village)
+- [Djinn Demolisher of Rituals](db.ygoprodeck.com/card/?search=Djinn%20Demolisher%20of%20Rituals)
+- [Djinn Disserere of Rituals](db.ygoprodeck.com/card/?search=Djinn%20Disserere%20of%20Rituals)
+- [Djinn Prognosticator of Rituals](db.ygoprodeck.com/card/?search=Djinn%20Prognosticator%20of%20Rituals)
+- [DMZ Dragon](db.ygoprodeck.com/card/?search=DMZ%20Dragon)
+- [DNA Checkup](db.ygoprodeck.com/card/?search=DNA%20Checkup)
+- [DNA Surgery](db.ygoprodeck.com/card/?search=DNA%20Surgery)
+- [DNA Transplant](db.ygoprodeck.com/card/?search=DNA%20Transplant)
+- [Doble Passe](db.ygoprodeck.com/card/?search=Doble%20Passe)
+- [Doctor Cranium](db.ygoprodeck.com/card/?search=Doctor%20Cranium)
+- [Dododo Bot](db.ygoprodeck.com/card/?search=Dododo%20Bot)
+- [Dododo Buster](db.ygoprodeck.com/card/?search=Dododo%20Buster)
+- [Dododo Driver](db.ygoprodeck.com/card/?search=Dododo%20Driver)
+- [Dododo Swordsman](db.ygoprodeck.com/card/?search=Dododo%20Swordsman)
+- [Dododo Warrior](db.ygoprodeck.com/card/?search=Dododo%20Warrior)
+- [Dododo Witch](db.ygoprodeck.com/card/?search=Dododo%20Witch)
+- [Dogmatika Encounter](db.ygoprodeck.com/card/?search=Dogmatika%20Encounter)
+- [Dogmatika Genesis](db.ygoprodeck.com/card/?search=Dogmatika%20Genesis)
+- [Dogmatika Nation](db.ygoprodeck.com/card/?search=Dogmatika%20Nation)
+- [Dogmatika Nexus](db.ygoprodeck.com/card/?search=Dogmatika%20Nexus)
+- [Dogmatika Punishment](db.ygoprodeck.com/card/?search=Dogmatika%20Punishment)
+- [Dogmatika Theo, the Iron Punch](db.ygoprodeck.com/card/?search=Dogmatika%20Theo,%20the%20Iron%20Punch)
+- [Dogmatikacism](db.ygoprodeck.com/card/?search=Dogmatikacism)
+- [Dogmatikalamity](db.ygoprodeck.com/card/?search=Dogmatikalamity)
+- [Dogoran, the Mad Flame Kaiju](db.ygoprodeck.com/card/?search=Dogoran,%20the%20Mad%20Flame%20Kaiju)
+- [Doitsu](db.ygoprodeck.com/card/?search=Doitsu)
+- [Doki Doki](db.ygoprodeck.com/card/?search=Doki%20Doki)
+- [Dokurorider](db.ygoprodeck.com/card/?search=Dokurorider)
+- [Dokuroyaiba](db.ygoprodeck.com/card/?search=Dokuroyaiba)
+- [Doma The Angel of Silence](db.ygoprodeck.com/card/?search=Doma%20The%20Angel%20of%20Silence)
+- [Domain of the True Monarchs](db.ygoprodeck.com/card/?search=Domain%20of%20the%20True%20Monarchs)
+- [Domino Effect](db.ygoprodeck.com/card/?search=Domino%20Effect)
+- [Don Turtle](db.ygoprodeck.com/card/?search=Don%20Turtle)
+- [Don Zaloog](db.ygoprodeck.com/card/?search=Don%20Zaloog)
+- [Donpa, Marksman Fur Hire](db.ygoprodeck.com/card/?search=Donpa,%20Marksman%20Fur%20Hire)
+- [Donyoribo @Ignister](db.ygoprodeck.com/card/?search=Donyoribo%20@Ignister)
+- [Doom Donuts](db.ygoprodeck.com/card/?search=Doom%20Donuts)
+- [Doom Dozer](db.ygoprodeck.com/card/?search=Doom%20Dozer)
+- [Doom Shaman](db.ygoprodeck.com/card/?search=Doom%20Shaman)
+- [Doom Virus Dragon](db.ygoprodeck.com/card/?search=Doom%20Virus%20Dragon)
+- [Doombearer Psychopompos](db.ygoprodeck.com/card/?search=Doombearer%20Psychopompos)
+- [Doomcaliber Knight](db.ygoprodeck.com/card/?search=Doomcaliber%20Knight)
+- [Doomdog Octhros](db.ygoprodeck.com/card/?search=Doomdog%20Octhros)
+- [Doomkaiser Dragon](db.ygoprodeck.com/card/?search=Doomkaiser%20Dragon)
+- [Doomkaiser Dragon/Assault Mode](db.ygoprodeck.com/card/?search=Doomkaiser%20Dragon/Assault%20Mode)
+- [Doomstar Magician](db.ygoprodeck.com/card/?search=Doomstar%20Magician)
+- [Doppelganger](db.ygoprodeck.com/card/?search=Doppelganger)
+- [Doppelwarrior](db.ygoprodeck.com/card/?search=Doppelwarrior)
+- [Dora of Fate](db.ygoprodeck.com/card/?search=Dora%20of%20Fate)
+- [Doriado's Blessing](db.ygoprodeck.com/card/?search=Doriado's%20Blessing)
+- [Doshin @Ignister](db.ygoprodeck.com/card/?search=Doshin%20@Ignister)
+- [Dotedotengu](db.ygoprodeck.com/card/?search=Dotedotengu)
+- [Dotscaper](db.ygoprodeck.com/card/?search=Dotscaper)
+- [Double Attack](db.ygoprodeck.com/card/?search=Double%20Attack)
+- [Double Cipher](db.ygoprodeck.com/card/?search=Double%20Cipher)
+- [Double Coston](db.ygoprodeck.com/card/?search=Double%20Coston)
+- [Double Cyclone](db.ygoprodeck.com/card/?search=Double%20Cyclone)
+- [Double Defender](db.ygoprodeck.com/card/?search=Double%20Defender)
+- [Double Dragon Descent](db.ygoprodeck.com/card/?search=Double%20Dragon%20Descent)
+- [Double Magical Arm Bind](db.ygoprodeck.com/card/?search=Double%20Magical%20Arm%20Bind)
+- [Double or Nothing!](db.ygoprodeck.com/card/?search=Double%20or%20Nothing!)
+- [Double Payback](db.ygoprodeck.com/card/?search=Double%20Payback)
+- [Double Resonator](db.ygoprodeck.com/card/?search=Double%20Resonator)
+- [Double Shark](db.ygoprodeck.com/card/?search=Double%20Shark)
+- [Double Snare](db.ygoprodeck.com/card/?search=Double%20Snare)
+- [Double Spell](db.ygoprodeck.com/card/?search=Double%20Spell)
+- [Double Summon](db.ygoprodeck.com/card/?search=Double%20Summon)
+- [Double Tag Team](db.ygoprodeck.com/card/?search=Double%20Tag%20Team)
+- [Double Tool C&D](db.ygoprodeck.com/card/?search=Double%20Tool%20C&D)
+- [Double Trap Hole](db.ygoprodeck.com/card/?search=Double%20Trap%20Hole)
+- [Double-Edged Sword](db.ygoprodeck.com/card/?search=Double-Edged%20Sword)
+- [Double-Edged Sword Technique](db.ygoprodeck.com/card/?search=Double-Edged%20Sword%20Technique)
+- [Doyon @Ignister](db.ygoprodeck.com/card/?search=Doyon%20@Ignister)
+- [Dr. Frankenderp](db.ygoprodeck.com/card/?search=Dr.%20Frankenderp)
+- [Dracocension](db.ygoprodeck.com/card/?search=Dracocension)
+- [Draconnet](db.ygoprodeck.com/card/?search=Draconnet)
+- [Dracoon Lamp](db.ygoprodeck.com/card/?search=Dracoon%20Lamp)
+- [Dragged Down into the Grave](db.ygoprodeck.com/card/?search=Dragged%20Down%20into%20the%20Grave)
+- [Dragodies, the Empowered Warrior](db.ygoprodeck.com/card/?search=Dragodies,%20the%20Empowered%20Warrior)
+- [Dragon Buster Destruction Sword](db.ygoprodeck.com/card/?search=Dragon%20Buster%20Destruction%20Sword)
+- [Dragon Caller](db.ygoprodeck.com/card/?search=Dragon%20Caller)
+- [Dragon Capture Jar](db.ygoprodeck.com/card/?search=Dragon%20Capture%20Jar)
+- [Dragon Dowser](db.ygoprodeck.com/card/?search=Dragon%20Dowser)
+- [Dragon Horn Hunter](db.ygoprodeck.com/card/?search=Dragon%20Horn%20Hunter)
+- [Dragon Ice](db.ygoprodeck.com/card/?search=Dragon%20Ice)
+- [Dragon Knight of Creation](db.ygoprodeck.com/card/?search=Dragon%20Knight%20of%20Creation)
+- [Dragon Laser](db.ygoprodeck.com/card/?search=Dragon%20Laser)
+- [Dragon Manipulator](db.ygoprodeck.com/card/?search=Dragon%20Manipulator)
+- [Dragon Mastery](db.ygoprodeck.com/card/?search=Dragon%20Mastery)
+- [Dragon Piper](db.ygoprodeck.com/card/?search=Dragon%20Piper)
+- [Dragon Ravine](db.ygoprodeck.com/card/?search=Dragon%20Ravine)
+- [Dragon Seeker](db.ygoprodeck.com/card/?search=Dragon%20Seeker)
+- [Dragon Shield](db.ygoprodeck.com/card/?search=Dragon%20Shield)
+- [Dragon Shrine](db.ygoprodeck.com/card/?search=Dragon%20Shrine)
+- [Dragon Spirit of White](db.ygoprodeck.com/card/?search=Dragon%20Spirit%20of%20White)
+- [Dragon Treasure](db.ygoprodeck.com/card/?search=Dragon%20Treasure)
+- [Dragon Zombie](db.ygoprodeck.com/card/?search=Dragon%20Zombie)
+- [Dragon's Bind](db.ygoprodeck.com/card/?search=Dragon's%20Bind)
+- [Dragon's Gunfire](db.ygoprodeck.com/card/?search=Dragon's%20Gunfire)
+- [Dragon's Mirror](db.ygoprodeck.com/card/?search=Dragon's%20Mirror)
+- [Dragon's Rage](db.ygoprodeck.com/card/?search=Dragon's%20Rage)
+- [Dragon's Rebirth](db.ygoprodeck.com/card/?search=Dragon's%20Rebirth)
+- [Dragoncarnation](db.ygoprodeck.com/card/?search=Dragoncarnation)
+- [Dragonic Attack](db.ygoprodeck.com/card/?search=Dragonic%20Attack)
+- [Dragonic Tactics](db.ygoprodeck.com/card/?search=Dragonic%20Tactics)
+- [Dragonlark Pairen](db.ygoprodeck.com/card/?search=Dragonlark%20Pairen)
+- [Dragonmaid Send-Off](db.ygoprodeck.com/card/?search=Dragonmaid%20Send-Off)
+- [Dragonoid Generator](db.ygoprodeck.com/card/?search=Dragonoid%20Generator)
+- [Dragonpit Magician](db.ygoprodeck.com/card/?search=Dragonpit%20Magician)
+- [Dragonpulse Magician](db.ygoprodeck.com/card/?search=Dragonpulse%20Magician)
+- [Dragoons of Draconia](db.ygoprodeck.com/card/?search=Dragoons%20of%20Draconia)
+- [Dragunity Aklys](db.ygoprodeck.com/card/?search=Dragunity%20Aklys)
+- [Dragunity Angusticlavii](db.ygoprodeck.com/card/?search=Dragunity%20Angusticlavii)
+- [Dragunity Arma Leyvaten](db.ygoprodeck.com/card/?search=Dragunity%20Arma%20Leyvaten)
+- [Dragunity Arma Mystletainn](db.ygoprodeck.com/card/?search=Dragunity%20Arma%20Mystletainn)
+- [Dragunity Brandistock](db.ygoprodeck.com/card/?search=Dragunity%20Brandistock)
+- [Dragunity Corsesca](db.ygoprodeck.com/card/?search=Dragunity%20Corsesca)
+- [Dragunity Couse](db.ygoprodeck.com/card/?search=Dragunity%20Couse)
+- [Dragunity Darkspear](db.ygoprodeck.com/card/?search=Dragunity%20Darkspear)
+- [Dragunity Divine Lance](db.ygoprodeck.com/card/?search=Dragunity%20Divine%20Lance)
+- [Dragunity Dux](db.ygoprodeck.com/card/?search=Dragunity%20Dux)
+- [Dragunity Javelin](db.ygoprodeck.com/card/?search=Dragunity%20Javelin)
+- [Dragunity Knight - Barcha](db.ygoprodeck.com/card/?search=Dragunity%20Knight%20-%20Barcha)
+- [Dragunity Knight - Gae Bulg](db.ygoprodeck.com/card/?search=Dragunity%20Knight%20-%20Gae%20Bulg)
+- [Dragunity Knight - Trident](db.ygoprodeck.com/card/?search=Dragunity%20Knight%20-%20Trident)
+- [Dragunity Legion](db.ygoprodeck.com/card/?search=Dragunity%20Legion)
+- [Dragunity Legionnaire](db.ygoprodeck.com/card/?search=Dragunity%20Legionnaire)
+- [Dragunity Militum](db.ygoprodeck.com/card/?search=Dragunity%20Militum)
+- [Dragunity Partisan](db.ygoprodeck.com/card/?search=Dragunity%20Partisan)
+- [Dragunity Pilum](db.ygoprodeck.com/card/?search=Dragunity%20Pilum)
+- [Dragunity Primus Pilus](db.ygoprodeck.com/card/?search=Dragunity%20Primus%20Pilus)
+- [Dragunity Senatus](db.ygoprodeck.com/card/?search=Dragunity%20Senatus)
+- [Dragunity Tribus](db.ygoprodeck.com/card/?search=Dragunity%20Tribus)
+- [Draining Shield](db.ygoprodeck.com/card/?search=Draining%20Shield)
+- [Dramatic Rescue](db.ygoprodeck.com/card/?search=Dramatic%20Rescue)
+- [Drastic Drop Off](db.ygoprodeck.com/card/?search=Drastic%20Drop%20Off)
+- [Draw Discharge](db.ygoprodeck.com/card/?search=Draw%20Discharge)
+- [Draw Muscle](db.ygoprodeck.com/card/?search=Draw%20Muscle)
+- [Draw of Fate](db.ygoprodeck.com/card/?search=Draw%20of%20Fate)
+- [Dream Clown](db.ygoprodeck.com/card/?search=Dream%20Clown)
+- [Dream Mirror Fantasy](db.ygoprodeck.com/card/?search=Dream%20Mirror%20Fantasy)
+- [Dream Mirror of Chaos](db.ygoprodeck.com/card/?search=Dream%20Mirror%20of%20Chaos)
+- [Dream Mirror Recap](db.ygoprodeck.com/card/?search=Dream%20Mirror%20Recap)
+- [Dreamsprite](db.ygoprodeck.com/card/?search=Dreamsprite)
+- [Drill Barnacle](db.ygoprodeck.com/card/?search=Drill%20Barnacle)
+- [Drill Bug](db.ygoprodeck.com/card/?search=Drill%20Bug)
+- [Drill Driver Vespenato](db.ygoprodeck.com/card/?search=Drill%20Driver%20Vespenato)
+- [Drill Synchron](db.ygoprodeck.com/card/?search=Drill%20Synchron)
+- [Drillago](db.ygoprodeck.com/card/?search=Drillago)
+- [Drillroid](db.ygoprodeck.com/card/?search=Drillroid)
+- [Driving Snow](db.ygoprodeck.com/card/?search=Driving%20Snow)
+- [Droll & Lock Bird](db.ygoprodeck.com/card/?search=Droll%20&%20Lock%20Bird)
+- [Drooling Lizard](db.ygoprodeck.com/card/?search=Drooling%20Lizard)
+- [Drop Off](db.ygoprodeck.com/card/?search=Drop%20Off)
+- [Drowning Mirror Force](db.ygoprodeck.com/card/?search=Drowning%20Mirror%20Force)
+- [Dual Assembwurm](db.ygoprodeck.com/card/?search=Dual%20Assembwurm)
+- [Dual Avatar Ascendance](db.ygoprodeck.com/card/?search=Dual%20Avatar%20Ascendance)
+- [Dual Avatar Compact](db.ygoprodeck.com/card/?search=Dual%20Avatar%20Compact)
+- [Dual Avatar Defeating Evil](db.ygoprodeck.com/card/?search=Dual%20Avatar%20Defeating%20Evil)
+- [Dual Avatar Return](db.ygoprodeck.com/card/?search=Dual%20Avatar%20Return)
+- [Duck Dummy](db.ygoprodeck.com/card/?search=Duck%20Dummy)
+- [DUCKER Mobile Cannon](db.ygoprodeck.com/card/?search=DUCKER%20Mobile%20Cannon)
+- [Duelist Alliance](db.ygoprodeck.com/card/?search=Duelist%20Alliance)
+- [Duelittle Chimera](db.ygoprodeck.com/card/?search=Duelittle%20Chimera)
+- [Duke Shade, the Sinister Shadow Lord](db.ygoprodeck.com/card/?search=Duke%20Shade,%20the%20Sinister%20Shadow%20Lord)
+- [Dummy Golem](db.ygoprodeck.com/card/?search=Dummy%20Golem)
+- [Dunames Dark Witch](db.ygoprodeck.com/card/?search=Dunames%20Dark%20Witch)
+- [Dungeon Worm](db.ygoprodeck.com/card/?search=Dungeon%20Worm)
+- [Dupe Frog](db.ygoprodeck.com/card/?search=Dupe%20Frog)
+- [Dust Barrier](db.ygoprodeck.com/card/?search=Dust%20Barrier)
+- [Dust Storm of Gusto](db.ygoprodeck.com/card/?search=Dust%20Storm%20of%20Gusto)
+- [Dust Tornado](db.ygoprodeck.com/card/?search=Dust%20Tornado)
+- [Dustflame Blast](db.ygoprodeck.com/card/?search=Dustflame%20Blast)
+- [Duston Roller](db.ygoprodeck.com/card/?search=Duston%20Roller)
+- [Dverg of the Nordic Alfar](db.ygoprodeck.com/card/?search=Dverg%20of%20the%20Nordic%20Alfar)
+- [Dwarf Star Dragon Planeter](db.ygoprodeck.com/card/?search=Dwarf%20Star%20Dragon%20Planeter)
+- [Dweller in the Depths](db.ygoprodeck.com/card/?search=Dweller%20in%20the%20Depths)
+- [Dwimmered Glimmer](db.ygoprodeck.com/card/?search=Dwimmered%20Glimmer)
+- [Dyna, Hero Fur Hire](db.ygoprodeck.com/card/?search=Dyna,%20Hero%20Fur%20Hire)
+- [E - Emergency Call](db.ygoprodeck.com/card/?search=E%20-%20Emergency%20Call)
+- [Eagle Eye](db.ygoprodeck.com/card/?search=Eagle%20Eye)
+- [Eagle Shark](db.ygoprodeck.com/card/?search=Eagle%20Shark)
+- [Earth Armor Ninja](db.ygoprodeck.com/card/?search=Earth%20Armor%20Ninja)
+- [Earth Chant](db.ygoprodeck.com/card/?search=Earth%20Chant)
+- [Earth Effigy](db.ygoprodeck.com/card/?search=Earth%20Effigy)
+- [Earthbound Immortal Revival](db.ygoprodeck.com/card/?search=Earthbound%20Immortal%20Revival)
+- [Earthbound Immortal Wiraqocha Rasca](db.ygoprodeck.com/card/?search=Earthbound%20Immortal%20Wiraqocha%20Rasca)
+- [Earthbound Spirit](db.ygoprodeck.com/card/?search=Earthbound%20Spirit)
+- [Earthbound Wave](db.ygoprodeck.com/card/?search=Earthbound%20Wave)
+- [Earthquake](db.ygoprodeck.com/card/?search=Earthquake)
+- [Earthquake Giant](db.ygoprodeck.com/card/?search=Earthquake%20Giant)
+- [Earthshaker](db.ygoprodeck.com/card/?search=Earthshaker)
+- [Eater of Millions](db.ygoprodeck.com/card/?search=Eater%20of%20Millions)
+- [Eatgaboon](db.ygoprodeck.com/card/?search=Eatgaboon)
+- [Ebon Arrow](db.ygoprodeck.com/card/?search=Ebon%20Arrow)
+- [Ebon Magician Curran](db.ygoprodeck.com/card/?search=Ebon%20Magician%20Curran)
+- [Echo Oscillation](db.ygoprodeck.com/card/?search=Echo%20Oscillation)
+- [Eco, Mystical Spirit of the Forest](db.ygoprodeck.com/card/?search=Eco,%20Mystical%20Spirit%20of%20the%20Forest)
+- [Ectoplasmer](db.ygoprodeck.com/card/?search=Ectoplasmer)
+- [Edge Hammer](db.ygoprodeck.com/card/?search=Edge%20Hammer)
+- [Edge Imp Chain](db.ygoprodeck.com/card/?search=Edge%20Imp%20Chain)
+- [Edge Imp Cotton Eater](db.ygoprodeck.com/card/?search=Edge%20Imp%20Cotton%20Eater)
+- [Edge Imp Frightfuloid](db.ygoprodeck.com/card/?search=Edge%20Imp%20Frightfuloid)
+- [Edge Imp Sabres](db.ygoprodeck.com/card/?search=Edge%20Imp%20Sabres)
+- [Edge Imp Saw](db.ygoprodeck.com/card/?search=Edge%20Imp%20Saw)
+- [Edge Imp Scythe](db.ygoprodeck.com/card/?search=Edge%20Imp%20Scythe)
+- [Edge of the Ring](db.ygoprodeck.com/card/?search=Edge%20of%20the%20Ring)
+- [Effect Veiler](db.ygoprodeck.com/card/?search=Effect%20Veiler)
+- [Ego Boost](db.ygoprodeck.com/card/?search=Ego%20Boost)
+- [Ehren, Lightsworn Monk](db.ygoprodeck.com/card/?search=Ehren,%20Lightsworn%20Monk)
+- [Eisbahn](db.ygoprodeck.com/card/?search=Eisbahn)
+- [Ekibyo Drakmord](db.ygoprodeck.com/card/?search=Ekibyo%20Drakmord)
+- [El Shaddoll Anoyatyllis](db.ygoprodeck.com/card/?search=El%20Shaddoll%20Anoyatyllis)
+- [El Shaddoll Fusion](db.ygoprodeck.com/card/?search=El%20Shaddoll%20Fusion)
+- [El Shaddoll Wendigo](db.ygoprodeck.com/card/?search=El%20Shaddoll%20Wendigo)
+- [Elborz, the Sacred Lands of Simorgh](db.ygoprodeck.com/card/?search=Elborz,%20the%20Sacred%20Lands%20of%20Simorgh)
+- [Elder of the Six Samurai](db.ygoprodeck.com/card/?search=Elder%20of%20the%20Six%20Samurai)
+- [Electric Lizard](db.ygoprodeck.com/card/?search=Electric%20Lizard)
+- [Electric Snake](db.ygoprodeck.com/card/?search=Electric%20Snake)
+- [Electric Virus](db.ygoprodeck.com/card/?search=Electric%20Virus)
+- [Electro-Whip](db.ygoprodeck.com/card/?search=Electro-Whip)
+- [Electromagnetic Bagworm](db.ygoprodeck.com/card/?search=Electromagnetic%20Bagworm)
+- [Electromagnetic Turtle](db.ygoprodeck.com/card/?search=Electromagnetic%20Turtle)
+- [Elegant Egotist](db.ygoprodeck.com/card/?search=Elegant%20Egotist)
+- [Elegy the Melodious Diva](db.ygoprodeck.com/card/?search=Elegy%20the%20Melodious%20Diva)
+- [Element Doom](db.ygoprodeck.com/card/?search=Element%20Doom)
+- [Element Dragon](db.ygoprodeck.com/card/?search=Element%20Dragon)
+- [Element Magician](db.ygoprodeck.com/card/?search=Element%20Magician)
+- [Element Saurus](db.ygoprodeck.com/card/?search=Element%20Saurus)
+- [Element Soldier](db.ygoprodeck.com/card/?search=Element%20Soldier)
+- [Element Valkyrie](db.ygoprodeck.com/card/?search=Element%20Valkyrie)
+- [Elemental Absorber](db.ygoprodeck.com/card/?search=Elemental%20Absorber)
+- [Elemental Burst](db.ygoprodeck.com/card/?search=Elemental%20Burst)
+- [Elemental HERO Absolute Zero](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Absolute%20Zero)
+- [Elemental HERO Avian](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Avian)
+- [Elemental HERO Bladedge](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Bladedge)
+- [Elemental HERO Blazeman](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Blazeman)
+- [Elemental HERO Bubbleman](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Bubbleman)
+- [Elemental HERO Burstinatrix](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Burstinatrix)
+- [Elemental HERO Captain Gold](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Captain%20Gold)
+- [Elemental HERO Clayman](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Clayman)
+- [Elemental HERO Darkbright](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Darkbright)
+- [Elemental HERO Divine Neos](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Divine%20Neos)
+- [Elemental HERO Electrum](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Electrum)
+- [Elemental HERO Escuridao](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Escuridao)
+- [Elemental HERO Flame Wingman](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Flame%20Wingman)
+- [Elemental HERO Flare Neos](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Flare%20Neos)
+- [Elemental HERO Flash](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Flash)
+- [Elemental HERO Gaia](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Gaia)
+- [Elemental HERO Great Tornado](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Great%20Tornado)
+- [Elemental HERO Heat](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Heat)
+- [Elemental HERO Ice Edge](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Ice%20Edge)
+- [Elemental HERO Lady Heat](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Lady%20Heat)
+- [Elemental HERO Marine Neos](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Marine%20Neos)
+- [Elemental HERO Mariner](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Mariner)
+- [Elemental HERO Mudballman](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Mudballman)
+- [Elemental HERO Necroid Shaman](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Necroid%20Shaman)
+- [Elemental HERO Necroshade](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Necroshade)
+- [Elemental HERO Neo Bubbleman](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Neo%20Bubbleman)
+- [Elemental HERO Neos](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Neos)
+- [Elemental HERO Neos Alius](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Neos%20Alius)
+- [Elemental HERO Ocean](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Ocean)
+- [Elemental HERO Plasma Vice](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Plasma%20Vice)
+- [Elemental HERO Prisma](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Prisma)
+- [Elemental HERO Shadow Mist](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Shadow%20Mist)
+- [Elemental HERO Sparkman](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Sparkman)
+- [Elemental HERO Storm Neos](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Storm%20Neos)
+- [Elemental HERO Stratos](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Stratos)
+- [Elemental HERO Thunder Giant](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Thunder%20Giant)
+- [Elemental HERO Voltic](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Voltic)
+- [Elemental HERO Wild Wingman](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Wild%20Wingman)
+- [Elemental HERO Wildedge](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Wildedge)
+- [Elemental HERO Wildheart](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Wildheart)
+- [Elemental HERO Woodsman](db.ygoprodeck.com/card/?search=Elemental%20HERO%20Woodsman)
+- [Elemental Recharge](db.ygoprodeck.com/card/?search=Elemental%20Recharge)
+- [Elementsaber Aina](db.ygoprodeck.com/card/?search=Elementsaber%20Aina)
+- [Elementsaber Malo](db.ygoprodeck.com/card/?search=Elementsaber%20Malo)
+- [Elephant Statue of Blessing](db.ygoprodeck.com/card/?search=Elephant%20Statue%20of%20Blessing)
+- [Elephant Statue of Disaster](db.ygoprodeck.com/card/?search=Elephant%20Statue%20of%20Disaster)
+- [Elephun](db.ygoprodeck.com/card/?search=Elephun)
+- [Eliminating the League](db.ygoprodeck.com/card/?search=Eliminating%20the%20League)
+- [Emblem of Dragon Destroyer](db.ygoprodeck.com/card/?search=Emblem%20of%20Dragon%20Destroyer)
+- [Emblem of the Awakening](db.ygoprodeck.com/card/?search=Emblem%20of%20the%20Awakening)
+- [Embodiment of Apophis](db.ygoprodeck.com/card/?search=Embodiment%20of%20Apophis)
+- [Emergency Assistance](db.ygoprodeck.com/card/?search=Emergency%20Assistance)
+- [Emergency Provisions](db.ygoprodeck.com/card/?search=Emergency%20Provisions)
+- [Emergeroid Call](db.ygoprodeck.com/card/?search=Emergeroid%20Call)
+- [Emerging Emergency Rescute Rescue](db.ygoprodeck.com/card/?search=Emerging%20Emergency%20Rescute%20Rescue)
+- [Emissary from Pandemonium](db.ygoprodeck.com/card/?search=Emissary%20from%20Pandemonium)
+- [Emissary of the Afterlife](db.ygoprodeck.com/card/?search=Emissary%20of%20the%20Afterlife)
+- [Emissary of the Oasis](db.ygoprodeck.com/card/?search=Emissary%20of%20the%20Oasis)
+- [Emperor Maju Garzett](db.ygoprodeck.com/card/?search=Emperor%20Maju%20Garzett)
+- [Emperor Sem](db.ygoprodeck.com/card/?search=Emperor%20Sem)
+- [Empowerment](db.ygoprodeck.com/card/?search=Empowerment)
+- [Empress Judge](db.ygoprodeck.com/card/?search=Empress%20Judge)
+- [Empress Mantis](db.ygoprodeck.com/card/?search=Empress%20Mantis)
+- [Empress of Prophecy](db.ygoprodeck.com/card/?search=Empress%20of%20Prophecy)
+- [Enchanted Javelin](db.ygoprodeck.com/card/?search=Enchanted%20Javelin)
+- [Enchanting Fitting Room](db.ygoprodeck.com/card/?search=Enchanting%20Fitting%20Room)
+- [Enchanting Mermaid](db.ygoprodeck.com/card/?search=Enchanting%20Mermaid)
+- [End of the World](db.ygoprodeck.com/card/?search=End%20of%20the%20World)
+- [Endless Decay](db.ygoprodeck.com/card/?search=Endless%20Decay)
+- [Endless Traps](db.ygoprodeck.com/card/?search=Endless%20Traps)
+- [Endymion's Lab](db.ygoprodeck.com/card/?search=Endymion's%20Lab)
+- [Endymion, the Master Magician](db.ygoprodeck.com/card/?search=Endymion,%20the%20Master%20Magician)
+- [Enemy Controller](db.ygoprodeck.com/card/?search=Enemy%20Controller)
+- [Energy Bravery](db.ygoprodeck.com/card/?search=Energy%20Bravery)
+- [Energy Drain](db.ygoprodeck.com/card/?search=Energy%20Drain)
+- [Engraver of the Mark](db.ygoprodeck.com/card/?search=Engraver%20of%20the%20Mark)
+- [Enishi, Shien's Chancellor](db.ygoprodeck.com/card/?search=Enishi,%20Shien's%20Chancellor)
+- [Enlightenment](db.ygoprodeck.com/card/?search=Enlightenment)
+- [Enraged Battle Ox](db.ygoprodeck.com/card/?search=Enraged%20Battle%20Ox)
+- [Enraged Muka Muka](db.ygoprodeck.com/card/?search=Enraged%20Muka%20Muka)
+- [Equip Shot](db.ygoprodeck.com/card/?search=Equip%20Shot)
+- [Eradicating Aerosol](db.ygoprodeck.com/card/?search=Eradicating%20Aerosol)
+- [Eradicator Epidemic Virus](db.ygoprodeck.com/card/?search=Eradicator%20Epidemic%20Virus)
+- [Eria the Water Charmer](db.ygoprodeck.com/card/?search=Eria%20the%20Water%20Charmer)
+- [Escalation of the Monarchs](db.ygoprodeck.com/card/?search=Escalation%20of%20the%20Monarchs)
+- [Escape from the Dark Dimension](db.ygoprodeck.com/card/?search=Escape%20from%20the%20Dark%20Dimension)
+- [Escape of the Unchained](db.ygoprodeck.com/card/?search=Escape%20of%20the%20Unchained)
+- [Escher the Frost Vassal](db.ygoprodeck.com/card/?search=Escher%20the%20Frost%20Vassal)
+- [ESP Amplifier](db.ygoprodeck.com/card/?search=ESP%20Amplifier)
+- [Esper Girl](db.ygoprodeck.com/card/?search=Esper%20Girl)
+- [Eternal Dread](db.ygoprodeck.com/card/?search=Eternal%20Dread)
+- [Eternal Drought](db.ygoprodeck.com/card/?search=Eternal%20Drought)
+- [Eternal Galaxy](db.ygoprodeck.com/card/?search=Eternal%20Galaxy)
+- [Eternal Rest](db.ygoprodeck.com/card/?search=Eternal%20Rest)
+- [Etoile Cyber](db.ygoprodeck.com/card/?search=Etoile%20Cyber)
+- [Euler's Circuit](db.ygoprodeck.com/card/?search=Euler's%20Circuit)
+- [Everliving Underworld Cannon](db.ygoprodeck.com/card/?search=Everliving%20Underworld%20Cannon)
+- [Evil Eye Confrontation](db.ygoprodeck.com/card/?search=Evil%20Eye%20Confrontation)
+- [Evil Eye of Gorgoneio](db.ygoprodeck.com/card/?search=Evil%20Eye%20of%20Gorgoneio)
+- [Evil Eye Reemergence](db.ygoprodeck.com/card/?search=Evil%20Eye%20Reemergence)
+- [Evil HERO Dark Gaia](db.ygoprodeck.com/card/?search=Evil%20HERO%20Dark%20Gaia)
+- [Evil HERO Infernal Gainer](db.ygoprodeck.com/card/?search=Evil%20HERO%20Infernal%20Gainer)
+- [Evil HERO Infernal Prodigy](db.ygoprodeck.com/card/?search=Evil%20HERO%20Infernal%20Prodigy)
+- [Evil HERO Malicious Edge](db.ygoprodeck.com/card/?search=Evil%20HERO%20Malicious%20Edge)
+- [Evil HERO Malicious Fiend](db.ygoprodeck.com/card/?search=Evil%20HERO%20Malicious%20Fiend)
+- [Evil Thorn](db.ygoprodeck.com/card/?search=Evil%20Thorn)
+- [Evilswarm Azzathoth](db.ygoprodeck.com/card/?search=Evilswarm%20Azzathoth)
+- [Evilswarm Heliotrope](db.ygoprodeck.com/card/?search=Evilswarm%20Heliotrope)
+- [Evilswarm Mandragora](db.ygoprodeck.com/card/?search=Evilswarm%20Mandragora)
+- [Evilswarm Nightmare](db.ygoprodeck.com/card/?search=Evilswarm%20Nightmare)
+- [Evilswarm O'lantern](db.ygoprodeck.com/card/?search=Evilswarm%20O'lantern)
+- [Evilswarm Obliviwisp](db.ygoprodeck.com/card/?search=Evilswarm%20Obliviwisp)
+- [Evilswarm Salamandra](db.ygoprodeck.com/card/?search=Evilswarm%20Salamandra)
+- [Evilswarm Thanatos](db.ygoprodeck.com/card/?search=Evilswarm%20Thanatos)
+- [Evilswarm Thunderbird](db.ygoprodeck.com/card/?search=Evilswarm%20Thunderbird)
+- [Evilswarm Zahak](db.ygoprodeck.com/card/?search=Evilswarm%20Zahak)
+- [Evo-Branch](db.ygoprodeck.com/card/?search=Evo-Branch)
+- [Evo-Karma](db.ygoprodeck.com/card/?search=Evo-Karma)
+- [Evo-Miracle](db.ygoprodeck.com/card/?search=Evo-Miracle)
+- [Evo-Singularity](db.ygoprodeck.com/card/?search=Evo-Singularity)
+- [Evocator Chevalier](db.ygoprodeck.com/card/?search=Evocator%20Chevalier)
+- [Evolsaur Darwino](db.ygoprodeck.com/card/?search=Evolsaur%20Darwino)
+- [Evolsaur Elias](db.ygoprodeck.com/card/?search=Evolsaur%20Elias)
+- [Evolsaur Terias](db.ygoprodeck.com/card/?search=Evolsaur%20Terias)
+- [Evoltile Gephyro](db.ygoprodeck.com/card/?search=Evoltile%20Gephyro)
+- [Evoltile Lagosucho](db.ygoprodeck.com/card/?search=Evoltile%20Lagosucho)
+- [Evoltile Megachirella](db.ygoprodeck.com/card/?search=Evoltile%20Megachirella)
+- [Evoltile Odonto](db.ygoprodeck.com/card/?search=Evoltile%20Odonto)
+- [Evoltile Pleuro](db.ygoprodeck.com/card/?search=Evoltile%20Pleuro)
+- [Evolution Burst](db.ygoprodeck.com/card/?search=Evolution%20Burst)
+- [Evolutionary Bridge](db.ygoprodeck.com/card/?search=Evolutionary%20Bridge)
+- [Exarion Universe](db.ygoprodeck.com/card/?search=Exarion%20Universe)
+- [Exchange](db.ygoprodeck.com/card/?search=Exchange)
+- [Exchange of Night and Day](db.ygoprodeck.com/card/?search=Exchange%20of%20Night%20and%20Day)
+- [Exchange of the Spirit](db.ygoprodeck.com/card/?search=Exchange%20of%20the%20Spirit)
+- [Execute Protocols](db.ygoprodeck.com/card/?search=Execute%20Protocols)
+- [Execution of the Contract](db.ygoprodeck.com/card/?search=Execution%20of%20the%20Contract)
+- [Exhausting Spell](db.ygoprodeck.com/card/?search=Exhausting%20Spell)
+- [Exile of the Wicked](db.ygoprodeck.com/card/?search=Exile%20of%20the%20Wicked)
+- [Exiled Force](db.ygoprodeck.com/card/?search=Exiled%20Force)
+- [Exodia Necross](db.ygoprodeck.com/card/?search=Exodia%20Necross)
+- [Exodius the Ultimate Forbidden Lord](db.ygoprodeck.com/card/?search=Exodius%20the%20Ultimate%20Forbidden%20Lord)
+- [Exploder Dragon](db.ygoprodeck.com/card/?search=Exploder%20Dragon)
+- [Exploderokket Dragon](db.ygoprodeck.com/card/?search=Exploderokket%20Dragon)
+- [Explosive Magician](db.ygoprodeck.com/card/?search=Explosive%20Magician)
+- [Explosive Urchin](db.ygoprodeck.com/card/?search=Explosive%20Urchin)
+- [Explossum](db.ygoprodeck.com/card/?search=Explossum)
+- [Express Train Trolley Olley](db.ygoprodeck.com/card/?search=Express%20Train%20Trolley%20Olley)
+- [Expressroid](db.ygoprodeck.com/card/?search=Expressroid)
+- [Exterio's Fang](db.ygoprodeck.com/card/?search=Exterio's%20Fang)
+- [Extinction on Schedule](db.ygoprodeck.com/card/?search=Extinction%20on%20Schedule)
+- [Extra Buck](db.ygoprodeck.com/card/?search=Extra%20Buck)
+- [Extra Net](db.ygoprodeck.com/card/?search=Extra%20Net)
+- [Extra Veiler](db.ygoprodeck.com/card/?search=Extra%20Veiler)
+- [Extraceratops](db.ygoprodeck.com/card/?search=Extraceratops)
+- [F.A. Auto Navigator](db.ygoprodeck.com/card/?search=F.A.%20Auto%20Navigator)
+- [F.A. Circuit Grand Prix](db.ygoprodeck.com/card/?search=F.A.%20Circuit%20Grand%20Prix)
+- [F.A. City Grand Prix](db.ygoprodeck.com/card/?search=F.A.%20City%20Grand%20Prix)
+- [F.A. Dark Dragster](db.ygoprodeck.com/card/?search=F.A.%20Dark%20Dragster)
+- [F.A. Dead Heat](db.ygoprodeck.com/card/?search=F.A.%20Dead%20Heat)
+- [F.A. Downforce](db.ygoprodeck.com/card/?search=F.A.%20Downforce)
+- [F.A. Hang On Mach](db.ygoprodeck.com/card/?search=F.A.%20Hang%20On%20Mach)
+- [F.A. Motorhome Transport](db.ygoprodeck.com/card/?search=F.A.%20Motorhome%20Transport)
+- [F.A. Off-Road Grand Prix](db.ygoprodeck.com/card/?search=F.A.%20Off-Road%20Grand%20Prix)
+- [F.A. Overheat](db.ygoprodeck.com/card/?search=F.A.%20Overheat)
+- [F.A. Pit Stop](db.ygoprodeck.com/card/?search=F.A.%20Pit%20Stop)
+- [F.A. Shining Star GT](db.ygoprodeck.com/card/?search=F.A.%20Shining%20Star%20GT)
+- [F.A. Sonic Meister](db.ygoprodeck.com/card/?search=F.A.%20Sonic%20Meister)
+- [F.A. Test Run](db.ygoprodeck.com/card/?search=F.A.%20Test%20Run)
+- [F.A. Turbo Charger](db.ygoprodeck.com/card/?search=F.A.%20Turbo%20Charger)
+- [F.A. Whip Crosser](db.ygoprodeck.com/card/?search=F.A.%20Whip%20Crosser)
+- [F.A. Winners](db.ygoprodeck.com/card/?search=F.A.%20Winners)
+- [Fabled Ashenveil](db.ygoprodeck.com/card/?search=Fabled%20Ashenveil)
+- [Fabled Dyf](db.ygoprodeck.com/card/?search=Fabled%20Dyf)
+- [Fabled Grimro](db.ygoprodeck.com/card/?search=Fabled%20Grimro)
+- [Fabled Krus](db.ygoprodeck.com/card/?search=Fabled%20Krus)
+- [Fabled Kushano](db.ygoprodeck.com/card/?search=Fabled%20Kushano)
+- [Fabled Lurrie](db.ygoprodeck.com/card/?search=Fabled%20Lurrie)
+- [Fabled Marcosia](db.ygoprodeck.com/card/?search=Fabled%20Marcosia)
+- [Fabled Miztoji](db.ygoprodeck.com/card/?search=Fabled%20Miztoji)
+- [Fabled Oltro](db.ygoprodeck.com/card/?search=Fabled%20Oltro)
+- [Fabled Ragin](db.ygoprodeck.com/card/?search=Fabled%20Ragin)
+- [Fabled Raven](db.ygoprodeck.com/card/?search=Fabled%20Raven)
+- [Fabled Topi](db.ygoprodeck.com/card/?search=Fabled%20Topi)
+- [Fabled Treason](db.ygoprodeck.com/card/?search=Fabled%20Treason)
+- [Fabled Urustos](db.ygoprodeck.com/card/?search=Fabled%20Urustos)
+- [Factory of 100 Machines](db.ygoprodeck.com/card/?search=Factory%20of%20100%20Machines)
+- [Fairy Archer](db.ygoprodeck.com/card/?search=Fairy%20Archer)
+- [Fairy Archer Ingunar](db.ygoprodeck.com/card/?search=Fairy%20Archer%20Ingunar)
+- [Fairy Box](db.ygoprodeck.com/card/?search=Fairy%20Box)
+- [Fairy Dragon](db.ygoprodeck.com/card/?search=Fairy%20Dragon)
+- [Fairy Guardian](db.ygoprodeck.com/card/?search=Fairy%20Guardian)
+- [Fairy Meteor Crush](db.ygoprodeck.com/card/?search=Fairy%20Meteor%20Crush)
+- [Fairy of the Spring](db.ygoprodeck.com/card/?search=Fairy%20of%20the%20Spring)
+- [Fairy Tail - Luna](db.ygoprodeck.com/card/?search=Fairy%20Tail%20-%20Luna)
+- [Fairy Tail - Rella](db.ygoprodeck.com/card/?search=Fairy%20Tail%20-%20Rella)
+- [Fairy Tail - Sleeper](db.ygoprodeck.com/card/?search=Fairy%20Tail%20-%20Sleeper)
+- [Fairy Wind](db.ygoprodeck.com/card/?search=Fairy%20Wind)
+- [Fairy's Gift](db.ygoprodeck.com/card/?search=Fairy's%20Gift)
+- [Fairy's Hand Mirror](db.ygoprodeck.com/card/?search=Fairy's%20Hand%20Mirror)
+- [Faith Bird](db.ygoprodeck.com/card/?search=Faith%20Bird)
+- [Fake Explosion](db.ygoprodeck.com/card/?search=Fake%20Explosion)
+- [Fake Feather](db.ygoprodeck.com/card/?search=Fake%20Feather)
+- [Fake Hero](db.ygoprodeck.com/card/?search=Fake%20Hero)
+- [Fake Trap](db.ygoprodeck.com/card/?search=Fake%20Trap)
+- [Falchion Beta](db.ygoprodeck.com/card/?search=Falchion%20Beta)
+- [Fallen Angel of Roses](db.ygoprodeck.com/card/?search=Fallen%20Angel%20of%20Roses)
+- [Fallen Paradise](db.ygoprodeck.com/card/?search=Fallen%20Paradise)
+- [Falling Current](db.ygoprodeck.com/card/?search=Falling%20Current)
+- [Falling Down](db.ygoprodeck.com/card/?search=Falling%20Down)
+- [Familiar Knight](db.ygoprodeck.com/card/?search=Familiar%20Knight)
+- [Familiar-Possessed - Aussa](db.ygoprodeck.com/card/?search=Familiar-Possessed%20-%20Aussa)
+- [Familiar-Possessed - Dharc](db.ygoprodeck.com/card/?search=Familiar-Possessed%20-%20Dharc)
+- [Familiar-Possessed - Eria](db.ygoprodeck.com/card/?search=Familiar-Possessed%20-%20Eria)
+- [Familiar-Possessed - Hiita](db.ygoprodeck.com/card/?search=Familiar-Possessed%20-%20Hiita)
+- [Familiar-Possessed - Lyna](db.ygoprodeck.com/card/?search=Familiar-Possessed%20-%20Lyna)
+- [Familiar-Possessed - Wynn](db.ygoprodeck.com/card/?search=Familiar-Possessed%20-%20Wynn)
+- [Fandora, the Flying Furtress](db.ygoprodeck.com/card/?search=Fandora,%20the%20Flying%20Furtress)
+- [Farfa, Malebranche of the Burning Abyss](db.ygoprodeck.com/card/?search=Farfa,%20Malebranche%20of%20the%20Burning%20Abyss)
+- [Fatal Abacus](db.ygoprodeck.com/card/?search=Fatal%20Abacus)
+- [Faustian Bargain](db.ygoprodeck.com/card/?search=Faustian%20Bargain)
+- [Fear from the Dark](db.ygoprodeck.com/card/?search=Fear%20from%20the%20Dark)
+- [Feast of the Wild LV5](db.ygoprodeck.com/card/?search=Feast%20of%20the%20Wild%20LV5)
+- [Feather Shot](db.ygoprodeck.com/card/?search=Feather%20Shot)
+- [Feather Wind](db.ygoprodeck.com/card/?search=Feather%20Wind)
+- [Feedback Warrior](db.ygoprodeck.com/card/?search=Feedback%20Warrior)
+- [Feedran, the Winds of Mischief](db.ygoprodeck.com/card/?search=Feedran,%20the%20Winds%20of%20Mischief)
+- [Felgrand Dragon](db.ygoprodeck.com/card/?search=Felgrand%20Dragon)
+- [Felis, Lightsworn Archer](db.ygoprodeck.com/card/?search=Felis,%20Lightsworn%20Archer)
+- [Fencing Fire Ferret](db.ygoprodeck.com/card/?search=Fencing%20Fire%20Ferret)
+- [Fengli the Soldrapom](db.ygoprodeck.com/card/?search=Fengli%20the%20Soldrapom)
+- [Fengsheng Mirror](db.ygoprodeck.com/card/?search=Fengsheng%20Mirror)
+- [Fenrir](db.ygoprodeck.com/card/?search=Fenrir)
+- [Feral Imp](db.ygoprodeck.com/card/?search=Feral%20Imp)
+- [Ferret Flames](db.ygoprodeck.com/card/?search=Ferret%20Flames)
+- [Field Barrier](db.ygoprodeck.com/card/?search=Field%20Barrier)
+- [Field-Commander Rahz](db.ygoprodeck.com/card/?search=Field-Commander%20Rahz)
+- [Fiend Comedian](db.ygoprodeck.com/card/?search=Fiend%20Comedian)
+- [Fiend Griefing](db.ygoprodeck.com/card/?search=Fiend%20Griefing)
+- [Fiend Reflection #2](db.ygoprodeck.com/card/?search=Fiend%20Reflection%20#2)
+- [Fiend Scorpion](db.ygoprodeck.com/card/?search=Fiend%20Scorpion)
+- [Fiend Skull Dragon](db.ygoprodeck.com/card/?search=Fiend%20Skull%20Dragon)
+- [Fiend's Hand Mirror](db.ygoprodeck.com/card/?search=Fiend's%20Hand%20Mirror)
+- [Fiend's Sanctuary](db.ygoprodeck.com/card/?search=Fiend's%20Sanctuary)
+- [Fiendish Chain](db.ygoprodeck.com/card/?search=Fiendish%20Chain)
+- [Fiendish Engine Omega](db.ygoprodeck.com/card/?search=Fiendish%20Engine%20Omega)
+- [Fiendish Rhino Warrior](db.ygoprodeck.com/card/?search=Fiendish%20Rhino%20Warrior)
+- [Fiery Fervor](db.ygoprodeck.com/card/?search=Fiery%20Fervor)
+- [Fighting Dirty](db.ygoprodeck.com/card/?search=Fighting%20Dirty)
+- [Fighting Spirit](db.ygoprodeck.com/card/?search=Fighting%20Spirit)
+- [Final Attack Orders](db.ygoprodeck.com/card/?search=Final%20Attack%20Orders)
+- [Final Destiny](db.ygoprodeck.com/card/?search=Final%20Destiny)
+- [Final Draw](db.ygoprodeck.com/card/?search=Final%20Draw)
+- [Final Flame](db.ygoprodeck.com/card/?search=Final%20Flame)
+- [Final Fusion](db.ygoprodeck.com/card/?search=Final%20Fusion)
+- [Final Gesture](db.ygoprodeck.com/card/?search=Final%20Gesture)
+- [Final Psychic Ogre](db.ygoprodeck.com/card/?search=Final%20Psychic%20Ogre)
+- [Final Ritual of the Ancients](db.ygoprodeck.com/card/?search=Final%20Ritual%20of%20the%20Ancients)
+- [Fine](db.ygoprodeck.com/card/?search=Fine)
+- [Finite Cards](db.ygoprodeck.com/card/?search=Finite%20Cards)
+- [Fire Ant Ascator](db.ygoprodeck.com/card/?search=Fire%20Ant%20Ascator)
+- [Fire Cracker](db.ygoprodeck.com/card/?search=Fire%20Cracker)
+- [Fire Darts](db.ygoprodeck.com/card/?search=Fire%20Darts)
+- [Fire Fighting Daruma Doll](db.ygoprodeck.com/card/?search=Fire%20Fighting%20Daruma%20Doll)
+- [Fire Formation - Kaiyo](db.ygoprodeck.com/card/?search=Fire%20Formation%20-%20Kaiyo)
+- [Fire Formation - Tenken](db.ygoprodeck.com/card/?search=Fire%20Formation%20-%20Tenken)
+- [Fire Formation - Tensen](db.ygoprodeck.com/card/?search=Fire%20Formation%20-%20Tensen)
+- [Fire Formation - Tensu](db.ygoprodeck.com/card/?search=Fire%20Formation%20-%20Tensu)
+- [Fire Hand](db.ygoprodeck.com/card/?search=Fire%20Hand)
+- [Fire King Avatar Barong](db.ygoprodeck.com/card/?search=Fire%20King%20Avatar%20Barong)
+- [Fire King Avatar Garunix](db.ygoprodeck.com/card/?search=Fire%20King%20Avatar%20Garunix)
+- [Fire King Avatar Kirin](db.ygoprodeck.com/card/?search=Fire%20King%20Avatar%20Kirin)
+- [Fire King Island](db.ygoprodeck.com/card/?search=Fire%20King%20Island)
+- [Fire Kraken](db.ygoprodeck.com/card/?search=Fire%20Kraken)
+- [Fire Princess](db.ygoprodeck.com/card/?search=Fire%20Princess)
+- [Fire Prison](db.ygoprodeck.com/card/?search=Fire%20Prison)
+- [Fire Reaper](db.ygoprodeck.com/card/?search=Fire%20Reaper)
+- [Fire Sorcerer](db.ygoprodeck.com/card/?search=Fire%20Sorcerer)
+- [Fire Trooper](db.ygoprodeck.com/card/?search=Fire%20Trooper)
+- [Firebird](db.ygoprodeck.com/card/?search=Firebird)
+- [Firegrass](db.ygoprodeck.com/card/?search=Firegrass)
+- [Fires of Doomsday](db.ygoprodeck.com/card/?search=Fires%20of%20Doomsday)
+- [Firestorm Prominence](db.ygoprodeck.com/card/?search=Firestorm%20Prominence)
+- [Firewall Guardian](db.ygoprodeck.com/card/?search=Firewall%20Guardian)
+- [Fireyarou](db.ygoprodeck.com/card/?search=Fireyarou)
+- [First of the Dragons](db.ygoprodeck.com/card/?search=First%20of%20the%20Dragons)
+- [First Step Towards Infestation](db.ygoprodeck.com/card/?search=First%20Step%20Towards%20Infestation)
+- [First-Aid Squad](db.ygoprodeck.com/card/?search=First-Aid%20Squad)
+- [Fish and Kicks](db.ygoprodeck.com/card/?search=Fish%20and%20Kicks)
+- [Fish Depth Charge](db.ygoprodeck.com/card/?search=Fish%20Depth%20Charge)
+- [Fish Rain](db.ygoprodeck.com/card/?search=Fish%20Rain)
+- [Fishborg Archer](db.ygoprodeck.com/card/?search=Fishborg%20Archer)
+- [Fishborg Doctor](db.ygoprodeck.com/card/?search=Fishborg%20Doctor)
+- [Fishborg Launcher](db.ygoprodeck.com/card/?search=Fishborg%20Launcher)
+- [Fishborg Planter](db.ygoprodeck.com/card/?search=Fishborg%20Planter)
+- [Fissure](db.ygoprodeck.com/card/?search=Fissure)
+- [Fists of the Unrivaled Tenyi](db.ygoprodeck.com/card/?search=Fists%20of%20the%20Unrivaled%20Tenyi)
+- [Five Brothers Explosion](db.ygoprodeck.com/card/?search=Five%20Brothers%20Explosion)
+- [Five-Headed Dragon](db.ygoprodeck.com/card/?search=Five-Headed%20Dragon)
+- [Flame Administrator](db.ygoprodeck.com/card/?search=Flame%20Administrator)
+- [Flame Armor Ninja](db.ygoprodeck.com/card/?search=Flame%20Armor%20Ninja)
+- [Flame Bufferlo](db.ygoprodeck.com/card/?search=Flame%20Bufferlo)
+- [Flame Cerebrus](db.ygoprodeck.com/card/?search=Flame%20Cerebrus)
+- [Flame Champion](db.ygoprodeck.com/card/?search=Flame%20Champion)
+- [Flame Dancer](db.ygoprodeck.com/card/?search=Flame%20Dancer)
+- [Flame Manipulator](db.ygoprodeck.com/card/?search=Flame%20Manipulator)
+- [Flame Ogre](db.ygoprodeck.com/card/?search=Flame%20Ogre)
+- [Flame Ruler](db.ygoprodeck.com/card/?search=Flame%20Ruler)
+- [Flame Swordsman](db.ygoprodeck.com/card/?search=Flame%20Swordsman)
+- [Flame Tiger](db.ygoprodeck.com/card/?search=Flame%20Tiger)
+- [Flame Viper](db.ygoprodeck.com/card/?search=Flame%20Viper)
+- [Flamvell Archer](db.ygoprodeck.com/card/?search=Flamvell%20Archer)
+- [Flamvell Baby](db.ygoprodeck.com/card/?search=Flamvell%20Baby)
+- [Flamvell Counter](db.ygoprodeck.com/card/?search=Flamvell%20Counter)
+- [Flamvell Dragnov](db.ygoprodeck.com/card/?search=Flamvell%20Dragnov)
+- [Flamvell Fiend](db.ygoprodeck.com/card/?search=Flamvell%20Fiend)
+- [Flamvell Firedog](db.ygoprodeck.com/card/?search=Flamvell%20Firedog)
+- [Flamvell Grunika](db.ygoprodeck.com/card/?search=Flamvell%20Grunika)
+- [Flamvell Guard](db.ygoprodeck.com/card/?search=Flamvell%20Guard)
+- [Flamvell Magician](db.ygoprodeck.com/card/?search=Flamvell%20Magician)
+- [Flamvell Poun](db.ygoprodeck.com/card/?search=Flamvell%20Poun)
+- [Flare Resonator](db.ygoprodeck.com/card/?search=Flare%20Resonator)
+- [Flash Assailant](db.ygoprodeck.com/card/?search=Flash%20Assailant)
+- [Flash Fusion](db.ygoprodeck.com/card/?search=Flash%20Fusion)
+- [Flash Knight](db.ygoprodeck.com/card/?search=Flash%20Knight)
+- [Flashbang](db.ygoprodeck.com/card/?search=Flashbang)
+- [Flawless Perfection of the Tenyi](db.ygoprodeck.com/card/?search=Flawless%20Perfection%20of%20the%20Tenyi)
+- [Flelf](db.ygoprodeck.com/card/?search=Flelf)
+- [Fleur Synchron](db.ygoprodeck.com/card/?search=Fleur%20Synchron)
+- [Flick Clown](db.ygoprodeck.com/card/?search=Flick%20Clown)
+- [Flight of the Harpies](db.ygoprodeck.com/card/?search=Flight%20of%20the%20Harpies)
+- [Flint](db.ygoprodeck.com/card/?search=Flint)
+- [Flint Lock](db.ygoprodeck.com/card/?search=Flint%20Lock)
+- [Flint Missile](db.ygoprodeck.com/card/?search=Flint%20Missile)
+- [Flip Flop Frog](db.ygoprodeck.com/card/?search=Flip%20Flop%20Frog)
+- [Flip Frozen](db.ygoprodeck.com/card/?search=Flip%20Frozen)
+- [Floodgate Trap Hole](db.ygoprodeck.com/card/?search=Floodgate%20Trap%20Hole)
+- [Floowandereeze & Stri](db.ygoprodeck.com/card/?search=Floowandereeze%20&%20Stri)
+- [Floowandereeze & Toccan](db.ygoprodeck.com/card/?search=Floowandereeze%20&%20Toccan)
+- [Flourishing Frolic](db.ygoprodeck.com/card/?search=Flourishing%20Frolic)
+- [Flower Cardian Cherry Blossom with Curtain](db.ygoprodeck.com/card/?search=Flower%20Cardian%20Cherry%20Blossom%20with%20Curtain)
+- [Flower Cardian Clover with Boar](db.ygoprodeck.com/card/?search=Flower%20Cardian%20Clover%20with%20Boar)
+- [Flower Cardian Maple with Deer](db.ygoprodeck.com/card/?search=Flower%20Cardian%20Maple%20with%20Deer)
+- [Flower Cardian Moonflowerviewing](db.ygoprodeck.com/card/?search=Flower%20Cardian%20Moonflowerviewing)
+- [Flower Cardian Paulownia](db.ygoprodeck.com/card/?search=Flower%20Cardian%20Paulownia)
+- [Flower Cardian Paulownia with Phoenix](db.ygoprodeck.com/card/?search=Flower%20Cardian%20Paulownia%20with%20Phoenix)
+- [Flower Cardian Peony with Butterfly](db.ygoprodeck.com/card/?search=Flower%20Cardian%20Peony%20with%20Butterfly)
+- [Flower Cardian Pine](db.ygoprodeck.com/card/?search=Flower%20Cardian%20Pine)
+- [Flower Cardian Pine with Crane](db.ygoprodeck.com/card/?search=Flower%20Cardian%20Pine%20with%20Crane)
+- [Flower Cardian Willow](db.ygoprodeck.com/card/?search=Flower%20Cardian%20Willow)
+- [Flower Cardian Willow with Calligrapher](db.ygoprodeck.com/card/?search=Flower%20Cardian%20Willow%20with%20Calligrapher)
+- [Flower Cardian Zebra Grass](db.ygoprodeck.com/card/?search=Flower%20Cardian%20Zebra%20Grass)
+- [Flower Cardian Zebra Grass with Moon](db.ygoprodeck.com/card/?search=Flower%20Cardian%20Zebra%20Grass%20with%20Moon)
+- [Flower Gathering](db.ygoprodeck.com/card/?search=Flower%20Gathering)
+- [Flower Stacking](db.ygoprodeck.com/card/?search=Flower%20Stacking)
+- [Fluffal Bear](db.ygoprodeck.com/card/?search=Fluffal%20Bear)
+- [Fluffal Cat](db.ygoprodeck.com/card/?search=Fluffal%20Cat)
+- [Fluffal Crane](db.ygoprodeck.com/card/?search=Fluffal%20Crane)
+- [Fluffal Dolphin](db.ygoprodeck.com/card/?search=Fluffal%20Dolphin)
+- [Fluffal Leo](db.ygoprodeck.com/card/?search=Fluffal%20Leo)
+- [Fluffal Rabbit](db.ygoprodeck.com/card/?search=Fluffal%20Rabbit)
+- [Fluffal Sheep](db.ygoprodeck.com/card/?search=Fluffal%20Sheep)
+- [Fluffal Wings](db.ygoprodeck.com/card/?search=Fluffal%20Wings)
+- [Flyfang](db.ygoprodeck.com/card/?search=Flyfang)
+- [Flying "C"](db.ygoprodeck.com/card/?search=Flying%20"C")
+- [Flying Fish](db.ygoprodeck.com/card/?search=Flying%20Fish)
+- [Flying Kamakiri #1](db.ygoprodeck.com/card/?search=Flying%20Kamakiri%20#1)
+- [Flying Kamakiri #2](db.ygoprodeck.com/card/?search=Flying%20Kamakiri%20#2)
+- [Flying Pegasus Railroad Stampede](db.ygoprodeck.com/card/?search=Flying%20Pegasus%20Railroad%20Stampede)
+- [Flying Penguin](db.ygoprodeck.com/card/?search=Flying%20Penguin)
+- [Flying Red Carp](db.ygoprodeck.com/card/?search=Flying%20Red%20Carp)
+- [Flying Saucer Muusik'i](db.ygoprodeck.com/card/?search=Flying%20Saucer%20Muusik'i)
+- [Fog Control](db.ygoprodeck.com/card/?search=Fog%20Control)
+- [Follow Wind](db.ygoprodeck.com/card/?search=Follow%20Wind)
+- [Follow Wing](db.ygoprodeck.com/card/?search=Follow%20Wing)
+- [Foolish Burial Goods](db.ygoprodeck.com/card/?search=Foolish%20Burial%20Goods)
+- [Foolish Revival](db.ygoprodeck.com/card/?search=Foolish%20Revival)
+- [Forbidden Apocrypha](db.ygoprodeck.com/card/?search=Forbidden%20Apocrypha)
+- [Forbidden Arts of the Gishki](db.ygoprodeck.com/card/?search=Forbidden%20Arts%20of%20the%20Gishki)
+- [Forbidden Chalice](db.ygoprodeck.com/card/?search=Forbidden%20Chalice)
+- [Forbidden Dark Contract with the Swamp King](db.ygoprodeck.com/card/?search=Forbidden%20Dark%20Contract%20with%20the%20Swamp%20King)
+- [Forbidden Dress](db.ygoprodeck.com/card/?search=Forbidden%20Dress)
+- [Forbidden Lance](db.ygoprodeck.com/card/?search=Forbidden%20Lance)
+- [Forbidden Scripture](db.ygoprodeck.com/card/?search=Forbidden%20Scripture)
+- [Force Resonator](db.ygoprodeck.com/card/?search=Force%20Resonator)
+- [Forced Requisition](db.ygoprodeck.com/card/?search=Forced%20Requisition)
+- [Forest](db.ygoprodeck.com/card/?search=Forest)
+- [Forge of the True Dracos](db.ygoprodeck.com/card/?search=Forge%20of%20the%20True%20Dracos)
+- [Forgotten Temple of the Deep](db.ygoprodeck.com/card/?search=Forgotten%20Temple%20of%20the%20Deep)
+- [Form Change](db.ygoprodeck.com/card/?search=Form%20Change)
+- [Formation Union](db.ygoprodeck.com/card/?search=Formation%20Union)
+- [Formud Skipper](db.ygoprodeck.com/card/?search=Formud%20Skipper)
+- [Formula Synchron](db.ygoprodeck.com/card/?search=Formula%20Synchron)
+- [Fortissimo](db.ygoprodeck.com/card/?search=Fortissimo)
+- [Fortissimo the Mobile Fortress](db.ygoprodeck.com/card/?search=Fortissimo%20the%20Mobile%20Fortress)
+- [Fortress Warrior](db.ygoprodeck.com/card/?search=Fortress%20Warrior)
+- [Fortress Whale](db.ygoprodeck.com/card/?search=Fortress%20Whale)
+- [Fortress Whale's Oath](db.ygoprodeck.com/card/?search=Fortress%20Whale's%20Oath)
+- [Fortune Lady Dark](db.ygoprodeck.com/card/?search=Fortune%20Lady%20Dark)
+- [Fortune Lady Earth](db.ygoprodeck.com/card/?search=Fortune%20Lady%20Earth)
+- [Fortune Lady Fire](db.ygoprodeck.com/card/?search=Fortune%20Lady%20Fire)
+- [Fortune Lady Water](db.ygoprodeck.com/card/?search=Fortune%20Lady%20Water)
+- [Fortune Lady Wind](db.ygoprodeck.com/card/?search=Fortune%20Lady%20Wind)
+- [Fossil Dig](db.ygoprodeck.com/card/?search=Fossil%20Dig)
+- [Fossil Dyna Pachycephalo](db.ygoprodeck.com/card/?search=Fossil%20Dyna%20Pachycephalo)
+- [Fossil Excavation](db.ygoprodeck.com/card/?search=Fossil%20Excavation)
+- [Foucault's Cannon](db.ygoprodeck.com/card/?search=Foucault's%20Cannon)
+- [Fox Fire](db.ygoprodeck.com/card/?search=Fox%20Fire)
+- [Fragment Fusion](db.ygoprodeck.com/card/?search=Fragment%20Fusion)
+- [Fragrance Storm](db.ygoprodeck.com/card/?search=Fragrance%20Storm)
+- [Fraud Freeze](db.ygoprodeck.com/card/?search=Fraud%20Freeze)
+- [Free-Range Monsters](db.ygoprodeck.com/card/?search=Free-Range%20Monsters)
+- [Freed the Brave Wanderer](db.ygoprodeck.com/card/?search=Freed%20the%20Brave%20Wanderer)
+- [Freed the Matchless General](db.ygoprodeck.com/card/?search=Freed%20the%20Matchless%20General)
+- [Freezing Beast](db.ygoprodeck.com/card/?search=Freezing%20Beast)
+- [Freezing Chains of the Ice Barrier](db.ygoprodeck.com/card/?search=Freezing%20Chains%20of%20the%20Ice%20Barrier)
+- [Frenzied Panda](db.ygoprodeck.com/card/?search=Frenzied%20Panda)
+- [Frequency Magician](db.ygoprodeck.com/card/?search=Frequency%20Magician)
+- [Freya, Spirit of Victory](db.ygoprodeck.com/card/?search=Freya,%20Spirit%20of%20Victory)
+- [Frightfur Bear](db.ygoprodeck.com/card/?search=Frightfur%20Bear)
+- [Frightfur Chimera](db.ygoprodeck.com/card/?search=Frightfur%20Chimera)
+- [Frightfur Cruel Whale](db.ygoprodeck.com/card/?search=Frightfur%20Cruel%20Whale)
+- [Frightfur Factory](db.ygoprodeck.com/card/?search=Frightfur%20Factory)
+- [Frightfur Fusion](db.ygoprodeck.com/card/?search=Frightfur%20Fusion)
+- [Frightfur Jar](db.ygoprodeck.com/card/?search=Frightfur%20Jar)
+- [Frightfur Leo](db.ygoprodeck.com/card/?search=Frightfur%20Leo)
+- [Frightfur March](db.ygoprodeck.com/card/?search=Frightfur%20March)
+- [Frightfur Repair](db.ygoprodeck.com/card/?search=Frightfur%20Repair)
+- [Frightfur Sanctuary](db.ygoprodeck.com/card/?search=Frightfur%20Sanctuary)
+- [Frightfur Sheep](db.ygoprodeck.com/card/?search=Frightfur%20Sheep)
+- [Friller Rabca](db.ygoprodeck.com/card/?search=Friller%20Rabca)
+- [Frontier Wiseman](db.ygoprodeck.com/card/?search=Frontier%20Wiseman)
+- [Frontline Base](db.ygoprodeck.com/card/?search=Frontline%20Base)
+- [Frostosaurus](db.ygoprodeck.com/card/?search=Frostosaurus)
+- [Frozen Soul](db.ygoprodeck.com/card/?search=Frozen%20Soul)
+- [Fruits of Kozaky's Studies](db.ygoprodeck.com/card/?search=Fruits%20of%20Kozaky's%20Studies)
+- [Fuh-Rin-Ka-Zan](db.ygoprodeck.com/card/?search=Fuh-Rin-Ka-Zan)
+- [Fuhma Shuriken](db.ygoprodeck.com/card/?search=Fuhma%20Shuriken)
+- [Fuhma Wave](db.ygoprodeck.com/card/?search=Fuhma%20Wave)
+- [Fukubiki](db.ygoprodeck.com/card/?search=Fukubiki)
+- [Fulfillment of the Contract](db.ygoprodeck.com/card/?search=Fulfillment%20of%20the%20Contract)
+- [Full Force Virus](db.ygoprodeck.com/card/?search=Full%20Force%20Virus)
+- [Full Salvo](db.ygoprodeck.com/card/?search=Full%20Salvo)
+- [Full-Force Strike](db.ygoprodeck.com/card/?search=Full-Force%20Strike)
+- [Fury of Fire](db.ygoprodeck.com/card/?search=Fury%20of%20Fire)
+- [Fury of Kairyu-Shin](db.ygoprodeck.com/card/?search=Fury%20of%20Kairyu-Shin)
+- [Fury of Thunder](db.ygoprodeck.com/card/?search=Fury%20of%20Thunder)
+- [Fushi No Tori](db.ygoprodeck.com/card/?search=Fushi%20No%20Tori)
+- [Fusilier Dragon, the Dual-Mode Beast](db.ygoprodeck.com/card/?search=Fusilier%20Dragon,%20the%20Dual-Mode%20Beast)
+- [Fusion Fright Waltz](db.ygoprodeck.com/card/?search=Fusion%20Fright%20Waltz)
+- [Fusion Gate](db.ygoprodeck.com/card/?search=Fusion%20Gate)
+- [Fusion of Fire](db.ygoprodeck.com/card/?search=Fusion%20of%20Fire)
+- [Fusion Party!](db.ygoprodeck.com/card/?search=Fusion%20Party!)
+- [Fusion Recovery](db.ygoprodeck.com/card/?search=Fusion%20Recovery)
+- [Fusion Recycling Plant](db.ygoprodeck.com/card/?search=Fusion%20Recycling%20Plant)
+- [Fusion Reserve](db.ygoprodeck.com/card/?search=Fusion%20Reserve)
+- [Fusion Sage](db.ygoprodeck.com/card/?search=Fusion%20Sage)
+- [Fusion Substitute](db.ygoprodeck.com/card/?search=Fusion%20Substitute)
+- [Fusion Sword Murasame Blade](db.ygoprodeck.com/card/?search=Fusion%20Sword%20Murasame%20Blade)
+- [Fusion Tag](db.ygoprodeck.com/card/?search=Fusion%20Tag)
+- [Fusion Weapon](db.ygoprodeck.com/card/?search=Fusion%20Weapon)
+- [Fusionist](db.ygoprodeck.com/card/?search=Fusionist)
+- [Future Fusion](db.ygoprodeck.com/card/?search=Future%20Fusion)
+- [Future Glow](db.ygoprodeck.com/card/?search=Future%20Glow)
+- [Future Samurai](db.ygoprodeck.com/card/?search=Future%20Samurai)
+- [Future Visions](db.ygoprodeck.com/card/?search=Future%20Visions)
+- [G.B. Hunter](db.ygoprodeck.com/card/?search=G.B.%20Hunter)
+- [Gaap the Divine Soldier](db.ygoprodeck.com/card/?search=Gaap%20the%20Divine%20Soldier)
+- [Gadget Arms](db.ygoprodeck.com/card/?search=Gadget%20Arms)
+- [Gadget Driver](db.ygoprodeck.com/card/?search=Gadget%20Driver)
+- [Gadget Hauler](db.ygoprodeck.com/card/?search=Gadget%20Hauler)
+- [Gadget Soldier](db.ygoprodeck.com/card/?search=Gadget%20Soldier)
+- [Gagaga Child](db.ygoprodeck.com/card/?search=Gagaga%20Child)
+- [Gagaga Gardna](db.ygoprodeck.com/card/?search=Gagaga%20Gardna)
+- [Gagaga Girl](db.ygoprodeck.com/card/?search=Gagaga%20Girl)
+- [Gagaga Magician](db.ygoprodeck.com/card/?search=Gagaga%20Magician)
+- [Gagaga Samurai](db.ygoprodeck.com/card/?search=Gagaga%20Samurai)
+- [Gagagabolt](db.ygoprodeck.com/card/?search=Gagagabolt)
+- [Gagagarevenge](db.ygoprodeck.com/card/?search=Gagagarevenge)
+- [Gagagarush](db.ygoprodeck.com/card/?search=Gagagarush)
+- [Gagagashield](db.ygoprodeck.com/card/?search=Gagagashield)
+- [Gagagatag](db.ygoprodeck.com/card/?search=Gagagatag)
+- [Gagagawind](db.ygoprodeck.com/card/?search=Gagagawind)
+- [Gagagigo](db.ygoprodeck.com/card/?search=Gagagigo)
+- [Gaia Knight, the Force of Earth](db.ygoprodeck.com/card/?search=Gaia%20Knight,%20the%20Force%20of%20Earth)
+- [Gaia Power](db.ygoprodeck.com/card/?search=Gaia%20Power)
+- [Gaia Soul the Combustible Collective](db.ygoprodeck.com/card/?search=Gaia%20Soul%20the%20Combustible%20Collective)
+- [Gaia the Dragon Champion](db.ygoprodeck.com/card/?search=Gaia%20the%20Dragon%20Champion)
+- [Gaia The Fierce Knight](db.ygoprodeck.com/card/?search=Gaia%20The%20Fierce%20Knight)
+- [Gaia the Magical Knight](db.ygoprodeck.com/card/?search=Gaia%20the%20Magical%20Knight)
+- [Gaia, the Mid-Knight Sun](db.ygoprodeck.com/card/?search=Gaia,%20the%20Mid-Knight%20Sun)
+- [Gaia, the Polar Knight](db.ygoprodeck.com/card/?search=Gaia,%20the%20Polar%20Knight)
+- [Gaiarmor Dragonshell](db.ygoprodeck.com/card/?search=Gaiarmor%20Dragonshell)
+- [Galactic Charity](db.ygoprodeck.com/card/?search=Galactic%20Charity)
+- [Galactic Spiral Dragon](db.ygoprodeck.com/card/?search=Galactic%20Spiral%20Dragon)
+- [Galaxy Brave](db.ygoprodeck.com/card/?search=Galaxy%20Brave)
+- [Galaxy Cleric](db.ygoprodeck.com/card/?search=Galaxy%20Cleric)
+- [Galaxy Cyclone](db.ygoprodeck.com/card/?search=Galaxy%20Cyclone)
+- [Galaxy Dragon](db.ygoprodeck.com/card/?search=Galaxy%20Dragon)
+- [Galaxy Mirror Sage](db.ygoprodeck.com/card/?search=Galaxy%20Mirror%20Sage)
+- [Galaxy Queen's Light](db.ygoprodeck.com/card/?search=Galaxy%20Queen's%20Light)
+- [Galaxy Serpent](db.ygoprodeck.com/card/?search=Galaxy%20Serpent)
+- [Galaxy Storm](db.ygoprodeck.com/card/?search=Galaxy%20Storm)
+- [Galaxy Trance](db.ygoprodeck.com/card/?search=Galaxy%20Trance)
+- [Galaxy Wave](db.ygoprodeck.com/card/?search=Galaxy%20Wave)
+- [Galaxy Wizard](db.ygoprodeck.com/card/?search=Galaxy%20Wizard)
+- [Galaxy Worm](db.ygoprodeck.com/card/?search=Galaxy%20Worm)
+- [Galaxy Zero](db.ygoprodeck.com/card/?search=Galaxy%20Zero)
+- [Galaxy-Eyes Photon Dragon](db.ygoprodeck.com/card/?search=Galaxy-Eyes%20Photon%20Dragon)
+- [Gale Dogra](db.ygoprodeck.com/card/?search=Gale%20Dogra)
+- [Gale Lizard](db.ygoprodeck.com/card/?search=Gale%20Lizard)
+- [Gallis the Star Beast](db.ygoprodeck.com/card/?search=Gallis%20the%20Star%20Beast)
+- [Galloping Gaia](db.ygoprodeck.com/card/?search=Galloping%20Gaia)
+- [Gamble](db.ygoprodeck.com/card/?search=Gamble)
+- [Gambler of Legend](db.ygoprodeck.com/card/?search=Gambler%20of%20Legend)
+- [Gamma the Magnet Warrior](db.ygoprodeck.com/card/?search=Gamma%20the%20Magnet%20Warrior)
+- [Gamushara](db.ygoprodeck.com/card/?search=Gamushara)
+- [Ganbara Knight](db.ygoprodeck.com/card/?search=Ganbara%20Knight)
+- [Ganbara Lancer](db.ygoprodeck.com/card/?search=Ganbara%20Lancer)
+- [Gandora the Dragon of Destruction](db.ygoprodeck.com/card/?search=Gandora%20the%20Dragon%20of%20Destruction)
+- [Garbage Collector](db.ygoprodeck.com/card/?search=Garbage%20Collector)
+- [Garbage Lord](db.ygoprodeck.com/card/?search=Garbage%20Lord)
+- [Garbage Ogre](db.ygoprodeck.com/card/?search=Garbage%20Ogre)
+- [Garma Sword Oath](db.ygoprodeck.com/card/?search=Garma%20Sword%20Oath)
+- [Garmr of the Nordic Beasts](db.ygoprodeck.com/card/?search=Garmr%20of%20the%20Nordic%20Beasts)
+- [Garoozis](db.ygoprodeck.com/card/?search=Garoozis)
+- [Garoth, Lightsworn Warrior](db.ygoprodeck.com/card/?search=Garoth,%20Lightsworn%20Warrior)
+- [Garuda the Wind Spirit](db.ygoprodeck.com/card/?search=Garuda%20the%20Wind%20Spirit)
+- [Garum the Storm Vassal](db.ygoprodeck.com/card/?search=Garum%20the%20Storm%20Vassal)
+- [Gatchiri @Ignister](db.ygoprodeck.com/card/?search=Gatchiri%20@Ignister)
+- [Gate Blocker](db.ygoprodeck.com/card/?search=Gate%20Blocker)
+- [Gate Guardian](db.ygoprodeck.com/card/?search=Gate%20Guardian)
+- [Gatekeeper](db.ygoprodeck.com/card/?search=Gatekeeper)
+- [Gateway Dragon](db.ygoprodeck.com/card/?search=Gateway%20Dragon)
+- [Gateway to Dark World](db.ygoprodeck.com/card/?search=Gateway%20to%20Dark%20World)
+- [Gather Your Mind](db.ygoprodeck.com/card/?search=Gather%20Your%20Mind)
+- [Gatling Dragon](db.ygoprodeck.com/card/?search=Gatling%20Dragon)
+- [Gauntlet Warrior](db.ygoprodeck.com/card/?search=Gauntlet%20Warrior)
+- [Gazelle the King of Mythical Beasts](db.ygoprodeck.com/card/?search=Gazelle%20the%20King%20of%20Mythical%20Beasts)
+- [Gazer Shark](db.ygoprodeck.com/card/?search=Gazer%20Shark)
+- [Gear Gigant X](db.ygoprodeck.com/card/?search=Gear%20Gigant%20X)
+- [Gear Golem the Moving Fortress](db.ygoprodeck.com/card/?search=Gear%20Golem%20the%20Moving%20Fortress)
+- [Gearfried the Iron Knight](db.ygoprodeck.com/card/?search=Gearfried%20the%20Iron%20Knight)
+- [Gearfried the Swordmaster](db.ygoprodeck.com/card/?search=Gearfried%20the%20Swordmaster)
+- [Geargia Change](db.ygoprodeck.com/card/?search=Geargia%20Change)
+- [Geargiaccelerator](db.ygoprodeck.com/card/?search=Geargiaccelerator)
+- [Geargiagear](db.ygoprodeck.com/card/?search=Geargiagear)
+- [Geargianchor](db.ygoprodeck.com/card/?search=Geargianchor)
+- [Geargiano](db.ygoprodeck.com/card/?search=Geargiano)
+- [Geargiano Mk-II](db.ygoprodeck.com/card/?search=Geargiano%20Mk-II)
+- [Geargiarmor](db.ygoprodeck.com/card/?search=Geargiarmor)
+- [Geargiarsenal](db.ygoprodeck.com/card/?search=Geargiarsenal)
+- [Geargiauger](db.ygoprodeck.com/card/?search=Geargiauger)
+- [Gearspring Spirit](db.ygoprodeck.com/card/?search=Gearspring%20Spirit)
+- [Geartown](db.ygoprodeck.com/card/?search=Geartown)
+- [Gellenduo](db.ygoprodeck.com/card/?search=Gellenduo)
+- [Gem Flash Energy](db.ygoprodeck.com/card/?search=Gem%20Flash%20Energy)
+- [Gem-Elephant](db.ygoprodeck.com/card/?search=Gem-Elephant)
+- [Gem-Knight Amber](db.ygoprodeck.com/card/?search=Gem-Knight%20Amber)
+- [Gem-Knight Fusion](db.ygoprodeck.com/card/?search=Gem-Knight%20Fusion)
+- [Gem-Knight Garnet](db.ygoprodeck.com/card/?search=Gem-Knight%20Garnet)
+- [Gem-Knight Iolite](db.ygoprodeck.com/card/?search=Gem-Knight%20Iolite)
+- [Gem-Knight Lapis](db.ygoprodeck.com/card/?search=Gem-Knight%20Lapis)
+- [Gem-Knight Lazuli](db.ygoprodeck.com/card/?search=Gem-Knight%20Lazuli)
+- [Gem-Knight Obsidian](db.ygoprodeck.com/card/?search=Gem-Knight%20Obsidian)
+- [Gem-Knight Pearl](db.ygoprodeck.com/card/?search=Gem-Knight%20Pearl)
+- [Gem-Knight Sapphire](db.ygoprodeck.com/card/?search=Gem-Knight%20Sapphire)
+- [Gem-Knight Sardonyx](db.ygoprodeck.com/card/?search=Gem-Knight%20Sardonyx)
+- [Gem-Knight Seraphinite](db.ygoprodeck.com/card/?search=Gem-Knight%20Seraphinite)
+- [Gem-Knight Tourmaline](db.ygoprodeck.com/card/?search=Gem-Knight%20Tourmaline)
+- [Gem-Merchant](db.ygoprodeck.com/card/?search=Gem-Merchant)
+- [Gem-Turtle](db.ygoprodeck.com/card/?search=Gem-Turtle)
+- [Gemini Booster](db.ygoprodeck.com/card/?search=Gemini%20Booster)
+- [Gemini Counter](db.ygoprodeck.com/card/?search=Gemini%20Counter)
+- [Gemini Elf](db.ygoprodeck.com/card/?search=Gemini%20Elf)
+- [Gemini Imps](db.ygoprodeck.com/card/?search=Gemini%20Imps)
+- [Gemini Lancer](db.ygoprodeck.com/card/?search=Gemini%20Lancer)
+- [Gemini Soldier](db.ygoprodeck.com/card/?search=Gemini%20Soldier)
+- [Gemini Spark](db.ygoprodeck.com/card/?search=Gemini%20Spark)
+- [Gemini Summoner](db.ygoprodeck.com/card/?search=Gemini%20Summoner)
+- [Gemini Trap Hole](db.ygoprodeck.com/card/?search=Gemini%20Trap%20Hole)
+- [Geminize Lord Golknight](db.ygoprodeck.com/card/?search=Geminize%20Lord%20Golknight)
+- [Gendo the Ascetic Monk](db.ygoprodeck.com/card/?search=Gendo%20the%20Ascetic%20Monk)
+- [Gene-Warped Warwolf](db.ygoprodeck.com/card/?search=Gene-Warped%20Warwolf)
+- [General Gantala of the Ice Barrier](db.ygoprodeck.com/card/?search=General%20Gantala%20of%20the%20Ice%20Barrier)
+- [General Grunard of the Ice Barrier](db.ygoprodeck.com/card/?search=General%20Grunard%20of%20the%20Ice%20Barrier)
+- [General Raiho of the Ice Barrier](db.ygoprodeck.com/card/?search=General%20Raiho%20of%20the%20Ice%20Barrier)
+- [General Wayne of the Ice Barrier](db.ygoprodeck.com/card/?search=General%20Wayne%20of%20the%20Ice%20Barrier)
+- [Generation Force](db.ygoprodeck.com/card/?search=Generation%20Force)
+- [Generation Shift](db.ygoprodeck.com/card/?search=Generation%20Shift)
+- [Genesis Dragon](db.ygoprodeck.com/card/?search=Genesis%20Dragon)
+- [Genetic Woman](db.ygoprodeck.com/card/?search=Genetic%20Woman)
+- [Genex Ally Changer](db.ygoprodeck.com/card/?search=Genex%20Ally%20Changer)
+- [Genex Ally Chemistrer](db.ygoprodeck.com/card/?search=Genex%20Ally%20Chemistrer)
+- [Genex Ally Crusher](db.ygoprodeck.com/card/?search=Genex%20Ally%20Crusher)
+- [Genex Ally Solid](db.ygoprodeck.com/card/?search=Genex%20Ally%20Solid)
+- [Genex Ally Volcannon](db.ygoprodeck.com/card/?search=Genex%20Ally%20Volcannon)
+- [Genex Blastfan](db.ygoprodeck.com/card/?search=Genex%20Blastfan)
+- [Genex Controller](db.ygoprodeck.com/card/?search=Genex%20Controller)
+- [Genex Doctor](db.ygoprodeck.com/card/?search=Genex%20Doctor)
+- [Genex Gaia](db.ygoprodeck.com/card/?search=Genex%20Gaia)
+- [Genex Neutron](db.ygoprodeck.com/card/?search=Genex%20Neutron)
+- [Genex Power Planner](db.ygoprodeck.com/card/?search=Genex%20Power%20Planner)
+- [Genex Recycled](db.ygoprodeck.com/card/?search=Genex%20Recycled)
+- [Genex Searcher](db.ygoprodeck.com/card/?search=Genex%20Searcher)
+- [Genex Spare](db.ygoprodeck.com/card/?search=Genex%20Spare)
+- [Genex Undine](db.ygoprodeck.com/card/?search=Genex%20Undine)
+- [Genex Worker](db.ygoprodeck.com/card/?search=Genex%20Worker)
+- [Gentlemander](db.ygoprodeck.com/card/?search=Gentlemander)
+- [Geomancer of the Ice Barrier](db.ygoprodeck.com/card/?search=Geomancer%20of%20the%20Ice%20Barrier)
+- [Geonator Transverser](db.ygoprodeck.com/card/?search=Geonator%20Transverser)
+- [Gergonne's End](db.ygoprodeck.com/card/?search=Gergonne's%20End)
+- [Germ Infection](db.ygoprodeck.com/card/?search=Germ%20Infection)
+- [Gernia](db.ygoprodeck.com/card/?search=Gernia)
+- [Get Your Game On!](db.ygoprodeck.com/card/?search=Get%20Your%20Game%20On!)
+- [Getsu Fuhma](db.ygoprodeck.com/card/?search=Getsu%20Fuhma)
+- [Ghost Beef](db.ygoprodeck.com/card/?search=Ghost%20Beef)
+- [Ghost Gardna](db.ygoprodeck.com/card/?search=Ghost%20Gardna)
+- [Ghost Knight of Jackal](db.ygoprodeck.com/card/?search=Ghost%20Knight%20of%20Jackal)
+- [Ghost Meets Girl - A Mayakashi's Manuscript](db.ygoprodeck.com/card/?search=Ghost%20Meets%20Girl%20-%20A%20Mayakashi's%20Manuscript)
+- [Ghostrick Doll](db.ygoprodeck.com/card/?search=Ghostrick%20Doll)
+- [Ghostrick Fairy](db.ygoprodeck.com/card/?search=Ghostrick%20Fairy)
+- [Ghostrick Jackfrost](db.ygoprodeck.com/card/?search=Ghostrick%20Jackfrost)
+- [Ghostrick Jiangshi](db.ygoprodeck.com/card/?search=Ghostrick%20Jiangshi)
+- [Ghostrick Mansion](db.ygoprodeck.com/card/?search=Ghostrick%20Mansion)
+- [Ghostrick Mummy](db.ygoprodeck.com/card/?search=Ghostrick%20Mummy)
+- [Ghostrick Museum](db.ygoprodeck.com/card/?search=Ghostrick%20Museum)
+- [Ghostrick Nekomusume](db.ygoprodeck.com/card/?search=Ghostrick%20Nekomusume)
+- [Ghostrick Night](db.ygoprodeck.com/card/?search=Ghostrick%20Night)
+- [Ghostrick Parade](db.ygoprodeck.com/card/?search=Ghostrick%20Parade)
+- [Ghostrick Renovation](db.ygoprodeck.com/card/?search=Ghostrick%20Renovation)
+- [Ghostrick Scare](db.ygoprodeck.com/card/?search=Ghostrick%20Scare)
+- [Ghostrick Skeleton](db.ygoprodeck.com/card/?search=Ghostrick%20Skeleton)
+- [Ghostrick Specter](db.ygoprodeck.com/card/?search=Ghostrick%20Specter)
+- [Ghostrick Stein](db.ygoprodeck.com/card/?search=Ghostrick%20Stein)
+- [Ghostrick Vanish](db.ygoprodeck.com/card/?search=Ghostrick%20Vanish)
+- [Ghostrick Warwolf](db.ygoprodeck.com/card/?search=Ghostrick%20Warwolf)
+- [Ghostrick Witch](db.ygoprodeck.com/card/?search=Ghostrick%20Witch)
+- [Ghostrick Yeti](db.ygoprodeck.com/card/?search=Ghostrick%20Yeti)
+- [Ghostrick Yuki-onna](db.ygoprodeck.com/card/?search=Ghostrick%20Yuki-onna)
+- [Ghosts From the Past](db.ygoprodeck.com/card/?search=Ghosts%20From%20the%20Past)
+- [Giant Axe Mummy](db.ygoprodeck.com/card/?search=Giant%20Axe%20Mummy)
+- [Giant Ballpark](db.ygoprodeck.com/card/?search=Giant%20Ballpark)
+- [Giant Flea](db.ygoprodeck.com/card/?search=Giant%20Flea)
+- [Giant Germ](db.ygoprodeck.com/card/?search=Giant%20Germ)
+- [Giant Kozaky](db.ygoprodeck.com/card/?search=Giant%20Kozaky)
+- [Giant Mech-Soldier](db.ygoprodeck.com/card/?search=Giant%20Mech-Soldier)
+- [Giant Orc](db.ygoprodeck.com/card/?search=Giant%20Orc)
+- [Giant Rat](db.ygoprodeck.com/card/?search=Giant%20Rat)
+- [Giant Soldier of Stone](db.ygoprodeck.com/card/?search=Giant%20Soldier%20of%20Stone)
+- [Giant Starfall](db.ygoprodeck.com/card/?search=Giant%20Starfall)
+- [Giant Trap Hole](db.ygoprodeck.com/card/?search=Giant%20Trap%20Hole)
+- [Giant Turtle Who Feeds on Flames](db.ygoprodeck.com/card/?search=Giant%20Turtle%20Who%20Feeds%20on%20Flames)
+- [Gift Card](db.ygoprodeck.com/card/?search=Gift%20Card)
+- [Gift Exchange](db.ygoprodeck.com/card/?search=Gift%20Exchange)
+- [Gift of the Martyr](db.ygoprodeck.com/card/?search=Gift%20of%20the%20Martyr)
+- [Gift of the Mystical Elf](db.ygoprodeck.com/card/?search=Gift%20of%20the%20Mystical%20Elf)
+- [Giga Gagagigo](db.ygoprodeck.com/card/?search=Giga%20Gagagigo)
+- [Giga-Tech Wolf](db.ygoprodeck.com/card/?search=Giga-Tech%20Wolf)
+- [Gigantes](db.ygoprodeck.com/card/?search=Gigantes)
+- [Gigantic Cephalotus](db.ygoprodeck.com/card/?search=Gigantic%20Cephalotus)
+- [Giganto](db.ygoprodeck.com/card/?search=Giganto)
+- [Gigastone Omega](db.ygoprodeck.com/card/?search=Gigastone%20Omega)
+- [Gigathunder Giclops](db.ygoprodeck.com/card/?search=Gigathunder%20Giclops)
+- [Gigobyte](db.ygoprodeck.com/card/?search=Gigobyte)
+- [Gil Garth](db.ygoprodeck.com/card/?search=Gil%20Garth)
+- [Gilasaurus](db.ygoprodeck.com/card/?search=Gilasaurus)
+- [Gilford the Legend](db.ygoprodeck.com/card/?search=Gilford%20the%20Legend)
+- [Gilford the Lightning](db.ygoprodeck.com/card/?search=Gilford%20the%20Lightning)
+- [Gillagillancer](db.ygoprodeck.com/card/?search=Gillagillancer)
+- [Giltia the D. Knight](db.ygoprodeck.com/card/?search=Giltia%20the%20D.%20Knight)
+- [Gimmick Puppet Des Troy](db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Des%20Troy)
+- [Gimmick Puppet Dreary Doll](db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Dreary%20Doll)
+- [Gimmick Puppet Humpty Dumpty](db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Humpty%20Dumpty)
+- [Gimmick Puppet Magnet Doll](db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Magnet%20Doll)
+- [Girochin Kuwagata](db.ygoprodeck.com/card/?search=Girochin%20Kuwagata)
+- [Gishki Abyss](db.ygoprodeck.com/card/?search=Gishki%20Abyss)
+- [Gishki Aquamirror](db.ygoprodeck.com/card/?search=Gishki%20Aquamirror)
+- [Gishki Ariel](db.ygoprodeck.com/card/?search=Gishki%20Ariel)
+- [Gishki Avance](db.ygoprodeck.com/card/?search=Gishki%20Avance)
+- [Gishki Beast](db.ygoprodeck.com/card/?search=Gishki%20Beast)
+- [Gishki Mollusk](db.ygoprodeck.com/card/?search=Gishki%20Mollusk)
+- [Gishki Photomirror](db.ygoprodeck.com/card/?search=Gishki%20Photomirror)
+- [Gishki Reliever](db.ygoprodeck.com/card/?search=Gishki%20Reliever)
+- [Gishki Shadow](db.ygoprodeck.com/card/?search=Gishki%20Shadow)
+- [Gishki Vanity](db.ygoprodeck.com/card/?search=Gishki%20Vanity)
+- [Gishki Vision](db.ygoprodeck.com/card/?search=Gishki%20Vision)
+- [Gizmek Makami, the Ferocious Fanged Fortress](db.ygoprodeck.com/card/?search=Gizmek%20Makami,%20the%20Ferocious%20Fanged%20Fortress)
+- [Gizmek Orochi, the Serpentron Sky Slasher](db.ygoprodeck.com/card/?search=Gizmek%20Orochi,%20the%20Serpentron%20Sky%20Slasher)
+- [Gizmek Uka, the Festive Fox of Fecundity](db.ygoprodeck.com/card/?search=Gizmek%20Uka,%20the%20Festive%20Fox%20of%20Fecundity)
+- [Glacier Aqua Madoor](db.ygoprodeck.com/card/?search=Glacier%20Aqua%20Madoor)
+- [Gladiator Beast Andal](db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Andal)
+- [Gladiator Beast Attorix](db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Attorix)
+- [Gladiator Beast Bestiari](db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Bestiari)
+- [Gladiator Beast Charge](db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Charge)
+- [Gladiator Beast Darius](db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Darius)
+- [Gladiator Beast Dimacari](db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Dimacari)
+- [Gladiator Beast Dragases](db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Dragases)
+- [Gladiator Beast Equeste](db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Equeste)
+- [Gladiator Beast Heraklinos](db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Heraklinos)
+- [Gladiator Beast Hoplomus](db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Hoplomus)
+- [Gladiator Beast Lanista](db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Lanista)
+- [Gladiator Beast Laquari](db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Laquari)
+- [Gladiator Beast Murmillo](db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Murmillo)
+- [Gladiator Beast Sagittarii](db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Sagittarii)
+- [Gladiator Beast Samnite](db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Samnite)
+- [Gladiator Beast Secutor](db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Secutor)
+- [Gladiator Beast Tygerius](db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Tygerius)
+- [Gladiator Beast United](db.ygoprodeck.com/card/?search=Gladiator%20Beast%20United)
+- [Gladiator Beast Vespasius](db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Vespasius)
+- [Gladiator Beast War Chariot](db.ygoprodeck.com/card/?search=Gladiator%20Beast%20War%20Chariot)
+- [Gladiator Beast's Battle Archfiend Shield](db.ygoprodeck.com/card/?search=Gladiator%20Beast's%20Battle%20Archfiend%20Shield)
+- [Gladiator Beast's Battle Gladius](db.ygoprodeck.com/card/?search=Gladiator%20Beast's%20Battle%20Gladius)
+- [Gladiator Beast's Battle Halberd](db.ygoprodeck.com/card/?search=Gladiator%20Beast's%20Battle%20Halberd)
+- [Gladiator Beast's Comeback](db.ygoprodeck.com/card/?search=Gladiator%20Beast's%20Comeback)
+- [Gladiator Beast's Respite](db.ygoprodeck.com/card/?search=Gladiator%20Beast's%20Respite)
+- [Gladiator Lash](db.ygoprodeck.com/card/?search=Gladiator%20Lash)
+- [Gladiator Naumachia](db.ygoprodeck.com/card/?search=Gladiator%20Naumachia)
+- [Gladiator Proving Ground](db.ygoprodeck.com/card/?search=Gladiator%20Proving%20Ground)
+- [Gladiator's Return](db.ygoprodeck.com/card/?search=Gladiator's%20Return)
+- [Gleipnir, the Fetters of Fenrir](db.ygoprodeck.com/card/?search=Gleipnir,%20the%20Fetters%20of%20Fenrir)
+- [Glorious Illusion](db.ygoprodeck.com/card/?search=Glorious%20Illusion)
+- [Glowing Crossbow](db.ygoprodeck.com/card/?search=Glowing%20Crossbow)
+- [Gluttonous Reptolphin Greethys](db.ygoprodeck.com/card/?search=Gluttonous%20Reptolphin%20Greethys)
+- [Goblin Attack Force](db.ygoprodeck.com/card/?search=Goblin%20Attack%20Force)
+- [Goblin Calligrapher](db.ygoprodeck.com/card/?search=Goblin%20Calligrapher)
+- [Goblin Circus](db.ygoprodeck.com/card/?search=Goblin%20Circus)
+- [Goblin Decoy Squad](db.ygoprodeck.com/card/?search=Goblin%20Decoy%20Squad)
+- [Goblin Elite Attack Force](db.ygoprodeck.com/card/?search=Goblin%20Elite%20Attack%20Force)
+- [Goblin Fan](db.ygoprodeck.com/card/?search=Goblin%20Fan)
+- [Goblin King](db.ygoprodeck.com/card/?search=Goblin%20King)
+- [Goblin Marauding Squad](db.ygoprodeck.com/card/?search=Goblin%20Marauding%20Squad)
+- [Goblin of Greed](db.ygoprodeck.com/card/?search=Goblin%20of%20Greed)
+- [Goblin Out of the Frying Pan](db.ygoprodeck.com/card/?search=Goblin%20Out%20of%20the%20Frying%20Pan)
+- [Goblin Pothole Squad](db.ygoprodeck.com/card/?search=Goblin%20Pothole%20Squad)
+- [Goblin Recon Squad](db.ygoprodeck.com/card/?search=Goblin%20Recon%20Squad)
+- [Goblin Thief](db.ygoprodeck.com/card/?search=Goblin%20Thief)
+- [Goblin Zombie](db.ygoprodeck.com/card/?search=Goblin%20Zombie)
+- [Goblin's Secret Remedy](db.ygoprodeck.com/card/?search=Goblin's%20Secret%20Remedy)
+- [Goblindbergh](db.ygoprodeck.com/card/?search=Goblindbergh)
+- [Goddess Bow](db.ygoprodeck.com/card/?search=Goddess%20Bow)
+- [Goddess of Whim](db.ygoprodeck.com/card/?search=Goddess%20of%20Whim)
+- [Goddess with the Third Eye](db.ygoprodeck.com/card/?search=Goddess%20with%20the%20Third%20Eye)
+- [Goe Goe the Gallant Ninja](db.ygoprodeck.com/card/?search=Goe%20Goe%20the%20Gallant%20Ninja)
+- [Goggle Golem](db.ygoprodeck.com/card/?search=Goggle%20Golem)
+- [Gogiga Gagagigo](db.ygoprodeck.com/card/?search=Gogiga%20Gagagigo)
+- [Gogogo Aristera & Dexia](db.ygoprodeck.com/card/?search=Gogogo%20Aristera%20&%20Dexia)
+- [Gogogo Ghost](db.ygoprodeck.com/card/?search=Gogogo%20Ghost)
+- [Gogogo Giant](db.ygoprodeck.com/card/?search=Gogogo%20Giant)
+- [Gogogo Golem](db.ygoprodeck.com/card/?search=Gogogo%20Golem)
+- [Gogogo Golem - Golden Form](db.ygoprodeck.com/card/?search=Gogogo%20Golem%20-%20Golden%20Form)
+- [Gogogo Goram](db.ygoprodeck.com/card/?search=Gogogo%20Goram)
+- [Gogogo Talisman](db.ygoprodeck.com/card/?search=Gogogo%20Talisman)
+- [Goka, the Pyre of Malice](db.ygoprodeck.com/card/?search=Goka,%20the%20Pyre%20of%20Malice)
+- [Gokipole](db.ygoprodeck.com/card/?search=Gokipole)
+- [Gokipon](db.ygoprodeck.com/card/?search=Gokipon)
+- [Goldd, Wu-Lord of Dark World](db.ygoprodeck.com/card/?search=Goldd,%20Wu-Lord%20of%20Dark%20World)
+- [Golden Bamboo Sword](db.ygoprodeck.com/card/?search=Golden%20Bamboo%20Sword)
+- [Golden Dragon Summoner](db.ygoprodeck.com/card/?search=Golden%20Dragon%20Summoner)
+- [Golden Flying Fish](db.ygoprodeck.com/card/?search=Golden%20Flying%20Fish)
+- [Golden Gearbox](db.ygoprodeck.com/card/?search=Golden%20Gearbox)
+- [Golden Homunculus](db.ygoprodeck.com/card/?search=Golden%20Homunculus)
+- [Golden Ladybug](db.ygoprodeck.com/card/?search=Golden%20Ladybug)
+- [Goldenhair, the Newest Plunder Patroll](db.ygoprodeck.com/card/?search=Goldenhair,%20the%20Newest%20Plunder%20Patroll)
+- [Goldilocks the Battle Landscaper](db.ygoprodeck.com/card/?search=Goldilocks%20the%20Battle%20Landscaper)
+- [Golem Dragon](db.ygoprodeck.com/card/?search=Golem%20Dragon)
+- [Golem Sentry](db.ygoprodeck.com/card/?search=Golem%20Sentry)
+- [Gonogo](db.ygoprodeck.com/card/?search=Gonogo)
+- [Good Goblin Housekeeping](db.ygoprodeck.com/card/?search=Good%20Goblin%20Housekeeping)
+- [Googly-Eyes Drum Dragon](db.ygoprodeck.com/card/?search=Googly-Eyes%20Drum%20Dragon)
+- [Gora Turtle](db.ygoprodeck.com/card/?search=Gora%20Turtle)
+- [Gora Turtle of Illusion](db.ygoprodeck.com/card/?search=Gora%20Turtle%20of%20Illusion)
+- [Gorgon's Eye](db.ygoprodeck.com/card/?search=Gorgon's%20Eye)
+- [Gorgonic Cerberus](db.ygoprodeck.com/card/?search=Gorgonic%20Cerberus)
+- [Gorgonic Gargoyle](db.ygoprodeck.com/card/?search=Gorgonic%20Gargoyle)
+- [Gorgonic Ghoul](db.ygoprodeck.com/card/?search=Gorgonic%20Ghoul)
+- [Gorgonic Golem](db.ygoprodeck.com/card/?search=Gorgonic%20Golem)
+- [Gorgonic Guardian](db.ygoprodeck.com/card/?search=Gorgonic%20Guardian)
+- [Gotterdammerung](db.ygoprodeck.com/card/?search=Gotterdammerung)
+- [Gottoms' Emergency Call](db.ygoprodeck.com/card/?search=Gottoms'%20Emergency%20Call)
+- [Gouki Bearhug](db.ygoprodeck.com/card/?search=Gouki%20Bearhug)
+- [Gouki Destroy Ogre](db.ygoprodeck.com/card/?search=Gouki%20Destroy%20Ogre)
+- [Gouki Face Turn](db.ygoprodeck.com/card/?search=Gouki%20Face%20Turn)
+- [Gouki Finishing Move](db.ygoprodeck.com/card/?search=Gouki%20Finishing%20Move)
+- [Gouki Guts](db.ygoprodeck.com/card/?search=Gouki%20Guts)
+- [Gouki Headbatt](db.ygoprodeck.com/card/?search=Gouki%20Headbatt)
+- [Gouki Heel Ogre](db.ygoprodeck.com/card/?search=Gouki%20Heel%20Ogre)
+- [Gouki Iron Claw](db.ygoprodeck.com/card/?search=Gouki%20Iron%20Claw)
+- [Gouki Moonsault](db.ygoprodeck.com/card/?search=Gouki%20Moonsault)
+- [Gouki Octostretch](db.ygoprodeck.com/card/?search=Gouki%20Octostretch)
+- [Gouki Re-Match](db.ygoprodeck.com/card/?search=Gouki%20Re-Match)
+- [Gouki Ringtrainer](db.ygoprodeck.com/card/?search=Gouki%20Ringtrainer)
+- [Gouki Riscorpio](db.ygoprodeck.com/card/?search=Gouki%20Riscorpio)
+- [Gouki Suprex](db.ygoprodeck.com/card/?search=Gouki%20Suprex)
+- [Gouki Tagpartner](db.ygoprodeck.com/card/?search=Gouki%20Tagpartner)
+- [Gouki The Blade Ogre](db.ygoprodeck.com/card/?search=Gouki%20The%20Blade%20Ogre)
+- [Gouki The Giant Ogre](db.ygoprodeck.com/card/?search=Gouki%20The%20Giant%20Ogre)
+- [Gouki The Great Ogre](db.ygoprodeck.com/card/?search=Gouki%20The%20Great%20Ogre)
+- [Gouki The Powerload Ogre](db.ygoprodeck.com/card/?search=Gouki%20The%20Powerload%20Ogre)
+- [Gouki The Solid Ogre](db.ygoprodeck.com/card/?search=Gouki%20The%20Solid%20Ogre)
+- [Gouki Thunder Ogre](db.ygoprodeck.com/card/?search=Gouki%20Thunder%20Ogre)
+- [Gouki Twistcobra](db.ygoprodeck.com/card/?search=Gouki%20Twistcobra)
+- [Goyo Defender](db.ygoprodeck.com/card/?search=Goyo%20Defender)
+- [Gozen Match](db.ygoprodeck.com/card/?search=Gozen%20Match)
+- [Gozuki](db.ygoprodeck.com/card/?search=Gozuki)
+- [Graceful Dice](db.ygoprodeck.com/card/?search=Graceful%20Dice)
+- [Graceful Revival](db.ygoprodeck.com/card/?search=Graceful%20Revival)
+- [Graceful Tear](db.ygoprodeck.com/card/?search=Graceful%20Tear)
+- [Gradius](db.ygoprodeck.com/card/?search=Gradius)
+- [Gradius' Option](db.ygoprodeck.com/card/?search=Gradius'%20Option)
+- [Gragonith, Lightsworn Dragon](db.ygoprodeck.com/card/?search=Gragonith,%20Lightsworn%20Dragon)
+- [Granadora](db.ygoprodeck.com/card/?search=Granadora)
+- [Grand Convergence](db.ygoprodeck.com/card/?search=Grand%20Convergence)
+- [Grand Horn of Heaven](db.ygoprodeck.com/card/?search=Grand%20Horn%20of%20Heaven)
+- [Grand Tiki Elder](db.ygoprodeck.com/card/?search=Grand%20Tiki%20Elder)
+- [Grandmaster of the Six Samurai](db.ygoprodeck.com/card/?search=Grandmaster%20of%20the%20Six%20Samurai)
+- [Grandram](db.ygoprodeck.com/card/?search=Grandram)
+- [Granmarg the Rock Monarch](db.ygoprodeck.com/card/?search=Granmarg%20the%20Rock%20Monarch)
+- [Grappler Angler](db.ygoprodeck.com/card/?search=Grappler%20Angler)
+- [Grass Phantom](db.ygoprodeck.com/card/?search=Grass%20Phantom)
+- [Grave Lure](db.ygoprodeck.com/card/?search=Grave%20Lure)
+- [Grave of the Super Ancient Organism](db.ygoprodeck.com/card/?search=Grave%20of%20the%20Super%20Ancient%20Organism)
+- [Grave Protector](db.ygoprodeck.com/card/?search=Grave%20Protector)
+- [Grave Squirmer](db.ygoprodeck.com/card/?search=Grave%20Squirmer)
+- [Gravekeeper's Ambusher](db.ygoprodeck.com/card/?search=Gravekeeper's%20Ambusher)
+- [Gravekeeper's Assailant](db.ygoprodeck.com/card/?search=Gravekeeper's%20Assailant)
+- [Gravekeeper's Cannonholder](db.ygoprodeck.com/card/?search=Gravekeeper's%20Cannonholder)
+- [Gravekeeper's Chief](db.ygoprodeck.com/card/?search=Gravekeeper's%20Chief)
+- [Gravekeeper's Commandant](db.ygoprodeck.com/card/?search=Gravekeeper's%20Commandant)
+- [Gravekeeper's Curse](db.ygoprodeck.com/card/?search=Gravekeeper's%20Curse)
+- [Gravekeeper's Descendant](db.ygoprodeck.com/card/?search=Gravekeeper's%20Descendant)
+- [Gravekeeper's Guard](db.ygoprodeck.com/card/?search=Gravekeeper's%20Guard)
+- [Gravekeeper's Headman](db.ygoprodeck.com/card/?search=Gravekeeper's%20Headman)
+- [Gravekeeper's Lot](db.ygoprodeck.com/card/?search=Gravekeeper's%20Lot)
+- [Gravekeeper's Oracle](db.ygoprodeck.com/card/?search=Gravekeeper's%20Oracle)
+- [Gravekeeper's Priestess](db.ygoprodeck.com/card/?search=Gravekeeper's%20Priestess)
+- [Gravekeeper's Recruiter](db.ygoprodeck.com/card/?search=Gravekeeper's%20Recruiter)
+- [Gravekeeper's Servant](db.ygoprodeck.com/card/?search=Gravekeeper's%20Servant)
+- [Gravekeeper's Shaman](db.ygoprodeck.com/card/?search=Gravekeeper's%20Shaman)
+- [Gravekeeper's Spear Soldier](db.ygoprodeck.com/card/?search=Gravekeeper's%20Spear%20Soldier)
+- [Gravekeeper's Spiritualist](db.ygoprodeck.com/card/?search=Gravekeeper's%20Spiritualist)
+- [Gravekeeper's Spy](db.ygoprodeck.com/card/?search=Gravekeeper's%20Spy)
+- [Gravekeeper's Stele](db.ygoprodeck.com/card/?search=Gravekeeper's%20Stele)
+- [Gravekeeper's Supernaturalist](db.ygoprodeck.com/card/?search=Gravekeeper's%20Supernaturalist)
+- [Gravekeeper's Vassal](db.ygoprodeck.com/card/?search=Gravekeeper's%20Vassal)
+- [Gravekeeper's Visionary](db.ygoprodeck.com/card/?search=Gravekeeper's%20Visionary)
+- [Gravekeeper's Watcher](db.ygoprodeck.com/card/?search=Gravekeeper's%20Watcher)
+- [Gravelstorm](db.ygoprodeck.com/card/?search=Gravelstorm)
+- [Graverobber](db.ygoprodeck.com/card/?search=Graverobber)
+- [Graverobber's Retribution](db.ygoprodeck.com/card/?search=Graverobber's%20Retribution)
+- [Gravi-Crush Dragon](db.ygoprodeck.com/card/?search=Gravi-Crush%20Dragon)
+- [Gravitic Orb](db.ygoprodeck.com/card/?search=Gravitic%20Orb)
+- [Gravity Axe - Grarl](db.ygoprodeck.com/card/?search=Gravity%20Axe%20-%20Grarl)
+- [Gravity Bind](db.ygoprodeck.com/card/?search=Gravity%20Bind)
+- [Gravity Blaster](db.ygoprodeck.com/card/?search=Gravity%20Blaster)
+- [Gravity Collapse](db.ygoprodeck.com/card/?search=Gravity%20Collapse)
+- [Gravity Controller](db.ygoprodeck.com/card/?search=Gravity%20Controller)
+- [Gravity Lash](db.ygoprodeck.com/card/?search=Gravity%20Lash)
+- [Gray Wing](db.ygoprodeck.com/card/?search=Gray%20Wing)
+- [Graydle Alligator](db.ygoprodeck.com/card/?search=Graydle%20Alligator)
+- [Graydle Cobra](db.ygoprodeck.com/card/?search=Graydle%20Cobra)
+- [Graydle Combat](db.ygoprodeck.com/card/?search=Graydle%20Combat)
+- [Graydle Eagle](db.ygoprodeck.com/card/?search=Graydle%20Eagle)
+- [Graydle Impact](db.ygoprodeck.com/card/?search=Graydle%20Impact)
+- [Graydle Slime Jr.](db.ygoprodeck.com/card/?search=Graydle%20Slime%20Jr.)
+- [Graydle Split](db.ygoprodeck.com/card/?search=Graydle%20Split)
+- [Great Angus](db.ygoprodeck.com/card/?search=Great%20Angus)
+- [Great Long Nose](db.ygoprodeck.com/card/?search=Great%20Long%20Nose)
+- [Great Maju Garzett](db.ygoprodeck.com/card/?search=Great%20Maju%20Garzett)
+- [Great Mammoth of Goldfine](db.ygoprodeck.com/card/?search=Great%20Mammoth%20of%20Goldfine)
+- [Great Moth](db.ygoprodeck.com/card/?search=Great%20Moth)
+- [Great Phantom Thief](db.ygoprodeck.com/card/?search=Great%20Phantom%20Thief)
+- [Great Shogun Shien](db.ygoprodeck.com/card/?search=Great%20Shogun%20Shien)
+- [Great Spirit](db.ygoprodeck.com/card/?search=Great%20Spirit)
+- [Great White](db.ygoprodeck.com/card/?search=Great%20White)
+- [Green Baboon, Defender of the Forest](db.ygoprodeck.com/card/?search=Green%20Baboon,%20Defender%20of%20the%20Forest)
+- [Green Duston](db.ygoprodeck.com/card/?search=Green%20Duston)
+- [Green Gadget](db.ygoprodeck.com/card/?search=Green%20Gadget)
+- [Green Phantom King](db.ygoprodeck.com/card/?search=Green%20Phantom%20King)
+- [Green Turtle Summoner](db.ygoprodeck.com/card/?search=Green%20Turtle%20Summoner)
+- [Greenkappa](db.ygoprodeck.com/card/?search=Greenkappa)
+- [Gren Maju Da Eiza](db.ygoprodeck.com/card/?search=Gren%20Maju%20Da%20Eiza)
+- [Gren, Tactician of Dark World](db.ygoprodeck.com/card/?search=Gren,%20Tactician%20of%20Dark%20World)
+- [Grenosaurus](db.ygoprodeck.com/card/?search=Grenosaurus)
+- [Grid Rod](db.ygoprodeck.com/card/?search=Grid%20Rod)
+- [Grid Sweeper](db.ygoprodeck.com/card/?search=Grid%20Sweeper)
+- [Griffore](db.ygoprodeck.com/card/?search=Griffore)
+- [Griggle](db.ygoprodeck.com/card/?search=Griggle)
+- [Grit](db.ygoprodeck.com/card/?search=Grit)
+- [Ground Attacker Bugroth](db.ygoprodeck.com/card/?search=Ground%20Attacker%20Bugroth)
+- [Ground Collapse](db.ygoprodeck.com/card/?search=Ground%20Collapse)
+- [Ground Spider](db.ygoprodeck.com/card/?search=Ground%20Spider)
+- [Gruesome Goo](db.ygoprodeck.com/card/?search=Gruesome%20Goo)
+- [Gryphon Wing](db.ygoprodeck.com/card/?search=Gryphon%20Wing)
+- [Gryphon's Feather Duster](db.ygoprodeck.com/card/?search=Gryphon's%20Feather%20Duster)
+- [Guard Dog](db.ygoprodeck.com/card/?search=Guard%20Dog)
+- [Guard Ghost](db.ygoprodeck.com/card/?search=Guard%20Ghost)
+- [Guard Mines](db.ygoprodeck.com/card/?search=Guard%20Mines)
+- [Guard Penalty](db.ygoprodeck.com/card/?search=Guard%20Penalty)
+- [Guarded Treasure](db.ygoprodeck.com/card/?search=Guarded%20Treasure)
+- [Guardian Angel Joan](db.ygoprodeck.com/card/?search=Guardian%20Angel%20Joan)
+- [Guardian Baou](db.ygoprodeck.com/card/?search=Guardian%20Baou)
+- [Guardian Ceal](db.ygoprodeck.com/card/?search=Guardian%20Ceal)
+- [Guardian Dreadscythe](db.ygoprodeck.com/card/?search=Guardian%20Dreadscythe)
+- [Guardian Eatos](db.ygoprodeck.com/card/?search=Guardian%20Eatos)
+- [Guardian Elma](db.ygoprodeck.com/card/?search=Guardian%20Elma)
+- [Guardian Grarl](db.ygoprodeck.com/card/?search=Guardian%20Grarl)
+- [Guardian Kay'est](db.ygoprodeck.com/card/?search=Guardian%20Kay'est)
+- [Guardian of Felgrand](db.ygoprodeck.com/card/?search=Guardian%20of%20Felgrand)
+- [Guardian of the Labyrinth](db.ygoprodeck.com/card/?search=Guardian%20of%20the%20Labyrinth)
+- [Guardian of the Throne Room](db.ygoprodeck.com/card/?search=Guardian%20of%20the%20Throne%20Room)
+- [Guardian Sphinx](db.ygoprodeck.com/card/?search=Guardian%20Sphinx)
+- [Guardian Statue](db.ygoprodeck.com/card/?search=Guardian%20Statue)
+- [Guardian Tryce](db.ygoprodeck.com/card/?search=Guardian%20Tryce)
+- [Guardians of the Tomb](db.ygoprodeck.com/card/?search=Guardians%20of%20the%20Tomb)
+- [Guardragon Andrake](db.ygoprodeck.com/card/?search=Guardragon%20Andrake)
+- [Guardragon Cataclysm](db.ygoprodeck.com/card/?search=Guardragon%20Cataclysm)
+- [Guardragon Corewakening](db.ygoprodeck.com/card/?search=Guardragon%20Corewakening)
+- [Guardragon Garmides](db.ygoprodeck.com/card/?search=Guardragon%20Garmides)
+- [Guardragon Justicia](db.ygoprodeck.com/card/?search=Guardragon%20Justicia)
+- [Guardragon Promineses](db.ygoprodeck.com/card/?search=Guardragon%20Promineses)
+- [Guardragon Reincarnation](db.ygoprodeck.com/card/?search=Guardragon%20Reincarnation)
+- [Guardragon Shield](db.ygoprodeck.com/card/?search=Guardragon%20Shield)
+- [Guiding Ariadne](db.ygoprodeck.com/card/?search=Guiding%20Ariadne)
+- [Guiding Light](db.ygoprodeck.com/card/?search=Guiding%20Light)
+- [Guitar Gurnards Duonigis](db.ygoprodeck.com/card/?search=Guitar%20Gurnards%20Duonigis)
+- [Guldfaxe of the Nordic Beasts](db.ygoprodeck.com/card/?search=Guldfaxe%20of%20the%20Nordic%20Beasts)
+- [Gundari](db.ygoprodeck.com/card/?search=Gundari)
+- [Gunkan Suship Daily Special](db.ygoprodeck.com/card/?search=Gunkan%20Suship%20Daily%20Special)
+- [Gunkan Suship Ikura](db.ygoprodeck.com/card/?search=Gunkan%20Suship%20Ikura)
+- [Gunkan Suship Ikura-class Dreadnought](db.ygoprodeck.com/card/?search=Gunkan%20Suship%20Ikura-class%20Dreadnought)
+- [Gunkan Suship Shari](db.ygoprodeck.com/card/?search=Gunkan%20Suship%20Shari)
+- [Gunkan Suship Shirauo](db.ygoprodeck.com/card/?search=Gunkan%20Suship%20Shirauo)
+- [Gunkan Suship Shirauo-class Carrier](db.ygoprodeck.com/card/?search=Gunkan%20Suship%20Shirauo-class%20Carrier)
+- [Gunkan Suship Uni](db.ygoprodeck.com/card/?search=Gunkan%20Suship%20Uni)
+- [Gunkan Sushipyard Seaside Supper Spot](db.ygoprodeck.com/card/?search=Gunkan%20Sushipyard%20Seaside%20Supper%20Spot)
+- [Gussari @Ignister](db.ygoprodeck.com/card/?search=Gussari%20@Ignister)
+- [Gust](db.ygoprodeck.com/card/?search=Gust)
+- [Gusto Codor](db.ygoprodeck.com/card/?search=Gusto%20Codor)
+- [Gusto Egul](db.ygoprodeck.com/card/?search=Gusto%20Egul)
+- [Gusto Falco](db.ygoprodeck.com/card/?search=Gusto%20Falco)
+- [Gusto Griffin](db.ygoprodeck.com/card/?search=Gusto%20Griffin)
+- [Gusto Gulldo](db.ygoprodeck.com/card/?search=Gusto%20Gulldo)
+- [Gusto Thunbolt](db.ygoprodeck.com/card/?search=Gusto%20Thunbolt)
+- [Gusto Vedir](db.ygoprodeck.com/card/?search=Gusto%20Vedir)
+- [Gyaku-Gire Panda](db.ygoprodeck.com/card/?search=Gyaku-Gire%20Panda)
+- [Gyakutenno Megami](db.ygoprodeck.com/card/?search=Gyakutenno%20Megami)
+- [Gyroid](db.ygoprodeck.com/card/?search=Gyroid)
+- [H - Heated Heart](db.ygoprodeck.com/card/?search=H%20-%20Heated%20Heart)
+- [Hack Worm](db.ygoprodeck.com/card/?search=Hack%20Worm)
+- [Hade-Hane](db.ygoprodeck.com/card/?search=Hade-Hane)
+- [Half Counter](db.ygoprodeck.com/card/?search=Half%20Counter)
+- [Half or Nothing](db.ygoprodeck.com/card/?search=Half%20or%20Nothing)
+- [Half Shut](db.ygoprodeck.com/card/?search=Half%20Shut)
+- [Half Unbreak](db.ygoprodeck.com/card/?search=Half%20Unbreak)
+- [Halfway to Forever](db.ygoprodeck.com/card/?search=Halfway%20to%20Forever)
+- [Hamburger Recipe](db.ygoprodeck.com/card/?search=Hamburger%20Recipe)
+- [Hammer Shark](db.ygoprodeck.com/card/?search=Hammer%20Shark)
+- [Hammer Shot](db.ygoprodeck.com/card/?search=Hammer%20Shot)
+- [Hand Destruction](db.ygoprodeck.com/card/?search=Hand%20Destruction)
+- [Hand of Nephthys](db.ygoprodeck.com/card/?search=Hand%20of%20Nephthys)
+- [Hand of the Six Samurai](db.ygoprodeck.com/card/?search=Hand%20of%20the%20Six%20Samurai)
+- [Hand-Holding Genie](db.ygoprodeck.com/card/?search=Hand-Holding%20Genie)
+- [Handcuffs Dragon](db.ygoprodeck.com/card/?search=Handcuffs%20Dragon)
+- [Handigallop](db.ygoprodeck.com/card/?search=Handigallop)
+- [Hane-Hane](db.ygoprodeck.com/card/?search=Hane-Hane)
+- [Hanewata](db.ygoprodeck.com/card/?search=Hanewata)
+- [Haniwa](db.ygoprodeck.com/card/?search=Haniwa)
+- [Hannibal Necromancer](db.ygoprodeck.com/card/?search=Hannibal%20Necromancer)
+- [Happy Lover](db.ygoprodeck.com/card/?search=Happy%20Lover)
+- [Hard Armor](db.ygoprodeck.com/card/?search=Hard%20Armor)
+- [Hard-sellin' Goblin](db.ygoprodeck.com/card/?search=Hard-sellin'%20Goblin)
+- [Hard-sellin' Zombie](db.ygoprodeck.com/card/?search=Hard-sellin'%20Zombie)
+- [Hardened Armed Dragon](db.ygoprodeck.com/card/?search=Hardened%20Armed%20Dragon)
+- [Harmonic Oscillation](db.ygoprodeck.com/card/?search=Harmonic%20Oscillation)
+- [Harmonic Waves](db.ygoprodeck.com/card/?search=Harmonic%20Waves)
+- [Harmonizing Magician](db.ygoprodeck.com/card/?search=Harmonizing%20Magician)
+- [Harpie Conductor](db.ygoprodeck.com/card/?search=Harpie%20Conductor)
+- [Harpie Dancer](db.ygoprodeck.com/card/?search=Harpie%20Dancer)
+- [Harpie Girl](db.ygoprodeck.com/card/?search=Harpie%20Girl)
+- [Harpie Harpist](db.ygoprodeck.com/card/?search=Harpie%20Harpist)
+- [Harpie Lady](db.ygoprodeck.com/card/?search=Harpie%20Lady)
+- [Harpie Lady 1](db.ygoprodeck.com/card/?search=Harpie%20Lady%201)
+- [Harpie Lady 2](db.ygoprodeck.com/card/?search=Harpie%20Lady%202)
+- [Harpie Lady 3](db.ygoprodeck.com/card/?search=Harpie%20Lady%203)
+- [Harpie Lady Elegance](db.ygoprodeck.com/card/?search=Harpie%20Lady%20Elegance)
+- [Harpie Lady Phoenix Formation](db.ygoprodeck.com/card/?search=Harpie%20Lady%20Phoenix%20Formation)
+- [Harpie Lady Sisters](db.ygoprodeck.com/card/?search=Harpie%20Lady%20Sisters)
+- [Harpie Queen](db.ygoprodeck.com/card/?search=Harpie%20Queen)
+- [Harpie's Feather Rest](db.ygoprodeck.com/card/?search=Harpie's%20Feather%20Rest)
+- [Harpie's Feather Storm](db.ygoprodeck.com/card/?search=Harpie's%20Feather%20Storm)
+- [Harpie's Pet Baby Dragon](db.ygoprodeck.com/card/?search=Harpie's%20Pet%20Baby%20Dragon)
+- [Harpie's Pet Dragon](db.ygoprodeck.com/card/?search=Harpie's%20Pet%20Dragon)
+- [Harpies' Hunting Ground](db.ygoprodeck.com/card/?search=Harpies'%20Hunting%20Ground)
+- [Harvest Angel of Wisdom](db.ygoprodeck.com/card/?search=Harvest%20Angel%20of%20Wisdom)
+- [Hate Buster](db.ygoprodeck.com/card/?search=Hate%20Buster)
+- [Haunted Shrine](db.ygoprodeck.com/card/?search=Haunted%20Shrine)
+- [Hayabusa Knight](db.ygoprodeck.com/card/?search=Hayabusa%20Knight)
+- [Hazy Flame Cerbereus](db.ygoprodeck.com/card/?search=Hazy%20Flame%20Cerbereus)
+- [Hazy Flame Griffin](db.ygoprodeck.com/card/?search=Hazy%20Flame%20Griffin)
+- [Hazy Flame Hydra](db.ygoprodeck.com/card/?search=Hazy%20Flame%20Hydra)
+- [Hazy Flame Hyppogrif](db.ygoprodeck.com/card/?search=Hazy%20Flame%20Hyppogrif)
+- [Hazy Flame Sphynx](db.ygoprodeck.com/card/?search=Hazy%20Flame%20Sphynx)
+- [Hazy Glory](db.ygoprodeck.com/card/?search=Hazy%20Glory)
+- [Hazy Pillar](db.ygoprodeck.com/card/?search=Hazy%20Pillar)
+- [Head Judging](db.ygoprodeck.com/card/?search=Head%20Judging)
+- [Headless Knight](db.ygoprodeck.com/card/?search=Headless%20Knight)
+- [Healing Wave Generator](db.ygoprodeck.com/card/?search=Healing%20Wave%20Generator)
+- [Heart of Clear Water](db.ygoprodeck.com/card/?search=Heart%20of%20Clear%20Water)
+- [Heart of the Underdog](db.ygoprodeck.com/card/?search=Heart%20of%20the%20Underdog)
+- [Heartfelt Appeal](db.ygoprodeck.com/card/?search=Heartfelt%20Appeal)
+- [Heartless Drop Off](db.ygoprodeck.com/card/?search=Heartless%20Drop%20Off)
+- [Heat Wave](db.ygoprodeck.com/card/?search=Heat%20Wave)
+- [Heavenly Dragon Circle](db.ygoprodeck.com/card/?search=Heavenly%20Dragon%20Circle)
+- [Heavy Freight Train Derricrane](db.ygoprodeck.com/card/?search=Heavy%20Freight%20Train%20Derricrane)
+- [Heavy Mech Support Armor](db.ygoprodeck.com/card/?search=Heavy%20Mech%20Support%20Armor)
+- [Heavy Mech Support Platform](db.ygoprodeck.com/card/?search=Heavy%20Mech%20Support%20Platform)
+- [Heavy Slump](db.ygoprodeck.com/card/?search=Heavy%20Slump)
+- [Heavy Storm Duster](db.ygoprodeck.com/card/?search=Heavy%20Storm%20Duster)
+- [Heavymetalfoes Amalgam](db.ygoprodeck.com/card/?search=Heavymetalfoes%20Amalgam)
+- [Hebo, Lord of the River](db.ygoprodeck.com/card/?search=Hebo,%20Lord%20of%20the%20River)
+- [Hecatrice](db.ygoprodeck.com/card/?search=Hecatrice)
+- [Hedge Guard](db.ygoprodeck.com/card/?search=Hedge%20Guard)
+- [Helios - The Primordial Sun](db.ygoprodeck.com/card/?search=Helios%20-%20The%20Primordial%20Sun)
+- [Heliosphere Dragon](db.ygoprodeck.com/card/?search=Heliosphere%20Dragon)
+- [Helmer, Helmsman Fur Hire](db.ygoprodeck.com/card/?search=Helmer,%20Helmsman%20Fur%20Hire)
+- [Helping Robo for Combat](db.ygoprodeck.com/card/?search=Helping%20Robo%20for%20Combat)
+- [Helpoemer](db.ygoprodeck.com/card/?search=Helpoemer)
+- [Herald of Creation](db.ygoprodeck.com/card/?search=Herald%20of%20Creation)
+- [Herald of Green Light](db.ygoprodeck.com/card/?search=Herald%20of%20Green%20Light)
+- [Herald of Orange Light](db.ygoprodeck.com/card/?search=Herald%20of%20Orange%20Light)
+- [Herald of Purple Light](db.ygoprodeck.com/card/?search=Herald%20of%20Purple%20Light)
+- [Heraldic Beast Aberconway](db.ygoprodeck.com/card/?search=Heraldic%20Beast%20Aberconway)
+- [Heraldic Beast Basilisk](db.ygoprodeck.com/card/?search=Heraldic%20Beast%20Basilisk)
+- [Heraldic Beast Berners Falcon](db.ygoprodeck.com/card/?search=Heraldic%20Beast%20Berners%20Falcon)
+- [Heraldic Beast Eale](db.ygoprodeck.com/card/?search=Heraldic%20Beast%20Eale)
+- [Heraldic Beast Unicorn](db.ygoprodeck.com/card/?search=Heraldic%20Beast%20Unicorn)
+- [Heraldry Change](db.ygoprodeck.com/card/?search=Heraldry%20Change)
+- [Herculean Power](db.ygoprodeck.com/card/?search=Herculean%20Power)
+- [Hercules Beetle](db.ygoprodeck.com/card/?search=Hercules%20Beetle)
+- [Heritage of the Light](db.ygoprodeck.com/card/?search=Heritage%20of%20the%20Light)
+- [Hermit of Prophecy](db.ygoprodeck.com/card/?search=Hermit%20of%20Prophecy)
+- [Hero Barrier](db.ygoprodeck.com/card/?search=Hero%20Barrier)
+- [Hero Blast](db.ygoprodeck.com/card/?search=Hero%20Blast)
+- [Hero Counterattack](db.ygoprodeck.com/card/?search=Hero%20Counterattack)
+- [Hero Flash!!](db.ygoprodeck.com/card/?search=Hero%20Flash!!)
+- [Hero Heart](db.ygoprodeck.com/card/?search=Hero%20Heart)
+- [Hero Kid](db.ygoprodeck.com/card/?search=Hero%20Kid)
+- [Hero Mask](db.ygoprodeck.com/card/?search=Hero%20Mask)
+- [Hero Medal](db.ygoprodeck.com/card/?search=Hero%20Medal)
+- [Hero of the East](db.ygoprodeck.com/card/?search=Hero%20of%20the%20East)
+- [Hero Signal](db.ygoprodeck.com/card/?search=Hero%20Signal)
+- [Hero Spirit](db.ygoprodeck.com/card/?search=Hero%20Spirit)
+- [HERO's Bond](db.ygoprodeck.com/card/?search=HERO's%20Bond)
+- [Heroic Advance](db.ygoprodeck.com/card/?search=Heroic%20Advance)
+- [Heroic Challenger - Extra Sword](db.ygoprodeck.com/card/?search=Heroic%20Challenger%20-%20Extra%20Sword)
+- [Heroic Challenger - Night Watchman](db.ygoprodeck.com/card/?search=Heroic%20Challenger%20-%20Night%20Watchman)
+- [Heroic Challenger - Spartan](db.ygoprodeck.com/card/?search=Heroic%20Challenger%20-%20Spartan)
+- [Heroic Challenger - Swordshield](db.ygoprodeck.com/card/?search=Heroic%20Challenger%20-%20Swordshield)
+- [Heroic Challenger - War Hammer](db.ygoprodeck.com/card/?search=Heroic%20Challenger%20-%20War%20Hammer)
+- [Heroic Chance](db.ygoprodeck.com/card/?search=Heroic%20Chance)
+- [Heroic Gift](db.ygoprodeck.com/card/?search=Heroic%20Gift)
+- [Heroic Retribution Sword](db.ygoprodeck.com/card/?search=Heroic%20Retribution%20Sword)
+- [Hexa Spirit of the Ice Barrier](db.ygoprodeck.com/card/?search=Hexa%20Spirit%20of%20the%20Ice%20Barrier)
+- [Hexatellarknight](db.ygoprodeck.com/card/?search=Hexatellarknight)
+- [Hey, Trunade!](db.ygoprodeck.com/card/?search=Hey,%20Trunade!)
+- [Hi-Speed Re-Level](db.ygoprodeck.com/card/?search=Hi-Speed%20Re-Level)
+- [Hi-Speedroid Chanbara](db.ygoprodeck.com/card/?search=Hi-Speedroid%20Chanbara)
+- [Hi-Speedroid Kendama](db.ygoprodeck.com/card/?search=Hi-Speedroid%20Kendama)
+- [Hibikime](db.ygoprodeck.com/card/?search=Hibikime)
+- [Hidden Armory](db.ygoprodeck.com/card/?search=Hidden%20Armory)
+- [Hidden Parasite](db.ygoprodeck.com/card/?search=Hidden%20Parasite)
+- [Hidden Spellbook](db.ygoprodeck.com/card/?search=Hidden%20Spellbook)
+- [Hidden Springs of the Far East](db.ygoprodeck.com/card/?search=Hidden%20Springs%20of%20the%20Far%20East)
+- [Hidden Temples of Necrovalley](db.ygoprodeck.com/card/?search=Hidden%20Temples%20of%20Necrovalley)
+- [Hieracosphinx](db.ygoprodeck.com/card/?search=Hieracosphinx)
+- [Hieratic Chant](db.ygoprodeck.com/card/?search=Hieratic%20Chant)
+- [Hieratic Dragon of Eset](db.ygoprodeck.com/card/?search=Hieratic%20Dragon%20of%20Eset)
+- [Hieratic Dragon of Gebeb](db.ygoprodeck.com/card/?search=Hieratic%20Dragon%20of%20Gebeb)
+- [Hieratic Dragon of Nebthet](db.ygoprodeck.com/card/?search=Hieratic%20Dragon%20of%20Nebthet)
+- [Hieratic Dragon of Nuit](db.ygoprodeck.com/card/?search=Hieratic%20Dragon%20of%20Nuit)
+- [Hieratic Dragon of Su](db.ygoprodeck.com/card/?search=Hieratic%20Dragon%20of%20Su)
+- [Hieratic Dragon of Tefnuit](db.ygoprodeck.com/card/?search=Hieratic%20Dragon%20of%20Tefnuit)
+- [Hieratic Seal of Supremacy](db.ygoprodeck.com/card/?search=Hieratic%20Seal%20of%20Supremacy)
+- [Hieratic Seal of the Dragon King](db.ygoprodeck.com/card/?search=Hieratic%20Seal%20of%20the%20Dragon%20King)
+- [Hieratic Seal of the Sun Dragon Overlord](db.ygoprodeck.com/card/?search=Hieratic%20Seal%20of%20the%20Sun%20Dragon%20Overlord)
+- [Hieroglyph Lithograph](db.ygoprodeck.com/card/?search=Hieroglyph%20Lithograph)
+- [High Tide Gyojin](db.ygoprodeck.com/card/?search=High%20Tide%20Gyojin)
+- [High Tide on Fire Island](db.ygoprodeck.com/card/?search=High%20Tide%20on%20Fire%20Island)
+- [Hiita the Fire Charmer](db.ygoprodeck.com/card/?search=Hiita%20the%20Fire%20Charmer)
+- [Hiita the Fire Charmer, Ablaze](db.ygoprodeck.com/card/?search=Hiita%20the%20Fire%20Charmer,%20Ablaze)
+- [Hinezumi Hanabi](db.ygoprodeck.com/card/?search=Hinezumi%20Hanabi)
+- [Hinotama](db.ygoprodeck.com/card/?search=Hinotama)
+- [Hinotama Soul](db.ygoprodeck.com/card/?search=Hinotama%20Soul)
+- [Hippo Carnival](db.ygoprodeck.com/card/?search=Hippo%20Carnival)
+- [Hippo Token](db.ygoprodeck.com/card/?search=Hippo%20Token)
+- [Hiro's Shadow Scout](db.ygoprodeck.com/card/?search=Hiro's%20Shadow%20Scout)
+- [Hitotsu-Me Giant](db.ygoprodeck.com/card/?search=Hitotsu-Me%20Giant)
+- [Hiyari @Ignister](db.ygoprodeck.com/card/?search=Hiyari%20@Ignister)
+- [Holding Arms](db.ygoprodeck.com/card/?search=Holding%20Arms)
+- [Holding Legs](db.ygoprodeck.com/card/?search=Holding%20Legs)
+- [Homunculus the Alchemic Being](db.ygoprodeck.com/card/?search=Homunculus%20the%20Alchemic%20Being)
+- [Honest](db.ygoprodeck.com/card/?search=Honest)
+- [Honeybot](db.ygoprodeck.com/card/?search=Honeybot)
+- [Hop Ear Squadron](db.ygoprodeck.com/card/?search=Hop%20Ear%20Squadron)
+- [Hope for Escape](db.ygoprodeck.com/card/?search=Hope%20for%20Escape)
+- [Horn of Light](db.ygoprodeck.com/card/?search=Horn%20of%20Light)
+- [Horn of Olifant](db.ygoprodeck.com/card/?search=Horn%20of%20Olifant)
+- [Horn of the Phantom Beast](db.ygoprodeck.com/card/?search=Horn%20of%20the%20Phantom%20Beast)
+- [Horn of the Unicorn](db.ygoprodeck.com/card/?search=Horn%20of%20the%20Unicorn)
+- [Horseytail](db.ygoprodeck.com/card/?search=Horseytail)
+- [Horus the Black Flame Dragon LV4](db.ygoprodeck.com/card/?search=Horus%20the%20Black%20Flame%20Dragon%20LV4)
+- [Horus the Black Flame Dragon LV6](db.ygoprodeck.com/card/?search=Horus%20the%20Black%20Flame%20Dragon%20LV6)
+- [Horus the Black Flame Dragon LV8](db.ygoprodeck.com/card/?search=Horus%20the%20Black%20Flame%20Dragon%20LV8)
+- [Horus' Servant](db.ygoprodeck.com/card/?search=Horus'%20Servant)
+- [Hoshiningen](db.ygoprodeck.com/card/?search=Hoshiningen)
+- [Hourglass of Courage](db.ygoprodeck.com/card/?search=Hourglass%20of%20Courage)
+- [House Duston](db.ygoprodeck.com/card/?search=House%20Duston)
+- [House of Adhesive Tape](db.ygoprodeck.com/card/?search=House%20of%20Adhesive%20Tape)
+- [Howl of the Wild](db.ygoprodeck.com/card/?search=Howl%20of%20the%20Wild)
+- [Howling Insect](db.ygoprodeck.com/card/?search=Howling%20Insect)
+- [Hraesvelgr, the Desperate Doom Eagle](db.ygoprodeck.com/card/?search=Hraesvelgr,%20the%20Desperate%20Doom%20Eagle)
+- [Huge Revolution](db.ygoprodeck.com/card/?search=Huge%20Revolution)
+- [Human-Wave Tactics](db.ygoprodeck.com/card/?search=Human-Wave%20Tactics)
+- [Humanoid Slime](db.ygoprodeck.com/card/?search=Humanoid%20Slime)
+- [Humanoid Worm Drake](db.ygoprodeck.com/card/?search=Humanoid%20Worm%20Drake)
+- [Humid Winds](db.ygoprodeck.com/card/?search=Humid%20Winds)
+- [Hundred-Footed Horror](db.ygoprodeck.com/card/?search=Hundred-Footed%20Horror)
+- [Hungry Burger](db.ygoprodeck.com/card/?search=Hungry%20Burger)
+- [Hunter Dragon](db.ygoprodeck.com/card/?search=Hunter%20Dragon)
+- [Hunter of Black Feathers](db.ygoprodeck.com/card/?search=Hunter%20of%20Black%20Feathers)
+- [Hunter Owl](db.ygoprodeck.com/card/?search=Hunter%20Owl)
+- [Hunter Spider](db.ygoprodeck.com/card/?search=Hunter%20Spider)
+- [Hunting Instinct](db.ygoprodeck.com/card/?search=Hunting%20Instinct)
+- [Hushed Psychic Cleric](db.ygoprodeck.com/card/?search=Hushed%20Psychic%20Cleric)
+- [Hydra Viper](db.ygoprodeck.com/card/?search=Hydra%20Viper)
+- [Hydro Pressure Cannon](db.ygoprodeck.com/card/?search=Hydro%20Pressure%20Cannon)
+- [Hydrogeddon](db.ygoprodeck.com/card/?search=Hydrogeddon)
+- [Hydrotortoise, the Empowered Warrior](db.ygoprodeck.com/card/?search=Hydrotortoise,%20the%20Empowered%20Warrior)
+- [Hyena](db.ygoprodeck.com/card/?search=Hyena)
+- [Hymn of Light](db.ygoprodeck.com/card/?search=Hymn%20of%20Light)
+- [Hyosube](db.ygoprodeck.com/card/?search=Hyosube)
+- [Hyozanryu](db.ygoprodeck.com/card/?search=Hyozanryu)
+- [Hyper Hammerhead](db.ygoprodeck.com/card/?search=Hyper%20Hammerhead)
+- [Hyper Metamorphosis](db.ygoprodeck.com/card/?search=Hyper%20Metamorphosis)
+- [Hyper Psychic Riser](db.ygoprodeck.com/card/?search=Hyper%20Psychic%20Riser)
+- [Hyper Synchron](db.ygoprodeck.com/card/?search=Hyper%20Synchron)
+- [Hypnocorn](db.ygoprodeck.com/card/?search=Hypnocorn)
+- [Hysteric Fairy](db.ygoprodeck.com/card/?search=Hysteric%20Fairy)
+- [Hysteric Party](db.ygoprodeck.com/card/?search=Hysteric%20Party)
+- [Hysteric Sign](db.ygoprodeck.com/card/?search=Hysteric%20Sign)
+- [I'm Just Gonna Attack!](db.ygoprodeck.com/card/?search=I'm%20Just%20Gonna%20Attack!)
+- [Ibicella Lutea](db.ygoprodeck.com/card/?search=Ibicella%20Lutea)
+- [Icarus Attack](db.ygoprodeck.com/card/?search=Icarus%20Attack)
+- [Ice Hand](db.ygoprodeck.com/card/?search=Ice%20Hand)
+- [Ice Master](db.ygoprodeck.com/card/?search=Ice%20Master)
+- [Ice Princess Zereort](db.ygoprodeck.com/card/?search=Ice%20Princess%20Zereort)
+- [Icejade Acti](db.ygoprodeck.com/card/?search=Icejade%20Acti)
+- [Icejade Tinola](db.ygoprodeck.com/card/?search=Icejade%20Tinola)
+- [Icy Breeze Refrain](db.ygoprodeck.com/card/?search=Icy%20Breeze%20Refrain)
+- [Icy Crevasse](db.ygoprodeck.com/card/?search=Icy%20Crevasse)
+- [Igknight Cavalier](db.ygoprodeck.com/card/?search=Igknight%20Cavalier)
+- [Igknight Gallant](db.ygoprodeck.com/card/?search=Igknight%20Gallant)
+- [Igknight Margrave](db.ygoprodeck.com/card/?search=Igknight%20Margrave)
+- [Igknight Paladin](db.ygoprodeck.com/card/?search=Igknight%20Paladin)
+- [Igknight Squire](db.ygoprodeck.com/card/?search=Igknight%20Squire)
+- [Igknight Veteran](db.ygoprodeck.com/card/?search=Igknight%20Veteran)
+- [Igknights Unite](db.ygoprodeck.com/card/?search=Igknights%20Unite)
+- [Ignition Beast Volcannon](db.ygoprodeck.com/card/?search=Ignition%20Beast%20Volcannon)
+- [Ignition Phoenix](db.ygoprodeck.com/card/?search=Ignition%20Phoenix)
+- [Il Blud](db.ygoprodeck.com/card/?search=Il%20Blud)
+- [Illusion Balloons](db.ygoprodeck.com/card/?search=Illusion%20Balloons)
+- [Illusion Magic](db.ygoprodeck.com/card/?search=Illusion%20Magic)
+- [Illusionist Faceless Mage](db.ygoprodeck.com/card/?search=Illusionist%20Faceless%20Mage)
+- [Illusionist Faceless Magician](db.ygoprodeck.com/card/?search=Illusionist%20Faceless%20Magician)
+- [Illusory Snatcher](db.ygoprodeck.com/card/?search=Illusory%20Snatcher)
+- [Imairuka](db.ygoprodeck.com/card/?search=Imairuka)
+- [Immortal Ruler](db.ygoprodeck.com/card/?search=Immortal%20Ruler)
+- [Impcantation Bookstone](db.ygoprodeck.com/card/?search=Impcantation%20Bookstone)
+- [Impcantation Inception](db.ygoprodeck.com/card/?search=Impcantation%20Inception)
+- [Impcantation Penciplume](db.ygoprodeck.com/card/?search=Impcantation%20Penciplume)
+- [Impcantation Thanatosis](db.ygoprodeck.com/card/?search=Impcantation%20Thanatosis)
+- [Impenetrable Attack](db.ygoprodeck.com/card/?search=Impenetrable%20Attack)
+- [Impenetrable Formation](db.ygoprodeck.com/card/?search=Impenetrable%20Formation)
+- [Imperial Custom](db.ygoprodeck.com/card/?search=Imperial%20Custom)
+- [Imperial Iron Wall](db.ygoprodeck.com/card/?search=Imperial%20Iron%20Wall)
+- [Imperial Tombs of Necrovalley](db.ygoprodeck.com/card/?search=Imperial%20Tombs%20of%20Necrovalley)
+- [Imprisoned Queen Archfiend](db.ygoprodeck.com/card/?search=Imprisoned%20Queen%20Archfiend)
+- [Inaba White Rabbit](db.ygoprodeck.com/card/?search=Inaba%20White%20Rabbit)
+- [Inari Fire](db.ygoprodeck.com/card/?search=Inari%20Fire)
+- [Incandescent Ordeal](db.ygoprodeck.com/card/?search=Incandescent%20Ordeal)
+- [Incarnated Machine Angel](db.ygoprodeck.com/card/?search=Incarnated%20Machine%20Angel)
+- [Indomitable Fighter Lei Lei](db.ygoprodeck.com/card/?search=Indomitable%20Fighter%20Lei%20Lei)
+- [Indomitable Gladiator Beast](db.ygoprodeck.com/card/?search=Indomitable%20Gladiator%20Beast)
+- [Indulged Darklord](db.ygoprodeck.com/card/?search=Indulged%20Darklord)
+- [Infected Mail](db.ygoprodeck.com/card/?search=Infected%20Mail)
+- [Infernal Dragon](db.ygoprodeck.com/card/?search=Infernal%20Dragon)
+- [Infernal Incinerator](db.ygoprodeck.com/card/?search=Infernal%20Incinerator)
+- [Infernalqueen Archfiend](db.ygoprodeck.com/card/?search=Infernalqueen%20Archfiend)
+- [Infernity Avenger](db.ygoprodeck.com/card/?search=Infernity%20Avenger)
+- [Infernity Barrier](db.ygoprodeck.com/card/?search=Infernity%20Barrier)
+- [Infernity Beast](db.ygoprodeck.com/card/?search=Infernity%20Beast)
+- [Infernity Beetle](db.ygoprodeck.com/card/?search=Infernity%20Beetle)
+- [Infernity Break](db.ygoprodeck.com/card/?search=Infernity%20Break)
+- [Infernity Conjurer](db.ygoprodeck.com/card/?search=Infernity%20Conjurer)
+- [Infernity Doom Archfiend](db.ygoprodeck.com/card/?search=Infernity%20Doom%20Archfiend)
+- [Infernity Doom Dragon](db.ygoprodeck.com/card/?search=Infernity%20Doom%20Dragon)
+- [Infernity Dwarf](db.ygoprodeck.com/card/?search=Infernity%20Dwarf)
+- [Infernity Force](db.ygoprodeck.com/card/?search=Infernity%20Force)
+- [Infernity Guardian](db.ygoprodeck.com/card/?search=Infernity%20Guardian)
+- [Infernity Necromancer](db.ygoprodeck.com/card/?search=Infernity%20Necromancer)
+- [Infernity Paranoia](db.ygoprodeck.com/card/?search=Infernity%20Paranoia)
+- [Infernity Patriarch](db.ygoprodeck.com/card/?search=Infernity%20Patriarch)
+- [Infernity Randomizer](db.ygoprodeck.com/card/?search=Infernity%20Randomizer)
+- [Infernity Reflector](db.ygoprodeck.com/card/?search=Infernity%20Reflector)
+- [Infernity Suppression](db.ygoprodeck.com/card/?search=Infernity%20Suppression)
+- [Infernity Wildcat](db.ygoprodeck.com/card/?search=Infernity%20Wildcat)
+- [Inferno](db.ygoprodeck.com/card/?search=Inferno)
+- [Inferno Fire Blast](db.ygoprodeck.com/card/?search=Inferno%20Fire%20Blast)
+- [Inferno Reckless Summon](db.ygoprodeck.com/card/?search=Inferno%20Reckless%20Summon)
+- [Inferno Tempest](db.ygoprodeck.com/card/?search=Inferno%20Tempest)
+- [Infernoble Knight Astolfo](db.ygoprodeck.com/card/?search=Infernoble%20Knight%20Astolfo)
+- [Infernoble Knight Captain Oliver](db.ygoprodeck.com/card/?search=Infernoble%20Knight%20Captain%20Oliver)
+- [Infernoble Knight Captain Roland](db.ygoprodeck.com/card/?search=Infernoble%20Knight%20Captain%20Roland)
+- [Infernoble Knight Maugis](db.ygoprodeck.com/card/?search=Infernoble%20Knight%20Maugis)
+- [Infernoble Knight Ogier](db.ygoprodeck.com/card/?search=Infernoble%20Knight%20Ogier)
+- [Infernoble Knight Oliver](db.ygoprodeck.com/card/?search=Infernoble%20Knight%20Oliver)
+- [Infernoid Attondel](db.ygoprodeck.com/card/?search=Infernoid%20Attondel)
+- [Infernoid Piaty](db.ygoprodeck.com/card/?search=Infernoid%20Piaty)
+- [Infernoid Seitsemas](db.ygoprodeck.com/card/?search=Infernoid%20Seitsemas)
+- [Infernoid Sjette](db.ygoprodeck.com/card/?search=Infernoid%20Sjette)
+- [Infestation Infection](db.ygoprodeck.com/card/?search=Infestation%20Infection)
+- [Infestation Pandemic](db.ygoprodeck.com/card/?search=Infestation%20Pandemic)
+- [Infestation Ripples](db.ygoprodeck.com/card/?search=Infestation%20Ripples)
+- [Infestation Terminus](db.ygoprodeck.com/card/?search=Infestation%20Terminus)
+- [Infestation Tool](db.ygoprodeck.com/card/?search=Infestation%20Tool)
+- [Infinite Cards](db.ygoprodeck.com/card/?search=Infinite%20Cards)
+- [Infinite Dismissal](db.ygoprodeck.com/card/?search=Infinite%20Dismissal)
+- [Infinitrack Brutal Dozer](db.ygoprodeck.com/card/?search=Infinitrack%20Brutal%20Dozer)
+- [Infinitrack Crab Crane](db.ygoprodeck.com/card/?search=Infinitrack%20Crab%20Crane)
+- [Infinitrack Drag Shovel](db.ygoprodeck.com/card/?search=Infinitrack%20Drag%20Shovel)
+- [Infinitrack Tunneller](db.ygoprodeck.com/card/?search=Infinitrack%20Tunneller)
+- [Infinity Dark](db.ygoprodeck.com/card/?search=Infinity%20Dark)
+- [Influence Dragon](db.ygoprodeck.com/card/?search=Influence%20Dragon)
+- [Informer Spider](db.ygoprodeck.com/card/?search=Informer%20Spider)
+- [Injection Fairy Lily](db.ygoprodeck.com/card/?search=Injection%20Fairy%20Lily)
+- [Inner Conflict](db.ygoprodeck.com/card/?search=Inner%20Conflict)
+- [Inpachi](db.ygoprodeck.com/card/?search=Inpachi)
+- [Insect Armor with Laser Cannon](db.ygoprodeck.com/card/?search=Insect%20Armor%20with%20Laser%20Cannon)
+- [Insect Barrier](db.ygoprodeck.com/card/?search=Insect%20Barrier)
+- [Insect Imitation](db.ygoprodeck.com/card/?search=Insect%20Imitation)
+- [Insect Knight](db.ygoprodeck.com/card/?search=Insect%20Knight)
+- [Insect Neglect](db.ygoprodeck.com/card/?search=Insect%20Neglect)
+- [Insect Princess](db.ygoprodeck.com/card/?search=Insect%20Princess)
+- [Insect Queen](db.ygoprodeck.com/card/?search=Insect%20Queen)
+- [Insect Soldiers of the Sky](db.ygoprodeck.com/card/?search=Insect%20Soldiers%20of%20the%20Sky)
+- [Inspection](db.ygoprodeck.com/card/?search=Inspection)
+- [Inspiration](db.ygoprodeck.com/card/?search=Inspiration)
+- [Instant Neo Space](db.ygoprodeck.com/card/?search=Instant%20Neo%20Space)
+- [Interceptomato](db.ygoprodeck.com/card/?search=Interceptomato)
+- [Interdimensional Matter Transporter](db.ygoprodeck.com/card/?search=Interdimensional%20Matter%20Transporter)
+- [Interdimensional Warp](db.ygoprodeck.com/card/?search=Interdimensional%20Warp)
+- [Interplanetary Invader "A"](db.ygoprodeck.com/card/?search=Interplanetary%20Invader%20"A")
+- [Interplanetarypurplythorny Beast](db.ygoprodeck.com/card/?search=Interplanetarypurplythorny%20Beast)
+- [Interplanetarypurplythorny Dragon](db.ygoprodeck.com/card/?search=Interplanetarypurplythorny%20Dragon)
+- [Interrupt Resistor](db.ygoprodeck.com/card/?search=Interrupt%20Resistor)
+- [Into the Darkness Below](db.ygoprodeck.com/card/?search=Into%20the%20Darkness%20Below)
+- [Intrigue Shield](db.ygoprodeck.com/card/?search=Intrigue%20Shield)
+- [Introduction to Gallantry](db.ygoprodeck.com/card/?search=Introduction%20to%20Gallantry)
+- [Invader from Another Dimension](db.ygoprodeck.com/card/?search=Invader%20from%20Another%20Dimension)
+- [Invader of Darkness](db.ygoprodeck.com/card/?search=Invader%20of%20Darkness)
+- [Invader of the Throne](db.ygoprodeck.com/card/?search=Invader%20of%20the%20Throne)
+- [Invasion of Flames](db.ygoprodeck.com/card/?search=Invasion%20of%20Flames)
+- [Inverse Universe](db.ygoprodeck.com/card/?search=Inverse%20Universe)
+- [Invigoration](db.ygoprodeck.com/card/?search=Invigoration)
+- [Invincibility Barrier](db.ygoprodeck.com/card/?search=Invincibility%20Barrier)
+- [Invitation to a Dark Sleep](db.ygoprodeck.com/card/?search=Invitation%20to%20a%20Dark%20Sleep)
+- [Inzektor Ant](db.ygoprodeck.com/card/?search=Inzektor%20Ant)
+- [Inzektor Centipede](db.ygoprodeck.com/card/?search=Inzektor%20Centipede)
+- [Inzektor Dragonfly](db.ygoprodeck.com/card/?search=Inzektor%20Dragonfly)
+- [Inzektor Earwig](db.ygoprodeck.com/card/?search=Inzektor%20Earwig)
+- [Inzektor Firefly](db.ygoprodeck.com/card/?search=Inzektor%20Firefly)
+- [Inzektor Gauntlet](db.ygoprodeck.com/card/?search=Inzektor%20Gauntlet)
+- [Inzektor Giga-Weevil](db.ygoprodeck.com/card/?search=Inzektor%20Giga-Weevil)
+- [Inzektor Hornet](db.ygoprodeck.com/card/?search=Inzektor%20Hornet)
+- [Inzektor Ladybug](db.ygoprodeck.com/card/?search=Inzektor%20Ladybug)
+- [Inzektor Picofalena](db.ygoprodeck.com/card/?search=Inzektor%20Picofalena)
+- [Inzektor Sword - Zektkaliber](db.ygoprodeck.com/card/?search=Inzektor%20Sword%20-%20Zektkaliber)
+- [Iron Blacksmith Kotetsu](db.ygoprodeck.com/card/?search=Iron%20Blacksmith%20Kotetsu)
+- [Iron Call](db.ygoprodeck.com/card/?search=Iron%20Call)
+- [Iron Chain Blaster](db.ygoprodeck.com/card/?search=Iron%20Chain%20Blaster)
+- [Iron Chain Coil](db.ygoprodeck.com/card/?search=Iron%20Chain%20Coil)
+- [Iron Chain Snake](db.ygoprodeck.com/card/?search=Iron%20Chain%20Snake)
+- [Iron Core Armor](db.ygoprodeck.com/card/?search=Iron%20Core%20Armor)
+- [Iron Core Immediate Disposal](db.ygoprodeck.com/card/?search=Iron%20Core%20Immediate%20Disposal)
+- [Iron Core Luster](db.ygoprodeck.com/card/?search=Iron%20Core%20Luster)
+- [Iron Core of Koa'ki Meiru](db.ygoprodeck.com/card/?search=Iron%20Core%20of%20Koa'ki%20Meiru)
+- [Iron Draw](db.ygoprodeck.com/card/?search=Iron%20Draw)
+- [Ironhammer the Giant](db.ygoprodeck.com/card/?search=Ironhammer%20the%20Giant)
+- [Island Turtle](db.ygoprodeck.com/card/?search=Island%20Turtle)
+- [Isolde, Belle of the Underworld](db.ygoprodeck.com/card/?search=Isolde,%20Belle%20of%20the%20Underworld)
+- [It's a Toon World!](db.ygoprodeck.com/card/?search=It's%20a%20Toon%20World!)
+- [It's Jinzo!](db.ygoprodeck.com/card/?search=It's%20Jinzo!)
+- [It's No Monster, It's a God!](db.ygoprodeck.com/card/?search=It's%20No%20Monster,%20It's%20a%20God!)
+- [Ivy Shackles](db.ygoprodeck.com/card/?search=Ivy%20Shackles)
+- [Jabbing Panda](db.ygoprodeck.com/card/?search=Jabbing%20Panda)
+- [Jack Wyvern](db.ygoprodeck.com/card/?search=Jack%20Wyvern)
+- [Jack's Knight](db.ygoprodeck.com/card/?search=Jack's%20Knight)
+- [Jack-In-The-Hand](db.ygoprodeck.com/card/?search=Jack-In-The-Hand)
+- [Jack-o-Bolan](db.ygoprodeck.com/card/?search=Jack-o-Bolan)
+- [Jackpot 7](db.ygoprodeck.com/card/?search=Jackpot%207)
+- [Jade Insect Whistle](db.ygoprodeck.com/card/?search=Jade%20Insect%20Whistle)
+- [Jade Knight](db.ygoprodeck.com/card/?search=Jade%20Knight)
+- [Jain, Lightsworn Paladin](db.ygoprodeck.com/card/?search=Jain,%20Lightsworn%20Paladin)
+- [Jain, Twilightsworn General](db.ygoprodeck.com/card/?search=Jain,%20Twilightsworn%20General)
+- [Jam Breeding Machine](db.ygoprodeck.com/card/?search=Jam%20Breeding%20Machine)
+- [Jam Defender](db.ygoprodeck.com/card/?search=Jam%20Defender)
+- [Jar of Avarice](db.ygoprodeck.com/card/?search=Jar%20of%20Avarice)
+- [Jar of Generosity](db.ygoprodeck.com/card/?search=Jar%20of%20Generosity)
+- [Jar of Greed](db.ygoprodeck.com/card/?search=Jar%20of%20Greed)
+- [Jar Robber](db.ygoprodeck.com/card/?search=Jar%20Robber)
+- [Jar Turtle](db.ygoprodeck.com/card/?search=Jar%20Turtle)
+- [Jelly Cannon](db.ygoprodeck.com/card/?search=Jelly%20Cannon)
+- [Jellyfish](db.ygoprodeck.com/card/?search=Jellyfish)
+- [Jenis, Lightsworn Mender](db.ygoprodeck.com/card/?search=Jenis,%20Lightsworn%20Mender)
+- [Jerry Beans Man](db.ygoprodeck.com/card/?search=Jerry%20Beans%20Man)
+- [Jester Confit](db.ygoprodeck.com/card/?search=Jester%20Confit)
+- [Jester Lord](db.ygoprodeck.com/card/?search=Jester%20Lord)
+- [Jetroid](db.ygoprodeck.com/card/?search=Jetroid)
+- [Jewels of the Valiant](db.ygoprodeck.com/card/?search=Jewels%20of%20the%20Valiant)
+- [Jigabyte](db.ygoprodeck.com/card/?search=Jigabyte)
+- [Jigen Bakudan](db.ygoprodeck.com/card/?search=Jigen%20Bakudan)
+- [Jinzo](db.ygoprodeck.com/card/?search=Jinzo)
+- [Jinzo #7](db.ygoprodeck.com/card/?search=Jinzo%20#7)
+- [Jinzo - Jector](db.ygoprodeck.com/card/?search=Jinzo%20-%20Jector)
+- [Jinzo - Lord](db.ygoprodeck.com/card/?search=Jinzo%20-%20Lord)
+- [Jinzo - Returner](db.ygoprodeck.com/card/?search=Jinzo%20-%20Returner)
+- [Jirai Gumo](db.ygoprodeck.com/card/?search=Jirai%20Gumo)
+- [Jizukiru, the Star Destroying Kaiju](db.ygoprodeck.com/card/?search=Jizukiru,%20the%20Star%20Destroying%20Kaiju)
+- [Jowgen the Spiritualist](db.ygoprodeck.com/card/?search=Jowgen%20the%20Spiritualist)
+- [Jowls of Dark Demise](db.ygoprodeck.com/card/?search=Jowls%20of%20Dark%20Demise)
+- [Joyous Melffys](db.ygoprodeck.com/card/?search=Joyous%20Melffys)
+- [Judge Man](db.ygoprodeck.com/card/?search=Judge%20Man)
+- [Judge of the Ice Barrier](db.ygoprodeck.com/card/?search=Judge%20of%20the%20Ice%20Barrier)
+- [Judgment Dragon](db.ygoprodeck.com/card/?search=Judgment%20Dragon)
+- [Judgment of Anubis](db.ygoprodeck.com/card/?search=Judgment%20of%20Anubis)
+- [Judgment of the Branded](db.ygoprodeck.com/card/?search=Judgment%20of%20the%20Branded)
+- [Judgment of the Desert](db.ygoprodeck.com/card/?search=Judgment%20of%20the%20Desert)
+- [Judgment of Thunder](db.ygoprodeck.com/card/?search=Judgment%20of%20Thunder)
+- [Jumbo Drill](db.ygoprodeck.com/card/?search=Jumbo%20Drill)
+- [Junk Barrage](db.ygoprodeck.com/card/?search=Junk%20Barrage)
+- [Junk Blader](db.ygoprodeck.com/card/?search=Junk%20Blader)
+- [Junk Box](db.ygoprodeck.com/card/?search=Junk%20Box)
+- [Junk Breaker](db.ygoprodeck.com/card/?search=Junk%20Breaker)
+- [Junk Defender](db.ygoprodeck.com/card/?search=Junk%20Defender)
+- [Junk Forward](db.ygoprodeck.com/card/?search=Junk%20Forward)
+- [Junk Puppet](db.ygoprodeck.com/card/?search=Junk%20Puppet)
+- [Junk Servant](db.ygoprodeck.com/card/?search=Junk%20Servant)
+- [Junk Sleep](db.ygoprodeck.com/card/?search=Junk%20Sleep)
+- [Junk Synchron](db.ygoprodeck.com/card/?search=Junk%20Synchron)
+- [Junk Warrior](db.ygoprodeck.com/card/?search=Junk%20Warrior)
+- [Juragedo](db.ygoprodeck.com/card/?search=Juragedo)
+- [Jurassic World](db.ygoprodeck.com/card/?search=Jurassic%20World)
+- [Jurrac Aeolo](db.ygoprodeck.com/card/?search=Jurrac%20Aeolo)
+- [Jurrac Brachis](db.ygoprodeck.com/card/?search=Jurrac%20Brachis)
+- [Jurrac Dino](db.ygoprodeck.com/card/?search=Jurrac%20Dino)
+- [Jurrac Gallim](db.ygoprodeck.com/card/?search=Jurrac%20Gallim)
+- [Jurrac Guaiba](db.ygoprodeck.com/card/?search=Jurrac%20Guaiba)
+- [Jurrac Impact](db.ygoprodeck.com/card/?search=Jurrac%20Impact)
+- [Jurrac Monoloph](db.ygoprodeck.com/card/?search=Jurrac%20Monoloph)
+- [Jurrac Protops](db.ygoprodeck.com/card/?search=Jurrac%20Protops)
+- [Jurrac Ptera](db.ygoprodeck.com/card/?search=Jurrac%20Ptera)
+- [Jurrac Spinos](db.ygoprodeck.com/card/?search=Jurrac%20Spinos)
+- [Jurrac Stauriko](db.ygoprodeck.com/card/?search=Jurrac%20Stauriko)
+- [Jurrac Tyrannus](db.ygoprodeck.com/card/?search=Jurrac%20Tyrannus)
+- [Just Desserts](db.ygoprodeck.com/card/?search=Just%20Desserts)
+- [Justi-Break](db.ygoprodeck.com/card/?search=Justi-Break)
+- [Justice of Prophecy](db.ygoprodeck.com/card/?search=Justice%20of%20Prophecy)
+- [Jutte Fighter](db.ygoprodeck.com/card/?search=Jutte%20Fighter)
+- [KA-2 Des Scissors](db.ygoprodeck.com/card/?search=KA-2%20Des%20Scissors)
+- [Kabazauls](db.ygoprodeck.com/card/?search=Kabazauls)
+- [Kagemucha Knight](db.ygoprodeck.com/card/?search=Kagemucha%20Knight)
+- [Kagemusha of the Blue Flame](db.ygoprodeck.com/card/?search=Kagemusha%20of%20the%20Blue%20Flame)
+- [Kagemusha of the Six Samurai](db.ygoprodeck.com/card/?search=Kagemusha%20of%20the%20Six%20Samurai)
+- [Kageningen](db.ygoprodeck.com/card/?search=Kageningen)
+- [Kagetokage](db.ygoprodeck.com/card/?search=Kagetokage)
+- [Kahkki, Guerilla of Dark World](db.ygoprodeck.com/card/?search=Kahkki,%20Guerilla%20of%20Dark%20World)
+- [Kai-Den Kendo Spirit](db.ygoprodeck.com/card/?search=Kai-Den%20Kendo%20Spirit)
+- [Kaibaman](db.ygoprodeck.com/card/?search=Kaibaman)
+- [Kaiju Capture Mission](db.ygoprodeck.com/card/?search=Kaiju%20Capture%20Mission)
+- [Kairyu-Shin](db.ygoprodeck.com/card/?search=Kairyu-Shin)
+- [Kaiser Dragon](db.ygoprodeck.com/card/?search=Kaiser%20Dragon)
+- [Kaiser Glider](db.ygoprodeck.com/card/?search=Kaiser%20Glider)
+- [Kaiser Sea Horse](db.ygoprodeck.com/card/?search=Kaiser%20Sea%20Horse)
+- [Kaiser Sea Snake](db.ygoprodeck.com/card/?search=Kaiser%20Sea%20Snake)
+- [Kalantosa, Mystical Beast of the Forest](db.ygoprodeck.com/card/?search=Kalantosa,%20Mystical%20Beast%20of%20the%20Forest)
+- [Kaminari Attack](db.ygoprodeck.com/card/?search=Kaminari%20Attack)
+- [Kaminote Blow](db.ygoprodeck.com/card/?search=Kaminote%20Blow)
+- [Kamionwizard](db.ygoprodeck.com/card/?search=Kamionwizard)
+- [Kamui, Hope of Gusto](db.ygoprodeck.com/card/?search=Kamui,%20Hope%20of%20Gusto)
+- [Kangaroo Champ](db.ygoprodeck.com/card/?search=Kangaroo%20Champ)
+- [Karakuri Anatomy](db.ygoprodeck.com/card/?search=Karakuri%20Anatomy)
+- [Karakuri Bonze mdl 9763 "Kunamzan"](db.ygoprodeck.com/card/?search=Karakuri%20Bonze%20mdl%209763%20"Kunamzan")
+- [Karakuri Cash Cache](db.ygoprodeck.com/card/?search=Karakuri%20Cash%20Cache)
+- [Karakuri Cash Inn](db.ygoprodeck.com/card/?search=Karakuri%20Cash%20Inn)
+- [Karakuri Gama mdl 4624 "Shirokunishi"](db.ygoprodeck.com/card/?search=Karakuri%20Gama%20mdl%204624%20"Shirokunishi")
+- [Karakuri Gama Oil](db.ygoprodeck.com/card/?search=Karakuri%20Gama%20Oil)
+- [Karakuri Gold Dust](db.ygoprodeck.com/card/?search=Karakuri%20Gold%20Dust)
+- [Karakuri Komachi mdl 224 "Ninishi"](db.ygoprodeck.com/card/?search=Karakuri%20Komachi%20mdl%20224%20"Ninishi")
+- [Karakuri Ninja mdl 7749 "Nanashick"](db.ygoprodeck.com/card/?search=Karakuri%20Ninja%20mdl%207749%20"Nanashick")
+- [Karakuri Ninja mdl 919 "Kuick"](db.ygoprodeck.com/card/?search=Karakuri%20Ninja%20mdl%20919%20"Kuick")
+- [Karakuri Soldier mdl 236 "Nisamu"](db.ygoprodeck.com/card/?search=Karakuri%20Soldier%20mdl%20236%20"Nisamu")
+- [Karakuri Spider](db.ygoprodeck.com/card/?search=Karakuri%20Spider)
+- [Karakuri Steel Shogun mdl 00X "Bureido"](db.ygoprodeck.com/card/?search=Karakuri%20Steel%20Shogun%20mdl%2000X%20"Bureido")
+- [Karakuri Strategist mdl 248 "Nishipachi"](db.ygoprodeck.com/card/?search=Karakuri%20Strategist%20mdl%20248%20"Nishipachi")
+- [Karakuri Trick House](db.ygoprodeck.com/card/?search=Karakuri%20Trick%20House)
+- [Karakuri Watchdog mdl 313 "Saizan"](db.ygoprodeck.com/card/?search=Karakuri%20Watchdog%20mdl%20313%20"Saizan")
+- [Karate Man](db.ygoprodeck.com/card/?search=Karate%20Man)
+- [Karbonala Warrior](db.ygoprodeck.com/card/?search=Karbonala%20Warrior)
+- [Karma Cut](db.ygoprodeck.com/card/?search=Karma%20Cut)
+- [Karma of the Destruction Swordsman](db.ygoprodeck.com/card/?search=Karma%20of%20the%20Destruction%20Swordsman)
+- [Kasha](db.ygoprodeck.com/card/?search=Kasha)
+- [Kayenn, the Master Magma Blacksmith](db.ygoprodeck.com/card/?search=Kayenn,%20the%20Master%20Magma%20Blacksmith)
+- [Kazejin](db.ygoprodeck.com/card/?search=Kazejin)
+- [Keeper of the Shrine](db.ygoprodeck.com/card/?search=Keeper%20of%20the%20Shrine)
+- [Kelbek](db.ygoprodeck.com/card/?search=Kelbek)
+- [Keldo](db.ygoprodeck.com/card/?search=Keldo)
+- [Key Mace](db.ygoprodeck.com/card/?search=Key%20Mace)
+- [Key Man the Key Warrior](db.ygoprodeck.com/card/?search=Key%20Man%20the%20Key%20Warrior)
+- [Key Mouse](db.ygoprodeck.com/card/?search=Key%20Mouse)
+- [Kidmodo Dragon](db.ygoprodeck.com/card/?search=Kidmodo%20Dragon)
+- [Kikinagashi Fucho](db.ygoprodeck.com/card/?search=Kikinagashi%20Fucho)
+- [Killer Needle](db.ygoprodeck.com/card/?search=Killer%20Needle)
+- [King Beast Barbaros](db.ygoprodeck.com/card/?search=King%20Beast%20Barbaros)
+- [King Fog](db.ygoprodeck.com/card/?search=King%20Fog)
+- [King of the Feral Imps](db.ygoprodeck.com/card/?search=King%20of%20the%20Feral%20Imps)
+- [King of the Skull Servants](db.ygoprodeck.com/card/?search=King%20of%20the%20Skull%20Servants)
+- [King of the Swamp](db.ygoprodeck.com/card/?search=King%20of%20the%20Swamp)
+- [King of Yamimakai](db.ygoprodeck.com/card/?search=King%20of%20Yamimakai)
+- [King Pyron](db.ygoprodeck.com/card/?search=King%20Pyron)
+- [King Scarlet](db.ygoprodeck.com/card/?search=King%20Scarlet)
+- [King Tiger Wanghu](db.ygoprodeck.com/card/?search=King%20Tiger%20Wanghu)
+- [King's Knight](db.ygoprodeck.com/card/?search=King's%20Knight)
+- [Kinka-byo](db.ygoprodeck.com/card/?search=Kinka-byo)
+- [Kiryu](db.ygoprodeck.com/card/?search=Kiryu)
+- [Kiseitai](db.ygoprodeck.com/card/?search=Kiseitai)
+- [Kishido Spirit](db.ygoprodeck.com/card/?search=Kishido%20Spirit)
+- [Knight Day Grepher](db.ygoprodeck.com/card/?search=Knight%20Day%20Grepher)
+- [Knight of Armor Dragon](db.ygoprodeck.com/card/?search=Knight%20of%20Armor%20Dragon)
+- [Knight of Legend](db.ygoprodeck.com/card/?search=Knight%20of%20Legend)
+- [Knight's Title](db.ygoprodeck.com/card/?search=Knight's%20Title)
+- [Koa'ki Meiru Boulder](db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Boulder)
+- [Koa'ki Meiru Doom](db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Doom)
+- [Koa'ki Meiru Drago](db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Drago)
+- [Koa'ki Meiru Guardian](db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Guardian)
+- [Koa'ki Meiru Hydro Barrier](db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Hydro%20Barrier)
+- [Koa'ki Meiru Initialize!](db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Initialize!)
+- [Koa'ki Meiru Sandman](db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Sandman)
+- [Koa'ki Meiru Sea Panther](db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Sea%20Panther)
+- [Koa'ki Meiru War Arms](db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20War%20Arms)
+- [Koa'ki Ring](db.ygoprodeck.com/card/?search=Koa'ki%20Ring)
+- [Koalo-Koala](db.ygoprodeck.com/card/?search=Koalo-Koala)
+- [Koitsu](db.ygoprodeck.com/card/?search=Koitsu)
+- [Kojikocy](db.ygoprodeck.com/card/?search=Kojikocy)
+- [Konohanasakuya](db.ygoprodeck.com/card/?search=Konohanasakuya)
+- [Kotodama](db.ygoprodeck.com/card/?search=Kotodama)
+- [Koumori Dragon](db.ygoprodeck.com/card/?search=Koumori%20Dragon)
+- [Kozaky](db.ygoprodeck.com/card/?search=Kozaky)
+- [Kozmo Delta Shuttle](db.ygoprodeck.com/card/?search=Kozmo%20Delta%20Shuttle)
+- [Kozmo Lightsword](db.ygoprodeck.com/card/?search=Kozmo%20Lightsword)
+- [Kozmoll Wickedwitch](db.ygoprodeck.com/card/?search=Kozmoll%20Wickedwitch)
+- [Kozmourning](db.ygoprodeck.com/card/?search=Kozmourning)
+- [Krawler Axon](db.ygoprodeck.com/card/?search=Krawler%20Axon)
+- [Krawler Dendrite](db.ygoprodeck.com/card/?search=Krawler%20Dendrite)
+- [Krawler Glial](db.ygoprodeck.com/card/?search=Krawler%20Glial)
+- [Krawler Ranvier](db.ygoprodeck.com/card/?search=Krawler%20Ranvier)
+- [Krawler Receptor](db.ygoprodeck.com/card/?search=Krawler%20Receptor)
+- [Krawler Spine](db.ygoprodeck.com/card/?search=Krawler%20Spine)
+- [Krebons](db.ygoprodeck.com/card/?search=Krebons)
+- [Kryuel](db.ygoprodeck.com/card/?search=Kryuel)
+- [Kujakujaku](db.ygoprodeck.com/card/?search=Kujakujaku)
+- [Kuji-Kiri Curse](db.ygoprodeck.com/card/?search=Kuji-Kiri%20Curse)
+- [Kumootoko](db.ygoprodeck.com/card/?search=Kumootoko)
+- [Kunai with Chain](db.ygoprodeck.com/card/?search=Kunai%20with%20Chain)
+- [Kunoichi](db.ygoprodeck.com/card/?search=Kunoichi)
+- [Kurama](db.ygoprodeck.com/card/?search=Kurama)
+- [Kuraz the Light Monarch](db.ygoprodeck.com/card/?search=Kuraz%20the%20Light%20Monarch)
+- [Kuribandit](db.ygoprodeck.com/card/?search=Kuribandit)
+- [Kuriboh](db.ygoprodeck.com/card/?search=Kuriboh)
+- [Kuribohrn](db.ygoprodeck.com/card/?search=Kuribohrn)
+- [Kuribon](db.ygoprodeck.com/card/?search=Kuribon)
+- [Kuriphoton](db.ygoprodeck.com/card/?search=Kuriphoton)
+- [Kurivolt](db.ygoprodeck.com/card/?search=Kurivolt)
+- [Kuro-Obi Karate Spirit](db.ygoprodeck.com/card/?search=Kuro-Obi%20Karate%20Spirit)
+- [Kuwagata α](db.ygoprodeck.com/card/?search=Kuwagata%20α)
+- [Kycoo the Ghost Destroyer](db.ygoprodeck.com/card/?search=Kycoo%20the%20Ghost%20Destroyer)
+- [Kyoutou Waterfront](db.ygoprodeck.com/card/?search=Kyoutou%20Waterfront)
+- [La Jinn the Mystical Genie of the Lamp](db.ygoprodeck.com/card/?search=La%20Jinn%20the%20Mystical%20Genie%20of%20the%20Lamp)
+- [Labradorite Dragon](db.ygoprodeck.com/card/?search=Labradorite%20Dragon)
+- [Labyrinth of Nightmare](db.ygoprodeck.com/card/?search=Labyrinth%20of%20Nightmare)
+- [Labyrinth Tank](db.ygoprodeck.com/card/?search=Labyrinth%20Tank)
+- [Labyrinth Wall](db.ygoprodeck.com/card/?search=Labyrinth%20Wall)
+- [Lady Assailant of Flames](db.ygoprodeck.com/card/?search=Lady%20Assailant%20of%20Flames)
+- [Lady Ninja Yae](db.ygoprodeck.com/card/?search=Lady%20Ninja%20Yae)
+- [Lady of D.](db.ygoprodeck.com/card/?search=Lady%20of%20D.)
+- [Lady of Faith](db.ygoprodeck.com/card/?search=Lady%20of%20Faith)
+- [Lady Panther](db.ygoprodeck.com/card/?search=Lady%20Panther)
+- [Lair of Darkness](db.ygoprodeck.com/card/?search=Lair%20of%20Darkness)
+- [Lair Wire](db.ygoprodeck.com/card/?search=Lair%20Wire)
+- [Lancephorhynchus](db.ygoprodeck.com/card/?search=Lancephorhynchus)
+- [Lancer Archfiend](db.ygoprodeck.com/card/?search=Lancer%20Archfiend)
+- [Lancer Dragonute](db.ygoprodeck.com/card/?search=Lancer%20Dragonute)
+- [Lancer Lindwurm](db.ygoprodeck.com/card/?search=Lancer%20Lindwurm)
+- [Landrobe the Rock Vassal](db.ygoprodeck.com/card/?search=Landrobe%20the%20Rock%20Vassal)
+- [LANphorhynchus](db.ygoprodeck.com/card/?search=LANphorhynchus)
+- [Lantern Shark](db.ygoprodeck.com/card/?search=Lantern%20Shark)
+- [Larvae Moth](db.ygoprodeck.com/card/?search=Larvae%20Moth)
+- [Larvas](db.ygoprodeck.com/card/?search=Larvas)
+- [Laser Cannon Armor](db.ygoprodeck.com/card/?search=Laser%20Cannon%20Armor)
+- [Laser Qlip](db.ygoprodeck.com/card/?search=Laser%20Qlip)
+- [Last Counter](db.ygoprodeck.com/card/?search=Last%20Counter)
+- [Last Gamble](db.ygoprodeck.com/card/?search=Last%20Gamble)
+- [Last Minute Cancel](db.ygoprodeck.com/card/?search=Last%20Minute%20Cancel)
+- [Last Resort](db.ygoprodeck.com/card/?search=Last%20Resort)
+- [Launcher Commander](db.ygoprodeck.com/card/?search=Launcher%20Commander)
+- [Launcher Spider](db.ygoprodeck.com/card/?search=Launcher%20Spider)
+- [Laundry Trap](db.ygoprodeck.com/card/?search=Laundry%20Trap)
+- [Lava Battleguard](db.ygoprodeck.com/card/?search=Lava%20Battleguard)
+- [Lava Dragon](db.ygoprodeck.com/card/?search=Lava%20Dragon)
+- [Lava Golem](db.ygoprodeck.com/card/?search=Lava%20Golem)
+- [Laval Blaster](db.ygoprodeck.com/card/?search=Laval%20Blaster)
+- [Laval Burner](db.ygoprodeck.com/card/?search=Laval%20Burner)
+- [Laval Cannon](db.ygoprodeck.com/card/?search=Laval%20Cannon)
+- [Laval Dual Slasher](db.ygoprodeck.com/card/?search=Laval%20Dual%20Slasher)
+- [Laval Forest Sprite](db.ygoprodeck.com/card/?search=Laval%20Forest%20Sprite)
+- [Laval Lakeside Lady](db.ygoprodeck.com/card/?search=Laval%20Lakeside%20Lady)
+- [Laval Lancelord](db.ygoprodeck.com/card/?search=Laval%20Lancelord)
+- [Laval Magma Cannoneer](db.ygoprodeck.com/card/?search=Laval%20Magma%20Cannoneer)
+- [Laval Phlogis](db.ygoprodeck.com/card/?search=Laval%20Phlogis)
+- [Laval Volcano Handmaiden](db.ygoprodeck.com/card/?search=Laval%20Volcano%20Handmaiden)
+- [Lavalval Dragun](db.ygoprodeck.com/card/?search=Lavalval%20Dragun)
+- [Layard the Liberator](db.ygoprodeck.com/card/?search=Layard%20the%20Liberator)
+- [Leeching the Light](db.ygoprodeck.com/card/?search=Leeching%20the%20Light)
+- [Left Arm Offering](db.ygoprodeck.com/card/?search=Left%20Arm%20Offering)
+- [Lefty Driver](db.ygoprodeck.com/card/?search=Lefty%20Driver)
+- [Legacy of Yata-Garasu](db.ygoprodeck.com/card/?search=Legacy%20of%20Yata-Garasu)
+- [Legend of Heart](db.ygoprodeck.com/card/?search=Legend%20of%20Heart)
+- [Legendary Atlantean Tridon](db.ygoprodeck.com/card/?search=Legendary%20Atlantean%20Tridon)
+- [Legendary Ebon Steed](db.ygoprodeck.com/card/?search=Legendary%20Ebon%20Steed)
+- [Legendary Fiend](db.ygoprodeck.com/card/?search=Legendary%20Fiend)
+- [Legendary Jujitsu Master](db.ygoprodeck.com/card/?search=Legendary%20Jujitsu%20Master)
+- [Legendary Knight Critias](db.ygoprodeck.com/card/?search=Legendary%20Knight%20Critias)
+- [Legendary Knight Hermos](db.ygoprodeck.com/card/?search=Legendary%20Knight%20Hermos)
+- [Legendary Knight Timaeus](db.ygoprodeck.com/card/?search=Legendary%20Knight%20Timaeus)
+- [Legendary Maju Garzett](db.ygoprodeck.com/card/?search=Legendary%20Maju%20Garzett)
+- [Legendary Secret of the Six Samurai](db.ygoprodeck.com/card/?search=Legendary%20Secret%20of%20the%20Six%20Samurai)
+- [Legendary Six Samurai - Enishi](db.ygoprodeck.com/card/?search=Legendary%20Six%20Samurai%20-%20Enishi)
+- [Legendary Six Samurai - Kizan](db.ygoprodeck.com/card/?search=Legendary%20Six%20Samurai%20-%20Kizan)
+- [Legendary Six Samurai - Mizuho](db.ygoprodeck.com/card/?search=Legendary%20Six%20Samurai%20-%20Mizuho)
+- [Legendary Six Samurai - Shinai](db.ygoprodeck.com/card/?search=Legendary%20Six%20Samurai%20-%20Shinai)
+- [Legendary Sword](db.ygoprodeck.com/card/?search=Legendary%20Sword)
+- [Legendary Wind-Up Key](db.ygoprodeck.com/card/?search=Legendary%20Wind-Up%20Key)
+- [Leghul](db.ygoprodeck.com/card/?search=Leghul)
+- [Legion the Fiend Jester](db.ygoprodeck.com/card/?search=Legion%20the%20Fiend%20Jester)
+- [Lekunga](db.ygoprodeck.com/card/?search=Lekunga)
+- [Lemuria, the Forgotten City](db.ygoprodeck.com/card/?search=Lemuria,%20the%20Forgotten%20City)
+- [Leng Ling](db.ygoprodeck.com/card/?search=Leng%20Ling)
+- [Leo, the Keeper of the Sacred Tree](db.ygoprodeck.com/card/?search=Leo,%20the%20Keeper%20of%20the%20Sacred%20Tree)
+- [Leodrake's Mane](db.ygoprodeck.com/card/?search=Leodrake's%20Mane)
+- [Leogun](db.ygoprodeck.com/card/?search=Leogun)
+- [Leotaur](db.ygoprodeck.com/card/?search=Leotaur)
+- [Leotron](db.ygoprodeck.com/card/?search=Leotron)
+- [Lesser Dragon](db.ygoprodeck.com/card/?search=Lesser%20Dragon)
+- [Lesser Fiend](db.ygoprodeck.com/card/?search=Lesser%20Fiend)
+- [Level Conversion Lab](db.ygoprodeck.com/card/?search=Level%20Conversion%20Lab)
+- [Level Down!?](db.ygoprodeck.com/card/?search=Level%20Down!?)
+- [Level Lifter](db.ygoprodeck.com/card/?search=Level%20Lifter)
+- [Level Limit - Area A](db.ygoprodeck.com/card/?search=Level%20Limit%20-%20Area%20A)
+- [Level Limit - Area B](db.ygoprodeck.com/card/?search=Level%20Limit%20-%20Area%20B)
+- [Level Modulation](db.ygoprodeck.com/card/?search=Level%20Modulation)
+- [Level Retuner](db.ygoprodeck.com/card/?search=Level%20Retuner)
+- [Level Tuning](db.ygoprodeck.com/card/?search=Level%20Tuning)
+- [Level Up!](db.ygoprodeck.com/card/?search=Level%20Up!)
+- [Level Warrior](db.ygoprodeck.com/card/?search=Level%20Warrior)
+- [Levia-Dragon - Daedalus](db.ygoprodeck.com/card/?search=Levia-Dragon%20-%20Daedalus)
+- [Leviair the Sea Dragon](db.ygoprodeck.com/card/?search=Leviair%20the%20Sea%20Dragon)
+- [Liberty at Last!](db.ygoprodeck.com/card/?search=Liberty%20at%20Last!)
+- [Lich Lord, King of the Underworld](db.ygoprodeck.com/card/?search=Lich%20Lord,%20King%20of%20the%20Underworld)
+- [Life Absorbing Machine](db.ygoprodeck.com/card/?search=Life%20Absorbing%20Machine)
+- [Life Stream Dragon](db.ygoprodeck.com/card/?search=Life%20Stream%20Dragon)
+- [Lifeless Leaffish](db.ygoprodeck.com/card/?search=Lifeless%20Leaffish)
+- [Light and Darkness Dragon](db.ygoprodeck.com/card/?search=Light%20and%20Darkness%20Dragon)
+- [Light Barrier](db.ygoprodeck.com/card/?search=Light%20Barrier)
+- [Light Dragon @Ignister](db.ygoprodeck.com/card/?search=Light%20Dragon%20@Ignister)
+- [Light Effigy](db.ygoprodeck.com/card/?search=Light%20Effigy)
+- [Light of Destruction](db.ygoprodeck.com/card/?search=Light%20of%20Destruction)
+- [Light of Intervention](db.ygoprodeck.com/card/?search=Light%20of%20Intervention)
+- [Light of Judgment](db.ygoprodeck.com/card/?search=Light%20of%20Judgment)
+- [Light of Redemption](db.ygoprodeck.com/card/?search=Light%20of%20Redemption)
+- [Light Spiral](db.ygoprodeck.com/card/?search=Light%20Spiral)
+- [Light-Imprisoning Mirror](db.ygoprodeck.com/card/?search=Light-Imprisoning%20Mirror)
+- [Lighten the Load](db.ygoprodeck.com/card/?search=Lighten%20the%20Load)
+- [Lightforce Sword](db.ygoprodeck.com/card/?search=Lightforce%20Sword)
+- [Lightning Blade](db.ygoprodeck.com/card/?search=Lightning%20Blade)
+- [Lightning Conger](db.ygoprodeck.com/card/?search=Lightning%20Conger)
+- [Lightning Vortex](db.ygoprodeck.com/card/?search=Lightning%20Vortex)
+- [Lightning, Dragon Ruler of Drafts](db.ygoprodeck.com/card/?search=Lightning,%20Dragon%20Ruler%20of%20Drafts)
+- [Lightray Daedalus](db.ygoprodeck.com/card/?search=Lightray%20Daedalus)
+- [Lightray Diabolos](db.ygoprodeck.com/card/?search=Lightray%20Diabolos)
+- [Lightray Gearfried](db.ygoprodeck.com/card/?search=Lightray%20Gearfried)
+- [Lightray Grepher](db.ygoprodeck.com/card/?search=Lightray%20Grepher)
+- [Lightray Madoor](db.ygoprodeck.com/card/?search=Lightray%20Madoor)
+- [Lightsworn Barrier](db.ygoprodeck.com/card/?search=Lightsworn%20Barrier)
+- [Lightsworn Judgment](db.ygoprodeck.com/card/?search=Lightsworn%20Judgment)
+- [Lightsworn Sabre](db.ygoprodeck.com/card/?search=Lightsworn%20Sabre)
+- [Lightwave Tuning](db.ygoprodeck.com/card/?search=Lightwave%20Tuning)
+- [Lillybot](db.ygoprodeck.com/card/?search=Lillybot)
+- [Limit Code](db.ygoprodeck.com/card/?search=Limit%20Code)
+- [Limit Impulse](db.ygoprodeck.com/card/?search=Limit%20Impulse)
+- [Limit Overdrive](db.ygoprodeck.com/card/?search=Limit%20Overdrive)
+- [Limit Reverse](db.ygoprodeck.com/card/?search=Limit%20Reverse)
+- [Limiter Overload](db.ygoprodeck.com/card/?search=Limiter%20Overload)
+- [Limiter Removal](db.ygoprodeck.com/card/?search=Limiter%20Removal)
+- [Lindbloom](db.ygoprodeck.com/card/?search=Lindbloom)
+- [Lineage of Destruction](db.ygoprodeck.com/card/?search=Lineage%20of%20Destruction)
+- [Linear Accelerator Cannon](db.ygoprodeck.com/card/?search=Linear%20Accelerator%20Cannon)
+- [Linear Equation Cannon](db.ygoprodeck.com/card/?search=Linear%20Equation%20Cannon)
+- [Link Back](db.ygoprodeck.com/card/?search=Link%20Back)
+- [Link Bound](db.ygoprodeck.com/card/?search=Link%20Bound)
+- [Link Bumper](db.ygoprodeck.com/card/?search=Link%20Bumper)
+- [Link Burst](db.ygoprodeck.com/card/?search=Link%20Burst)
+- [Link Devotee](db.ygoprodeck.com/card/?search=Link%20Devotee)
+- [Link Hole](db.ygoprodeck.com/card/?search=Link%20Hole)
+- [Link Infra-Flier](db.ygoprodeck.com/card/?search=Link%20Infra-Flier)
+- [Link Party](db.ygoprodeck.com/card/?search=Link%20Party)
+- [Link Restart](db.ygoprodeck.com/card/?search=Link%20Restart)
+- [Link Spider](db.ygoprodeck.com/card/?search=Link%20Spider)
+- [Link Streamer](db.ygoprodeck.com/card/?search=Link%20Streamer)
+- [Link Turret](db.ygoprodeck.com/card/?search=Link%20Turret)
+- [Linkbelt Wall Dragon](db.ygoprodeck.com/card/?search=Linkbelt%20Wall%20Dragon)
+- [Linkerbell](db.ygoprodeck.com/card/?search=Linkerbell)
+- [Linkslayer](db.ygoprodeck.com/card/?search=Linkslayer)
+- [Linkuriboh](db.ygoprodeck.com/card/?search=Linkuriboh)
+- [Lion Alligator](db.ygoprodeck.com/card/?search=Lion%20Alligator)
+- [Lionhearted Locomotive](db.ygoprodeck.com/card/?search=Lionhearted%20Locomotive)
+- [Liquid Beast](db.ygoprodeck.com/card/?search=Liquid%20Beast)
+- [Little Chimera](db.ygoprodeck.com/card/?search=Little%20Chimera)
+- [Little D](db.ygoprodeck.com/card/?search=Little%20D)
+- [Little Fairy](db.ygoprodeck.com/card/?search=Little%20Fairy)
+- [Little Trooper](db.ygoprodeck.com/card/?search=Little%20Trooper)
+- [Little-Winguard](db.ygoprodeck.com/card/?search=Little-Winguard)
+- [Living Fossil](db.ygoprodeck.com/card/?search=Living%20Fossil)
+- [Lizard Soldier](db.ygoprodeck.com/card/?search=Lizard%20Soldier)
+- [Ljosalf of the Nordic Alfar](db.ygoprodeck.com/card/?search=Ljosalf%20of%20the%20Nordic%20Alfar)
+- [Localized Tornado](db.ygoprodeck.com/card/?search=Localized%20Tornado)
+- [Lock Cat](db.ygoprodeck.com/card/?search=Lock%20Cat)
+- [Lockout Gardna](db.ygoprodeck.com/card/?search=Lockout%20Gardna)
+- [Loki, Lord of the Aesir](db.ygoprodeck.com/card/?search=Loki,%20Lord%20of%20the%20Aesir)
+- [Lone Wolf](db.ygoprodeck.com/card/?search=Lone%20Wolf)
+- [Lonefire Blossom](db.ygoprodeck.com/card/?search=Lonefire%20Blossom)
+- [Lord British Space Fighter](db.ygoprodeck.com/card/?search=Lord%20British%20Space%20Fighter)
+- [Lord of D.](db.ygoprodeck.com/card/?search=Lord%20of%20D.)
+- [Lord of the Lamp](db.ygoprodeck.com/card/?search=Lord%20of%20the%20Lamp)
+- [Lord of the Red](db.ygoprodeck.com/card/?search=Lord%20of%20the%20Red)
+- [Lord Poison](db.ygoprodeck.com/card/?search=Lord%20Poison)
+- [Loss Time](db.ygoprodeck.com/card/?search=Loss%20Time)
+- [Lost Blue Breaker](db.ygoprodeck.com/card/?search=Lost%20Blue%20Breaker)
+- [Lost Guardian](db.ygoprodeck.com/card/?search=Lost%20Guardian)
+- [Lost Wind](db.ygoprodeck.com/card/?search=Lost%20Wind)
+- [Loud Cloud the Storm Serpent](db.ygoprodeck.com/card/?search=Loud%20Cloud%20the%20Storm%20Serpent)
+- [Low Blow](db.ygoprodeck.com/card/?search=Low%20Blow)
+- [Lucius the Shadow Vassal](db.ygoprodeck.com/card/?search=Lucius%20the%20Shadow%20Vassal)
+- [Lucky Chance](db.ygoprodeck.com/card/?search=Lucky%20Chance)
+- [Lucky Cloud](db.ygoprodeck.com/card/?search=Lucky%20Cloud)
+- [Lucky Iron Axe](db.ygoprodeck.com/card/?search=Lucky%20Iron%20Axe)
+- [Lucky Punch](db.ygoprodeck.com/card/?search=Lucky%20Punch)
+- [Lumenize](db.ygoprodeck.com/card/?search=Lumenize)
+- [Lumina, Lightsworn Summoner](db.ygoprodeck.com/card/?search=Lumina,%20Lightsworn%20Summoner)
+- [Luminous Dragon Ritual](db.ygoprodeck.com/card/?search=Luminous%20Dragon%20Ritual)
+- [Luminous Soldier](db.ygoprodeck.com/card/?search=Luminous%20Soldier)
+- [Luminous Spark](db.ygoprodeck.com/card/?search=Luminous%20Spark)
+- [Luna Light Perfume](db.ygoprodeck.com/card/?search=Luna%20Light%20Perfume)
+- [Luna the Dark Spirit](db.ygoprodeck.com/card/?search=Luna%20the%20Dark%20Spirit)
+- [Lunalight Black Sheep](db.ygoprodeck.com/card/?search=Lunalight%20Black%20Sheep)
+- [Lunalight Blue Cat](db.ygoprodeck.com/card/?search=Lunalight%20Blue%20Cat)
+- [Lunalight Cat Dancer](db.ygoprodeck.com/card/?search=Lunalight%20Cat%20Dancer)
+- [Lunalight Crimson Fox](db.ygoprodeck.com/card/?search=Lunalight%20Crimson%20Fox)
+- [Lunalight Emerald Bird](db.ygoprodeck.com/card/?search=Lunalight%20Emerald%20Bird)
+- [Lunalight Fusion](db.ygoprodeck.com/card/?search=Lunalight%20Fusion)
+- [Lunalight Kaleido Chick](db.ygoprodeck.com/card/?search=Lunalight%20Kaleido%20Chick)
+- [Lunalight Leo Dancer](db.ygoprodeck.com/card/?search=Lunalight%20Leo%20Dancer)
+- [Lunalight Panther Dancer](db.ygoprodeck.com/card/?search=Lunalight%20Panther%20Dancer)
+- [Lunalight Purple Butterfly](db.ygoprodeck.com/card/?search=Lunalight%20Purple%20Butterfly)
+- [Lunalight Reincarnation Dance](db.ygoprodeck.com/card/?search=Lunalight%20Reincarnation%20Dance)
+- [Lunalight Sabre Dancer](db.ygoprodeck.com/card/?search=Lunalight%20Sabre%20Dancer)
+- [Lunalight Serenade Dance](db.ygoprodeck.com/card/?search=Lunalight%20Serenade%20Dance)
+- [Lunalight White Rabbit](db.ygoprodeck.com/card/?search=Lunalight%20White%20Rabbit)
+- [Lunalight Wolf](db.ygoprodeck.com/card/?search=Lunalight%20Wolf)
+- [Lunalight Yellow Marten](db.ygoprodeck.com/card/?search=Lunalight%20Yellow%20Marten)
+- [Luster Dragon](db.ygoprodeck.com/card/?search=Luster%20Dragon)
+- [Luster Dragon #2](db.ygoprodeck.com/card/?search=Luster%20Dragon%20#2)
+- [Lycanthrope](db.ygoprodeck.com/card/?search=Lycanthrope)
+- [Lyla, Lightsworn Sorceress](db.ygoprodeck.com/card/?search=Lyla,%20Lightsworn%20Sorceress)
+- [Lyna the Light Charmer](db.ygoprodeck.com/card/?search=Lyna%20the%20Light%20Charmer)
+- [Lyrilusc - Cobalt Sparrow](db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Cobalt%20Sparrow)
+- [Lyrilusc - Recital Starling](db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Recital%20Starling)
+- [Lyrilusc - Sapphire Swallow](db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Sapphire%20Swallow)
+- [Lyrilusc - Turquoise Warbler](db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Turquoise%20Warbler)
+- [M-Warrior #1](db.ygoprodeck.com/card/?search=M-Warrior%20#1)
+- [M-Warrior #2](db.ygoprodeck.com/card/?search=M-Warrior%20#2)
+- [Ma'at](db.ygoprodeck.com/card/?search=Ma'at)
+- [Machina Armored Unit](db.ygoprodeck.com/card/?search=Machina%20Armored%20Unit)
+- [Machina Cannon](db.ygoprodeck.com/card/?search=Machina%20Cannon)
+- [Machina Defender](db.ygoprodeck.com/card/?search=Machina%20Defender)
+- [Machina Defense Perimeter](db.ygoprodeck.com/card/?search=Machina%20Defense%20Perimeter)
+- [Machina Force](db.ygoprodeck.com/card/?search=Machina%20Force)
+- [Machina Fortress](db.ygoprodeck.com/card/?search=Machina%20Fortress)
+- [Machina Gearframe](db.ygoprodeck.com/card/?search=Machina%20Gearframe)
+- [Machina Irradiator](db.ygoprodeck.com/card/?search=Machina%20Irradiator)
+- [Machina Megaform](db.ygoprodeck.com/card/?search=Machina%20Megaform)
+- [Machina Overdrive](db.ygoprodeck.com/card/?search=Machina%20Overdrive)
+- [Machina Peacekeeper](db.ygoprodeck.com/card/?search=Machina%20Peacekeeper)
+- [Machina Resavenger](db.ygoprodeck.com/card/?search=Machina%20Resavenger)
+- [Machina Sniper](db.ygoprodeck.com/card/?search=Machina%20Sniper)
+- [Machina Soldier](db.ygoprodeck.com/card/?search=Machina%20Soldier)
+- [Machina Unclaspare](db.ygoprodeck.com/card/?search=Machina%20Unclaspare)
+- [Machine Angel Absolute Ritual](db.ygoprodeck.com/card/?search=Machine%20Angel%20Absolute%20Ritual)
+- [Machine Angel Ritual](db.ygoprodeck.com/card/?search=Machine%20Angel%20Ritual)
+- [Machine Assembly Line](db.ygoprodeck.com/card/?search=Machine%20Assembly%20Line)
+- [Machine Conversion Factory](db.ygoprodeck.com/card/?search=Machine%20Conversion%20Factory)
+- [Machine Duplication](db.ygoprodeck.com/card/?search=Machine%20Duplication)
+- [Machine King](db.ygoprodeck.com/card/?search=Machine%20King)
+- [Machine King - 3000 B.C.](db.ygoprodeck.com/card/?search=Machine%20King%20-%203000%20B.C.)
+- [Machine King Prototype](db.ygoprodeck.com/card/?search=Machine%20King%20Prototype)
+- [Machine Lord Ur](db.ygoprodeck.com/card/?search=Machine%20Lord%20Ur)
+- [Mad Archfiend](db.ygoprodeck.com/card/?search=Mad%20Archfiend)
+- [Mad Dog of Darkness](db.ygoprodeck.com/card/?search=Mad%20Dog%20of%20Darkness)
+- [Mad Lobster](db.ygoprodeck.com/card/?search=Mad%20Lobster)
+- [Mad Reloader](db.ygoprodeck.com/card/?search=Mad%20Reloader)
+- [Mad Sword Beast](db.ygoprodeck.com/card/?search=Mad%20Sword%20Beast)
+- [Madolche Baaple](db.ygoprodeck.com/card/?search=Madolche%20Baaple)
+- [Madolche Butlerusk](db.ygoprodeck.com/card/?search=Madolche%20Butlerusk)
+- [Madolche Chateau](db.ygoprodeck.com/card/?search=Madolche%20Chateau)
+- [Madolche Chickolates](db.ygoprodeck.com/card/?search=Madolche%20Chickolates)
+- [Madolche Cruffssant](db.ygoprodeck.com/card/?search=Madolche%20Cruffssant)
+- [Madolche Fresh Sistart](db.ygoprodeck.com/card/?search=Madolche%20Fresh%20Sistart)
+- [Madolche Lesson](db.ygoprodeck.com/card/?search=Madolche%20Lesson)
+- [Madolche Marmalmaide](db.ygoprodeck.com/card/?search=Madolche%20Marmalmaide)
+- [Madolche Mewfeuille](db.ygoprodeck.com/card/?search=Madolche%20Mewfeuille)
+- [Madolche Petingcessoeur](db.ygoprodeck.com/card/?search=Madolche%20Petingcessoeur)
+- [Madolche Puddingcess](db.ygoprodeck.com/card/?search=Madolche%20Puddingcess)
+- [Madolche Queen Tiaramisu](db.ygoprodeck.com/card/?search=Madolche%20Queen%20Tiaramisu)
+- [Madolche Teacher Glassouffle](db.ygoprodeck.com/card/?search=Madolche%20Teacher%20Glassouffle)
+- [Madolche Ticket](db.ygoprodeck.com/card/?search=Madolche%20Ticket)
+- [Madolche Waltz](db.ygoprodeck.com/card/?search=Madolche%20Waltz)
+- [Maestroke the Symphony Djinn](db.ygoprodeck.com/card/?search=Maestroke%20the%20Symphony%20Djinn)
+- [Mage Power](db.ygoprodeck.com/card/?search=Mage%20Power)
+- [Magellanica, the Deep Sea City](db.ygoprodeck.com/card/?search=Magellanica,%20the%20Deep%20Sea%20City)
+- [Magic Cylinder](db.ygoprodeck.com/card/?search=Magic%20Cylinder)
+- [Magic Deflector](db.ygoprodeck.com/card/?search=Magic%20Deflector)
+- [Magic Drain](db.ygoprodeck.com/card/?search=Magic%20Drain)
+- [Magic Formula](db.ygoprodeck.com/card/?search=Magic%20Formula)
+- [Magic Hand](db.ygoprodeck.com/card/?search=Magic%20Hand)
+- [Magic Hole Golem](db.ygoprodeck.com/card/?search=Magic%20Hole%20Golem)
+- [Magic Jammer](db.ygoprodeck.com/card/?search=Magic%20Jammer)
+- [Magic Planter](db.ygoprodeck.com/card/?search=Magic%20Planter)
+- [Magic Reflector](db.ygoprodeck.com/card/?search=Magic%20Reflector)
+- [Magic Triangle of the Ice Barrier](db.ygoprodeck.com/card/?search=Magic%20Triangle%20of%20the%20Ice%20Barrier)
+- [Magical Abductor](db.ygoprodeck.com/card/?search=Magical%20Abductor)
+- [Magical Android](db.ygoprodeck.com/card/?search=Magical%20Android)
+- [Magical Arm Shield](db.ygoprodeck.com/card/?search=Magical%20Arm%20Shield)
+- [Magical Blast](db.ygoprodeck.com/card/?search=Magical%20Blast)
+- [Magical Broker](db.ygoprodeck.com/card/?search=Magical%20Broker)
+- [Magical Citadel of Endymion](db.ygoprodeck.com/card/?search=Magical%20Citadel%20of%20Endymion)
+- [Magical Cylinders](db.ygoprodeck.com/card/?search=Magical%20Cylinders)
+- [Magical Dimension](db.ygoprodeck.com/card/?search=Magical%20Dimension)
+- [Magical Exemplar](db.ygoprodeck.com/card/?search=Magical%20Exemplar)
+- [Magical Ghost](db.ygoprodeck.com/card/?search=Magical%20Ghost)
+- [Magical Hats](db.ygoprodeck.com/card/?search=Magical%20Hats)
+- [Magical Hound](db.ygoprodeck.com/card/?search=Magical%20Hound)
+- [Magical Labyrinth](db.ygoprodeck.com/card/?search=Magical%20Labyrinth)
+- [Magical Mallet](db.ygoprodeck.com/card/?search=Magical%20Mallet)
+- [Magical Marionette](db.ygoprodeck.com/card/?search=Magical%20Marionette)
+- [Magical Merchant](db.ygoprodeck.com/card/?search=Magical%20Merchant)
+- [Magical Musket - Crooked Crown](db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Crooked%20Crown)
+- [Magical Plant Mandragola](db.ygoprodeck.com/card/?search=Magical%20Plant%20Mandragola)
+- [Magical Reflect Slime](db.ygoprodeck.com/card/?search=Magical%20Reflect%20Slime)
+- [Magical Something](db.ygoprodeck.com/card/?search=Magical%20Something)
+- [Magical Star Illusion](db.ygoprodeck.com/card/?search=Magical%20Star%20Illusion)
+- [Magical Stone Excavation](db.ygoprodeck.com/card/?search=Magical%20Stone%20Excavation)
+- [Magical Thorn](db.ygoprodeck.com/card/?search=Magical%20Thorn)
+- [Magical Undertaker](db.ygoprodeck.com/card/?search=Magical%20Undertaker)
+- [Magicalibra](db.ygoprodeck.com/card/?search=Magicalibra)
+- [Magicalized Duston Mop](db.ygoprodeck.com/card/?search=Magicalized%20Duston%20Mop)
+- [Magician of Black Chaos](db.ygoprodeck.com/card/?search=Magician%20of%20Black%20Chaos)
+- [Magician of Faith](db.ygoprodeck.com/card/?search=Magician%20of%20Faith)
+- [Magician's Act](db.ygoprodeck.com/card/?search=Magician's%20Act)
+- [Magician's Circle](db.ygoprodeck.com/card/?search=Magician's%20Circle)
+- [Magician's Left Hand](db.ygoprodeck.com/card/?search=Magician's%20Left%20Hand)
+- [Magician's Right Hand](db.ygoprodeck.com/card/?search=Magician's%20Right%20Hand)
+- [Magician's Robe](db.ygoprodeck.com/card/?search=Magician's%20Robe)
+- [Magician's Rod](db.ygoprodeck.com/card/?search=Magician's%20Rod)
+- [Magician's Valkyria](db.ygoprodeck.com/card/?search=Magician's%20Valkyria)
+- [Magicians Unite](db.ygoprodeck.com/card/?search=Magicians%20Unite)
+- [Magikey Battle](db.ygoprodeck.com/card/?search=Magikey%20Battle)
+- [Magikey Duo](db.ygoprodeck.com/card/?search=Magikey%20Duo)
+- [Magikey Locking](db.ygoprodeck.com/card/?search=Magikey%20Locking)
+- [Magikey Unlocking](db.ygoprodeck.com/card/?search=Magikey%20Unlocking)
+- [Maginificent Magikey Mafteal](db.ygoprodeck.com/card/?search=Maginificent%20Magikey%20Mafteal)
+- [Magister of Endymion](db.ygoprodeck.com/card/?search=Magister%20of%20Endymion)
+- [Magma Dragon](db.ygoprodeck.com/card/?search=Magma%20Dragon)
+- [Magna Drago](db.ygoprodeck.com/card/?search=Magna%20Drago)
+- [Magna-Slash Dragon](db.ygoprodeck.com/card/?search=Magna-Slash%20Dragon)
+- [Magnarokket Dragon](db.ygoprodeck.com/card/?search=Magnarokket%20Dragon)
+- [Magnet Circle LV2](db.ygoprodeck.com/card/?search=Magnet%20Circle%20LV2)
+- [Magnet Conversion](db.ygoprodeck.com/card/?search=Magnet%20Conversion)
+- [Magnet Force](db.ygoprodeck.com/card/?search=Magnet%20Force)
+- [Magnet Reverse](db.ygoprodeck.com/card/?search=Magnet%20Reverse)
+- [Magnetic Attraction](db.ygoprodeck.com/card/?search=Magnetic%20Attraction)
+- [Magnetic Field](db.ygoprodeck.com/card/?search=Magnetic%20Field)
+- [Magnetic Mosquito](db.ygoprodeck.com/card/?search=Magnetic%20Mosquito)
+- [Magnificent Machine Angel](db.ygoprodeck.com/card/?search=Magnificent%20Machine%20Angel)
+- [Magnum Shield](db.ygoprodeck.com/card/?search=Magnum%20Shield)
+- [Maha Vailo](db.ygoprodeck.com/card/?search=Maha%20Vailo)
+- [Mahaama the Fairy Dragon](db.ygoprodeck.com/card/?search=Mahaama%20the%20Fairy%20Dragon)
+- [Maharaghi](db.ygoprodeck.com/card/?search=Maharaghi)
+- [Mahjong Munia Maidens](db.ygoprodeck.com/card/?search=Mahjong%20Munia%20Maidens)
+- [Maiden of the Aqua](db.ygoprodeck.com/card/?search=Maiden%20of%20the%20Aqua)
+- [Maiden of the Moonlight](db.ygoprodeck.com/card/?search=Maiden%20of%20the%20Moonlight)
+- [Maiden with Eyes of Blue](db.ygoprodeck.com/card/?search=Maiden%20with%20Eyes%20of%20Blue)
+- [Majespecter Crow - Yata](db.ygoprodeck.com/card/?search=Majespecter%20Crow%20-%20Yata)
+- [Majespecter Fox - Kyubi](db.ygoprodeck.com/card/?search=Majespecter%20Fox%20-%20Kyubi)
+- [Majespecter Gust](db.ygoprodeck.com/card/?search=Majespecter%20Gust)
+- [Majespecter Sonics](db.ygoprodeck.com/card/?search=Majespecter%20Sonics)
+- [Majespecter Storm](db.ygoprodeck.com/card/?search=Majespecter%20Storm)
+- [Majespecter Tempest](db.ygoprodeck.com/card/?search=Majespecter%20Tempest)
+- [Majestic Absorption](db.ygoprodeck.com/card/?search=Majestic%20Absorption)
+- [Majestic Dragon](db.ygoprodeck.com/card/?search=Majestic%20Dragon)
+- [Majestic Mech - Goryu](db.ygoprodeck.com/card/?search=Majestic%20Mech%20-%20Goryu)
+- [Majestic Mech - Ohka](db.ygoprodeck.com/card/?search=Majestic%20Mech%20-%20Ohka)
+- [Majestic Mech - Senku](db.ygoprodeck.com/card/?search=Majestic%20Mech%20-%20Senku)
+- [Majesty with Eyes of Blue](db.ygoprodeck.com/card/?search=Majesty%20with%20Eyes%20of%20Blue)
+- [Maji-Gire Panda](db.ygoprodeck.com/card/?search=Maji-Gire%20Panda)
+- [Majioshaleon](db.ygoprodeck.com/card/?search=Majioshaleon)
+- [Majiosheldon](db.ygoprodeck.com/card/?search=Majiosheldon)
+- [Major Riot](db.ygoprodeck.com/card/?search=Major%20Riot)
+- [Maju Garzett](db.ygoprodeck.com/card/?search=Maju%20Garzett)
+- [Makiu, the Magical Mist](db.ygoprodeck.com/card/?search=Makiu,%20the%20Magical%20Mist)
+- [Makyura the Destructor](db.ygoprodeck.com/card/?search=Makyura%20the%20Destructor)
+- [Malefic Blue-Eyes White Dragon](db.ygoprodeck.com/card/?search=Malefic%20Blue-Eyes%20White%20Dragon)
+- [Malefic Cyber End Dragon](db.ygoprodeck.com/card/?search=Malefic%20Cyber%20End%20Dragon)
+- [Malefic Parallel Gear](db.ygoprodeck.com/card/?search=Malefic%20Parallel%20Gear)
+- [Malefic Red-Eyes Black Dragon](db.ygoprodeck.com/card/?search=Malefic%20Red-Eyes%20Black%20Dragon)
+- [Malefic Stardust Dragon](db.ygoprodeck.com/card/?search=Malefic%20Stardust%20Dragon)
+- [Malefic Truth Dragon](db.ygoprodeck.com/card/?search=Malefic%20Truth%20Dragon)
+- [Malefic World](db.ygoprodeck.com/card/?search=Malefic%20World)
+- [Malevolent Catastrophe](db.ygoprodeck.com/card/?search=Malevolent%20Catastrophe)
+- [Malevolent Mech - Goku En](db.ygoprodeck.com/card/?search=Malevolent%20Mech%20-%20Goku%20En)
+- [Malevolent Nuzzler](db.ygoprodeck.com/card/?search=Malevolent%20Nuzzler)
+- [Malfunction](db.ygoprodeck.com/card/?search=Malfunction)
+- [Malice Ascendant](db.ygoprodeck.com/card/?search=Malice%20Ascendant)
+- [Malice Dispersion](db.ygoprodeck.com/card/?search=Malice%20Dispersion)
+- [Malice Doll of Demise](db.ygoprodeck.com/card/?search=Malice%20Doll%20of%20Demise)
+- [Malicevorous Fork](db.ygoprodeck.com/card/?search=Malicevorous%20Fork)
+- [Malicevorous Knife](db.ygoprodeck.com/card/?search=Malicevorous%20Knife)
+- [Malicevorous Spoon](db.ygoprodeck.com/card/?search=Malicevorous%20Spoon)
+- [Mamemaki](db.ygoprodeck.com/card/?search=Mamemaki)
+- [Mammoth Graveyard](db.ygoprodeck.com/card/?search=Mammoth%20Graveyard)
+- [Man Beast of Ares](db.ygoprodeck.com/card/?search=Man%20Beast%20of%20Ares)
+- [Man Eater](db.ygoprodeck.com/card/?search=Man%20Eater)
+- [Man-Eater Bug](db.ygoprodeck.com/card/?search=Man-Eater%20Bug)
+- [Man-Eating Black Shark](db.ygoprodeck.com/card/?search=Man-Eating%20Black%20Shark)
+- [Man-Eating Treasure Chest](db.ygoprodeck.com/card/?search=Man-Eating%20Treasure%20Chest)
+- [Man-Thro' Tro'](db.ygoprodeck.com/card/?search=Man-Thro'%20Tro')
+- [Mandragon](db.ygoprodeck.com/card/?search=Mandragon)
+- [Manga Ryu-Ran](db.ygoprodeck.com/card/?search=Manga%20Ryu-Ran)
+- [Manju of the Ten Thousand Hands](db.ygoprodeck.com/card/?search=Manju%20of%20the%20Ten%20Thousand%20Hands)
+- [Manticore of Darkness](db.ygoprodeck.com/card/?search=Manticore%20of%20Darkness)
+- [Mara of the Nordic Alfar](db.ygoprodeck.com/card/?search=Mara%20of%20the%20Nordic%20Alfar)
+- [Marauding Captain](db.ygoprodeck.com/card/?search=Marauding%20Captain)
+- [March of the Monarchs](db.ygoprodeck.com/card/?search=March%20of%20the%20Monarchs)
+- [March Towards Ragnarok](db.ygoprodeck.com/card/?search=March%20Towards%20Ragnarok)
+- [Mare Mare](db.ygoprodeck.com/card/?search=Mare%20Mare)
+- [Margin Trading](db.ygoprodeck.com/card/?search=Margin%20Trading)
+- [Mariamne, the True Dracophoenix](db.ygoprodeck.com/card/?search=Mariamne,%20the%20True%20Dracophoenix)
+- [Marincess Basilalima](db.ygoprodeck.com/card/?search=Marincess%20Basilalima)
+- [Marincess Battle Ocean](db.ygoprodeck.com/card/?search=Marincess%20Battle%20Ocean)
+- [Marincess Cascade](db.ygoprodeck.com/card/?search=Marincess%20Cascade)
+- [Marincess Crown Tail](db.ygoprodeck.com/card/?search=Marincess%20Crown%20Tail)
+- [Marincess Current](db.ygoprodeck.com/card/?search=Marincess%20Current)
+- [Marincess Great Bubble Reef](db.ygoprodeck.com/card/?search=Marincess%20Great%20Bubble%20Reef)
+- [Marincess Mandarin](db.ygoprodeck.com/card/?search=Marincess%20Mandarin)
+- [Marincess Sea Angel](db.ygoprodeck.com/card/?search=Marincess%20Sea%20Angel)
+- [Marincess Sea Star](db.ygoprodeck.com/card/?search=Marincess%20Sea%20Star)
+- [Marincess Snow](db.ygoprodeck.com/card/?search=Marincess%20Snow)
+- [Marincess Wonder Heart](db.ygoprodeck.com/card/?search=Marincess%20Wonder%20Heart)
+- [Marine Beast](db.ygoprodeck.com/card/?search=Marine%20Beast)
+- [Marionette Mite](db.ygoprodeck.com/card/?search=Marionette%20Mite)
+- [Mark of the Rose](db.ygoprodeck.com/card/?search=Mark%20of%20the%20Rose)
+- [Marmiting Captain](db.ygoprodeck.com/card/?search=Marmiting%20Captain)
+- [Marshmallon](db.ygoprodeck.com/card/?search=Marshmallon)
+- [Marshmallon Glasses](db.ygoprodeck.com/card/?search=Marshmallon%20Glasses)
+- [Maryokutai](db.ygoprodeck.com/card/?search=Maryokutai)
+- [Masaki the Legendary Swordsman](db.ygoprodeck.com/card/?search=Masaki%20the%20Legendary%20Swordsman)
+- [Mask Change](db.ygoprodeck.com/card/?search=Mask%20Change)
+- [Mask Change II](db.ygoprodeck.com/card/?search=Mask%20Change%20II)
+- [Mask Charge](db.ygoprodeck.com/card/?search=Mask%20Charge)
+- [Mask of Brutality](db.ygoprodeck.com/card/?search=Mask%20of%20Brutality)
+- [Mask of Darkness](db.ygoprodeck.com/card/?search=Mask%20of%20Darkness)
+- [Mask of Dispel](db.ygoprodeck.com/card/?search=Mask%20of%20Dispel)
+- [Mask of Restrict](db.ygoprodeck.com/card/?search=Mask%20of%20Restrict)
+- [Mask of the Accursed](db.ygoprodeck.com/card/?search=Mask%20of%20the%20Accursed)
+- [Mask of Weakness](db.ygoprodeck.com/card/?search=Mask%20of%20Weakness)
+- [Masked Beast Des Gardius](db.ygoprodeck.com/card/?search=Masked%20Beast%20Des%20Gardius)
+- [Masked Dragon](db.ygoprodeck.com/card/?search=Masked%20Dragon)
+- [Masked HERO Anki](db.ygoprodeck.com/card/?search=Masked%20HERO%20Anki)
+- [Masked HERO Dark Law](db.ygoprodeck.com/card/?search=Masked%20HERO%20Dark%20Law)
+- [Masked HERO Koga](db.ygoprodeck.com/card/?search=Masked%20HERO%20Koga)
+- [Masked Ninja Ebisu](db.ygoprodeck.com/card/?search=Masked%20Ninja%20Ebisu)
+- [Masked Sorcerer](db.ygoprodeck.com/card/?search=Masked%20Sorcerer)
+- [Mass Hypnosis](db.ygoprodeck.com/card/?search=Mass%20Hypnosis)
+- [Massivemorph](db.ygoprodeck.com/card/?search=Massivemorph)
+- [Master & Expert](db.ygoprodeck.com/card/?search=Master%20&%20Expert)
+- [Master Craftsman Gamil](db.ygoprodeck.com/card/?search=Master%20Craftsman%20Gamil)
+- [Master Gig](db.ygoprodeck.com/card/?search=Master%20Gig)
+- [Master Kyonshee](db.ygoprodeck.com/card/?search=Master%20Kyonshee)
+- [Master of the Flaming Dragonswords](db.ygoprodeck.com/card/?search=Master%20of%20the%20Flaming%20Dragonswords)
+- [Master with Eyes of Blue](db.ygoprodeck.com/card/?search=Master%20with%20Eyes%20of%20Blue)
+- [Master's Diploman](db.ygoprodeck.com/card/?search=Master's%20Diploman)
+- [Mataza the Zapper](db.ygoprodeck.com/card/?search=Mataza%20the%20Zapper)
+- [Matching Outfits](db.ygoprodeck.com/card/?search=Matching%20Outfits)
+- [Mathematician](db.ygoprodeck.com/card/?search=Mathematician)
+- [Mathmech Diameter](db.ygoprodeck.com/card/?search=Mathmech%20Diameter)
+- [Mausoleum of the Emperor](db.ygoprodeck.com/card/?search=Mausoleum%20of%20the%20Emperor)
+- [Mausoleum of White](db.ygoprodeck.com/card/?search=Mausoleum%20of%20White)
+- [Mavelus](db.ygoprodeck.com/card/?search=Mavelus)
+- [Maximum Six](db.ygoprodeck.com/card/?search=Maximum%20Six)
+- [Mayhem Fur Hire](db.ygoprodeck.com/card/?search=Mayhem%20Fur%20Hire)
+- [Mayosenju Daibak](db.ygoprodeck.com/card/?search=Mayosenju%20Daibak)
+- [Mecha Bunny](db.ygoprodeck.com/card/?search=Mecha%20Bunny)
+- [Mecha Phantom Beast Blackfalcon](db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Blackfalcon)
+- [Mecha Phantom Beast Coltwing](db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Coltwing)
+- [Mecha Phantom Beast Hamstrat](db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Hamstrat)
+- [Mecha Phantom Beast Harrliard](db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Harrliard)
+- [Mecha Phantom Beast Raiten](db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Raiten)
+- [Mecha Phantom Beast Sabre Hawk](db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Sabre%20Hawk)
+- [Mecha Phantom Beast Stealthray](db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Stealthray)
+- [Mecha Phantom Beast Tetherwolf](db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Tetherwolf)
+- [Mecha Sea Dragon Plesion](db.ygoprodeck.com/card/?search=Mecha%20Sea%20Dragon%20Plesion)
+- [Mecha-Dog Marron](db.ygoprodeck.com/card/?search=Mecha-Dog%20Marron)
+- [Mechanical Hound](db.ygoprodeck.com/card/?search=Mechanical%20Hound)
+- [Mechanical Snail](db.ygoprodeck.com/card/?search=Mechanical%20Snail)
+- [Mechanicalchaser](db.ygoprodeck.com/card/?search=Mechanicalchaser)
+- [Meda Bat](db.ygoprodeck.com/card/?search=Meda%20Bat)
+- [Medallion of the Ice Barrier](db.ygoprodeck.com/card/?search=Medallion%20of%20the%20Ice%20Barrier)
+- [Medium of the Ice Barrier](db.ygoprodeck.com/card/?search=Medium%20of%20the%20Ice%20Barrier)
+- [Medium Piece Golem](db.ygoprodeck.com/card/?search=Medium%20Piece%20Golem)
+- [Medusa Worm](db.ygoprodeck.com/card/?search=Medusa%20Worm)
+- [Mefist the Infernal General](db.ygoprodeck.com/card/?search=Mefist%20the%20Infernal%20General)
+- [Mega Thunderball](db.ygoprodeck.com/card/?search=Mega%20Thunderball)
+- [Mega Ton Magical Cannon](db.ygoprodeck.com/card/?search=Mega%20Ton%20Magical%20Cannon)
+- [Megalith Bethor](db.ygoprodeck.com/card/?search=Megalith%20Bethor)
+- [Megalith Emergence](db.ygoprodeck.com/card/?search=Megalith%20Emergence)
+- [Megalith Hagith](db.ygoprodeck.com/card/?search=Megalith%20Hagith)
+- [Megalith Och](db.ygoprodeck.com/card/?search=Megalith%20Och)
+- [Megalith Phaleg](db.ygoprodeck.com/card/?search=Megalith%20Phaleg)
+- [Megalith Phul](db.ygoprodeck.com/card/?search=Megalith%20Phul)
+- [Megalith Portal](db.ygoprodeck.com/card/?search=Megalith%20Portal)
+- [Megalith Unformed](db.ygoprodeck.com/card/?search=Megalith%20Unformed)
+- [Megalosmasher X](db.ygoprodeck.com/card/?search=Megalosmasher%20X)
+- [Megamorph](db.ygoprodeck.com/card/?search=Megamorph)
+- [Megarock Dragon](db.ygoprodeck.com/card/?search=Megarock%20Dragon)
+- [Megaroid City](db.ygoprodeck.com/card/?search=Megaroid%20City)
+- [Megasonic Eye](db.ygoprodeck.com/card/?search=Megasonic%20Eye)
+- [Megazowler](db.ygoprodeck.com/card/?search=Megazowler)
+- [Megistric Maginician](db.ygoprodeck.com/card/?search=Megistric%20Maginician)
+- [Mei-Kou, Master of Barriers](db.ygoprodeck.com/card/?search=Mei-Kou,%20Master%20of%20Barriers)
+- [Mekanikal Arkfiend](db.ygoprodeck.com/card/?search=Mekanikal%20Arkfiend)
+- [Mekk-Knight Avram](db.ygoprodeck.com/card/?search=Mekk-Knight%20Avram)
+- [Mekk-Knight Green Horizon](db.ygoprodeck.com/card/?search=Mekk-Knight%20Green%20Horizon)
+- [Mekk-Knight Orange Sunset](db.ygoprodeck.com/card/?search=Mekk-Knight%20Orange%20Sunset)
+- [Meklord Army of Granel](db.ygoprodeck.com/card/?search=Meklord%20Army%20of%20Granel)
+- [Meklord Army of Skiel](db.ygoprodeck.com/card/?search=Meklord%20Army%20of%20Skiel)
+- [Meklord Army of Wisel](db.ygoprodeck.com/card/?search=Meklord%20Army%20of%20Wisel)
+- [Meklord Astro Dragon Asterisk](db.ygoprodeck.com/card/?search=Meklord%20Astro%20Dragon%20Asterisk)
+- [Meklord Astro Mekanikle](db.ygoprodeck.com/card/?search=Meklord%20Astro%20Mekanikle)
+- [Meklord Emperor Granel](db.ygoprodeck.com/card/?search=Meklord%20Emperor%20Granel)
+- [Meklord Emperor Skiel](db.ygoprodeck.com/card/?search=Meklord%20Emperor%20Skiel)
+- [Meklord Emperor Wisel](db.ygoprodeck.com/card/?search=Meklord%20Emperor%20Wisel)
+- [Meklord Factory](db.ygoprodeck.com/card/?search=Meklord%20Factory)
+- [Meklord Fortress](db.ygoprodeck.com/card/?search=Meklord%20Fortress)
+- [Mektimed Blast](db.ygoprodeck.com/card/?search=Mektimed%20Blast)
+- [Melchid the Four-Face Beast](db.ygoprodeck.com/card/?search=Melchid%20the%20Four-Face%20Beast)
+- [Melffy Catty](db.ygoprodeck.com/card/?search=Melffy%20Catty)
+- [Melffy Fenny](db.ygoprodeck.com/card/?search=Melffy%20Fenny)
+- [Melffy Hide-and-Seek](db.ygoprodeck.com/card/?search=Melffy%20Hide-and-Seek)
+- [Melffy Mommy](db.ygoprodeck.com/card/?search=Melffy%20Mommy)
+- [Melffy Playhouse](db.ygoprodeck.com/card/?search=Melffy%20Playhouse)
+- [Melffy Pony](db.ygoprodeck.com/card/?search=Melffy%20Pony)
+- [Melffy Puppy](db.ygoprodeck.com/card/?search=Melffy%20Puppy)
+- [Melffy Rabby](db.ygoprodeck.com/card/?search=Melffy%20Rabby)
+- [Melffy Tag](db.ygoprodeck.com/card/?search=Melffy%20Tag)
+- [Melomelody the Brass Djinn](db.ygoprodeck.com/card/?search=Melomelody%20the%20Brass%20Djinn)
+- [Meltiel, Sage of the Sky](db.ygoprodeck.com/card/?search=Meltiel,%20Sage%20of%20the%20Sky)
+- [Memory Crush King](db.ygoprodeck.com/card/?search=Memory%20Crush%20King)
+- [Memory Crusher](db.ygoprodeck.com/card/?search=Memory%20Crusher)
+- [Memory Loss](db.ygoprodeck.com/card/?search=Memory%20Loss)
+- [Mental Seeker](db.ygoprodeck.com/card/?search=Mental%20Seeker)
+- [Meotoko](db.ygoprodeck.com/card/?search=Meotoko)
+- [Merciful Machine Angel](db.ygoprodeck.com/card/?search=Merciful%20Machine%20Angel)
+- [Mermaid Archer](db.ygoprodeck.com/card/?search=Mermaid%20Archer)
+- [Mermaid Knight](db.ygoprodeck.com/card/?search=Mermaid%20Knight)
+- [Mermail Abysshilde](db.ygoprodeck.com/card/?search=Mermail%20Abysshilde)
+- [Mermail Abysslung](db.ygoprodeck.com/card/?search=Mermail%20Abysslung)
+- [Mermail Abyssnerei](db.ygoprodeck.com/card/?search=Mermail%20Abyssnerei)
+- [Mermail Abyssnose](db.ygoprodeck.com/card/?search=Mermail%20Abyssnose)
+- [Mermail Abyssocea](db.ygoprodeck.com/card/?search=Mermail%20Abyssocea)
+- [Mesmeric Control](db.ygoprodeck.com/card/?search=Mesmeric%20Control)
+- [Messenger of Peace](db.ygoprodeck.com/card/?search=Messenger%20of%20Peace)
+- [Metal Armored Bug](db.ygoprodeck.com/card/?search=Metal%20Armored%20Bug)
+- [Metal Detector](db.ygoprodeck.com/card/?search=Metal%20Detector)
+- [Metal Fish](db.ygoprodeck.com/card/?search=Metal%20Fish)
+- [Metal Reflect Slime](db.ygoprodeck.com/card/?search=Metal%20Reflect%20Slime)
+- [Metalfoes Counter](db.ygoprodeck.com/card/?search=Metalfoes%20Counter)
+- [Metalfoes Orichalc](db.ygoprodeck.com/card/?search=Metalfoes%20Orichalc)
+- [Metalfoes Silverd](db.ygoprodeck.com/card/?search=Metalfoes%20Silverd)
+- [Metalfoes Steelen](db.ygoprodeck.com/card/?search=Metalfoes%20Steelen)
+- [Metallizing Parasite - Lunatite](db.ygoprodeck.com/card/?search=Metallizing%20Parasite%20-%20Lunatite)
+- [Metallizing Parasite - Soltite](db.ygoprodeck.com/card/?search=Metallizing%20Parasite%20-%20Soltite)
+- [Metalmorph](db.ygoprodeck.com/card/?search=Metalmorph)
+- [Metalrokket Dragon](db.ygoprodeck.com/card/?search=Metalrokket%20Dragon)
+- [Metalsilver Armor](db.ygoprodeck.com/card/?search=Metalsilver%20Armor)
+- [Metalzoa](db.ygoprodeck.com/card/?search=Metalzoa)
+- [Metamorphosed Insect Queen](db.ygoprodeck.com/card/?search=Metamorphosed%20Insect%20Queen)
+- [Metaphys Armed Dragon](db.ygoprodeck.com/card/?search=Metaphys%20Armed%20Dragon)
+- [Metaphys Ascension](db.ygoprodeck.com/card/?search=Metaphys%20Ascension)
+- [Metaphys Decoy Dragon](db.ygoprodeck.com/card/?search=Metaphys%20Decoy%20Dragon)
+- [Metaphys Factor](db.ygoprodeck.com/card/?search=Metaphys%20Factor)
+- [Meteor Black Dragon](db.ygoprodeck.com/card/?search=Meteor%20Black%20Dragon)
+- [Meteor Dragon](db.ygoprodeck.com/card/?search=Meteor%20Dragon)
+- [Meteor Flare](db.ygoprodeck.com/card/?search=Meteor%20Flare)
+- [Meteor of Destruction](db.ygoprodeck.com/card/?search=Meteor%20of%20Destruction)
+- [Meteorain](db.ygoprodeck.com/card/?search=Meteorain)
+- [Metrognome](db.ygoprodeck.com/card/?search=Metrognome)
+- [Mezuki](db.ygoprodeck.com/card/?search=Mezuki)
+- [Michael, the Arch-Lightsworn](db.ygoprodeck.com/card/?search=Michael,%20the%20Arch-Lightsworn)
+- [Michizure](db.ygoprodeck.com/card/?search=Michizure)
+- [Micro Ray](db.ygoprodeck.com/card/?search=Micro%20Ray)
+- [Mighty Guard](db.ygoprodeck.com/card/?search=Mighty%20Guard)
+- [Mighty Warrior](db.ygoprodeck.com/card/?search=Mighty%20Warrior)
+- [Mild Turkey](db.ygoprodeck.com/card/?search=Mild%20Turkey)
+- [Milla the Temporal Magician](db.ygoprodeck.com/card/?search=Milla%20the%20Temporal%20Magician)
+- [Millennium Eye (Skill Card)](db.ygoprodeck.com/card/?search=Millennium%20Eye%20(Skill%20Card))
+- [Millennium Golem](db.ygoprodeck.com/card/?search=Millennium%20Golem)
+- [Millennium Necklace (Skill Card)](db.ygoprodeck.com/card/?search=Millennium%20Necklace%20(Skill%20Card))
+- [Millennium Shield](db.ygoprodeck.com/card/?search=Millennium%20Shield)
+- [Milus Radiant](db.ygoprodeck.com/card/?search=Milus%20Radiant)
+- [Mimicking Man-Eater Bug](db.ygoprodeck.com/card/?search=Mimicking%20Man-Eater%20Bug)
+- [Mimiclay](db.ygoprodeck.com/card/?search=Mimiclay)
+- [Mimikuril](db.ygoprodeck.com/card/?search=Mimikuril)
+- [Mimimic](db.ygoprodeck.com/card/?search=Mimimic)
+- [Mimir of the Nordic Ascendant](db.ygoprodeck.com/card/?search=Mimir%20of%20the%20Nordic%20Ascendant)
+- [Minar](db.ygoprodeck.com/card/?search=Minar)
+- [Mind Crush](db.ygoprodeck.com/card/?search=Mind%20Crush)
+- [Mind Drain](db.ygoprodeck.com/card/?search=Mind%20Drain)
+- [Mind Haxorz](db.ygoprodeck.com/card/?search=Mind%20Haxorz)
+- [Mind Over Matter](db.ygoprodeck.com/card/?search=Mind%20Over%20Matter)
+- [Mind Protector](db.ygoprodeck.com/card/?search=Mind%20Protector)
+- [Mind Scan (Skill Card)](db.ygoprodeck.com/card/?search=Mind%20Scan%20(Skill%20Card))
+- [Mind Trust](db.ygoprodeck.com/card/?search=Mind%20Trust)
+- [Mind Wipe](db.ygoprodeck.com/card/?search=Mind%20Wipe)
+- [Mine Golem](db.ygoprodeck.com/card/?search=Mine%20Golem)
+- [Mine Mole](db.ygoprodeck.com/card/?search=Mine%20Mole)
+- [Minefield Eruption](db.ygoprodeck.com/card/?search=Minefield%20Eruption)
+- [Minefieldriller](db.ygoprodeck.com/card/?search=Minefieldriller)
+- [Minerva, Scholar of the Sky](db.ygoprodeck.com/card/?search=Minerva,%20Scholar%20of%20the%20Sky)
+- [Mini-Guts](db.ygoprodeck.com/card/?search=Mini-Guts)
+- [Miniaturize](db.ygoprodeck.com/card/?search=Miniaturize)
+- [Miniborrel Dragon](db.ygoprodeck.com/card/?search=Miniborrel%20Dragon)
+- [Minoan Centaur](db.ygoprodeck.com/card/?search=Minoan%20Centaur)
+- [Minor Goblin Official](db.ygoprodeck.com/card/?search=Minor%20Goblin%20Official)
+- [Mira the Star-Bearer](db.ygoprodeck.com/card/?search=Mira%20the%20Star-Bearer)
+- [Miracle Dig](db.ygoprodeck.com/card/?search=Miracle%20Dig)
+- [Miracle Fertilizer](db.ygoprodeck.com/card/?search=Miracle%20Fertilizer)
+- [Miracle Flipper](db.ygoprodeck.com/card/?search=Miracle%20Flipper)
+- [Miracle Fusion](db.ygoprodeck.com/card/?search=Miracle%20Fusion)
+- [Miracle Jurassic Egg](db.ygoprodeck.com/card/?search=Miracle%20Jurassic%20Egg)
+- [Miracle Kids](db.ygoprodeck.com/card/?search=Miracle%20Kids)
+- [Miracle Locus](db.ygoprodeck.com/card/?search=Miracle%20Locus)
+- [Miracle Restoring](db.ygoprodeck.com/card/?search=Miracle%20Restoring)
+- [Miracle Synchro Fusion](db.ygoprodeck.com/card/?search=Miracle%20Synchro%20Fusion)
+- [Miracle's Wake](db.ygoprodeck.com/card/?search=Miracle's%20Wake)
+- [Miraculous Descent](db.ygoprodeck.com/card/?search=Miraculous%20Descent)
+- [Miraculous Rebirth](db.ygoprodeck.com/card/?search=Miraculous%20Rebirth)
+- [Mirage Dragon](db.ygoprodeck.com/card/?search=Mirage%20Dragon)
+- [Mirage Knight](db.ygoprodeck.com/card/?search=Mirage%20Knight)
+- [Mirage Tube](db.ygoprodeck.com/card/?search=Mirage%20Tube)
+- [Mirror Force](db.ygoprodeck.com/card/?search=Mirror%20Force)
+- [Mirror Force Dragon](db.ygoprodeck.com/card/?search=Mirror%20Force%20Dragon)
+- [Mirror Force Launcher](db.ygoprodeck.com/card/?search=Mirror%20Force%20Launcher)
+- [Mirror Gate](db.ygoprodeck.com/card/?search=Mirror%20Gate)
+- [Mirror Ladybug](db.ygoprodeck.com/card/?search=Mirror%20Ladybug)
+- [Mirror Mail](db.ygoprodeck.com/card/?search=Mirror%20Mail)
+- [Mirror of Oaths](db.ygoprodeck.com/card/?search=Mirror%20of%20Oaths)
+- [Mirror of the Ice Barrier](db.ygoprodeck.com/card/?search=Mirror%20of%20the%20Ice%20Barrier)
+- [Mirror of Yata](db.ygoprodeck.com/card/?search=Mirror%20of%20Yata)
+- [Mirror Resonator](db.ygoprodeck.com/card/?search=Mirror%20Resonator)
+- [Mirror Wall](db.ygoprodeck.com/card/?search=Mirror%20Wall)
+- [Misairuzame](db.ygoprodeck.com/card/?search=Misairuzame)
+- [Mischief of the Gnomes](db.ygoprodeck.com/card/?search=Mischief%20of%20the%20Gnomes)
+- [Misfortune](db.ygoprodeck.com/card/?search=Misfortune)
+- [Mispolymerization](db.ygoprodeck.com/card/?search=Mispolymerization)
+- [Missing Force](db.ygoprodeck.com/card/?search=Missing%20Force)
+- [Mist Archfiend](db.ygoprodeck.com/card/?search=Mist%20Archfiend)
+- [Mist Body](db.ygoprodeck.com/card/?search=Mist%20Body)
+- [Mist Condor](db.ygoprodeck.com/card/?search=Mist%20Condor)
+- [Mist Valley Baby Roc](db.ygoprodeck.com/card/?search=Mist%20Valley%20Baby%20Roc)
+- [Mist Valley Executor](db.ygoprodeck.com/card/?search=Mist%20Valley%20Executor)
+- [Mist Valley Falcon](db.ygoprodeck.com/card/?search=Mist%20Valley%20Falcon)
+- [Mist Valley Soldier](db.ygoprodeck.com/card/?search=Mist%20Valley%20Soldier)
+- [Mist Valley Thunderbird](db.ygoprodeck.com/card/?search=Mist%20Valley%20Thunderbird)
+- [Mist Valley Watcher](db.ygoprodeck.com/card/?search=Mist%20Valley%20Watcher)
+- [Mist Valley Windmaster](db.ygoprodeck.com/card/?search=Mist%20Valley%20Windmaster)
+- [Mistake](db.ygoprodeck.com/card/?search=Mistake)
+- [Mistaken Accusation](db.ygoprodeck.com/card/?search=Mistaken%20Accusation)
+- [Mistar Boy](db.ygoprodeck.com/card/?search=Mistar%20Boy)
+- [Mithra the Thunder Vassal](db.ygoprodeck.com/card/?search=Mithra%20the%20Thunder%20Vassal)
+- [Mixeroid](db.ygoprodeck.com/card/?search=Mixeroid)
+- [Moai Interceptor Cannons](db.ygoprodeck.com/card/?search=Moai%20Interceptor%20Cannons)
+- [Mobius the Frost Monarch](db.ygoprodeck.com/card/?search=Mobius%20the%20Frost%20Monarch)
+- [Mobius the Mega Monarch](db.ygoprodeck.com/card/?search=Mobius%20the%20Mega%20Monarch)
+- [Mogmole](db.ygoprodeck.com/card/?search=Mogmole)
+- [Moisture Creature](db.ygoprodeck.com/card/?search=Moisture%20Creature)
+- [Mokey Mokey](db.ygoprodeck.com/card/?search=Mokey%20Mokey)
+- [Mokey Mokey King](db.ygoprodeck.com/card/?search=Mokey%20Mokey%20King)
+- [Mokey Mokey Smackdown](db.ygoprodeck.com/card/?search=Mokey%20Mokey%20Smackdown)
+- [Molten Behemoth](db.ygoprodeck.com/card/?search=Molten%20Behemoth)
+- [Molten Conduction Field](db.ygoprodeck.com/card/?search=Molten%20Conduction%20Field)
+- [Molten Destruction](db.ygoprodeck.com/card/?search=Molten%20Destruction)
+- [Molten Whirlwind Wall](db.ygoprodeck.com/card/?search=Molten%20Whirlwind%20Wall)
+- [Molten Zombie](db.ygoprodeck.com/card/?search=Molten%20Zombie)
+- [Molting Escape](db.ygoprodeck.com/card/?search=Molting%20Escape)
+- [Monk Fighter](db.ygoprodeck.com/card/?search=Monk%20Fighter)
+- [Monk of the Tenyi](db.ygoprodeck.com/card/?search=Monk%20of%20the%20Tenyi)
+- [Monoceros](db.ygoprodeck.com/card/?search=Monoceros)
+- [Monster Assortment](db.ygoprodeck.com/card/?search=Monster%20Assortment)
+- [Monster Egg](db.ygoprodeck.com/card/?search=Monster%20Egg)
+- [Monster Gate](db.ygoprodeck.com/card/?search=Monster%20Gate)
+- [Monster Reborn Reborn](db.ygoprodeck.com/card/?search=Monster%20Reborn%20Reborn)
+- [Monster Recovery](db.ygoprodeck.com/card/?search=Monster%20Recovery)
+- [Monster Reincarnation](db.ygoprodeck.com/card/?search=Monster%20Reincarnation)
+- [Monster Slots](db.ygoprodeck.com/card/?search=Monster%20Slots)
+- [Monster Tamer](db.ygoprodeck.com/card/?search=Monster%20Tamer)
+- [Montage Dragon](db.ygoprodeck.com/card/?search=Montage%20Dragon)
+- [Moon Dragon Quilla](db.ygoprodeck.com/card/?search=Moon%20Dragon%20Quilla)
+- [Moon Envoy](db.ygoprodeck.com/card/?search=Moon%20Envoy)
+- [Moon Mirror Shield](db.ygoprodeck.com/card/?search=Moon%20Mirror%20Shield)
+- [Moonlit Papillon](db.ygoprodeck.com/card/?search=Moonlit%20Papillon)
+- [Morale Boost](db.ygoprodeck.com/card/?search=Morale%20Boost)
+- [Moray of Greed](db.ygoprodeck.com/card/?search=Moray%20of%20Greed)
+- [Mordschlag](db.ygoprodeck.com/card/?search=Mordschlag)
+- [Morinphen](db.ygoprodeck.com/card/?search=Morinphen)
+- [Mormolith](db.ygoprodeck.com/card/?search=Mormolith)
+- [Morphing Jar #2](db.ygoprodeck.com/card/?search=Morphing%20Jar%20#2)
+- [Morpho Butterspy](db.ygoprodeck.com/card/?search=Morpho%20Butterspy)
+- [Morphtransition](db.ygoprodeck.com/card/?search=Morphtransition)
+- [Morphtronic Bind](db.ygoprodeck.com/card/?search=Morphtronic%20Bind)
+- [Morphtronic Boarden](db.ygoprodeck.com/card/?search=Morphtronic%20Boarden)
+- [Morphtronic Boomboxen](db.ygoprodeck.com/card/?search=Morphtronic%20Boomboxen)
+- [Morphtronic Cameran](db.ygoprodeck.com/card/?search=Morphtronic%20Cameran)
+- [Morphtronic Celfon](db.ygoprodeck.com/card/?search=Morphtronic%20Celfon)
+- [Morphtronic Clocken](db.ygoprodeck.com/card/?search=Morphtronic%20Clocken)
+- [Morphtronic Cord](db.ygoprodeck.com/card/?search=Morphtronic%20Cord)
+- [Morphtronic Datatron](db.ygoprodeck.com/card/?search=Morphtronic%20Datatron)
+- [Morphtronic Engine](db.ygoprodeck.com/card/?search=Morphtronic%20Engine)
+- [Morphtronic Forcefield](db.ygoprodeck.com/card/?search=Morphtronic%20Forcefield)
+- [Morphtronic Lantron](db.ygoprodeck.com/card/?search=Morphtronic%20Lantron)
+- [Morphtronic Magnen](db.ygoprodeck.com/card/?search=Morphtronic%20Magnen)
+- [Morphtronic Magnen Bar](db.ygoprodeck.com/card/?search=Morphtronic%20Magnen%20Bar)
+- [Morphtronic Map](db.ygoprodeck.com/card/?search=Morphtronic%20Map)
+- [Morphtronic Mix-up](db.ygoprodeck.com/card/?search=Morphtronic%20Mix-up)
+- [Morphtronic Monitron](db.ygoprodeck.com/card/?search=Morphtronic%20Monitron)
+- [Morphtronic Repair Unit](db.ygoprodeck.com/card/?search=Morphtronic%20Repair%20Unit)
+- [Morphtronic Rusty Engine](db.ygoprodeck.com/card/?search=Morphtronic%20Rusty%20Engine)
+- [Morphtronic Scopen](db.ygoprodeck.com/card/?search=Morphtronic%20Scopen)
+- [Morphtronic Slingen](db.ygoprodeck.com/card/?search=Morphtronic%20Slingen)
+- [Morphtronic Smartfon](db.ygoprodeck.com/card/?search=Morphtronic%20Smartfon)
+- [Morphtronic Staplen](db.ygoprodeck.com/card/?search=Morphtronic%20Staplen)
+- [Morphtronic Vacuumen](db.ygoprodeck.com/card/?search=Morphtronic%20Vacuumen)
+- [Morphtronic Videon](db.ygoprodeck.com/card/?search=Morphtronic%20Videon)
+- [Morphtronics, Scramble!](db.ygoprodeck.com/card/?search=Morphtronics,%20Scramble!)
+- [Mother Grizzly](db.ygoprodeck.com/card/?search=Mother%20Grizzly)
+- [Moulinglacia the Elemental Lord](db.ygoprodeck.com/card/?search=Moulinglacia%20the%20Elemental%20Lord)
+- [Mound of the Bound Creator](db.ygoprodeck.com/card/?search=Mound%20of%20the%20Bound%20Creator)
+- [Mountain](db.ygoprodeck.com/card/?search=Mountain)
+- [Mozarta the Melodious Maestra](db.ygoprodeck.com/card/?search=Mozarta%20the%20Melodious%20Maestra)
+- [Mr. Volcano](db.ygoprodeck.com/card/?search=Mr.%20Volcano)
+- [Ms. Judge](db.ygoprodeck.com/card/?search=Ms.%20Judge)
+- [Mucus Yolk](db.ygoprodeck.com/card/?search=Mucus%20Yolk)
+- [Muddy Mudragon](db.ygoprodeck.com/card/?search=Muddy%20Mudragon)
+- [Mudora](db.ygoprodeck.com/card/?search=Mudora)
+- [Muka Muka](db.ygoprodeck.com/card/?search=Muka%20Muka)
+- [Multiplication of Ants](db.ygoprodeck.com/card/?search=Multiplication%20of%20Ants)
+- [Multiply](db.ygoprodeck.com/card/?search=Multiply)
+- [Murmur of the Forest](db.ygoprodeck.com/card/?search=Murmur%20of%20the%20Forest)
+- [Musakani Magatama](db.ygoprodeck.com/card/?search=Musakani%20Magatama)
+- [Muscle Medic](db.ygoprodeck.com/card/?search=Muscle%20Medic)
+- [Mushroom Man](db.ygoprodeck.com/card/?search=Mushroom%20Man)
+- [Mushroom Man #2](db.ygoprodeck.com/card/?search=Mushroom%20Man%20#2)
+- [Musician King](db.ygoprodeck.com/card/?search=Musician%20King)
+- [Mustering of the Dark Scorpions](db.ygoprodeck.com/card/?search=Mustering%20of%20the%20Dark%20Scorpions)
+- [Musto, Oracle of Gusto](db.ygoprodeck.com/card/?search=Musto,%20Oracle%20of%20Gusto)
+- [Mutually Affured Destruction](db.ygoprodeck.com/card/?search=Mutually%20Affured%20Destruction)
+- [Muzurhythm the String Djinn](db.ygoprodeck.com/card/?search=Muzurhythm%20the%20String%20Djinn)
+- [My Body as a Shield](db.ygoprodeck.com/card/?search=My%20Body%20as%20a%20Shield)
+- [Mysterious Guard](db.ygoprodeck.com/card/?search=Mysterious%20Guard)
+- [Mysterious Puppeteer](db.ygoprodeck.com/card/?search=Mysterious%20Puppeteer)
+- [Mysterious Triangle](db.ygoprodeck.com/card/?search=Mysterious%20Triangle)
+- [Mystery Shell Dragon](db.ygoprodeck.com/card/?search=Mystery%20Shell%20Dragon)
+- [Mystic Box](db.ygoprodeck.com/card/?search=Mystic%20Box)
+- [Mystic Clown](db.ygoprodeck.com/card/?search=Mystic%20Clown)
+- [Mystic Horseman](db.ygoprodeck.com/card/?search=Mystic%20Horseman)
+- [Mystic Lamp](db.ygoprodeck.com/card/?search=Mystic%20Lamp)
+- [Mystic Macrocarpa Seed](db.ygoprodeck.com/card/?search=Mystic%20Macrocarpa%20Seed)
+- [Mystic Plasma Zone](db.ygoprodeck.com/card/?search=Mystic%20Plasma%20Zone)
+- [Mystic Probe](db.ygoprodeck.com/card/?search=Mystic%20Probe)
+- [Mystic Swordsman LV2](db.ygoprodeck.com/card/?search=Mystic%20Swordsman%20LV2)
+- [Mystic Swordsman LV4](db.ygoprodeck.com/card/?search=Mystic%20Swordsman%20LV4)
+- [Mystic Swordsman LV6](db.ygoprodeck.com/card/?search=Mystic%20Swordsman%20LV6)
+- [Mystic Tomato](db.ygoprodeck.com/card/?search=Mystic%20Tomato)
+- [Mystical Beast of Serket](db.ygoprodeck.com/card/?search=Mystical%20Beast%20of%20Serket)
+- [Mystical Cards of Light](db.ygoprodeck.com/card/?search=Mystical%20Cards%20of%20Light)
+- [Mystical Elf](db.ygoprodeck.com/card/?search=Mystical%20Elf)
+- [Mystical Moon](db.ygoprodeck.com/card/?search=Mystical%20Moon)
+- [Mystical Sand](db.ygoprodeck.com/card/?search=Mystical%20Sand)
+- [Mystical Sheep #1](db.ygoprodeck.com/card/?search=Mystical%20Sheep%20#1)
+- [Mystical Sheep #2](db.ygoprodeck.com/card/?search=Mystical%20Sheep%20#2)
+- [Mystical Shine Ball](db.ygoprodeck.com/card/?search=Mystical%20Shine%20Ball)
+- [Mystical Space Typhoon](db.ygoprodeck.com/card/?search=Mystical%20Space%20Typhoon)
+- [Mystical Wind Typhoon](db.ygoprodeck.com/card/?search=Mystical%20Wind%20Typhoon)
+- [Mystik Wok](db.ygoprodeck.com/card/?search=Mystik%20Wok)
+- [Mystrick Hulder](db.ygoprodeck.com/card/?search=Mystrick%20Hulder)
+- [Mythic Tree Dragon](db.ygoprodeck.com/card/?search=Mythic%20Tree%20Dragon)
+- [Mythic Water Dragon](db.ygoprodeck.com/card/?search=Mythic%20Water%20Dragon)
+- [Mythical Beast Cerberus](db.ygoprodeck.com/card/?search=Mythical%20Beast%20Cerberus)
+- [Mythical Beast Medusa](db.ygoprodeck.com/card/?search=Mythical%20Beast%20Medusa)
+- [Mythical Bestiamorph](db.ygoprodeck.com/card/?search=Mythical%20Bestiamorph)
+- [Mythical Bestiary](db.ygoprodeck.com/card/?search=Mythical%20Bestiary)
+- [Mythical Institution](db.ygoprodeck.com/card/?search=Mythical%20Institution)
+- [Myutant Blast](db.ygoprodeck.com/card/?search=Myutant%20Blast)
+- [Myutant Clash](db.ygoprodeck.com/card/?search=Myutant%20Clash)
+- [Myutant Cry](db.ygoprodeck.com/card/?search=Myutant%20Cry)
+- [Myutant Expansion](db.ygoprodeck.com/card/?search=Myutant%20Expansion)
+- [Myutant Fusion](db.ygoprodeck.com/card/?search=Myutant%20Fusion)
+- [Myutant GB-88](db.ygoprodeck.com/card/?search=Myutant%20GB-88)
+- [Nagel's Protection](db.ygoprodeck.com/card/?search=Nagel's%20Protection)
+- [Nanobreaker](db.ygoprodeck.com/card/?search=Nanobreaker)
+- [Narrow Pass](db.ygoprodeck.com/card/?search=Narrow%20Pass)
+- [Natural Disaster](db.ygoprodeck.com/card/?search=Natural%20Disaster)
+- [Natural Tune](db.ygoprodeck.com/card/?search=Natural%20Tune)
+- [Nature's Reflection](db.ygoprodeck.com/card/?search=Nature's%20Reflection)
+- [Naturia Antjaw](db.ygoprodeck.com/card/?search=Naturia%20Antjaw)
+- [Naturia Beans](db.ygoprodeck.com/card/?search=Naturia%20Beans)
+- [Naturia Beetle](db.ygoprodeck.com/card/?search=Naturia%20Beetle)
+- [Naturia Cosmobeet](db.ygoprodeck.com/card/?search=Naturia%20Cosmobeet)
+- [Naturia Dragonfly](db.ygoprodeck.com/card/?search=Naturia%20Dragonfly)
+- [Naturia Exterio](db.ygoprodeck.com/card/?search=Naturia%20Exterio)
+- [Naturia Forest](db.ygoprodeck.com/card/?search=Naturia%20Forest)
+- [Naturia Fruitfly](db.ygoprodeck.com/card/?search=Naturia%20Fruitfly)
+- [Naturia Hydrangea](db.ygoprodeck.com/card/?search=Naturia%20Hydrangea)
+- [Naturia Ladybug](db.ygoprodeck.com/card/?search=Naturia%20Ladybug)
+- [Naturia Mantis](db.ygoprodeck.com/card/?search=Naturia%20Mantis)
+- [Naturia Marron](db.ygoprodeck.com/card/?search=Naturia%20Marron)
+- [Naturia Mosquito](db.ygoprodeck.com/card/?search=Naturia%20Mosquito)
+- [Naturia Pumpkin](db.ygoprodeck.com/card/?search=Naturia%20Pumpkin)
+- [Naturia Ragweed](db.ygoprodeck.com/card/?search=Naturia%20Ragweed)
+- [Naturia Rock](db.ygoprodeck.com/card/?search=Naturia%20Rock)
+- [Naturia Spiderfang](db.ygoprodeck.com/card/?search=Naturia%20Spiderfang)
+- [Naturia Stag Beetle](db.ygoprodeck.com/card/?search=Naturia%20Stag%20Beetle)
+- [Naturia Stinkbug](db.ygoprodeck.com/card/?search=Naturia%20Stinkbug)
+- [Naturia Strawberry](db.ygoprodeck.com/card/?search=Naturia%20Strawberry)
+- [Naturia Sunflower](db.ygoprodeck.com/card/?search=Naturia%20Sunflower)
+- [Naturia Tulip](db.ygoprodeck.com/card/?search=Naturia%20Tulip)
+- [Naturia Vein](db.ygoprodeck.com/card/?search=Naturia%20Vein)
+- [Nebula Dragon](db.ygoprodeck.com/card/?search=Nebula%20Dragon)
+- [Neck Hunter](db.ygoprodeck.com/card/?search=Neck%20Hunter)
+- [Necklace of Command](db.ygoprodeck.com/card/?search=Necklace%20of%20Command)
+- [Necro Fleur](db.ygoprodeck.com/card/?search=Necro%20Fleur)
+- [Necro Fusion](db.ygoprodeck.com/card/?search=Necro%20Fusion)
+- [Necro Gardna](db.ygoprodeck.com/card/?search=Necro%20Gardna)
+- [Necro Linker](db.ygoprodeck.com/card/?search=Necro%20Linker)
+- [Necroface](db.ygoprodeck.com/card/?search=Necroface)
+- [Necrolancer the Time-lord](db.ygoprodeck.com/card/?search=Necrolancer%20the%20Time-lord)
+- [Necroquip Prism](db.ygoprodeck.com/card/?search=Necroquip%20Prism)
+- [Necrovalley](db.ygoprodeck.com/card/?search=Necrovalley)
+- [Necrovalley Temple](db.ygoprodeck.com/card/?search=Necrovalley%20Temple)
+- [Needle Ball](db.ygoprodeck.com/card/?search=Needle%20Ball)
+- [Needle Ceiling](db.ygoprodeck.com/card/?search=Needle%20Ceiling)
+- [Needle Soldier](db.ygoprodeck.com/card/?search=Needle%20Soldier)
+- [Needle Sunfish](db.ygoprodeck.com/card/?search=Needle%20Sunfish)
+- [Needle Wall](db.ygoprodeck.com/card/?search=Needle%20Wall)
+- [Needle Worm](db.ygoprodeck.com/card/?search=Needle%20Worm)
+- [Needlebug Nest](db.ygoprodeck.com/card/?search=Needlebug%20Nest)
+- [Nefarious Archfiend Eater of Nefariousness](db.ygoprodeck.com/card/?search=Nefarious%20Archfiend%20Eater%20of%20Nefariousness)
+- [Negate Attack](db.ygoprodeck.com/card/?search=Negate%20Attack)
+- [Neiroy, the Dream Mirror Disciple](db.ygoprodeck.com/card/?search=Neiroy,%20the%20Dream%20Mirror%20Disciple)
+- [Neko Mane King](db.ygoprodeck.com/card/?search=Neko%20Mane%20King)
+- [Nekogal #1](db.ygoprodeck.com/card/?search=Nekogal%20#1)
+- [Nekogal #2](db.ygoprodeck.com/card/?search=Nekogal%20#2)
+- [Nemeses Adrastea](db.ygoprodeck.com/card/?search=Nemeses%20Adrastea)
+- [Nemuriko](db.ygoprodeck.com/card/?search=Nemuriko)
+- [Neo Aqua Madoor](db.ygoprodeck.com/card/?search=Neo%20Aqua%20Madoor)
+- [Neo Bug](db.ygoprodeck.com/card/?search=Neo%20Bug)
+- [Neo Flamvell Garuda](db.ygoprodeck.com/card/?search=Neo%20Flamvell%20Garuda)
+- [Neo Flamvell Lady](db.ygoprodeck.com/card/?search=Neo%20Flamvell%20Lady)
+- [Neo Flamvell Origin](db.ygoprodeck.com/card/?search=Neo%20Flamvell%20Origin)
+- [Neo Flamvell Sabre](db.ygoprodeck.com/card/?search=Neo%20Flamvell%20Sabre)
+- [Neo Flamvell Shaman](db.ygoprodeck.com/card/?search=Neo%20Flamvell%20Shaman)
+- [Neo Space](db.ygoprodeck.com/card/?search=Neo%20Space)
+- [Neo Space Connector](db.ygoprodeck.com/card/?search=Neo%20Space%20Connector)
+- [Neo the Magic Swordsman](db.ygoprodeck.com/card/?search=Neo%20the%20Magic%20Swordsman)
+- [Neo-Parshath, the Sky Paladin](db.ygoprodeck.com/card/?search=Neo-Parshath,%20the%20Sky%20Paladin)
+- [Neo-Spacian Air Hummingbird](db.ygoprodeck.com/card/?search=Neo-Spacian%20Air%20Hummingbird)
+- [Neo-Spacian Aqua Dolphin](db.ygoprodeck.com/card/?search=Neo-Spacian%20Aqua%20Dolphin)
+- [Neo-Spacian Dark Panther](db.ygoprodeck.com/card/?search=Neo-Spacian%20Dark%20Panther)
+- [Neo-Spacian Flare Scarab](db.ygoprodeck.com/card/?search=Neo-Spacian%20Flare%20Scarab)
+- [Neo-Spacian Glow Moss](db.ygoprodeck.com/card/?search=Neo-Spacian%20Glow%20Moss)
+- [Neo-Spacian Grand Mole](db.ygoprodeck.com/card/?search=Neo-Spacian%20Grand%20Mole)
+- [Neo-Spacian Marine Dolphin](db.ygoprodeck.com/card/?search=Neo-Spacian%20Marine%20Dolphin)
+- [Neo-Spacian Twinkle Moss](db.ygoprodeck.com/card/?search=Neo-Spacian%20Twinkle%20Moss)
+- [Neos Force](db.ygoprodeck.com/card/?search=Neos%20Force)
+- [Nephe Shaddoll Fusion](db.ygoprodeck.com/card/?search=Nephe%20Shaddoll%20Fusion)
+- [Nettles](db.ygoprodeck.com/card/?search=Nettles)
+- [Neutron Blast](db.ygoprodeck.com/card/?search=Neutron%20Blast)
+- [Newdoria](db.ygoprodeck.com/card/?search=Newdoria)
+- [NEX](db.ygoprodeck.com/card/?search=NEX)
+- [Next to be Lost](db.ygoprodeck.com/card/?search=Next%20to%20be%20Lost)
+- [Night Beam](db.ygoprodeck.com/card/?search=Night%20Beam)
+- [Night Express Knight](db.ygoprodeck.com/card/?search=Night%20Express%20Knight)
+- [Night Flight](db.ygoprodeck.com/card/?search=Night%20Flight)
+- [Night Sword Serpent](db.ygoprodeck.com/card/?search=Night%20Sword%20Serpent)
+- [Night Wing Sorceress](db.ygoprodeck.com/card/?search=Night%20Wing%20Sorceress)
+- [Night's End Sorcerer](db.ygoprodeck.com/card/?search=Night's%20End%20Sorcerer)
+- [Nightmare Archfiends](db.ygoprodeck.com/card/?search=Nightmare%20Archfiends)
+- [Nightmare Horse](db.ygoprodeck.com/card/?search=Nightmare%20Horse)
+- [Nightmare Penguin](db.ygoprodeck.com/card/?search=Nightmare%20Penguin)
+- [Nightmare Sonic Blast!](db.ygoprodeck.com/card/?search=Nightmare%20Sonic%20Blast!)
+- [Nightmare Wheel](db.ygoprodeck.com/card/?search=Nightmare%20Wheel)
+- [Nightmare's Steelcage](db.ygoprodeck.com/card/?search=Nightmare's%20Steelcage)
+- [Nimble Angler](db.ygoprodeck.com/card/?search=Nimble%20Angler)
+- [Nimble Beaver](db.ygoprodeck.com/card/?search=Nimble%20Beaver)
+- [Nimble Manta](db.ygoprodeck.com/card/?search=Nimble%20Manta)
+- [Nimble Momonga](db.ygoprodeck.com/card/?search=Nimble%20Momonga)
+- [Nin-Ken Dog](db.ygoprodeck.com/card/?search=Nin-Ken%20Dog)
+- [Nine-Lives Cat](db.ygoprodeck.com/card/?search=Nine-Lives%20Cat)
+- [Nine-Tailed Fox](db.ygoprodeck.com/card/?search=Nine-Tailed%20Fox)
+- [Ninja Grandmaster Sasuke](db.ygoprodeck.com/card/?search=Ninja%20Grandmaster%20Sasuke)
+- [Ninjitsu Art Notebook](db.ygoprodeck.com/card/?search=Ninjitsu%20Art%20Notebook)
+- [Ninjitsu Art of Decoy](db.ygoprodeck.com/card/?search=Ninjitsu%20Art%20of%20Decoy)
+- [Ninjitsu Art of Shadow Sealing](db.ygoprodeck.com/card/?search=Ninjitsu%20Art%20of%20Shadow%20Sealing)
+- [Ninjitsu Art of Super-Transformation](db.ygoprodeck.com/card/?search=Ninjitsu%20Art%20of%20Super-Transformation)
+- [Ninjitsu Art of Transformation](db.ygoprodeck.com/card/?search=Ninjitsu%20Art%20of%20Transformation)
+- [Nitro Synchron](db.ygoprodeck.com/card/?search=Nitro%20Synchron)
+- [Nitro Warrior](db.ygoprodeck.com/card/?search=Nitro%20Warrior)
+- [Nitwit Outwit](db.ygoprodeck.com/card/?search=Nitwit%20Outwit)
+- [Niwatori](db.ygoprodeck.com/card/?search=Niwatori)
+- [No Entry!!](db.ygoprodeck.com/card/?search=No%20Entry!!)
+- [No More Mrs. Nice Mai!](db.ygoprodeck.com/card/?search=No%20More%20Mrs.%20Nice%20Mai!)
+- [Noble Arms - Arfeudutyr](db.ygoprodeck.com/card/?search=Noble%20Arms%20-%20Arfeudutyr)
+- [Noble Arms - Caliburn](db.ygoprodeck.com/card/?search=Noble%20Arms%20-%20Caliburn)
+- [Noble Arms - Clarent](db.ygoprodeck.com/card/?search=Noble%20Arms%20-%20Clarent)
+- [Noble Arms - Gallatin](db.ygoprodeck.com/card/?search=Noble%20Arms%20-%20Gallatin)
+- [Noble Knight Joan](db.ygoprodeck.com/card/?search=Noble%20Knight%20Joan)
+- [Nobledragon Magician](db.ygoprodeck.com/card/?search=Nobledragon%20Magician)
+- [Nobleman of Crossout](db.ygoprodeck.com/card/?search=Nobleman%20of%20Crossout)
+- [Nobleman of Extermination](db.ygoprodeck.com/card/?search=Nobleman%20of%20Extermination)
+- [Nobleman-Eater Bug](db.ygoprodeck.com/card/?search=Nobleman-Eater%20Bug)
+- [Noctovision Dragon](db.ygoprodeck.com/card/?search=Noctovision%20Dragon)
+- [Noisy Gnat](db.ygoprodeck.com/card/?search=Noisy%20Gnat)
+- [Nomadic Force](db.ygoprodeck.com/card/?search=Nomadic%20Force)
+- [Non Aggression Area](db.ygoprodeck.com/card/?search=Non%20Aggression%20Area)
+- [Non-Fusion Area](db.ygoprodeck.com/card/?search=Non-Fusion%20Area)
+- [Non-Spellcasting Area](db.ygoprodeck.com/card/?search=Non-Spellcasting%20Area)
+- [Nopenguin](db.ygoprodeck.com/card/?search=Nopenguin)
+- [Nordic Relic Brisingamen](db.ygoprodeck.com/card/?search=Nordic%20Relic%20Brisingamen)
+- [Nordic Relic Draupnir](db.ygoprodeck.com/card/?search=Nordic%20Relic%20Draupnir)
+- [Nordic Relic Gungnir](db.ygoprodeck.com/card/?search=Nordic%20Relic%20Gungnir)
+- [Nordic Relic Laevateinn](db.ygoprodeck.com/card/?search=Nordic%20Relic%20Laevateinn)
+- [Nordic Relic Megingjord](db.ygoprodeck.com/card/?search=Nordic%20Relic%20Megingjord)
+- [Nova Summoner](db.ygoprodeck.com/card/?search=Nova%20Summoner)
+- [Nubian Guard](db.ygoprodeck.com/card/?search=Nubian%20Guard)
+- [Number 107: Galaxy-Eyes Tachyon Dragon](db.ygoprodeck.com/card/?search=Number%20107:%20Galaxy-Eyes%20Tachyon%20Dragon)
+- [Number 10: Illumiknight](db.ygoprodeck.com/card/?search=Number%2010:%20Illumiknight)
+- [Number 12: Crimson Shadow Armor Ninja](db.ygoprodeck.com/card/?search=Number%2012:%20Crimson%20Shadow%20Armor%20Ninja)
+- [Number 17: Leviathan Dragon](db.ygoprodeck.com/card/?search=Number%2017:%20Leviathan%20Dragon)
+- [Number 25: Force Focus](db.ygoprodeck.com/card/?search=Number%2025:%20Force%20Focus)
+- [Number 29: Mannequin Cat](db.ygoprodeck.com/card/?search=Number%2029:%20Mannequin%20Cat)
+- [Number 30: Acid Golem of Destruction](db.ygoprodeck.com/card/?search=Number%2030:%20Acid%20Golem%20of%20Destruction)
+- [Number 32: Shark Drake](db.ygoprodeck.com/card/?search=Number%2032:%20Shark%20Drake)
+- [Number 34: Terror-Byte](db.ygoprodeck.com/card/?search=Number%2034:%20Terror-Byte)
+- [Number 39: Utopia](db.ygoprodeck.com/card/?search=Number%2039:%20Utopia)
+- [Number 40: Gimmick Puppet of Strings](db.ygoprodeck.com/card/?search=Number%2040:%20Gimmick%20Puppet%20of%20Strings)
+- [Number 43: Manipulator of Souls](db.ygoprodeck.com/card/?search=Number%2043:%20Manipulator%20of%20Souls)
+- [Number 48: Shadow Lich](db.ygoprodeck.com/card/?search=Number%2048:%20Shadow%20Lich)
+- [Number 51: Finisher the Strong Arm](db.ygoprodeck.com/card/?search=Number%2051:%20Finisher%20the%20Strong%20Arm)
+- [Number 58: Burner Visor](db.ygoprodeck.com/card/?search=Number%2058:%20Burner%20Visor)
+- [Number 59: Crooked Cook](db.ygoprodeck.com/card/?search=Number%2059:%20Crooked%20Cook)
+- [Number 62: Galaxy-Eyes Prime Photon Dragon](db.ygoprodeck.com/card/?search=Number%2062:%20Galaxy-Eyes%20Prime%20Photon%20Dragon)
+- [Number 66: Master Key Beetle](db.ygoprodeck.com/card/?search=Number%2066:%20Master%20Key%20Beetle)
+- [Number 6: Chronomaly Atlandis](db.ygoprodeck.com/card/?search=Number%206:%20Chronomaly%20Atlandis)
+- [Number 73: Abyss Splash](db.ygoprodeck.com/card/?search=Number%2073:%20Abyss%20Splash)
+- [Number 78: Number Archive](db.ygoprodeck.com/card/?search=Number%2078:%20Number%20Archive)
+- [Number 7: Lucky Straight](db.ygoprodeck.com/card/?search=Number%207:%20Lucky%20Straight)
+- [Number 81: Superdreadnought Rail Cannon Super Dora](db.ygoprodeck.com/card/?search=Number%2081:%20Superdreadnought%20Rail%20Cannon%20Super%20Dora)
+- [Number 83: Galaxy Queen](db.ygoprodeck.com/card/?search=Number%2083:%20Galaxy%20Queen)
+- [Number 96: Dark Mist](db.ygoprodeck.com/card/?search=Number%2096:%20Dark%20Mist)
+- [Number 98: Antitopian](db.ygoprodeck.com/card/?search=Number%2098:%20Antitopian)
+- [Number C106: Giant Red Hand](db.ygoprodeck.com/card/?search=Number%20C106:%20Giant%20Red%20Hand)
+- [Number C39: Utopia Ray](db.ygoprodeck.com/card/?search=Number%20C39:%20Utopia%20Ray)
+- [Number C39: Utopia Ray V](db.ygoprodeck.com/card/?search=Number%20C39:%20Utopia%20Ray%20V)
+- [Number C5: Chaos Chimera Dragon](db.ygoprodeck.com/card/?search=Number%20C5:%20Chaos%20Chimera%20Dragon)
+- [Number C73: Abyss Supra Splash](db.ygoprodeck.com/card/?search=Number%20C73:%20Abyss%20Supra%20Splash)
+- [Number F0: Utopic Future](db.ygoprodeck.com/card/?search=Number%20F0:%20Utopic%20Future)
+- [Numbers Overlay Boost](db.ygoprodeck.com/card/?search=Numbers%20Overlay%20Boost)
+- [Numbing Grub in the Ice Barrier](db.ygoprodeck.com/card/?search=Numbing%20Grub%20in%20the%20Ice%20Barrier)
+- [Numen erat Testudo](db.ygoprodeck.com/card/?search=Numen%20erat%20Testudo)
+- [Numinous Healer](db.ygoprodeck.com/card/?search=Numinous%20Healer)
+- [Nutrient Z](db.ygoprodeck.com/card/?search=Nutrient%20Z)
+- [Nuvia the Wicked](db.ygoprodeck.com/card/?search=Nuvia%20the%20Wicked)
+- [O - Oversoul](db.ygoprodeck.com/card/?search=O%20-%20Oversoul)
+- [Oasis of Dragon Souls](db.ygoprodeck.com/card/?search=Oasis%20of%20Dragon%20Souls)
+- [Obnoxious Celtic Guard](db.ygoprodeck.com/card/?search=Obnoxious%20Celtic%20Guard)
+- [Obsessive Uvualoop](db.ygoprodeck.com/card/?search=Obsessive%20Uvualoop)
+- [Obsidian Dragon](db.ygoprodeck.com/card/?search=Obsidian%20Dragon)
+- [Octoberser](db.ygoprodeck.com/card/?search=Octoberser)
+- [Ocubeam](db.ygoprodeck.com/card/?search=Ocubeam)
+- [Odd-Eyes Absolute Dragon](db.ygoprodeck.com/card/?search=Odd-Eyes%20Absolute%20Dragon)
+- [Odd-Eyes Advent](db.ygoprodeck.com/card/?search=Odd-Eyes%20Advent)
+- [Odd-Eyes Dragon](db.ygoprodeck.com/card/?search=Odd-Eyes%20Dragon)
+- [Odd-Eyes Fusion](db.ygoprodeck.com/card/?search=Odd-Eyes%20Fusion)
+- [Odd-Eyes Gravity Dragon](db.ygoprodeck.com/card/?search=Odd-Eyes%20Gravity%20Dragon)
+- [Odd-Eyes Meteorburst Dragon](db.ygoprodeck.com/card/?search=Odd-Eyes%20Meteorburst%20Dragon)
+- [Odd-Eyes Mirage Dragon](db.ygoprodeck.com/card/?search=Odd-Eyes%20Mirage%20Dragon)
+- [Odd-Eyes Pendulum Dragon](db.ygoprodeck.com/card/?search=Odd-Eyes%20Pendulum%20Dragon)
+- [Odd-Eyes Persona Dragon](db.ygoprodeck.com/card/?search=Odd-Eyes%20Persona%20Dragon)
+- [Odd-Eyes Phantom Dragon](db.ygoprodeck.com/card/?search=Odd-Eyes%20Phantom%20Dragon)
+- [Odd-Eyes Vortex Dragon](db.ygoprodeck.com/card/?search=Odd-Eyes%20Vortex%20Dragon)
+- [Odin's Eye](db.ygoprodeck.com/card/?search=Odin's%20Eye)
+- [Odin, Father of the Aesir](db.ygoprodeck.com/card/?search=Odin,%20Father%20of%20the%20Aesir)
+- [Offering to the Immortals](db.ygoprodeck.com/card/?search=Offering%20to%20the%20Immortals)
+- [Offering to the Snake Deity](db.ygoprodeck.com/card/?search=Offering%20to%20the%20Snake%20Deity)
+- [Offerings to the Doomed](db.ygoprodeck.com/card/?search=Offerings%20to%20the%20Doomed)
+- [Ogre of the Black Shadow](db.ygoprodeck.com/card/?search=Ogre%20of%20the%20Black%20Shadow)
+- [Oilman](db.ygoprodeck.com/card/?search=Oilman)
+- [Ojama Black](db.ygoprodeck.com/card/?search=Ojama%20Black)
+- [Ojama Blue](db.ygoprodeck.com/card/?search=Ojama%20Blue)
+- [Ojama Country](db.ygoprodeck.com/card/?search=Ojama%20Country)
+- [Ojama Delta Hurricane!!](db.ygoprodeck.com/card/?search=Ojama%20Delta%20Hurricane!!)
+- [Ojama Duo](db.ygoprodeck.com/card/?search=Ojama%20Duo)
+- [Ojama Green](db.ygoprodeck.com/card/?search=Ojama%20Green)
+- [Ojama King](db.ygoprodeck.com/card/?search=Ojama%20King)
+- [Ojama Knight](db.ygoprodeck.com/card/?search=Ojama%20Knight)
+- [Ojama Pink](db.ygoprodeck.com/card/?search=Ojama%20Pink)
+- [Ojama Red](db.ygoprodeck.com/card/?search=Ojama%20Red)
+- [Ojama Trio](db.ygoprodeck.com/card/?search=Ojama%20Trio)
+- [Ojama Yellow](db.ygoprodeck.com/card/?search=Ojama%20Yellow)
+- [Ojamagic](db.ygoprodeck.com/card/?search=Ojamagic)
+- [Ojamuscle](db.ygoprodeck.com/card/?search=Ojamuscle)
+- [Old Mind](db.ygoprodeck.com/card/?search=Old%20Mind)
+- [Old Vindictive Magician](db.ygoprodeck.com/card/?search=Old%20Vindictive%20Magician)
+- [Omega Goggles](db.ygoprodeck.com/card/?search=Omega%20Goggles)
+- [Ominous Fortunetelling](db.ygoprodeck.com/card/?search=Ominous%20Fortunetelling)
+- [One by One](db.ygoprodeck.com/card/?search=One%20by%20One)
+- [One or Eight](db.ygoprodeck.com/card/?search=One%20or%20Eight)
+- [One-Eyed Shield Dragon](db.ygoprodeck.com/card/?search=One-Eyed%20Shield%20Dragon)
+- [One-Kuri-Way](db.ygoprodeck.com/card/?search=One-Kuri-Way)
+- [One-Shot Wand](db.ygoprodeck.com/card/?search=One-Shot%20Wand)
+- [One-Time Passcode](db.ygoprodeck.com/card/?search=One-Time%20Passcode)
+- [Oni Tank T-34](db.ygoprodeck.com/card/?search=Oni%20Tank%20T-34)
+- [Oni-Gami Combo](db.ygoprodeck.com/card/?search=Oni-Gami%20Combo)
+- [Onikuji](db.ygoprodeck.com/card/?search=Onikuji)
+- [Onomatopaira](db.ygoprodeck.com/card/?search=Onomatopaira)
+- [Ooguchi](db.ygoprodeck.com/card/?search=Ooguchi)
+- [Ookazi](db.ygoprodeck.com/card/?search=Ookazi)
+- [Oops!](db.ygoprodeck.com/card/?search=Oops!)
+- [Opening of the Spirit Gates](db.ygoprodeck.com/card/?search=Opening%20of%20the%20Spirit%20Gates)
+- [Opera the Melodious Diva](db.ygoprodeck.com/card/?search=Opera%20the%20Melodious%20Diva)
+- [Oppressed People](db.ygoprodeck.com/card/?search=Oppressed%20People)
+- [Opti-Camouflage Armor](db.ygoprodeck.com/card/?search=Opti-Camouflage%20Armor)
+- [Opticlops](db.ygoprodeck.com/card/?search=Opticlops)
+- [Option Hunter](db.ygoprodeck.com/card/?search=Option%20Hunter)
+- [Oracle of the Herald](db.ygoprodeck.com/card/?search=Oracle%20of%20the%20Herald)
+- [Oracle of the Sun](db.ygoprodeck.com/card/?search=Oracle%20of%20the%20Sun)
+- [Orb of Yasaka](db.ygoprodeck.com/card/?search=Orb%20of%20Yasaka)
+- [Orbital Bombardment](db.ygoprodeck.com/card/?search=Orbital%20Bombardment)
+- [Orbital Hydralander](db.ygoprodeck.com/card/?search=Orbital%20Hydralander)
+- [Orcust Knightmare](db.ygoprodeck.com/card/?search=Orcust%20Knightmare)
+- [Orcustrated Attack](db.ygoprodeck.com/card/?search=Orcustrated%20Attack)
+- [Orcustrated Core](db.ygoprodeck.com/card/?search=Orcustrated%20Core)
+- [Orcustrated Einsatz](db.ygoprodeck.com/card/?search=Orcustrated%20Einsatz)
+- [Orcustrated Release](db.ygoprodeck.com/card/?search=Orcustrated%20Release)
+- [Ordeal of a Traveler](db.ygoprodeck.com/card/?search=Ordeal%20of%20a%20Traveler)
+- [Order to Charge](db.ygoprodeck.com/card/?search=Order%20to%20Charge)
+- [Order to Smash](db.ygoprodeck.com/card/?search=Order%20to%20Smash)
+- [Orichalcos Shunoros](db.ygoprodeck.com/card/?search=Orichalcos%20Shunoros)
+- [Oscillo Hero](db.ygoprodeck.com/card/?search=Oscillo%20Hero)
+- [Oshaleon](db.ygoprodeck.com/card/?search=Oshaleon)
+- [Ostinato](db.ygoprodeck.com/card/?search=Ostinato)
+- [Otherworld - The "A" Zone](db.ygoprodeck.com/card/?search=Otherworld%20-%20The%20"A"%20Zone)
+- [Otohime](db.ygoprodeck.com/card/?search=Otohime)
+- [Otoshidamashi](db.ygoprodeck.com/card/?search=Otoshidamashi)
+- [Out of the Blue](db.ygoprodeck.com/card/?search=Out%20of%20the%20Blue)
+- [Outstanding Dog Marron](db.ygoprodeck.com/card/?search=Outstanding%20Dog%20Marron)
+- [Outstanding Dog Mary](db.ygoprodeck.com/card/?search=Outstanding%20Dog%20Mary)
+- [Over Destiny](db.ygoprodeck.com/card/?search=Over%20Destiny)
+- [Over Limit](db.ygoprodeck.com/card/?search=Over%20Limit)
+- [Overdoom Line](db.ygoprodeck.com/card/?search=Overdoom%20Line)
+- [Overdrive](db.ygoprodeck.com/card/?search=Overdrive)
+- [Overflow Dragon](db.ygoprodeck.com/card/?search=Overflow%20Dragon)
+- [Overlay Booster](db.ygoprodeck.com/card/?search=Overlay%20Booster)
+- [Overlay Eater](db.ygoprodeck.com/card/?search=Overlay%20Eater)
+- [Overlay Owl](db.ygoprodeck.com/card/?search=Overlay%20Owl)
+- [Overlay Regen](db.ygoprodeck.com/card/?search=Overlay%20Regen)
+- [Overlay Sentinel](db.ygoprodeck.com/card/?search=Overlay%20Sentinel)
+- [Overload Fusion](db.ygoprodeck.com/card/?search=Overload%20Fusion)
+- [Overpowering Eye](db.ygoprodeck.com/card/?search=Overpowering%20Eye)
+- [Overwind](db.ygoprodeck.com/card/?search=Overwind)
+- [Overworked](db.ygoprodeck.com/card/?search=Overworked)
+- [Owner's Seal](db.ygoprodeck.com/card/?search=Owner's%20Seal)
+- [Oxygeddon](db.ygoprodeck.com/card/?search=Oxygeddon)
+- [Oyster Meister](db.ygoprodeck.com/card/?search=Oyster%20Meister)
+- [Packet Link](db.ygoprodeck.com/card/?search=Packet%20Link)
+- [Packet Swap](db.ygoprodeck.com/card/?search=Packet%20Swap)
+- [Painful Decision](db.ygoprodeck.com/card/?search=Painful%20Decision)
+- [Pair Cycroid](db.ygoprodeck.com/card/?search=Pair%20Cycroid)
+- [Pal-O'Mine-zation!](db.ygoprodeck.com/card/?search=Pal-O'Mine-zation!)
+- [Paladin of Felgrand](db.ygoprodeck.com/card/?search=Paladin%20of%20Felgrand)
+- [Paladin of Storm Dragon](db.ygoprodeck.com/card/?search=Paladin%20of%20Storm%20Dragon)
+- [Paladin of the Cursed Dragon](db.ygoprodeck.com/card/?search=Paladin%20of%20the%20Cursed%20Dragon)
+- [Paladin of White Dragon](db.ygoprodeck.com/card/?search=Paladin%20of%20White%20Dragon)
+- [Pale Beast](db.ygoprodeck.com/card/?search=Pale%20Beast)
+- [Paleozoic Cambroraster](db.ygoprodeck.com/card/?search=Paleozoic%20Cambroraster)
+- [Paleozoic Canadia](db.ygoprodeck.com/card/?search=Paleozoic%20Canadia)
+- [Paleozoic Dinomischus](db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus)
+- [Paleozoic Eldonia](db.ygoprodeck.com/card/?search=Paleozoic%20Eldonia)
+- [Paleozoic Hallucigenia](db.ygoprodeck.com/card/?search=Paleozoic%20Hallucigenia)
+- [Paleozoic Leanchoilia](db.ygoprodeck.com/card/?search=Paleozoic%20Leanchoilia)
+- [Paleozoic Marrella](db.ygoprodeck.com/card/?search=Paleozoic%20Marrella)
+- [Paleozoic Olenoides](db.ygoprodeck.com/card/?search=Paleozoic%20Olenoides)
+- [Paleozoic Pikaia](db.ygoprodeck.com/card/?search=Paleozoic%20Pikaia)
+- [Pandaborg](db.ygoprodeck.com/card/?search=Pandaborg)
+- [Pandemonium](db.ygoprodeck.com/card/?search=Pandemonium)
+- [Pandemonium Watchbear](db.ygoprodeck.com/card/?search=Pandemonium%20Watchbear)
+- [Pandora's Jewelry Box](db.ygoprodeck.com/card/?search=Pandora's%20Jewelry%20Box)
+- [Panther Shark](db.ygoprodeck.com/card/?search=Panther%20Shark)
+- [Panther Warrior](db.ygoprodeck.com/card/?search=Panther%20Warrior)
+- [Panzer Dragon](db.ygoprodeck.com/card/?search=Panzer%20Dragon)
+- [Parallel eXceed](db.ygoprodeck.com/card/?search=Parallel%20eXceed)
+- [Parallel Panzer](db.ygoprodeck.com/card/?search=Parallel%20Panzer)
+- [Parallel Port Armor](db.ygoprodeck.com/card/?search=Parallel%20Port%20Armor)
+- [Parallel World Fusion](db.ygoprodeck.com/card/?search=Parallel%20World%20Fusion)
+- [Paralyzing Potion](db.ygoprodeck.com/card/?search=Paralyzing%20Potion)
+- [Parametalfoes Fusion](db.ygoprodeck.com/card/?search=Parametalfoes%20Fusion)
+- [Parametalfoes Melcaster](db.ygoprodeck.com/card/?search=Parametalfoes%20Melcaster)
+- [Parasite Paracide](db.ygoprodeck.com/card/?search=Parasite%20Paracide)
+- [Parasite Paranoid](db.ygoprodeck.com/card/?search=Parasite%20Paranoid)
+- [Parasitic Ticky](db.ygoprodeck.com/card/?search=Parasitic%20Ticky)
+- [Parrot Dragon](db.ygoprodeck.com/card/?search=Parrot%20Dragon)
+- [Parry](db.ygoprodeck.com/card/?search=Parry)
+- [Parry Knights](db.ygoprodeck.com/card/?search=Parry%20Knights)
+- [Parsec, the Interstellar Dragon](db.ygoprodeck.com/card/?search=Parsec,%20the%20Interstellar%20Dragon)
+- [Parthian Shot](db.ygoprodeck.com/card/?search=Parthian%20Shot)
+- [Particle Fusion](db.ygoprodeck.com/card/?search=Particle%20Fusion)
+- [Past Image](db.ygoprodeck.com/card/?search=Past%20Image)
+- [Patchwork Fluffal](db.ygoprodeck.com/card/?search=Patchwork%20Fluffal)
+- [Patrician of Darkness](db.ygoprodeck.com/card/?search=Patrician%20of%20Darkness)
+- [Patroid](db.ygoprodeck.com/card/?search=Patroid)
+- [Pazuzule](db.ygoprodeck.com/card/?search=Pazuzule)
+- [Peacock](db.ygoprodeck.com/card/?search=Peacock)
+- [Peak Performance](db.ygoprodeck.com/card/?search=Peak%20Performance)
+- [Peeking Goblin](db.ygoprodeck.com/card/?search=Peeking%20Goblin)
+- [Pegasus Wing](db.ygoprodeck.com/card/?search=Pegasus%20Wing)
+- [Penalty Game!](db.ygoprodeck.com/card/?search=Penalty%20Game!)
+- [Pendulum Back](db.ygoprodeck.com/card/?search=Pendulum%20Back)
+- [Pendulum Call](db.ygoprodeck.com/card/?search=Pendulum%20Call)
+- [Pendulum Dimension](db.ygoprodeck.com/card/?search=Pendulum%20Dimension)
+- [Pendulum Encore](db.ygoprodeck.com/card/?search=Pendulum%20Encore)
+- [Pendulum Hole](db.ygoprodeck.com/card/?search=Pendulum%20Hole)
+- [Pendulum Impenetrable](db.ygoprodeck.com/card/?search=Pendulum%20Impenetrable)
+- [Pendulum Machine](db.ygoprodeck.com/card/?search=Pendulum%20Machine)
+- [Pendulum Reborn](db.ygoprodeck.com/card/?search=Pendulum%20Reborn)
+- [Pendulum Rising](db.ygoprodeck.com/card/?search=Pendulum%20Rising)
+- [Pendulum Shift](db.ygoprodeck.com/card/?search=Pendulum%20Shift)
+- [Pendulum Storm](db.ygoprodeck.com/card/?search=Pendulum%20Storm)
+- [Pendulum Switch](db.ygoprodeck.com/card/?search=Pendulum%20Switch)
+- [Penguin Brave](db.ygoprodeck.com/card/?search=Penguin%20Brave)
+- [Penguin Cleric](db.ygoprodeck.com/card/?search=Penguin%20Cleric)
+- [Penguin Knight](db.ygoprodeck.com/card/?search=Penguin%20Knight)
+- [Penguin Ninja](db.ygoprodeck.com/card/?search=Penguin%20Ninja)
+- [Penguin Soldier](db.ygoprodeck.com/card/?search=Penguin%20Soldier)
+- [Penguin Squire](db.ygoprodeck.com/card/?search=Penguin%20Squire)
+- [People Running About](db.ygoprodeck.com/card/?search=People%20Running%20About)
+- [Perditious Puppeteer](db.ygoprodeck.com/card/?search=Perditious%20Puppeteer)
+- [Perfectly Ultimate Great Moth](db.ygoprodeck.com/card/?search=Perfectly%20Ultimate%20Great%20Moth)
+- [Performage Damage Juggler](db.ygoprodeck.com/card/?search=Performage%20Damage%20Juggler)
+- [Performage Flame Eater](db.ygoprodeck.com/card/?search=Performage%20Flame%20Eater)
+- [Performage Hat Tricker](db.ygoprodeck.com/card/?search=Performage%20Hat%20Tricker)
+- [Performage Mirror Conductor](db.ygoprodeck.com/card/?search=Performage%20Mirror%20Conductor)
+- [Performage Stilts Launcher](db.ygoprodeck.com/card/?search=Performage%20Stilts%20Launcher)
+- [Performage Trick Clown](db.ygoprodeck.com/card/?search=Performage%20Trick%20Clown)
+- [Performance Hurricane](db.ygoprodeck.com/card/?search=Performance%20Hurricane)
+- [Performance of Sword](db.ygoprodeck.com/card/?search=Performance%20of%20Sword)
+- [Performapal Bit Bite Turtle](db.ygoprodeck.com/card/?search=Performapal%20Bit%20Bite%20Turtle)
+- [Performapal Bot-Eyes Lizard](db.ygoprodeck.com/card/?search=Performapal%20Bot-Eyes%20Lizard)
+- [Performapal Bowhopper](db.ygoprodeck.com/card/?search=Performapal%20Bowhopper)
+- [Performapal Bubblebowwow](db.ygoprodeck.com/card/?search=Performapal%20Bubblebowwow)
+- [Performapal Call](db.ygoprodeck.com/card/?search=Performapal%20Call)
+- [Performapal Camelump](db.ygoprodeck.com/card/?search=Performapal%20Camelump)
+- [Performapal Card Gardna](db.ygoprodeck.com/card/?search=Performapal%20Card%20Gardna)
+- [Performapal Changeraffe](db.ygoprodeck.com/card/?search=Performapal%20Changeraffe)
+- [Performapal Clay Breaker](db.ygoprodeck.com/card/?search=Performapal%20Clay%20Breaker)
+- [Performapal Corn](db.ygoprodeck.com/card/?search=Performapal%20Corn)
+- [Performapal Dramatic Theater](db.ygoprodeck.com/card/?search=Performapal%20Dramatic%20Theater)
+- [Performapal Drummerilla](db.ygoprodeck.com/card/?search=Performapal%20Drummerilla)
+- [Performapal Extra Slinger](db.ygoprodeck.com/card/?search=Performapal%20Extra%20Slinger)
+- [Performapal Fire Mufflerlion](db.ygoprodeck.com/card/?search=Performapal%20Fire%20Mufflerlion)
+- [Performapal Fireflux](db.ygoprodeck.com/card/?search=Performapal%20Fireflux)
+- [Performapal Flip Hippo](db.ygoprodeck.com/card/?search=Performapal%20Flip%20Hippo)
+- [Performapal Friendonkey](db.ygoprodeck.com/card/?search=Performapal%20Friendonkey)
+- [Performapal Gatlinghoul](db.ygoprodeck.com/card/?search=Performapal%20Gatlinghoul)
+- [Performapal Gold Fang](db.ygoprodeck.com/card/?search=Performapal%20Gold%20Fang)
+- [Performapal Gongato](db.ygoprodeck.com/card/?search=Performapal%20Gongato)
+- [Performapal Handsamuraiger](db.ygoprodeck.com/card/?search=Performapal%20Handsamuraiger)
+- [Performapal Handstandaccoon](db.ygoprodeck.com/card/?search=Performapal%20Handstandaccoon)
+- [Performapal Hip Hippo](db.ygoprodeck.com/card/?search=Performapal%20Hip%20Hippo)
+- [Performapal Inflater Tapir](db.ygoprodeck.com/card/?search=Performapal%20Inflater%20Tapir)
+- [Performapal Kaleidoscorp](db.ygoprodeck.com/card/?search=Performapal%20Kaleidoscorp)
+- [Performapal Lebellman](db.ygoprodeck.com/card/?search=Performapal%20Lebellman)
+- [Performapal Life Swordsman](db.ygoprodeck.com/card/?search=Performapal%20Life%20Swordsman)
+- [Performapal Lizardraw](db.ygoprodeck.com/card/?search=Performapal%20Lizardraw)
+- [Performapal Odd-Eyes Light Phoenix](db.ygoprodeck.com/card/?search=Performapal%20Odd-Eyes%20Light%20Phoenix)
+- [Performapal Odd-Eyes Unicorn](db.ygoprodeck.com/card/?search=Performapal%20Odd-Eyes%20Unicorn)
+- [Performapal Partnaga](db.ygoprodeck.com/card/?search=Performapal%20Partnaga)
+- [Performapal Pendulum Sorcerer](db.ygoprodeck.com/card/?search=Performapal%20Pendulum%20Sorcerer)
+- [Performapal Pinch Helper](db.ygoprodeck.com/card/?search=Performapal%20Pinch%20Helper)
+- [Performapal Radish Horse](db.ygoprodeck.com/card/?search=Performapal%20Radish%20Horse)
+- [Performapal Rain Goat](db.ygoprodeck.com/card/?search=Performapal%20Rain%20Goat)
+- [Performapal Recasting](db.ygoprodeck.com/card/?search=Performapal%20Recasting)
+- [Performapal Revival](db.ygoprodeck.com/card/?search=Performapal%20Revival)
+- [Performapal Revue Dancer](db.ygoprodeck.com/card/?search=Performapal%20Revue%20Dancer)
+- [Performapal Salutiger](db.ygoprodeck.com/card/?search=Performapal%20Salutiger)
+- [Performapal Seal Eel](db.ygoprodeck.com/card/?search=Performapal%20Seal%20Eel)
+- [Performapal Secondonkey](db.ygoprodeck.com/card/?search=Performapal%20Secondonkey)
+- [Performapal Sellshell Crab](db.ygoprodeck.com/card/?search=Performapal%20Sellshell%20Crab)
+- [Performapal Show Down](db.ygoprodeck.com/card/?search=Performapal%20Show%20Down)
+- [Performapal Silver Claw](db.ygoprodeck.com/card/?search=Performapal%20Silver%20Claw)
+- [Performapal Skeeter Skimmer](db.ygoprodeck.com/card/?search=Performapal%20Skeeter%20Skimmer)
+- [Performapal Spikeagle](db.ygoprodeck.com/card/?search=Performapal%20Spikeagle)
+- [Performapal Springoose](db.ygoprodeck.com/card/?search=Performapal%20Springoose)
+- [Performapal Stamp Turtle](db.ygoprodeck.com/card/?search=Performapal%20Stamp%20Turtle)
+- [Performapal Swincobra](db.ygoprodeck.com/card/?search=Performapal%20Swincobra)
+- [Performapal Sword Fish](db.ygoprodeck.com/card/?search=Performapal%20Sword%20Fish)
+- [Performapal Teeter Totter Hopper](db.ygoprodeck.com/card/?search=Performapal%20Teeter%20Totter%20Hopper)
+- [Performapal Thunderhino](db.ygoprodeck.com/card/?search=Performapal%20Thunderhino)
+- [Performapal Trampolynx](db.ygoprodeck.com/card/?search=Performapal%20Trampolynx)
+- [Performapal Trump Girl](db.ygoprodeck.com/card/?search=Performapal%20Trump%20Girl)
+- [Performapal Trump Witch](db.ygoprodeck.com/card/?search=Performapal%20Trump%20Witch)
+- [Performapal Trumpanda](db.ygoprodeck.com/card/?search=Performapal%20Trumpanda)
+- [Performapal Turn Trooper](db.ygoprodeck.com/card/?search=Performapal%20Turn%20Trooper)
+- [Performapal U Go Golem](db.ygoprodeck.com/card/?search=Performapal%20U%20Go%20Golem)
+- [Performapal Uni](db.ygoprodeck.com/card/?search=Performapal%20Uni)
+- [Performapal Whip Snake](db.ygoprodeck.com/card/?search=Performapal%20Whip%20Snake)
+- [Periallis, Empress of Blossoms](db.ygoprodeck.com/card/?search=Periallis,%20Empress%20of%20Blossoms)
+- [Peropero Cerperus](db.ygoprodeck.com/card/?search=Peropero%20Cerperus)
+- [Personal Spoofing](db.ygoprodeck.com/card/?search=Personal%20Spoofing)
+- [Pestilence](db.ygoprodeck.com/card/?search=Pestilence)
+- [Peten the Dark Clown](db.ygoprodeck.com/card/?search=Peten%20the%20Dark%20Clown)
+- [Petit Angel](db.ygoprodeck.com/card/?search=Petit%20Angel)
+- [Petit Dragon](db.ygoprodeck.com/card/?search=Petit%20Dragon)
+- [Petit Moth](db.ygoprodeck.com/card/?search=Petit%20Moth)
+- [Phantasm Emperor Trilojig](db.ygoprodeck.com/card/?search=Phantasm%20Emperor%20Trilojig)
+- [Phantasm Spiral Assault](db.ygoprodeck.com/card/?search=Phantasm%20Spiral%20Assault)
+- [Phantasm Spiral Crash](db.ygoprodeck.com/card/?search=Phantasm%20Spiral%20Crash)
+- [Phantasm Spiral Grip](db.ygoprodeck.com/card/?search=Phantasm%20Spiral%20Grip)
+- [Phantasm Spiral Power](db.ygoprodeck.com/card/?search=Phantasm%20Spiral%20Power)
+- [Phantasm Spiral Wave](db.ygoprodeck.com/card/?search=Phantasm%20Spiral%20Wave)
+- [Phantasm Token](db.ygoprodeck.com/card/?search=Phantasm%20Token)
+- [Phantasmal Martyr Token](db.ygoprodeck.com/card/?search=Phantasmal%20Martyr%20Token)
+- [Phantasmal Martyrs](db.ygoprodeck.com/card/?search=Phantasmal%20Martyrs)
+- [Phantom Beast Cross-Wing](db.ygoprodeck.com/card/?search=Phantom%20Beast%20Cross-Wing)
+- [Phantom Beast Rock-Lizard](db.ygoprodeck.com/card/?search=Phantom%20Beast%20Rock-Lizard)
+- [Phantom Beast Thunder-Pegasus](db.ygoprodeck.com/card/?search=Phantom%20Beast%20Thunder-Pegasus)
+- [Phantom Beast Wild-Horn](db.ygoprodeck.com/card/?search=Phantom%20Beast%20Wild-Horn)
+- [Phantom Bounzer](db.ygoprodeck.com/card/?search=Phantom%20Bounzer)
+- [Phantom Cricket](db.ygoprodeck.com/card/?search=Phantom%20Cricket)
+- [Phantom Gryphon](db.ygoprodeck.com/card/?search=Phantom%20Gryphon)
+- [Phantom Hand](db.ygoprodeck.com/card/?search=Phantom%20Hand)
+- [Phantom King Hydride](db.ygoprodeck.com/card/?search=Phantom%20King%20Hydride)
+- [Phantom Knights' Fog Blade](db.ygoprodeck.com/card/?search=Phantom%20Knights'%20Fog%20Blade)
+- [Phantom Knights' Spear](db.ygoprodeck.com/card/?search=Phantom%20Knights'%20Spear)
+- [Phantom Knights' Sword](db.ygoprodeck.com/card/?search=Phantom%20Knights'%20Sword)
+- [Phantom Knights' Wing](db.ygoprodeck.com/card/?search=Phantom%20Knights'%20Wing)
+- [Phantom Magician](db.ygoprodeck.com/card/?search=Phantom%20Magician)
+- [Phantom of Chaos](db.ygoprodeck.com/card/?search=Phantom%20of%20Chaos)
+- [Pharaoh's Servant](db.ygoprodeck.com/card/?search=Pharaoh's%20Servant)
+- [Pharaoh's Treasure](db.ygoprodeck.com/card/?search=Pharaoh's%20Treasure)
+- [Pharaonic Guardian Sphinx](db.ygoprodeck.com/card/?search=Pharaonic%20Guardian%20Sphinx)
+- [Pharaonic Protector](db.ygoprodeck.com/card/?search=Pharaonic%20Protector)
+- [Phoenix Beast Gairuda](db.ygoprodeck.com/card/?search=Phoenix%20Beast%20Gairuda)
+- [Phoenix Gearfried](db.ygoprodeck.com/card/?search=Phoenix%20Gearfried)
+- [Phoenix Wing Wind Blast](db.ygoprodeck.com/card/?search=Phoenix%20Wing%20Wind%20Blast)
+- [Phoenixian Seed](db.ygoprodeck.com/card/?search=Phoenixian%20Seed)
+- [Photon Caesar](db.ygoprodeck.com/card/?search=Photon%20Caesar)
+- [Photon Cerberus](db.ygoprodeck.com/card/?search=Photon%20Cerberus)
+- [Photon Change](db.ygoprodeck.com/card/?search=Photon%20Change)
+- [Photon Chargeman](db.ygoprodeck.com/card/?search=Photon%20Chargeman)
+- [Photon Circle](db.ygoprodeck.com/card/?search=Photon%20Circle)
+- [Photon Crusher](db.ygoprodeck.com/card/?search=Photon%20Crusher)
+- [Photon Generator Unit](db.ygoprodeck.com/card/?search=Photon%20Generator%20Unit)
+- [Photon Hand](db.ygoprodeck.com/card/?search=Photon%20Hand)
+- [Photon Lead](db.ygoprodeck.com/card/?search=Photon%20Lead)
+- [Photon Leo](db.ygoprodeck.com/card/?search=Photon%20Leo)
+- [Photon Lizard](db.ygoprodeck.com/card/?search=Photon%20Lizard)
+- [Photon Papilloperative](db.ygoprodeck.com/card/?search=Photon%20Papilloperative)
+- [Photon Sabre Tiger](db.ygoprodeck.com/card/?search=Photon%20Sabre%20Tiger)
+- [Photon Sanctuary](db.ygoprodeck.com/card/?search=Photon%20Sanctuary)
+- [Photon Strike Bounzer](db.ygoprodeck.com/card/?search=Photon%20Strike%20Bounzer)
+- [Photon Thrasher](db.ygoprodeck.com/card/?search=Photon%20Thrasher)
+- [Photon Trident](db.ygoprodeck.com/card/?search=Photon%20Trident)
+- [Photon Vanisher](db.ygoprodeck.com/card/?search=Photon%20Vanisher)
+- [Photon Veil](db.ygoprodeck.com/card/?search=Photon%20Veil)
+- [Physical Double](db.ygoprodeck.com/card/?search=Physical%20Double)
+- [Pianissimo](db.ygoprodeck.com/card/?search=Pianissimo)
+- [Pikeru's Second Sight](db.ygoprodeck.com/card/?search=Pikeru's%20Second%20Sight)
+- [Pilgrim of the Ice Barrier](db.ygoprodeck.com/card/?search=Pilgrim%20of%20the%20Ice%20Barrier)
+- [Pilgrim Reaper](db.ygoprodeck.com/card/?search=Pilgrim%20Reaper)
+- [Pinch Hopper](db.ygoprodeck.com/card/?search=Pinch%20Hopper)
+- [Pineapple Blast](db.ygoprodeck.com/card/?search=Pineapple%20Blast)
+- [Pinecono](db.ygoprodeck.com/card/?search=Pinecono)
+- [Pinpoint Dash](db.ygoprodeck.com/card/?search=Pinpoint%20Dash)
+- [Pinpoint Guard](db.ygoprodeck.com/card/?search=Pinpoint%20Guard)
+- [Piranha Army](db.ygoprodeck.com/card/?search=Piranha%20Army)
+- [Pitch-Black Power Stone](db.ygoprodeck.com/card/?search=Pitch-Black%20Power%20Stone)
+- [Pitch-Black Warwolf](db.ygoprodeck.com/card/?search=Pitch-Black%20Warwolf)
+- [Pitch-Dark Dragon](db.ygoprodeck.com/card/?search=Pitch-Dark%20Dragon)
+- [Piwraithe the Ghost Pirate](db.ygoprodeck.com/card/?search=Piwraithe%20the%20Ghost%20Pirate)
+- [Pixie Knight](db.ygoprodeck.com/card/?search=Pixie%20Knight)
+- [Pixie Ring](db.ygoprodeck.com/card/?search=Pixie%20Ring)
+- [Plague Wolf](db.ygoprodeck.com/card/?search=Plague%20Wolf)
+- [Plaguespreader Zombie](db.ygoprodeck.com/card/?search=Plaguespreader%20Zombie)
+- [Planet Pathfinder](db.ygoprodeck.com/card/?search=Planet%20Pathfinder)
+- [Plant Food Chain](db.ygoprodeck.com/card/?search=Plant%20Food%20Chain)
+- [Plasma Ball](db.ygoprodeck.com/card/?search=Plasma%20Ball)
+- [Playful Possum](db.ygoprodeck.com/card/?search=Playful%20Possum)
+- [Poison Chain](db.ygoprodeck.com/card/?search=Poison%20Chain)
+- [Poison Draw Frog](db.ygoprodeck.com/card/?search=Poison%20Draw%20Frog)
+- [Poison Fangs](db.ygoprodeck.com/card/?search=Poison%20Fangs)
+- [Poison Mummy](db.ygoprodeck.com/card/?search=Poison%20Mummy)
+- [Poison of the Old Man](db.ygoprodeck.com/card/?search=Poison%20of%20the%20Old%20Man)
+- [Poisonous Winds](db.ygoprodeck.com/card/?search=Poisonous%20Winds)
+- [Poki Draco](db.ygoprodeck.com/card/?search=Poki%20Draco)
+- [Pole Position](db.ygoprodeck.com/card/?search=Pole%20Position)
+- [Pollinosis](db.ygoprodeck.com/card/?search=Pollinosis)
+- [Poly-Chemicritter Hydragon](db.ygoprodeck.com/card/?search=Poly-Chemicritter%20Hydragon)
+- [Polymerization](db.ygoprodeck.com/card/?search=Polymerization)
+- [Pop-Up](db.ygoprodeck.com/card/?search=Pop-Up)
+- [Portable Battery Pack](db.ygoprodeck.com/card/?search=Portable%20Battery%20Pack)
+- [Poseidon Wave](db.ygoprodeck.com/card/?search=Poseidon%20Wave)
+- [Possessed Dark Soul](db.ygoprodeck.com/card/?search=Possessed%20Dark%20Soul)
+- [Pot of Avarice](db.ygoprodeck.com/card/?search=Pot%20of%20Avarice)
+- [Pot of Benevolence](db.ygoprodeck.com/card/?search=Pot%20of%20Benevolence)
+- [Pot of Desires](db.ygoprodeck.com/card/?search=Pot%20of%20Desires)
+- [Pot of Dichotomy](db.ygoprodeck.com/card/?search=Pot%20of%20Dichotomy)
+- [Pot of Duality](db.ygoprodeck.com/card/?search=Pot%20of%20Duality)
+- [Pot of Generosity](db.ygoprodeck.com/card/?search=Pot%20of%20Generosity)
+- [Pot of Riches](db.ygoprodeck.com/card/?search=Pot%20of%20Riches)
+- [Pot of The Forbidden](db.ygoprodeck.com/card/?search=Pot%20of%20The%20Forbidden)
+- [Power Bond](db.ygoprodeck.com/card/?search=Power%20Bond)
+- [Power Break](db.ygoprodeck.com/card/?search=Power%20Break)
+- [Power Breaker](db.ygoprodeck.com/card/?search=Power%20Breaker)
+- [Power Capsule](db.ygoprodeck.com/card/?search=Power%20Capsule)
+- [Power Filter](db.ygoprodeck.com/card/?search=Power%20Filter)
+- [Power Frame](db.ygoprodeck.com/card/?search=Power%20Frame)
+- [Power Giant](db.ygoprodeck.com/card/?search=Power%20Giant)
+- [Power Injector](db.ygoprodeck.com/card/?search=Power%20Injector)
+- [Power Invader](db.ygoprodeck.com/card/?search=Power%20Invader)
+- [Power of Dark](db.ygoprodeck.com/card/?search=Power%20of%20Dark)
+- [Power of Friendship](db.ygoprodeck.com/card/?search=Power%20of%20Friendship)
+- [Power of Kaishin](db.ygoprodeck.com/card/?search=Power%20of%20Kaishin)
+- [Power Supplier](db.ygoprodeck.com/card/?search=Power%20Supplier)
+- [Power Tool Dragon](db.ygoprodeck.com/card/?search=Power%20Tool%20Dragon)
+- [Power Up!](db.ygoprodeck.com/card/?search=Power%20Up!)
+- [Power Wall](db.ygoprodeck.com/card/?search=Power%20Wall)
+- [Power-Up Adapter](db.ygoprodeck.com/card/?search=Power-Up%20Adapter)
+- [Powered Tuner](db.ygoprodeck.com/card/?search=Powered%20Tuner)
+- [Powerful Rebirth](db.ygoprodeck.com/card/?search=Powerful%20Rebirth)
+- [Powersink Stone](db.ygoprodeck.com/card/?search=Powersink%20Stone)
+- [Pragtical](db.ygoprodeck.com/card/?search=Pragtical)
+- [Prank-Kids Rocksies](db.ygoprodeck.com/card/?search=Prank-Kids%20Rocksies)
+- [Pre-Preparation of Rites](db.ygoprodeck.com/card/?search=Pre-Preparation%20of%20Rites)
+- [Precious Cards from Beyond](db.ygoprodeck.com/card/?search=Precious%20Cards%20from%20Beyond)
+- [Predaplant Banksiogre](db.ygoprodeck.com/card/?search=Predaplant%20Banksiogre)
+- [Predaplant Chlamydosundew](db.ygoprodeck.com/card/?search=Predaplant%20Chlamydosundew)
+- [Predaplant Cordyceps](db.ygoprodeck.com/card/?search=Predaplant%20Cordyceps)
+- [Predaplant Darlingtonia Cobra](db.ygoprodeck.com/card/?search=Predaplant%20Darlingtonia%20Cobra)
+- [Predaplant Dragostapelia](db.ygoprodeck.com/card/?search=Predaplant%20Dragostapelia)
+- [Predaplant Drosophyllum Hydra](db.ygoprodeck.com/card/?search=Predaplant%20Drosophyllum%20Hydra)
+- [Predaplant Moray Nepenthes](db.ygoprodeck.com/card/?search=Predaplant%20Moray%20Nepenthes)
+- [Predaplant Ophrys Scorpio](db.ygoprodeck.com/card/?search=Predaplant%20Ophrys%20Scorpio)
+- [Predaplant Squid Drosera](db.ygoprodeck.com/card/?search=Predaplant%20Squid%20Drosera)
+- [Predaplast](db.ygoprodeck.com/card/?search=Predaplast)
+- [Predaponics](db.ygoprodeck.com/card/?search=Predaponics)
+- [Prediction Princess Arrowsylph](db.ygoprodeck.com/card/?search=Prediction%20Princess%20Arrowsylph)
+- [Prediction Princess Astromorrigan](db.ygoprodeck.com/card/?search=Prediction%20Princess%20Astromorrigan)
+- [Prediction Princess Coinorma](db.ygoprodeck.com/card/?search=Prediction%20Princess%20Coinorma)
+- [Prediction Princess Crystaldine](db.ygoprodeck.com/card/?search=Prediction%20Princess%20Crystaldine)
+- [Prediction Princess Petalelf](db.ygoprodeck.com/card/?search=Prediction%20Princess%20Petalelf)
+- [Prediction Princess Tarotrei](db.ygoprodeck.com/card/?search=Prediction%20Princess%20Tarotrei)
+- [Prediction Ritual](db.ygoprodeck.com/card/?search=Prediction%20Ritual)
+- [Premature Return](db.ygoprodeck.com/card/?search=Premature%20Return)
+- [Prepare to Strike Back](db.ygoprodeck.com/card/?search=Prepare%20to%20Strike%20Back)
+- [Prescience](db.ygoprodeck.com/card/?search=Prescience)
+- [Present Card](db.ygoprodeck.com/card/?search=Present%20Card)
+- [Prevent Rat](db.ygoprodeck.com/card/?search=Prevent%20Rat)
+- [Prevention Star](db.ygoprodeck.com/card/?search=Prevention%20Star)
+- [Prickle Fairy](db.ygoprodeck.com/card/?search=Prickle%20Fairy)
+- [Pride of the Plunder Patroll](db.ygoprodeck.com/card/?search=Pride%20of%20the%20Plunder%20Patroll)
+- [Pride of the Weak](db.ygoprodeck.com/card/?search=Pride%20of%20the%20Weak)
+- [Prideful Roar](db.ygoprodeck.com/card/?search=Prideful%20Roar)
+- [Priestess with Eyes of Blue](db.ygoprodeck.com/card/?search=Priestess%20with%20Eyes%20of%20Blue)
+- [Primal Cry](db.ygoprodeck.com/card/?search=Primal%20Cry)
+- [Primal Seed](db.ygoprodeck.com/card/?search=Primal%20Seed)
+- [Prime Material Dragon](db.ygoprodeck.com/card/?search=Prime%20Material%20Dragon)
+- [Primineral Mandstrong](db.ygoprodeck.com/card/?search=Primineral%20Mandstrong)
+- [Primitive Butterfly](db.ygoprodeck.com/card/?search=Primitive%20Butterfly)
+- [Primordial Soup](db.ygoprodeck.com/card/?search=Primordial%20Soup)
+- [Princess of Tsurugi](db.ygoprodeck.com/card/?search=Princess%20of%20Tsurugi)
+- [Prior of the Ice Barrier](db.ygoprodeck.com/card/?search=Prior%20of%20the%20Ice%20Barrier)
+- [Prisman](db.ygoprodeck.com/card/?search=Prisman)
+- [Prohibition](db.ygoprodeck.com/card/?search=Prohibition)
+- [Prologue of the Destruction Swordsman](db.ygoprodeck.com/card/?search=Prologue%20of%20the%20Destruction%20Swordsman)
+- [Prometeor, the Burning Star](db.ygoprodeck.com/card/?search=Prometeor,%20the%20Burning%20Star)
+- [Prometheus, King of the Shadows](db.ygoprodeck.com/card/?search=Prometheus,%20King%20of%20the%20Shadows)
+- [Prominence Hand](db.ygoprodeck.com/card/?search=Prominence%20Hand)
+- [Prominence, Molten Swordsman](db.ygoprodeck.com/card/?search=Prominence,%20Molten%20Swordsman)
+- [Prompthorn](db.ygoprodeck.com/card/?search=Prompthorn)
+- [Proof of Powerlessness](db.ygoprodeck.com/card/?search=Proof%20of%20Powerlessness)
+- [Protective Soul Ailin](db.ygoprodeck.com/card/?search=Protective%20Soul%20Ailin)
+- [Protector of the Sanctuary](db.ygoprodeck.com/card/?search=Protector%20of%20the%20Sanctuary)
+- [Protector of the Throne](db.ygoprodeck.com/card/?search=Protector%20of%20the%20Throne)
+- [Protector with Eyes of Blue](db.ygoprodeck.com/card/?search=Protector%20with%20Eyes%20of%20Blue)
+- [Proto-Cyber Dragon](db.ygoprodeck.com/card/?search=Proto-Cyber%20Dragon)
+- [Protocol Gardna](db.ygoprodeck.com/card/?search=Protocol%20Gardna)
+- [Proton Blast](db.ygoprodeck.com/card/?search=Proton%20Blast)
+- [Protron](db.ygoprodeck.com/card/?search=Protron)
+- [Proxy F Magician](db.ygoprodeck.com/card/?search=Proxy%20F%20Magician)
+- [Prufinesse, the Tactical Trapper](db.ygoprodeck.com/card/?search=Prufinesse,%20the%20Tactical%20Trapper)
+- [Pseudo Space](db.ygoprodeck.com/card/?search=Pseudo%20Space)
+- [Psi-Blocker](db.ygoprodeck.com/card/?search=Psi-Blocker)
+- [Psi-Curse](db.ygoprodeck.com/card/?search=Psi-Curse)
+- [Psi-Impulse](db.ygoprodeck.com/card/?search=Psi-Impulse)
+- [Psi-Station](db.ygoprodeck.com/card/?search=Psi-Station)
+- [PSY-Frame Accelerator](db.ygoprodeck.com/card/?search=PSY-Frame%20Accelerator)
+- [PSY-Frame Multi-Threader](db.ygoprodeck.com/card/?search=PSY-Frame%20Multi-Threader)
+- [PSY-Framegear Alpha](db.ygoprodeck.com/card/?search=PSY-Framegear%20Alpha)
+- [PSY-Framegear Epsilon](db.ygoprodeck.com/card/?search=PSY-Framegear%20Epsilon)
+- [Psychic Ace](db.ygoprodeck.com/card/?search=Psychic%20Ace)
+- [Psychic Blade](db.ygoprodeck.com/card/?search=Psychic%20Blade)
+- [Psychic Commander](db.ygoprodeck.com/card/?search=Psychic%20Commander)
+- [Psychic Fervor](db.ygoprodeck.com/card/?search=Psychic%20Fervor)
+- [Psychic Jumper](db.ygoprodeck.com/card/?search=Psychic%20Jumper)
+- [Psychic Kappa](db.ygoprodeck.com/card/?search=Psychic%20Kappa)
+- [Psychic Overload](db.ygoprodeck.com/card/?search=Psychic%20Overload)
+- [Psychic Path](db.ygoprodeck.com/card/?search=Psychic%20Path)
+- [Psychic Reactor](db.ygoprodeck.com/card/?search=Psychic%20Reactor)
+- [Psychic Rejuvenation](db.ygoprodeck.com/card/?search=Psychic%20Rejuvenation)
+- [Psychic Shockwave](db.ygoprodeck.com/card/?search=Psychic%20Shockwave)
+- [Psychic Snail](db.ygoprodeck.com/card/?search=Psychic%20Snail)
+- [Psychic Soul](db.ygoprodeck.com/card/?search=Psychic%20Soul)
+- [Psychic Sword](db.ygoprodeck.com/card/?search=Psychic%20Sword)
+- [Psychic Tracker](db.ygoprodeck.com/card/?search=Psychic%20Tracker)
+- [Psychokinesis](db.ygoprodeck.com/card/?search=Psychokinesis)
+- [Pulse Mines](db.ygoprodeck.com/card/?search=Pulse%20Mines)
+- [Pumpking the King of Ghosts](db.ygoprodeck.com/card/?search=Pumpking%20the%20King%20of%20Ghosts)
+- [Pumprincess the Princess of Ghosts](db.ygoprodeck.com/card/?search=Pumprincess%20the%20Princess%20of%20Ghosts)
+- [Punch-in-the-Box](db.ygoprodeck.com/card/?search=Punch-in-the-Box)
+- [Punished Eagle](db.ygoprodeck.com/card/?search=Punished%20Eagle)
+- [Puny Penguin](db.ygoprodeck.com/card/?search=Puny%20Penguin)
+- [Puppet Master](db.ygoprodeck.com/card/?search=Puppet%20Master)
+- [Puppet Parade](db.ygoprodeck.com/card/?search=Puppet%20Parade)
+- [Puppet Plant](db.ygoprodeck.com/card/?search=Puppet%20Plant)
+- [Purge Ray](db.ygoprodeck.com/card/?search=Purge%20Ray)
+- [Pursuit Chaser](db.ygoprodeck.com/card/?search=Pursuit%20Chaser)
+- [Purushaddoll Aeon](db.ygoprodeck.com/card/?search=Purushaddoll%20Aeon)
+- [Putrid Pudding Body Buddies](db.ygoprodeck.com/card/?search=Putrid%20Pudding%20Body%20Buddies)
+- [Puzzle Reborn](db.ygoprodeck.com/card/?search=Puzzle%20Reborn)
+- [Puzzlomino, the Drop-n-Deleter](db.ygoprodeck.com/card/?search=Puzzlomino,%20the%20Drop-n-Deleter)
+- [Pyramid Energy](db.ygoprodeck.com/card/?search=Pyramid%20Energy)
+- [Pyramid of Light](db.ygoprodeck.com/card/?search=Pyramid%20of%20Light)
+- [Pyramid of Wonders](db.ygoprodeck.com/card/?search=Pyramid%20of%20Wonders)
+- [Pyramid Turtle](db.ygoprodeck.com/card/?search=Pyramid%20Turtle)
+- [Pyro Clock of Destiny](db.ygoprodeck.com/card/?search=Pyro%20Clock%20of%20Destiny)
+- [Pyrotech Mech - Shiryu](db.ygoprodeck.com/card/?search=Pyrotech%20Mech%20-%20Shiryu)
+- [Pyroxene Fusion](db.ygoprodeck.com/card/?search=Pyroxene%20Fusion)
+- [Qlimate Change](db.ygoprodeck.com/card/?search=Qlimate%20Change)
+- [Qlipper Launch](db.ygoprodeck.com/card/?search=Qlipper%20Launch)
+- [Quaking Mirror Force](db.ygoprodeck.com/card/?search=Quaking%20Mirror%20Force)
+- [Quantum Cat](db.ygoprodeck.com/card/?search=Quantum%20Cat)
+- [Quarantine](db.ygoprodeck.com/card/?search=Quarantine)
+- [Queen Angel of Roses](db.ygoprodeck.com/card/?search=Queen%20Angel%20of%20Roses)
+- [Queen Bird](db.ygoprodeck.com/card/?search=Queen%20Bird)
+- [Queen of Autumn Leaves](db.ygoprodeck.com/card/?search=Queen%20of%20Autumn%20Leaves)
+- [Queen of Thorns](db.ygoprodeck.com/card/?search=Queen%20of%20Thorns)
+- [Queen's Bodyguard](db.ygoprodeck.com/card/?search=Queen's%20Bodyguard)
+- [Queen's Double](db.ygoprodeck.com/card/?search=Queen's%20Double)
+- [Queen's Knight](db.ygoprodeck.com/card/?search=Queen's%20Knight)
+- [Queen's Pawn](db.ygoprodeck.com/card/?search=Queen's%20Pawn)
+- [Quick Charger](db.ygoprodeck.com/card/?search=Quick%20Charger)
+- [Quick Launch](db.ygoprodeck.com/card/?search=Quick%20Launch)
+- [Quickdraw Synchron](db.ygoprodeck.com/card/?search=Quickdraw%20Synchron)
+- [Quill Pen of Gulldos](db.ygoprodeck.com/card/?search=Quill%20Pen%20of%20Gulldos)
+- [Quillbolt Hedgehog](db.ygoprodeck.com/card/?search=Quillbolt%20Hedgehog)
+- [R - Righteous Justice](db.ygoprodeck.com/card/?search=R%20-%20Righteous%20Justice)
+- [R-Genex Accelerator](db.ygoprodeck.com/card/?search=R-Genex%20Accelerator)
+- [R-Genex Crusher](db.ygoprodeck.com/card/?search=R-Genex%20Crusher)
+- [R-Genex Magma](db.ygoprodeck.com/card/?search=R-Genex%20Magma)
+- [R-Genex Oracle](db.ygoprodeck.com/card/?search=R-Genex%20Oracle)
+- [R-Genex Turbo](db.ygoprodeck.com/card/?search=R-Genex%20Turbo)
+- [Ra's Disciple](db.ygoprodeck.com/card/?search=Ra's%20Disciple)
+- [Ra'ten, the Heavenly General](db.ygoprodeck.com/card/?search=Ra'ten,%20the%20Heavenly%20General)
+- [Rabid Horseman](db.ygoprodeck.com/card/?search=Rabid%20Horseman)
+- [Rabidragon](db.ygoprodeck.com/card/?search=Rabidragon)
+- [Radian, the Multidimensional Kaiju](db.ygoprodeck.com/card/?search=Radian,%20the%20Multidimensional%20Kaiju)
+- [Radiant Jeral](db.ygoprodeck.com/card/?search=Radiant%20Jeral)
+- [Radiant Spirit](db.ygoprodeck.com/card/?search=Radiant%20Spirit)
+- [Radiant Vouirescence](db.ygoprodeck.com/card/?search=Radiant%20Vouirescence)
+- [Radius, the Half-Moon Dragon](db.ygoprodeck.com/card/?search=Radius,%20the%20Half-Moon%20Dragon)
+- [Rafale, Champion Fur Hire](db.ygoprodeck.com/card/?search=Rafale,%20Champion%20Fur%20Hire)
+- [Rage of Kairyu-Shin](db.ygoprodeck.com/card/?search=Rage%20of%20Kairyu-Shin)
+- [Rage of the Deep Sea](db.ygoprodeck.com/card/?search=Rage%20of%20the%20Deep%20Sea)
+- [Raging Cloudian](db.ygoprodeck.com/card/?search=Raging%20Cloudian)
+- [Raging Earth](db.ygoprodeck.com/card/?search=Raging%20Earth)
+- [Raging Eria](db.ygoprodeck.com/card/?search=Raging%20Eria)
+- [Raging Flame Sprite](db.ygoprodeck.com/card/?search=Raging%20Flame%20Sprite)
+- [Raging Mad Plants](db.ygoprodeck.com/card/?search=Raging%20Mad%20Plants)
+- [Raging Storm Dragon - Beaufort IX](db.ygoprodeck.com/card/?search=Raging%20Storm%20Dragon%20-%20Beaufort%20IX)
+- [Rai Rider](db.ygoprodeck.com/card/?search=Rai%20Rider)
+- [Raiden, Hand of the Lightsworn](db.ygoprodeck.com/card/?search=Raiden,%20Hand%20of%20the%20Lightsworn)
+- [Raider's Unbreakable Mind](db.ygoprodeck.com/card/?search=Raider's%20Unbreakable%20Mind)
+- [Raidraptor - Avenge Vulture](db.ygoprodeck.com/card/?search=Raidraptor%20-%20Avenge%20Vulture)
+- [Raidraptor - Blade Burner Falcon](db.ygoprodeck.com/card/?search=Raidraptor%20-%20Blade%20Burner%20Falcon)
+- [Raidraptor - Booster Strix](db.ygoprodeck.com/card/?search=Raidraptor%20-%20Booster%20Strix)
+- [Raidraptor - Fuzzy Lanius](db.ygoprodeck.com/card/?search=Raidraptor%20-%20Fuzzy%20Lanius)
+- [Raidraptor - Heel Eagle](db.ygoprodeck.com/card/?search=Raidraptor%20-%20Heel%20Eagle)
+- [Raidraptor - Last Strix](db.ygoprodeck.com/card/?search=Raidraptor%20-%20Last%20Strix)
+- [Raidraptor - Mimicry Lanius](db.ygoprodeck.com/card/?search=Raidraptor%20-%20Mimicry%20Lanius)
+- [Raidraptor - Napalm Dragonius](db.ygoprodeck.com/card/?search=Raidraptor%20-%20Napalm%20Dragonius)
+- [Raidraptor - Nest](db.ygoprodeck.com/card/?search=Raidraptor%20-%20Nest)
+- [Raidraptor - Pain Lanius](db.ygoprodeck.com/card/?search=Raidraptor%20-%20Pain%20Lanius)
+- [Raidraptor - Readiness](db.ygoprodeck.com/card/?search=Raidraptor%20-%20Readiness)
+- [Raidraptor - Return](db.ygoprodeck.com/card/?search=Raidraptor%20-%20Return)
+- [Raidraptor - Revolution Falcon](db.ygoprodeck.com/card/?search=Raidraptor%20-%20Revolution%20Falcon)
+- [Raidraptor - Rise Falcon](db.ygoprodeck.com/card/?search=Raidraptor%20-%20Rise%20Falcon)
+- [Raidraptor - Sharp Lanius](db.ygoprodeck.com/card/?search=Raidraptor%20-%20Sharp%20Lanius)
+- [Raidraptor - Singing Lanius](db.ygoprodeck.com/card/?search=Raidraptor%20-%20Singing%20Lanius)
+- [Raidraptor - Skull Eagle](db.ygoprodeck.com/card/?search=Raidraptor%20-%20Skull%20Eagle)
+- [Raidraptor - Vanishing Lanius](db.ygoprodeck.com/card/?search=Raidraptor%20-%20Vanishing%20Lanius)
+- [Raidraptor - Wild Vulture](db.ygoprodeck.com/card/?search=Raidraptor%20-%20Wild%20Vulture)
+- [Raidraptor's Phantom Knights Claw](db.ygoprodeck.com/card/?search=Raidraptor's%20Phantom%20Knights%20Claw)
+- [Raigeki Bottle](db.ygoprodeck.com/card/?search=Raigeki%20Bottle)
+- [Raigeki Break](db.ygoprodeck.com/card/?search=Raigeki%20Break)
+- [Rain Bozu](db.ygoprodeck.com/card/?search=Rain%20Bozu)
+- [Rain of Mercy](db.ygoprodeck.com/card/?search=Rain%20of%20Mercy)
+- [Rain Storm](db.ygoprodeck.com/card/?search=Rain%20Storm)
+- [Rainbow Dark Dragon](db.ygoprodeck.com/card/?search=Rainbow%20Dark%20Dragon)
+- [Rainbow Dragon](db.ygoprodeck.com/card/?search=Rainbow%20Dragon)
+- [Rainbow Flower](db.ygoprodeck.com/card/?search=Rainbow%20Flower)
+- [Rainbow Gravity](db.ygoprodeck.com/card/?search=Rainbow%20Gravity)
+- [Rainbow Kuriboh](db.ygoprodeck.com/card/?search=Rainbow%20Kuriboh)
+- [Rainbow Neos](db.ygoprodeck.com/card/?search=Rainbow%20Neos)
+- [Rainbow Path](db.ygoprodeck.com/card/?search=Rainbow%20Path)
+- [Rainbow Refraction](db.ygoprodeck.com/card/?search=Rainbow%20Refraction)
+- [Rainbow Veil](db.ygoprodeck.com/card/?search=Rainbow%20Veil)
+- [Raise Body Heat](db.ygoprodeck.com/card/?search=Raise%20Body%20Heat)
+- [Raiza the Storm Monarch](db.ygoprodeck.com/card/?search=Raiza%20the%20Storm%20Monarch)
+- [Rallis the Star Bird](db.ygoprodeck.com/card/?search=Rallis%20the%20Star%20Bird)
+- [RAM Clouder](db.ygoprodeck.com/card/?search=RAM%20Clouder)
+- [Rampaging Smashtank Rhynosaber](db.ygoprodeck.com/card/?search=Rampaging%20Smashtank%20Rhynosaber)
+- [Rank-Up-Magic - The Seventh One](db.ygoprodeck.com/card/?search=Rank-Up-Magic%20-%20The%20Seventh%20One)
+- [Rank-Up-Magic Admiration of the Thousands](db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Admiration%20of%20the%20Thousands)
+- [Rank-Up-Magic Astral Force](db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Astral%20Force)
+- [Rank-Up-Magic Cipher Ascension](db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Cipher%20Ascension)
+- [Rank-Up-Magic Raptor's Force](db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Raptor's%20Force)
+- [Ranryu](db.ygoprodeck.com/card/?search=Ranryu)
+- [Rapid Trigger](db.ygoprodeck.com/card/?search=Rapid%20Trigger)
+- [Rapid-Fire Magician](db.ygoprodeck.com/card/?search=Rapid-Fire%20Magician)
+- [Raptor Wing Strike](db.ygoprodeck.com/card/?search=Raptor%20Wing%20Strike)
+- [Raptor's Gust](db.ygoprodeck.com/card/?search=Raptor's%20Gust)
+- [Raptor's Ultimate Mace](db.ygoprodeck.com/card/?search=Raptor's%20Ultimate%20Mace)
+- [Rare Fish](db.ygoprodeck.com/card/?search=Rare%20Fish)
+- [Rare Metal Dragon](db.ygoprodeck.com/card/?search=Rare%20Metal%20Dragon)
+- [Rare Metalmorph](db.ygoprodeck.com/card/?search=Rare%20Metalmorph)
+- [Rare Value](db.ygoprodeck.com/card/?search=Rare%20Value)
+- [Raregold Armor](db.ygoprodeck.com/card/?search=Raregold%20Armor)
+- [Raremetalfoes Bismugear](db.ygoprodeck.com/card/?search=Raremetalfoes%20Bismugear)
+- [Rasetsu](db.ygoprodeck.com/card/?search=Rasetsu)
+- [Ravenous Crocodragon Archethys](db.ygoprodeck.com/card/?search=Ravenous%20Crocodragon%20Archethys)
+- [Ray & Temperature](db.ygoprodeck.com/card/?search=Ray%20&%20Temperature)
+- [Ray of Hope](db.ygoprodeck.com/card/?search=Ray%20of%20Hope)
+- [Razor Lizard](db.ygoprodeck.com/card/?search=Razor%20Lizard)
+- [Re-Cover](db.ygoprodeck.com/card/?search=Re-Cover)
+- [Re-dyce-cle](db.ygoprodeck.com/card/?search=Re-dyce-cle)
+- [Re-Fusion](db.ygoprodeck.com/card/?search=Re-Fusion)
+- [Re-qliate](db.ygoprodeck.com/card/?search=Re-qliate)
+- [Reactan, Dragon Ruler of Pebbles](db.ygoprodeck.com/card/?search=Reactan,%20Dragon%20Ruler%20of%20Pebbles)
+- [Ready for Intercepting](db.ygoprodeck.com/card/?search=Ready%20for%20Intercepting)
+- [Really Eternal Rest](db.ygoprodeck.com/card/?search=Really%20Eternal%20Rest)
+- [Realm of Light](db.ygoprodeck.com/card/?search=Realm%20of%20Light)
+- [Reaper of the Cards](db.ygoprodeck.com/card/?search=Reaper%20of%20the%20Cards)
+- [Reaper Scythe - Dreadscythe](db.ygoprodeck.com/card/?search=Reaper%20Scythe%20-%20Dreadscythe)
+- [Reboot](db.ygoprodeck.com/card/?search=Reboot)
+- [Reborn Tengu](db.ygoprodeck.com/card/?search=Reborn%20Tengu)
+- [Reborn Zombie](db.ygoprodeck.com/card/?search=Reborn%20Zombie)
+- [Rebuildeer](db.ygoprodeck.com/card/?search=Rebuildeer)
+- [Recall](db.ygoprodeck.com/card/?search=Recall)
+- [Recardination](db.ygoprodeck.com/card/?search=Recardination)
+- [Reckless Greed](db.ygoprodeck.com/card/?search=Reckless%20Greed)
+- [Reckoned Power](db.ygoprodeck.com/card/?search=Reckoned%20Power)
+- [Recoded Alive](db.ygoprodeck.com/card/?search=Recoded%20Alive)
+- [Recon, Scout Fur Hire](db.ygoprodeck.com/card/?search=Recon,%20Scout%20Fur%20Hire)
+- [Recovery Sorcerer](db.ygoprodeck.com/card/?search=Recovery%20Sorcerer)
+- [Recurring Nightmare](db.ygoprodeck.com/card/?search=Recurring%20Nightmare)
+- [Recycle](db.ygoprodeck.com/card/?search=Recycle)
+- [Recycling Batteries](db.ygoprodeck.com/card/?search=Recycling%20Batteries)
+- [Red Archery Girl](db.ygoprodeck.com/card/?search=Red%20Archery%20Girl)
+- [Red Carpet](db.ygoprodeck.com/card/?search=Red%20Carpet)
+- [Red Cocoon](db.ygoprodeck.com/card/?search=Red%20Cocoon)
+- [Red Dragon Archfiend](db.ygoprodeck.com/card/?search=Red%20Dragon%20Archfiend)
+- [Red Dragon Archfiend/Assault Mode](db.ygoprodeck.com/card/?search=Red%20Dragon%20Archfiend/Assault%20Mode)
+- [Red Dragon Vase](db.ygoprodeck.com/card/?search=Red%20Dragon%20Vase)
+- [Red Duston](db.ygoprodeck.com/card/?search=Red%20Duston)
+- [Red Familiar](db.ygoprodeck.com/card/?search=Red%20Familiar)
+- [Red Gadget](db.ygoprodeck.com/card/?search=Red%20Gadget)
+- [Red Gardna](db.ygoprodeck.com/card/?search=Red%20Gardna)
+- [Red Hared Hasty Horse](db.ygoprodeck.com/card/?search=Red%20Hared%20Hasty%20Horse)
+- [Red Medicine](db.ygoprodeck.com/card/?search=Red%20Medicine)
+- [Red Mirror](db.ygoprodeck.com/card/?search=Red%20Mirror)
+- [Red Nova](db.ygoprodeck.com/card/?search=Red%20Nova)
+- [Red Ogre](db.ygoprodeck.com/card/?search=Red%20Ogre)
+- [Red Potan](db.ygoprodeck.com/card/?search=Red%20Potan)
+- [Red Reign](db.ygoprodeck.com/card/?search=Red%20Reign)
+- [Red Resonator](db.ygoprodeck.com/card/?search=Red%20Resonator)
+- [Red Rising Dragon](db.ygoprodeck.com/card/?search=Red%20Rising%20Dragon)
+- [Red Screen](db.ygoprodeck.com/card/?search=Red%20Screen)
+- [Red Sparrow Summoner](db.ygoprodeck.com/card/?search=Red%20Sparrow%20Summoner)
+- [Red Sprinter](db.ygoprodeck.com/card/?search=Red%20Sprinter)
+- [Red Warg](db.ygoprodeck.com/card/?search=Red%20Warg)
+- [Red Wyvern](db.ygoprodeck.com/card/?search=Red%20Wyvern)
+- [Red-Eyes Archfiend of Lightning](db.ygoprodeck.com/card/?search=Red-Eyes%20Archfiend%20of%20Lightning)
+- [Red-Eyes Black Dragon](db.ygoprodeck.com/card/?search=Red-Eyes%20Black%20Dragon)
+- [Red-Eyes Black Dragon Sword](db.ygoprodeck.com/card/?search=Red-Eyes%20Black%20Dragon%20Sword)
+- [Red-Eyes Black Flare Dragon](db.ygoprodeck.com/card/?search=Red-Eyes%20Black%20Flare%20Dragon)
+- [Red-Eyes Black Metal Dragon](db.ygoprodeck.com/card/?search=Red-Eyes%20Black%20Metal%20Dragon)
+- [Red-Eyes Burn](db.ygoprodeck.com/card/?search=Red-Eyes%20Burn)
+- [Red-Eyes Darkness Dragon](db.ygoprodeck.com/card/?search=Red-Eyes%20Darkness%20Dragon)
+- [Red-Eyes Fusion](db.ygoprodeck.com/card/?search=Red-Eyes%20Fusion)
+- [Red-Eyes Insight](db.ygoprodeck.com/card/?search=Red-Eyes%20Insight)
+- [Red-Eyes Retro Dragon](db.ygoprodeck.com/card/?search=Red-Eyes%20Retro%20Dragon)
+- [Red-Eyes Spirit](db.ygoprodeck.com/card/?search=Red-Eyes%20Spirit)
+- [Red-Eyes Toon Dragon](db.ygoprodeck.com/card/?search=Red-Eyes%20Toon%20Dragon)
+- [Red-Eyes Transmigration](db.ygoprodeck.com/card/?search=Red-Eyes%20Transmigration)
+- [Red-Eyes Wyvern](db.ygoprodeck.com/card/?search=Red-Eyes%20Wyvern)
+- [Red-Eyes Zombie Dragon](db.ygoprodeck.com/card/?search=Red-Eyes%20Zombie%20Dragon)
+- [Red-Headed Oni](db.ygoprodeck.com/card/?search=Red-Headed%20Oni)
+- [Redeemable Jar](db.ygoprodeck.com/card/?search=Redeemable%20Jar)
+- [Reed Butterfly](db.ygoprodeck.com/card/?search=Reed%20Butterfly)
+- [Reese the Ice Mistress](db.ygoprodeck.com/card/?search=Reese%20the%20Ice%20Mistress)
+- [Reeze, Whirlwind of Gusto](db.ygoprodeck.com/card/?search=Reeze,%20Whirlwind%20of%20Gusto)
+- [Reflect Bounder](db.ygoprodeck.com/card/?search=Reflect%20Bounder)
+- [Regenerating Mummy](db.ygoprodeck.com/card/?search=Regenerating%20Mummy)
+- [Regenerating Rose](db.ygoprodeck.com/card/?search=Regenerating%20Rose)
+- [Regretful Rebirth](db.ygoprodeck.com/card/?search=Regretful%20Rebirth)
+- [Regulus](db.ygoprodeck.com/card/?search=Regulus)
+- [Reign-Beaux, Overlord of Dark World](db.ygoprodeck.com/card/?search=Reign-Beaux,%20Overlord%20of%20Dark%20World)
+- [Reinforce Truth](db.ygoprodeck.com/card/?search=Reinforce%20Truth)
+- [Reinforced Space](db.ygoprodeck.com/card/?search=Reinforced%20Space)
+- [Reinforcement of the Army's Troops](db.ygoprodeck.com/card/?search=Reinforcement%20of%20the%20Army's%20Troops)
+- [Reinforcements](db.ygoprodeck.com/card/?search=Reinforcements)
+- [Reject Reborn](db.ygoprodeck.com/card/?search=Reject%20Reborn)
+- [Rekindling](db.ygoprodeck.com/card/?search=Rekindling)
+- [Relay Soul](db.ygoprodeck.com/card/?search=Relay%20Soul)
+- [Release from Stone](db.ygoprodeck.com/card/?search=Release%20from%20Stone)
+- [Release Restraint](db.ygoprodeck.com/card/?search=Release%20Restraint)
+- [Release Restraint Wave](db.ygoprodeck.com/card/?search=Release%20Restraint%20Wave)
+- [Release, Reverse, Burst](db.ygoprodeck.com/card/?search=Release,%20Reverse,%20Burst)
+- [Relieve Monster](db.ygoprodeck.com/card/?search=Relieve%20Monster)
+- [Relinkuriboh](db.ygoprodeck.com/card/?search=Relinkuriboh)
+- [Relinquished](db.ygoprodeck.com/card/?search=Relinquished)
+- [Relinquished Spider](db.ygoprodeck.com/card/?search=Relinquished%20Spider)
+- [Reload](db.ygoprodeck.com/card/?search=Reload)
+- [Remote Rebirth](db.ygoprodeck.com/card/?search=Remote%20Rebirth)
+- [Remote Revenge](db.ygoprodeck.com/card/?search=Remote%20Revenge)
+- [Remove Brainwashing](db.ygoprodeck.com/card/?search=Remove%20Brainwashing)
+- [Remove Trap](db.ygoprodeck.com/card/?search=Remove%20Trap)
+- [Renge, Gatekeeper of Dark World](db.ygoprodeck.com/card/?search=Renge,%20Gatekeeper%20of%20Dark%20World)
+- [Reptilianne Coatl](db.ygoprodeck.com/card/?search=Reptilianne%20Coatl)
+- [Reptilianne Gardna](db.ygoprodeck.com/card/?search=Reptilianne%20Gardna)
+- [Reptilianne Gorgon](db.ygoprodeck.com/card/?search=Reptilianne%20Gorgon)
+- [Reptilianne Hydra](db.ygoprodeck.com/card/?search=Reptilianne%20Hydra)
+- [Reptilianne Lamia](db.ygoprodeck.com/card/?search=Reptilianne%20Lamia)
+- [Reptilianne Medusa](db.ygoprodeck.com/card/?search=Reptilianne%20Medusa)
+- [Reptilianne Naga](db.ygoprodeck.com/card/?search=Reptilianne%20Naga)
+- [Reptilianne Nyami](db.ygoprodeck.com/card/?search=Reptilianne%20Nyami)
+- [Reptilianne Poison](db.ygoprodeck.com/card/?search=Reptilianne%20Poison)
+- [Reptilianne Rage](db.ygoprodeck.com/card/?search=Reptilianne%20Rage)
+- [Reptilianne Recoil](db.ygoprodeck.com/card/?search=Reptilianne%20Recoil)
+- [Reptilianne Scylla](db.ygoprodeck.com/card/?search=Reptilianne%20Scylla)
+- [Reptilianne Servant](db.ygoprodeck.com/card/?search=Reptilianne%20Servant)
+- [Reptilianne Spawn](db.ygoprodeck.com/card/?search=Reptilianne%20Spawn)
+- [Reptilianne Viper](db.ygoprodeck.com/card/?search=Reptilianne%20Viper)
+- [Rescue Cat](db.ygoprodeck.com/card/?search=Rescue%20Cat)
+- [Rescue Ferret](db.ygoprodeck.com/card/?search=Rescue%20Ferret)
+- [Rescue Interlacer](db.ygoprodeck.com/card/?search=Rescue%20Interlacer)
+- [Rescue Rabbit](db.ygoprodeck.com/card/?search=Rescue%20Rabbit)
+- [Rescue Warrior](db.ygoprodeck.com/card/?search=Rescue%20Warrior)
+- [Rescueroid](db.ygoprodeck.com/card/?search=Rescueroid)
+- [Resonance Insect](db.ygoprodeck.com/card/?search=Resonance%20Insect)
+- [Resonant Destruction](db.ygoprodeck.com/card/?search=Resonant%20Destruction)
+- [Resonator Call](db.ygoprodeck.com/card/?search=Resonator%20Call)
+- [Resonator Command](db.ygoprodeck.com/card/?search=Resonator%20Command)
+- [Resonator Engine](db.ygoprodeck.com/card/?search=Resonator%20Engine)
+- [Respect Play](db.ygoprodeck.com/card/?search=Respect%20Play)
+- [Restoration of the Monarchs](db.ygoprodeck.com/card/?search=Restoration%20of%20the%20Monarchs)
+- [Restoration Point Guard](db.ygoprodeck.com/card/?search=Restoration%20Point%20Guard)
+- [Restructer Revolution](db.ygoprodeck.com/card/?search=Restructer%20Revolution)
+- [Resurgam Xyz](db.ygoprodeck.com/card/?search=Resurgam%20Xyz)
+- [Ret-time Reviver Emit-ter](db.ygoprodeck.com/card/?search=Ret-time%20Reviver%20Emit-ter)
+- [Retaliating "C"](db.ygoprodeck.com/card/?search=Retaliating%20"C")
+- [Return](db.ygoprodeck.com/card/?search=Return)
+- [Return of the Doomed](db.ygoprodeck.com/card/?search=Return%20of%20the%20Doomed)
+- [Return of the Dragon Lords](db.ygoprodeck.com/card/?search=Return%20of%20the%20Dragon%20Lords)
+- [Return of the Monarchs](db.ygoprodeck.com/card/?search=Return%20of%20the%20Monarchs)
+- [Return of the Red-Eyes](db.ygoprodeck.com/card/?search=Return%20of%20the%20Red-Eyes)
+- [Return of the Six Samurai](db.ygoprodeck.com/card/?search=Return%20of%20the%20Six%20Samurai)
+- [Return of the Zombies](db.ygoprodeck.com/card/?search=Return%20of%20the%20Zombies)
+- [Return Zombie](db.ygoprodeck.com/card/?search=Return%20Zombie)
+- [Revendread Evolution](db.ygoprodeck.com/card/?search=Revendread%20Evolution)
+- [Revendread Origin](db.ygoprodeck.com/card/?search=Revendread%20Origin)
+- [Reversal of Fate](db.ygoprodeck.com/card/?search=Reversal%20of%20Fate)
+- [Reversal Quiz](db.ygoprodeck.com/card/?search=Reversal%20Quiz)
+- [Reverse Breaker](db.ygoprodeck.com/card/?search=Reverse%20Breaker)
+- [Reverse Buster](db.ygoprodeck.com/card/?search=Reverse%20Buster)
+- [Reverse Glasses](db.ygoprodeck.com/card/?search=Reverse%20Glasses)
+- [Reverse of Neos](db.ygoprodeck.com/card/?search=Reverse%20of%20Neos)
+- [Reverse Reuse](db.ygoprodeck.com/card/?search=Reverse%20Reuse)
+- [Reverse Trap](db.ygoprodeck.com/card/?search=Reverse%20Trap)
+- [Reversible Beetle](db.ygoprodeck.com/card/?search=Reversible%20Beetle)
+- [Revival Gift](db.ygoprodeck.com/card/?search=Revival%20Gift)
+- [Revival Jam](db.ygoprodeck.com/card/?search=Revival%20Jam)
+- [Revival of Dokurorider](db.ygoprodeck.com/card/?search=Revival%20of%20Dokurorider)
+- [Revival of the Immortals](db.ygoprodeck.com/card/?search=Revival%20of%20the%20Immortals)
+- [Revival Rose](db.ygoprodeck.com/card/?search=Revival%20Rose)
+- [Revolving Switchyard](db.ygoprodeck.com/card/?search=Revolving%20Switchyard)
+- [Rhaimundos of the Red Sword](db.ygoprodeck.com/card/?search=Rhaimundos%20of%20the%20Red%20Sword)
+- [Rhinotaurus](db.ygoprodeck.com/card/?search=Rhinotaurus)
+- [Ribbon of Rebirth](db.ygoprodeck.com/card/?search=Ribbon%20of%20Rebirth)
+- [Rider of the Storm Winds](db.ygoprodeck.com/card/?search=Rider%20of%20the%20Storm%20Winds)
+- [Righty Driver](db.ygoprodeck.com/card/?search=Righty%20Driver)
+- [Rigorous Reaver](db.ygoprodeck.com/card/?search=Rigorous%20Reaver)
+- [Rikka Queen Strenna](db.ygoprodeck.com/card/?search=Rikka%20Queen%20Strenna)
+- [Ring of Defense](db.ygoprodeck.com/card/?search=Ring%20of%20Defense)
+- [Ring of Destruction](db.ygoprodeck.com/card/?search=Ring%20of%20Destruction)
+- [Ring of Magnetism](db.ygoprodeck.com/card/?search=Ring%20of%20Magnetism)
+- [Rinyan, Lightsworn Rogue](db.ygoprodeck.com/card/?search=Rinyan,%20Lightsworn%20Rogue)
+- [Riryoku](db.ygoprodeck.com/card/?search=Riryoku)
+- [Riryoku Field](db.ygoprodeck.com/card/?search=Riryoku%20Field)
+- [Rise of the Fallen](db.ygoprodeck.com/card/?search=Rise%20of%20the%20Fallen)
+- [Rise of the Salamangreat](db.ygoprodeck.com/card/?search=Rise%20of%20the%20Salamangreat)
+- [Rise of the Snake Deity](db.ygoprodeck.com/card/?search=Rise%20of%20the%20Snake%20Deity)
+- [Rise to Full Height](db.ygoprodeck.com/card/?search=Rise%20to%20Full%20Height)
+- [Risebell the Star Adjuster](db.ygoprodeck.com/card/?search=Risebell%20the%20Star%20Adjuster)
+- [Risebell the Star Psycher](db.ygoprodeck.com/card/?search=Risebell%20the%20Star%20Psycher)
+- [Risebell the Summoner](db.ygoprodeck.com/card/?search=Risebell%20the%20Summoner)
+- [Rising Air Current](db.ygoprodeck.com/card/?search=Rising%20Air%20Current)
+- [Rising Energy](db.ygoprodeck.com/card/?search=Rising%20Energy)
+- [Rising Fire](db.ygoprodeck.com/card/?search=Rising%20Fire)
+- [Rising Sun Slash](db.ygoprodeck.com/card/?search=Rising%20Sun%20Slash)
+- [Rite of Spirit](db.ygoprodeck.com/card/?search=Rite%20of%20Spirit)
+- [Ritual Beast Ambush](db.ygoprodeck.com/card/?search=Ritual%20Beast%20Ambush)
+- [Ritual Beast Return](db.ygoprodeck.com/card/?search=Ritual%20Beast%20Return)
+- [Ritual Beast Tamer Zeframpilica](db.ygoprodeck.com/card/?search=Ritual%20Beast%20Tamer%20Zeframpilica)
+- [Ritual Buster](db.ygoprodeck.com/card/?search=Ritual%20Buster)
+- [Ritual Ceremony](db.ygoprodeck.com/card/?search=Ritual%20Ceremony)
+- [Ritual Foregone](db.ygoprodeck.com/card/?search=Ritual%20Foregone)
+- [Ritual of Black Mastery](db.ygoprodeck.com/card/?search=Ritual%20of%20Black%20Mastery)
+- [Ritual of Destruction](db.ygoprodeck.com/card/?search=Ritual%20of%20Destruction)
+- [Ritual of Grace](db.ygoprodeck.com/card/?search=Ritual%20of%20Grace)
+- [Ritual Raven](db.ygoprodeck.com/card/?search=Ritual%20Raven)
+- [Ritual Sanctuary](db.ygoprodeck.com/card/?search=Ritual%20Sanctuary)
+- [Ritual Sealing](db.ygoprodeck.com/card/?search=Ritual%20Sealing)
+- [Ritual Weapon](db.ygoprodeck.com/card/?search=Ritual%20Weapon)
+- [Rivalry of Warlords](db.ygoprodeck.com/card/?search=Rivalry%20of%20Warlords)
+- [Road Synchron](db.ygoprodeck.com/card/?search=Road%20Synchron)
+- [Road Warrior](db.ygoprodeck.com/card/?search=Road%20Warrior)
+- [Roar of the Earthbound Immortal](db.ygoprodeck.com/card/?search=Roar%20of%20the%20Earthbound%20Immortal)
+- [Roaring Earth](db.ygoprodeck.com/card/?search=Roaring%20Earth)
+- [Roaring Ocean Snake](db.ygoprodeck.com/card/?search=Roaring%20Ocean%20Snake)
+- [Robbin' Goblin](db.ygoprodeck.com/card/?search=Robbin'%20Goblin)
+- [Robbin' Zombie](db.ygoprodeck.com/card/?search=Robbin'%20Zombie)
+- [Robolady](db.ygoprodeck.com/card/?search=Robolady)
+- [Robot Buster Destruction Sword](db.ygoprodeck.com/card/?search=Robot%20Buster%20Destruction%20Sword)
+- [Robotic Knight](db.ygoprodeck.com/card/?search=Robotic%20Knight)
+- [Roboyarou](db.ygoprodeck.com/card/?search=Roboyarou)
+- [Roc from the Valley of Haze](db.ygoprodeck.com/card/?search=Roc%20from%20the%20Valley%20of%20Haze)
+- [Rock Band Xenoguitar](db.ygoprodeck.com/card/?search=Rock%20Band%20Xenoguitar)
+- [Rock Bombardment](db.ygoprodeck.com/card/?search=Rock%20Bombardment)
+- [Rock Ogre Grotto #1](db.ygoprodeck.com/card/?search=Rock%20Ogre%20Grotto%20#1)
+- [Rocket Arrow Express](db.ygoprodeck.com/card/?search=Rocket%20Arrow%20Express)
+- [Rocket Hand](db.ygoprodeck.com/card/?search=Rocket%20Hand)
+- [Rocket Hermos Cannon](db.ygoprodeck.com/card/?search=Rocket%20Hermos%20Cannon)
+- [Rocket Jumper](db.ygoprodeck.com/card/?search=Rocket%20Jumper)
+- [Rocket Pilder](db.ygoprodeck.com/card/?search=Rocket%20Pilder)
+- [Rocket Warrior](db.ygoprodeck.com/card/?search=Rocket%20Warrior)
+- [Rod of Silence - Kay'est](db.ygoprodeck.com/card/?search=Rod%20of%20Silence%20-%20Kay'est)
+- [Rod of the Mind's Eye](db.ygoprodeck.com/card/?search=Rod%20of%20the%20Mind's%20Eye)
+- [Rodenut](db.ygoprodeck.com/card/?search=Rodenut)
+- [Rogue Doll](db.ygoprodeck.com/card/?search=Rogue%20Doll)
+- [Rogue of Endymion](db.ygoprodeck.com/card/?search=Rogue%20of%20Endymion)
+- [Rokket Recharger](db.ygoprodeck.com/card/?search=Rokket%20Recharger)
+- [Rokket Synchron](db.ygoprodeck.com/card/?search=Rokket%20Synchron)
+- [Roll Out!](db.ygoprodeck.com/card/?search=Roll%20Out!)
+- [ROM Cloudia](db.ygoprodeck.com/card/?search=ROM%20Cloudia)
+- [Ronintoadin](db.ygoprodeck.com/card/?search=Ronintoadin)
+- [Rookie Fur Hire](db.ygoprodeck.com/card/?search=Rookie%20Fur%20Hire)
+- [Root Water](db.ygoprodeck.com/card/?search=Root%20Water)
+- [Rope of Life](db.ygoprodeck.com/card/?search=Rope%20of%20Life)
+- [Rose Archer](db.ygoprodeck.com/card/?search=Rose%20Archer)
+- [Rose Bell of Revelation](db.ygoprodeck.com/card/?search=Rose%20Bell%20of%20Revelation)
+- [Rose Fairy](db.ygoprodeck.com/card/?search=Rose%20Fairy)
+- [Rose Girl](db.ygoprodeck.com/card/?search=Rose%20Girl)
+- [Rose Lover](db.ygoprodeck.com/card/?search=Rose%20Lover)
+- [Rose Paladin](db.ygoprodeck.com/card/?search=Rose%20Paladin)
+- [Rose Spectre of Dunn](db.ygoprodeck.com/card/?search=Rose%20Spectre%20of%20Dunn)
+- [Rose Tentacles](db.ygoprodeck.com/card/?search=Rose%20Tentacles)
+- [Rose Witch](db.ygoprodeck.com/card/?search=Rose%20Witch)
+- [Roulette Barrel](db.ygoprodeck.com/card/?search=Roulette%20Barrel)
+- [Roulette Spider](db.ygoprodeck.com/card/?search=Roulette%20Spider)
+- [Royal Command](db.ygoprodeck.com/card/?search=Royal%20Command)
+- [Royal Decree](db.ygoprodeck.com/card/?search=Royal%20Decree)
+- [Royal Firestorm Guards](db.ygoprodeck.com/card/?search=Royal%20Firestorm%20Guards)
+- [Royal Keeper](db.ygoprodeck.com/card/?search=Royal%20Keeper)
+- [Royal Knight](db.ygoprodeck.com/card/?search=Royal%20Knight)
+- [Royal Magical Library](db.ygoprodeck.com/card/?search=Royal%20Magical%20Library)
+- [Royal Penguins Garden](db.ygoprodeck.com/card/?search=Royal%20Penguins%20Garden)
+- [Royal Tribute](db.ygoprodeck.com/card/?search=Royal%20Tribute)
+- [Royal Writ of Taxation](db.ygoprodeck.com/card/?search=Royal%20Writ%20of%20Taxation)
+- [Rude Kaiser](db.ygoprodeck.com/card/?search=Rude%20Kaiser)
+- [Ruffian Railcar](db.ygoprodeck.com/card/?search=Ruffian%20Railcar)
+- [Ruin, Angel of Oblivion](db.ygoprodeck.com/card/?search=Ruin,%20Angel%20of%20Oblivion)
+- [Ruin, Queen of Oblivion](db.ygoprodeck.com/card/?search=Ruin,%20Queen%20of%20Oblivion)
+- [Ruins of the Divine Dragon Lords](db.ygoprodeck.com/card/?search=Ruins%20of%20the%20Divine%20Dragon%20Lords)
+- [Runaway Karakuri](db.ygoprodeck.com/card/?search=Runaway%20Karakuri)
+- [Rune-Eyes Pendulum Dragon](db.ygoprodeck.com/card/?search=Rune-Eyes%20Pendulum%20Dragon)
+- [Rush Recklessly](db.ygoprodeck.com/card/?search=Rush%20Recklessly)
+- [Rush Warrior](db.ygoprodeck.com/card/?search=Rush%20Warrior)
+- [Ryko, Lightsworn Hunter](db.ygoprodeck.com/card/?search=Ryko,%20Lightsworn%20Hunter)
+- [Ryu Kokki](db.ygoprodeck.com/card/?search=Ryu%20Kokki)
+- [Ryu Okami](db.ygoprodeck.com/card/?search=Ryu%20Okami)
+- [Ryu Senshi](db.ygoprodeck.com/card/?search=Ryu%20Senshi)
+- [Ryu-Kishin](db.ygoprodeck.com/card/?search=Ryu-Kishin)
+- [Ryu-Kishin Clown](db.ygoprodeck.com/card/?search=Ryu-Kishin%20Clown)
+- [Ryu-Kishin Powered](db.ygoprodeck.com/card/?search=Ryu-Kishin%20Powered)
+- [Ryu-Ran](db.ygoprodeck.com/card/?search=Ryu-Ran)
+- [S-Force Dog Tag](db.ygoprodeck.com/card/?search=S-Force%20Dog%20Tag)
+- [S-Force Professor DiGamma](db.ygoprodeck.com/card/?search=S-Force%20Professor%20DiGamma)
+- [S-Force Showdown](db.ygoprodeck.com/card/?search=S-Force%20Showdown)
+- [S-Force Specimen](db.ygoprodeck.com/card/?search=S-Force%20Specimen)
+- [Saambell the Star Bonder](db.ygoprodeck.com/card/?search=Saambell%20the%20Star%20Bonder)
+- [Saambell the Summoner](db.ygoprodeck.com/card/?search=Saambell%20the%20Summoner)
+- [Sabatiel - The Philosopher's Stone](db.ygoprodeck.com/card/?search=Sabatiel%20-%20The%20Philosopher's%20Stone)
+- [Saber Beetle](db.ygoprodeck.com/card/?search=Saber%20Beetle)
+- [Sabersaurus](db.ygoprodeck.com/card/?search=Sabersaurus)
+- [Sacred Crane](db.ygoprodeck.com/card/?search=Sacred%20Crane)
+- [Sacred Phoenix of Nephthys](db.ygoprodeck.com/card/?search=Sacred%20Phoenix%20of%20Nephthys)
+- [Sacred Serpent's Wake](db.ygoprodeck.com/card/?search=Sacred%20Serpent's%20Wake)
+- [Sacred Spirit of the Ice Barrier](db.ygoprodeck.com/card/?search=Sacred%20Spirit%20of%20the%20Ice%20Barrier)
+- [Sacred Sword of Seven Stars](db.ygoprodeck.com/card/?search=Sacred%20Sword%20of%20Seven%20Stars)
+- [Safe Zone](db.ygoprodeck.com/card/?search=Safe%20Zone)
+- [Sage of Stillness](db.ygoprodeck.com/card/?search=Sage%20of%20Stillness)
+- [Sage's Stone](db.ygoprodeck.com/card/?search=Sage's%20Stone)
+- [Saggi the Dark Clown](db.ygoprodeck.com/card/?search=Saggi%20the%20Dark%20Clown)
+- [Sagitta, Maverick Fur Hire](db.ygoprodeck.com/card/?search=Sagitta,%20Maverick%20Fur%20Hire)
+- [Sakuretsu Armor](db.ygoprodeck.com/card/?search=Sakuretsu%20Armor)
+- [Salamandra](db.ygoprodeck.com/card/?search=Salamandra)
+- [Salamangreat Beat Bison](db.ygoprodeck.com/card/?search=Salamangreat%20Beat%20Bison)
+- [Salamangreat Burning Shell](db.ygoprodeck.com/card/?search=Salamangreat%20Burning%20Shell)
+- [Salamangreat Claw](db.ygoprodeck.com/card/?search=Salamangreat%20Claw)
+- [Salamangreat Emerald Eagle](db.ygoprodeck.com/card/?search=Salamangreat%20Emerald%20Eagle)
+- [Salamangreat Falco](db.ygoprodeck.com/card/?search=Salamangreat%20Falco)
+- [Salamangreat Fennec](db.ygoprodeck.com/card/?search=Salamangreat%20Fennec)
+- [Salamangreat Fowl](db.ygoprodeck.com/card/?search=Salamangreat%20Fowl)
+- [Salamangreat Foxer](db.ygoprodeck.com/card/?search=Salamangreat%20Foxer)
+- [Salamangreat Foxy](db.ygoprodeck.com/card/?search=Salamangreat%20Foxy)
+- [Salamangreat Gift](db.ygoprodeck.com/card/?search=Salamangreat%20Gift)
+- [Salamangreat Heatleo](db.ygoprodeck.com/card/?search=Salamangreat%20Heatleo)
+- [Salamangreat Jack Jaguar](db.ygoprodeck.com/card/?search=Salamangreat%20Jack%20Jaguar)
+- [Salamangreat Meer](db.ygoprodeck.com/card/?search=Salamangreat%20Meer)
+- [Salamangreat Mole](db.ygoprodeck.com/card/?search=Salamangreat%20Mole)
+- [Salamangreat Parro](db.ygoprodeck.com/card/?search=Salamangreat%20Parro)
+- [Salamangreat Raccoon](db.ygoprodeck.com/card/?search=Salamangreat%20Raccoon)
+- [Salamangreat Rage](db.ygoprodeck.com/card/?search=Salamangreat%20Rage)
+- [Salamangreat Recureance](db.ygoprodeck.com/card/?search=Salamangreat%20Recureance)
+- [Salamangreat Sanctuary](db.ygoprodeck.com/card/?search=Salamangreat%20Sanctuary)
+- [Salamangreat Sunlight Wolf](db.ygoprodeck.com/card/?search=Salamangreat%20Sunlight%20Wolf)
+- [Salamangreat Transcendence](db.ygoprodeck.com/card/?search=Salamangreat%20Transcendence)
+- [Salamangreat Violet Chimera](db.ygoprodeck.com/card/?search=Salamangreat%20Violet%20Chimera)
+- [Salamangreat Wolvie](db.ygoprodeck.com/card/?search=Salamangreat%20Wolvie)
+- [Salamangreat Zebroid X](db.ygoprodeck.com/card/?search=Salamangreat%20Zebroid%20X)
+- [Salvage](db.ygoprodeck.com/card/?search=Salvage)
+- [Salvagent Driver](db.ygoprodeck.com/card/?search=Salvagent%20Driver)
+- [Samsara](db.ygoprodeck.com/card/?search=Samsara)
+- [Samsara Kaiser](db.ygoprodeck.com/card/?search=Samsara%20Kaiser)
+- [Samurai of the Ice Barrier](db.ygoprodeck.com/card/?search=Samurai%20of%20the%20Ice%20Barrier)
+- [Samurai Skull](db.ygoprodeck.com/card/?search=Samurai%20Skull)
+- [Sand Gambler](db.ygoprodeck.com/card/?search=Sand%20Gambler)
+- [Sand Moth](db.ygoprodeck.com/card/?search=Sand%20Moth)
+- [Sand Stone](db.ygoprodeck.com/card/?search=Sand%20Stone)
+- [Sanga of the Thunder](db.ygoprodeck.com/card/?search=Sanga%20of%20the%20Thunder)
+- [Sangan](db.ygoprodeck.com/card/?search=Sangan)
+- [Sanguine Swamp](db.ygoprodeck.com/card/?search=Sanguine%20Swamp)
+- [Sanwitch](db.ygoprodeck.com/card/?search=Sanwitch)
+- [Sargasso Lighthouse](db.ygoprodeck.com/card/?search=Sargasso%20Lighthouse)
+- [Sargasso the D.D. Battlefield](db.ygoprodeck.com/card/?search=Sargasso%20the%20D.D.%20Battlefield)
+- [Saryuja's Shackles](db.ygoprodeck.com/card/?search=Saryuja's%20Shackles)
+- [Sasuke Samurai](db.ygoprodeck.com/card/?search=Sasuke%20Samurai)
+- [Sasuke Samurai #2](db.ygoprodeck.com/card/?search=Sasuke%20Samurai%20#2)
+- [Sasuke Samurai #3](db.ygoprodeck.com/card/?search=Sasuke%20Samurai%20#3)
+- [Satellarknight Betelgeuse](db.ygoprodeck.com/card/?search=Satellarknight%20Betelgeuse)
+- [Satellarknight Capella](db.ygoprodeck.com/card/?search=Satellarknight%20Capella)
+- [Satellarknight Procyon](db.ygoprodeck.com/card/?search=Satellarknight%20Procyon)
+- [Satellarknight Unukalhai](db.ygoprodeck.com/card/?search=Satellarknight%20Unukalhai)
+- [Satellarknight Vega](db.ygoprodeck.com/card/?search=Satellarknight%20Vega)
+- [Satellite Cannon](db.ygoprodeck.com/card/?search=Satellite%20Cannon)
+- [Sauropod Brachion](db.ygoprodeck.com/card/?search=Sauropod%20Brachion)
+- [Savage Colosseum](db.ygoprodeck.com/card/?search=Savage%20Colosseum)
+- [Scapeghost](db.ygoprodeck.com/card/?search=Scapeghost)
+- [Scarlet Security](db.ygoprodeck.com/card/?search=Scarlet%20Security)
+- [Scarr, Scout of Dark World](db.ygoprodeck.com/card/?search=Scarr,%20Scout%20of%20Dark%20World)
+- [Scary Moth](db.ygoprodeck.com/card/?search=Scary%20Moth)
+- [Schuberta the Melodious Maestra](db.ygoprodeck.com/card/?search=Schuberta%20the%20Melodious%20Maestra)
+- [Schwarzschild Limit Dragon](db.ygoprodeck.com/card/?search=Schwarzschild%20Limit%20Dragon)
+- [Science Soldier](db.ygoprodeck.com/card/?search=Science%20Soldier)
+- [Score the Melodious Diva](db.ygoprodeck.com/card/?search=Score%20the%20Melodious%20Diva)
+- [Scramble Egg](db.ygoprodeck.com/card/?search=Scramble%20Egg)
+- [Scrap Archfiend](db.ygoprodeck.com/card/?search=Scrap%20Archfiend)
+- [Scrap Beast](db.ygoprodeck.com/card/?search=Scrap%20Beast)
+- [Scrap Breaker](db.ygoprodeck.com/card/?search=Scrap%20Breaker)
+- [Scrap Chimera](db.ygoprodeck.com/card/?search=Scrap%20Chimera)
+- [Scrap Crash](db.ygoprodeck.com/card/?search=Scrap%20Crash)
+- [Scrap Dragon](db.ygoprodeck.com/card/?search=Scrap%20Dragon)
+- [Scrap Factory](db.ygoprodeck.com/card/?search=Scrap%20Factory)
+- [Scrap Goblin](db.ygoprodeck.com/card/?search=Scrap%20Goblin)
+- [Scrap Golem](db.ygoprodeck.com/card/?search=Scrap%20Golem)
+- [Scrap Kong](db.ygoprodeck.com/card/?search=Scrap%20Kong)
+- [Scrap Lube](db.ygoprodeck.com/card/?search=Scrap%20Lube)
+- [Scrap Orthros](db.ygoprodeck.com/card/?search=Scrap%20Orthros)
+- [Scrap Rage](db.ygoprodeck.com/card/?search=Scrap%20Rage)
+- [Scrap Raptor](db.ygoprodeck.com/card/?search=Scrap%20Raptor)
+- [Scrap Recycler](db.ygoprodeck.com/card/?search=Scrap%20Recycler)
+- [Scrap Searcher](db.ygoprodeck.com/card/?search=Scrap%20Searcher)
+- [Scrap Shark](db.ygoprodeck.com/card/?search=Scrap%20Shark)
+- [Scrap Sheen](db.ygoprodeck.com/card/?search=Scrap%20Sheen)
+- [Scrap Soldier](db.ygoprodeck.com/card/?search=Scrap%20Soldier)
+- [Scrap Worm](db.ygoprodeck.com/card/?search=Scrap%20Worm)
+- [Scrap-Iron Scarecrow](db.ygoprodeck.com/card/?search=Scrap-Iron%20Scarecrow)
+- [Scrap-Iron Statue](db.ygoprodeck.com/card/?search=Scrap-Iron%20Statue)
+- [Scrapstorm](db.ygoprodeck.com/card/?search=Scrapstorm)
+- [Scrapyard](db.ygoprodeck.com/card/?search=Scrapyard)
+- [Screams of the Branded](db.ygoprodeck.com/card/?search=Screams%20of%20the%20Branded)
+- [Scroll of Bewitchment](db.ygoprodeck.com/card/?search=Scroll%20of%20Bewitchment)
+- [Scrounging Goblin](db.ygoprodeck.com/card/?search=Scrounging%20Goblin)
+- [Scrum Force](db.ygoprodeck.com/card/?search=Scrum%20Force)
+- [Sea Archiver](db.ygoprodeck.com/card/?search=Sea%20Archiver)
+- [Sea Kamen](db.ygoprodeck.com/card/?search=Sea%20Kamen)
+- [Sea Koala](db.ygoprodeck.com/card/?search=Sea%20Koala)
+- [Sea Serpent Warrior of Darkness](db.ygoprodeck.com/card/?search=Sea%20Serpent%20Warrior%20of%20Darkness)
+- [Sea Stealth Attack](db.ygoprodeck.com/card/?search=Sea%20Stealth%20Attack)
+- [Seal, Strategist Fur Hire](db.ygoprodeck.com/card/?search=Seal,%20Strategist%20Fur%20Hire)
+- [Sealing Ceremony of Katon](db.ygoprodeck.com/card/?search=Sealing%20Ceremony%20of%20Katon)
+- [Sealing Ceremony of Mokuton](db.ygoprodeck.com/card/?search=Sealing%20Ceremony%20of%20Mokuton)
+- [Sealing Ceremony of Raiton](db.ygoprodeck.com/card/?search=Sealing%20Ceremony%20of%20Raiton)
+- [Sealing Ceremony of Suiton](db.ygoprodeck.com/card/?search=Sealing%20Ceremony%20of%20Suiton)
+- [Sealmaster Meisei](db.ygoprodeck.com/card/?search=Sealmaster%20Meisei)
+- [Searchlightman](db.ygoprodeck.com/card/?search=Searchlightman)
+- [Searing Fire Wall](db.ygoprodeck.com/card/?search=Searing%20Fire%20Wall)
+- [Sebek's Blessing](db.ygoprodeck.com/card/?search=Sebek's%20Blessing)
+- [Second Booster](db.ygoprodeck.com/card/?search=Second%20Booster)
+- [Second Coin Toss](db.ygoprodeck.com/card/?search=Second%20Coin%20Toss)
+- [Second Goblin](db.ygoprodeck.com/card/?search=Second%20Goblin)
+- [Secret Barrel](db.ygoprodeck.com/card/?search=Secret%20Barrel)
+- [Secret Blast](db.ygoprodeck.com/card/?search=Secret%20Blast)
+- [Secret Guards of the Ice Barrier](db.ygoprodeck.com/card/?search=Secret%20Guards%20of%20the%20Ice%20Barrier)
+- [Secret Pass to the Treasures](db.ygoprodeck.com/card/?search=Secret%20Pass%20to%20the%20Treasures)
+- [Secret Sect Druid Dru](db.ygoprodeck.com/card/?search=Secret%20Sect%20Druid%20Dru)
+- [Secret Sect Druid Wid](db.ygoprodeck.com/card/?search=Secret%20Sect%20Druid%20Wid)
+- [Secret Village of the Spellcasters](db.ygoprodeck.com/card/?search=Secret%20Village%20of%20the%20Spellcasters)
+- [Secrets of the Gallant](db.ygoprodeck.com/card/?search=Secrets%20of%20the%20Gallant)
+- [Sectarian of Secrets](db.ygoprodeck.com/card/?search=Sectarian%20of%20Secrets)
+- [Secure Gardna](db.ygoprodeck.com/card/?search=Secure%20Gardna)
+- [Security Block](db.ygoprodeck.com/card/?search=Security%20Block)
+- [Security Orb](db.ygoprodeck.com/card/?search=Security%20Orb)
+- [Seed Cannon](db.ygoprodeck.com/card/?search=Seed%20Cannon)
+- [Seed of Deception](db.ygoprodeck.com/card/?search=Seed%20of%20Deception)
+- [Seed of Flame](db.ygoprodeck.com/card/?search=Seed%20of%20Flame)
+- [Seismic Crasher](db.ygoprodeck.com/card/?search=Seismic%20Crasher)
+- [Seismic Shockwave](db.ygoprodeck.com/card/?search=Seismic%20Shockwave)
+- [Seiyaryu](db.ygoprodeck.com/card/?search=Seiyaryu)
+- [Self-Destruct Ant](db.ygoprodeck.com/card/?search=Self-Destruct%20Ant)
+- [Self-Mummification](db.ygoprodeck.com/card/?search=Self-Mummification)
+- [Senet Switch](db.ygoprodeck.com/card/?search=Senet%20Switch)
+- [Senior Silver Ninja](db.ygoprodeck.com/card/?search=Senior%20Silver%20Ninja)
+- [Senju of the Thousand Hands](db.ygoprodeck.com/card/?search=Senju%20of%20the%20Thousand%20Hands)
+- [Senri Eye](db.ygoprodeck.com/card/?search=Senri%20Eye)
+- [Sentinel of the Seas](db.ygoprodeck.com/card/?search=Sentinel%20of%20the%20Seas)
+- [Seraphim Papillion](db.ygoprodeck.com/card/?search=Seraphim%20Papillion)
+- [Serenade the Melodious Diva](db.ygoprodeck.com/card/?search=Serenade%20the%20Melodious%20Diva)
+- [Serene Psychic Witch](db.ygoprodeck.com/card/?search=Serene%20Psychic%20Witch)
+- [Sergeant Electro](db.ygoprodeck.com/card/?search=Sergeant%20Electro)
+- [Serpent Night Dragon](db.ygoprodeck.com/card/?search=Serpent%20Night%20Dragon)
+- [Serpent Suppression](db.ygoprodeck.com/card/?search=Serpent%20Suppression)
+- [Serpentine Princess](db.ygoprodeck.com/card/?search=Serpentine%20Princess)
+- [Servant of Catabolism](db.ygoprodeck.com/card/?search=Servant%20of%20Catabolism)
+- [Setuppercut](db.ygoprodeck.com/card/?search=Setuppercut)
+- [Seven Swords Warrior](db.ygoprodeck.com/card/?search=Seven%20Swords%20Warrior)
+- [Seven Tools of the Bandit](db.ygoprodeck.com/card/?search=Seven%20Tools%20of%20the%20Bandit)
+- [Sextet Summon](db.ygoprodeck.com/card/?search=Sextet%20Summon)
+- [Shaddoll Beast](db.ygoprodeck.com/card/?search=Shaddoll%20Beast)
+- [Shaddoll Construct](db.ygoprodeck.com/card/?search=Shaddoll%20Construct)
+- [Shaddoll Core](db.ygoprodeck.com/card/?search=Shaddoll%20Core)
+- [Shaddoll Dragon](db.ygoprodeck.com/card/?search=Shaddoll%20Dragon)
+- [Shaddoll Falco](db.ygoprodeck.com/card/?search=Shaddoll%20Falco)
+- [Shaddoll Hedgehog](db.ygoprodeck.com/card/?search=Shaddoll%20Hedgehog)
+- [Shaddoll Hound](db.ygoprodeck.com/card/?search=Shaddoll%20Hound)
+- [Shaddoll Squamata](db.ygoprodeck.com/card/?search=Shaddoll%20Squamata)
+- [Shaddoll Zefracore](db.ygoprodeck.com/card/?search=Shaddoll%20Zefracore)
+- [Shaddoll Zefranaga](db.ygoprodeck.com/card/?search=Shaddoll%20Zefranaga)
+- [Shadow Delver](db.ygoprodeck.com/card/?search=Shadow%20Delver)
+- [Shadow Ghoul](db.ygoprodeck.com/card/?search=Shadow%20Ghoul)
+- [Shadow Impulse](db.ygoprodeck.com/card/?search=Shadow%20Impulse)
+- [Shadow of Eyes](db.ygoprodeck.com/card/?search=Shadow%20of%20Eyes)
+- [Shadow Reborn](db.ygoprodeck.com/card/?search=Shadow%20Reborn)
+- [Shadow Specter](db.ygoprodeck.com/card/?search=Shadow%20Specter)
+- [Shadow Spell](db.ygoprodeck.com/card/?search=Shadow%20Spell)
+- [Shadow Tamer](db.ygoprodeck.com/card/?search=Shadow%20Tamer)
+- [Shadow Vampire](db.ygoprodeck.com/card/?search=Shadow%20Vampire)
+- [Shadow-Imprisoning Mirror](db.ygoprodeck.com/card/?search=Shadow-Imprisoning%20Mirror)
+- [Shadowknight Archfiend](db.ygoprodeck.com/card/?search=Shadowknight%20Archfiend)
+- [Shadowslayer](db.ygoprodeck.com/card/?search=Shadowslayer)
+- [Shaman of the Tenyi](db.ygoprodeck.com/card/?search=Shaman%20of%20the%20Tenyi)
+- [Shapesister](db.ygoprodeck.com/card/?search=Shapesister)
+- [Shapesnatch](db.ygoprodeck.com/card/?search=Shapesnatch)
+- [Shard of Greed](db.ygoprodeck.com/card/?search=Shard%20of%20Greed)
+- [Share the Pain](db.ygoprodeck.com/card/?search=Share%20the%20Pain)
+- [Shared Ride](db.ygoprodeck.com/card/?search=Shared%20Ride)
+- [Shark Caesar](db.ygoprodeck.com/card/?search=Shark%20Caesar)
+- [Shark Cruiser](db.ygoprodeck.com/card/?search=Shark%20Cruiser)
+- [Shark Fortress](db.ygoprodeck.com/card/?search=Shark%20Fortress)
+- [Shark Stickers](db.ygoprodeck.com/card/?search=Shark%20Stickers)
+- [Sharkraken](db.ygoprodeck.com/card/?search=Sharkraken)
+- [Shattered Axe](db.ygoprodeck.com/card/?search=Shattered%20Axe)
+- [Sheep Token](db.ygoprodeck.com/card/?search=Sheep%20Token)
+- [Shelrokket Dragon](db.ygoprodeck.com/card/?search=Shelrokket%20Dragon)
+- [Shield & Sword](db.ygoprodeck.com/card/?search=Shield%20&%20Sword)
+- [Shield Crush](db.ygoprodeck.com/card/?search=Shield%20Crush)
+- [Shield Handler](db.ygoprodeck.com/card/?search=Shield%20Handler)
+- [Shield Spear](db.ygoprodeck.com/card/?search=Shield%20Spear)
+- [Shield Warrior](db.ygoprodeck.com/card/?search=Shield%20Warrior)
+- [Shield Wing](db.ygoprodeck.com/card/?search=Shield%20Wing)
+- [Shien's Advisor](db.ygoprodeck.com/card/?search=Shien's%20Advisor)
+- [Shien's Castle of Mist](db.ygoprodeck.com/card/?search=Shien's%20Castle%20of%20Mist)
+- [Shien's Daredevil](db.ygoprodeck.com/card/?search=Shien's%20Daredevil)
+- [Shien's Dojo](db.ygoprodeck.com/card/?search=Shien's%20Dojo)
+- [Shien's Footsoldier](db.ygoprodeck.com/card/?search=Shien's%20Footsoldier)
+- [Shien's Scheme](db.ygoprodeck.com/card/?search=Shien's%20Scheme)
+- [Shien's Spy](db.ygoprodeck.com/card/?search=Shien's%20Spy)
+- [Shien's Squire](db.ygoprodeck.com/card/?search=Shien's%20Squire)
+- [Shift](db.ygoprodeck.com/card/?search=Shift)
+- [Shifting Shadows](db.ygoprodeck.com/card/?search=Shifting%20Shadows)
+- [Shinato's Ark](db.ygoprodeck.com/card/?search=Shinato's%20Ark)
+- [Shine Knight](db.ygoprodeck.com/card/?search=Shine%20Knight)
+- [Shining Abyss](db.ygoprodeck.com/card/?search=Shining%20Abyss)
+- [Shining Angel](db.ygoprodeck.com/card/?search=Shining%20Angel)
+- [Shining Elf](db.ygoprodeck.com/card/?search=Shining%20Elf)
+- [Shining Friendship](db.ygoprodeck.com/card/?search=Shining%20Friendship)
+- [Shinobi Insect Hagakuremino](db.ygoprodeck.com/card/?search=Shinobi%20Insect%20Hagakuremino)
+- [Shinobi Necro](db.ygoprodeck.com/card/?search=Shinobi%20Necro)
+- [Shinobird Crane](db.ygoprodeck.com/card/?search=Shinobird%20Crane)
+- [Shinobird Crow](db.ygoprodeck.com/card/?search=Shinobird%20Crow)
+- [Shinobird Pigeon](db.ygoprodeck.com/card/?search=Shinobird%20Pigeon)
+- [Shinobird Power Spot](db.ygoprodeck.com/card/?search=Shinobird%20Power%20Spot)
+- [Shinobird Salvation](db.ygoprodeck.com/card/?search=Shinobird%20Salvation)
+- [Shinobird's Calling](db.ygoprodeck.com/card/?search=Shinobird's%20Calling)
+- [Shiny Black "C"](db.ygoprodeck.com/card/?search=Shiny%20Black%20"C")
+- [Shiny Black "C" Squadder](db.ygoprodeck.com/card/?search=Shiny%20Black%20"C"%20Squadder)
+- [Shiranui Samurai](db.ygoprodeck.com/card/?search=Shiranui%20Samurai)
+- [Shiranui Samuraisaga](db.ygoprodeck.com/card/?search=Shiranui%20Samuraisaga)
+- [Shiranui Smith](db.ygoprodeck.com/card/?search=Shiranui%20Smith)
+- [Shiranui Solitaire](db.ygoprodeck.com/card/?search=Shiranui%20Solitaire)
+- [Shiranui Spiritmaster](db.ygoprodeck.com/card/?search=Shiranui%20Spiritmaster)
+- [Shiranui Squiresaga](db.ygoprodeck.com/card/?search=Shiranui%20Squiresaga)
+- [Shiranui Style Samsara](db.ygoprodeck.com/card/?search=Shiranui%20Style%20Samsara)
+- [Shiranui Style Solemnity](db.ygoprodeck.com/card/?search=Shiranui%20Style%20Solemnity)
+- [Shiranui Style Success](db.ygoprodeck.com/card/?search=Shiranui%20Style%20Success)
+- [Shiranui Style Swallow's Slash](db.ygoprodeck.com/card/?search=Shiranui%20Style%20Swallow's%20Slash)
+- [Shiranui Style Synthesis](db.ygoprodeck.com/card/?search=Shiranui%20Style%20Synthesis)
+- [Shiranui Swordmaster](db.ygoprodeck.com/card/?search=Shiranui%20Swordmaster)
+- [Shiranui Swordsaga](db.ygoprodeck.com/card/?search=Shiranui%20Swordsaga)
+- [Shire, Lightsworn Spirit](db.ygoprodeck.com/card/?search=Shire,%20Lightsworn%20Spirit)
+- [Shock Troops of the Ice Barrier](db.ygoprodeck.com/card/?search=Shock%20Troops%20of%20the%20Ice%20Barrier)
+- [Shocktopus](db.ygoprodeck.com/card/?search=Shocktopus)
+- [Shogi Knight](db.ygoprodeck.com/card/?search=Shogi%20Knight)
+- [Shogi Lance](db.ygoprodeck.com/card/?search=Shogi%20Lance)
+- [Shooting Star](db.ygoprodeck.com/card/?search=Shooting%20Star)
+- [Shooting Star Bow - Ceal](db.ygoprodeck.com/card/?search=Shooting%20Star%20Bow%20-%20Ceal)
+- [Shore Knight](db.ygoprodeck.com/card/?search=Shore%20Knight)
+- [Short Circuit](db.ygoprodeck.com/card/?search=Short%20Circuit)
+- [Shovel Crusher](db.ygoprodeck.com/card/?search=Shovel%20Crusher)
+- [Showdown of the Secret Sense Scroll Techniques](db.ygoprodeck.com/card/?search=Showdown%20of%20the%20Secret%20Sense%20Scroll%20Techniques)
+- [Shreddder](db.ygoprodeck.com/card/?search=Shreddder)
+- [Shrine of Mist Valley](db.ygoprodeck.com/card/?search=Shrine%20of%20Mist%20Valley)
+- [Shrink](db.ygoprodeck.com/card/?search=Shrink)
+- [Shuffle Reborn](db.ygoprodeck.com/card/?search=Shuffle%20Reborn)
+- [Shutendoji](db.ygoprodeck.com/card/?search=Shutendoji)
+- [Side Effects?](db.ygoprodeck.com/card/?search=Side%20Effects?)
+- [Silent Abyss](db.ygoprodeck.com/card/?search=Silent%20Abyss)
+- [Silent Angler](db.ygoprodeck.com/card/?search=Silent%20Angler)
+- [Silent Doom](db.ygoprodeck.com/card/?search=Silent%20Doom)
+- [Silent Graveyard](db.ygoprodeck.com/card/?search=Silent%20Graveyard)
+- [Silent Insect](db.ygoprodeck.com/card/?search=Silent%20Insect)
+- [Silent Magician LV4](db.ygoprodeck.com/card/?search=Silent%20Magician%20LV4)
+- [Silent Magician LV8](db.ygoprodeck.com/card/?search=Silent%20Magician%20LV8)
+- [Silent Psychic Wizard](db.ygoprodeck.com/card/?search=Silent%20Psychic%20Wizard)
+- [Silent Strider](db.ygoprodeck.com/card/?search=Silent%20Strider)
+- [Silent Swordsman LV3](db.ygoprodeck.com/card/?search=Silent%20Swordsman%20LV3)
+- [Silent Swordsman LV5](db.ygoprodeck.com/card/?search=Silent%20Swordsman%20LV5)
+- [Silent Swordsman LV7](db.ygoprodeck.com/card/?search=Silent%20Swordsman%20LV7)
+- [Sillva, Warlord of Dark World](db.ygoprodeck.com/card/?search=Sillva,%20Warlord%20of%20Dark%20World)
+- [Silpheed](db.ygoprodeck.com/card/?search=Silpheed)
+- [Silver Bow and Arrow](db.ygoprodeck.com/card/?search=Silver%20Bow%20and%20Arrow)
+- [Silver Fang](db.ygoprodeck.com/card/?search=Silver%20Fang)
+- [Silver Wing](db.ygoprodeck.com/card/?search=Silver%20Wing)
+- [Silver's Cry](db.ygoprodeck.com/card/?search=Silver's%20Cry)
+- [SIMM Tablir](db.ygoprodeck.com/card/?search=SIMM%20Tablir)
+- [Simorgh Onslaught](db.ygoprodeck.com/card/?search=Simorgh%20Onslaught)
+- [Simorgh Repulsion](db.ygoprodeck.com/card/?search=Simorgh%20Repulsion)
+- [Simorgh Sky Battle](db.ygoprodeck.com/card/?search=Simorgh%20Sky%20Battle)
+- [Simorgh, Bird of Beginning](db.ygoprodeck.com/card/?search=Simorgh,%20Bird%20of%20Beginning)
+- [Simorgh, Bird of Calamity](db.ygoprodeck.com/card/?search=Simorgh,%20Bird%20of%20Calamity)
+- [Simorgh, Bird of Protection](db.ygoprodeck.com/card/?search=Simorgh,%20Bird%20of%20Protection)
+- [Simultaneous Loss](db.ygoprodeck.com/card/?search=Simultaneous%20Loss)
+- [Single Purchase](db.ygoprodeck.com/card/?search=Single%20Purchase)
+- [Sinister Seeds](db.ygoprodeck.com/card/?search=Sinister%20Seeds)
+- [Sinister Serpent](db.ygoprodeck.com/card/?search=Sinister%20Serpent)
+- [Sinister Shadow Games](db.ygoprodeck.com/card/?search=Sinister%20Shadow%20Games)
+- [Sinister Yorishiro](db.ygoprodeck.com/card/?search=Sinister%20Yorishiro)
+- [Sirenorca](db.ygoprodeck.com/card/?search=Sirenorca)
+- [Six Samurai United](db.ygoprodeck.com/card/?search=Six%20Samurai%20United)
+- [Six Scrolls of the Samurai](db.ygoprodeck.com/card/?search=Six%20Scrolls%20of%20the%20Samurai)
+- [Six Strike - Thunder Blast](db.ygoprodeck.com/card/?search=Six%20Strike%20-%20Thunder%20Blast)
+- [Six Strike - Triple Impact](db.ygoprodeck.com/card/?search=Six%20Strike%20-%20Triple%20Impact)
+- [Six Style - Dual Wield](db.ygoprodeck.com/card/?search=Six%20Style%20-%20Dual%20Wield)
+- [Skelengel](db.ygoprodeck.com/card/?search=Skelengel)
+- [Skelesaurus](db.ygoprodeck.com/card/?search=Skelesaurus)
+- [Skelgon](db.ygoprodeck.com/card/?search=Skelgon)
+- [Skill Successor](db.ygoprodeck.com/card/?search=Skill%20Successor)
+- [Skilled Blue Magician](db.ygoprodeck.com/card/?search=Skilled%20Blue%20Magician)
+- [Skilled Dark Magician](db.ygoprodeck.com/card/?search=Skilled%20Dark%20Magician)
+- [Skilled Red Magician](db.ygoprodeck.com/card/?search=Skilled%20Red%20Magician)
+- [Skilled White Magician](db.ygoprodeck.com/card/?search=Skilled%20White%20Magician)
+- [Skreech](db.ygoprodeck.com/card/?search=Skreech)
+- [Skull Conductor](db.ygoprodeck.com/card/?search=Skull%20Conductor)
+- [Skull Dice](db.ygoprodeck.com/card/?search=Skull%20Dice)
+- [Skull Dog Marron](db.ygoprodeck.com/card/?search=Skull%20Dog%20Marron)
+- [Skull Invitation](db.ygoprodeck.com/card/?search=Skull%20Invitation)
+- [Skull Knight](db.ygoprodeck.com/card/?search=Skull%20Knight)
+- [Skull Knight #2](db.ygoprodeck.com/card/?search=Skull%20Knight%20#2)
+- [Skull Kraken](db.ygoprodeck.com/card/?search=Skull%20Kraken)
+- [Skull Lair](db.ygoprodeck.com/card/?search=Skull%20Lair)
+- [Skull Mariner](db.ygoprodeck.com/card/?search=Skull%20Mariner)
+- [Skull Meister](db.ygoprodeck.com/card/?search=Skull%20Meister)
+- [Skull Red Bird](db.ygoprodeck.com/card/?search=Skull%20Red%20Bird)
+- [Skull Servant](db.ygoprodeck.com/card/?search=Skull%20Servant)
+- [Skull Stalker](db.ygoprodeck.com/card/?search=Skull%20Stalker)
+- [Skull-Mark Ladybug](db.ygoprodeck.com/card/?search=Skull-Mark%20Ladybug)
+- [Skullbird](db.ygoprodeck.com/card/?search=Skullbird)
+- [Sky Dragon](db.ygoprodeck.com/card/?search=Sky%20Dragon)
+- [Sky Iris](db.ygoprodeck.com/card/?search=Sky%20Iris)
+- [Sky Scourge Cidhels](db.ygoprodeck.com/card/?search=Sky%20Scourge%20Cidhels)
+- [Sky Scout](db.ygoprodeck.com/card/?search=Sky%20Scout)
+- [Sky Striker Airspace - Area Zero](db.ygoprodeck.com/card/?search=Sky%20Striker%20Airspace%20-%20Area%20Zero)
+- [Sky Striker Maneuver - Jamming Waves!](db.ygoprodeck.com/card/?search=Sky%20Striker%20Maneuver%20-%20Jamming%20Waves!)
+- [Sky Striker Mecha - Eagle Booster](db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20-%20Eagle%20Booster)
+- [Sky Striker Mecha - Shark Cannon](db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20-%20Shark%20Cannon)
+- [Sky Striker Mecharmory - Hercules Base](db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecharmory%20-%20Hercules%20Base)
+- [Skyscraper](db.ygoprodeck.com/card/?search=Skyscraper)
+- [Skystarray](db.ygoprodeck.com/card/?search=Skystarray)
+- [Slate Warrior](db.ygoprodeck.com/card/?search=Slate%20Warrior)
+- [Sleeping Lion](db.ygoprodeck.com/card/?search=Sleeping%20Lion)
+- [Slime Toad](db.ygoprodeck.com/card/?search=Slime%20Toad)
+- [Slip of Fortune](db.ygoprodeck.com/card/?search=Slip%20of%20Fortune)
+- [Slip Summon](db.ygoprodeck.com/card/?search=Slip%20Summon)
+- [Slot Machine](db.ygoprodeck.com/card/?search=Slot%20Machine)
+- [Slower Swallow](db.ygoprodeck.com/card/?search=Slower%20Swallow)
+- [Slushy](db.ygoprodeck.com/card/?search=Slushy)
+- [Small Piece Golem](db.ygoprodeck.com/card/?search=Small%20Piece%20Golem)
+- [Smashing Ground](db.ygoprodeck.com/card/?search=Smashing%20Ground)
+- [Smile Action](db.ygoprodeck.com/card/?search=Smile%20Action)
+- [Smile Universe](db.ygoprodeck.com/card/?search=Smile%20Universe)
+- [Smile World](db.ygoprodeck.com/card/?search=Smile%20World)
+- [Snake Fang](db.ygoprodeck.com/card/?search=Snake%20Fang)
+- [Snake Whistle](db.ygoprodeck.com/card/?search=Snake%20Whistle)
+- [Snakeyashi](db.ygoprodeck.com/card/?search=Snakeyashi)
+- [Snapdragon](db.ygoprodeck.com/card/?search=Snapdragon)
+- [Sniffer Dragon](db.ygoprodeck.com/card/?search=Sniffer%20Dragon)
+- [Snipe Hunter](db.ygoprodeck.com/card/?search=Snipe%20Hunter)
+- [Snow Dragon](db.ygoprodeck.com/card/?search=Snow%20Dragon)
+- [Snow Plow Hustle Rustle](db.ygoprodeck.com/card/?search=Snow%20Plow%20Hustle%20Rustle)
+- [Snowdust Dragon](db.ygoprodeck.com/card/?search=Snowdust%20Dragon)
+- [Snowman Creator](db.ygoprodeck.com/card/?search=Snowman%20Creator)
+- [Snowman Eater](db.ygoprodeck.com/card/?search=Snowman%20Eater)
+- [Snowman Effect](db.ygoprodeck.com/card/?search=Snowman%20Effect)
+- [Sogen](db.ygoprodeck.com/card/?search=Sogen)
+- [Soitsu](db.ygoprodeck.com/card/?search=Soitsu)
+- [Solar Flare Dragon](db.ygoprodeck.com/card/?search=Solar%20Flare%20Dragon)
+- [Solar Ray](db.ygoprodeck.com/card/?search=Solar%20Ray)
+- [Solar Recharge](db.ygoprodeck.com/card/?search=Solar%20Recharge)
+- [Solar Wind Jammer](db.ygoprodeck.com/card/?search=Solar%20Wind%20Jammer)
+- [Soldier Dragons](db.ygoprodeck.com/card/?search=Soldier%20Dragons)
+- [Soldier Gaia the Fierce Knight](db.ygoprodeck.com/card/?search=Soldier%20Gaia%20the%20Fierce%20Knight)
+- [Solemn Authority](db.ygoprodeck.com/card/?search=Solemn%20Authority)
+- [Solemn Judgment](db.ygoprodeck.com/card/?search=Solemn%20Judgment)
+- [Solemn Strike](db.ygoprodeck.com/card/?search=Solemn%20Strike)
+- [Solemn Warning](db.ygoprodeck.com/card/?search=Solemn%20Warning)
+- [Solemn Wishes](db.ygoprodeck.com/card/?search=Solemn%20Wishes)
+- [Solidarity](db.ygoprodeck.com/card/?search=Solidarity)
+- [Solitaire Magician](db.ygoprodeck.com/card/?search=Solitaire%20Magician)
+- [Solitary Sword of Poison](db.ygoprodeck.com/card/?search=Solitary%20Sword%20of%20Poison)
+- [Solo the Melodious Songstress](db.ygoprodeck.com/card/?search=Solo%20the%20Melodious%20Songstress)
+- [Solomon's Lawbook](db.ygoprodeck.com/card/?search=Solomon's%20Lawbook)
+- [Sonata the Melodious Diva](db.ygoprodeck.com/card/?search=Sonata%20the%20Melodious%20Diva)
+- [Sonic Bird](db.ygoprodeck.com/card/?search=Sonic%20Bird)
+- [Sonic Boom](db.ygoprodeck.com/card/?search=Sonic%20Boom)
+- [Sonic Chick](db.ygoprodeck.com/card/?search=Sonic%20Chick)
+- [Sonic Duck](db.ygoprodeck.com/card/?search=Sonic%20Duck)
+- [Sonic Jammer](db.ygoprodeck.com/card/?search=Sonic%20Jammer)
+- [Sonic Shooter](db.ygoprodeck.com/card/?search=Sonic%20Shooter)
+- [Sonic Tracker](db.ygoprodeck.com/card/?search=Sonic%20Tracker)
+- [Sonic Warrior](db.ygoprodeck.com/card/?search=Sonic%20Warrior)
+- [Soprano the Melodious Songstress](db.ygoprodeck.com/card/?search=Soprano%20the%20Melodious%20Songstress)
+- [Sorcerer of Dark Magic](db.ygoprodeck.com/card/?search=Sorcerer%20of%20Dark%20Magic)
+- [Sorcerer of the Doomed](db.ygoprodeck.com/card/?search=Sorcerer%20of%20the%20Doomed)
+- [Sorcerous Spell Wall](db.ygoprodeck.com/card/?search=Sorcerous%20Spell%20Wall)
+- [Sorciere de Fleur](db.ygoprodeck.com/card/?search=Sorciere%20de%20Fleur)
+- [Soul Absorption](db.ygoprodeck.com/card/?search=Soul%20Absorption)
+- [Soul Demolition](db.ygoprodeck.com/card/?search=Soul%20Demolition)
+- [Soul Devouring Bamboo Sword](db.ygoprodeck.com/card/?search=Soul%20Devouring%20Bamboo%20Sword)
+- [Soul Drain Dragon](db.ygoprodeck.com/card/?search=Soul%20Drain%20Dragon)
+- [Soul Exchange](db.ygoprodeck.com/card/?search=Soul%20Exchange)
+- [Soul Hunter](db.ygoprodeck.com/card/?search=Soul%20Hunter)
+- [Soul Levy](db.ygoprodeck.com/card/?search=Soul%20Levy)
+- [Soul of Purity and Light](db.ygoprodeck.com/card/?search=Soul%20of%20Purity%20and%20Light)
+- [Soul of the Pure](db.ygoprodeck.com/card/?search=Soul%20of%20the%20Pure)
+- [Soul Release](db.ygoprodeck.com/card/?search=Soul%20Release)
+- [Soul Resurrection](db.ygoprodeck.com/card/?search=Soul%20Resurrection)
+- [Soul Reversal](db.ygoprodeck.com/card/?search=Soul%20Reversal)
+- [Soul Rope](db.ygoprodeck.com/card/?search=Soul%20Rope)
+- [Soul Strike](db.ygoprodeck.com/card/?search=Soul%20Strike)
+- [Soul Taker](db.ygoprodeck.com/card/?search=Soul%20Taker)
+- [Soul Tiger](db.ygoprodeck.com/card/?search=Soul%20Tiger)
+- [Soul-Absorbing Bone Tower](db.ygoprodeck.com/card/?search=Soul-Absorbing%20Bone%20Tower)
+- [Souleater](db.ygoprodeck.com/card/?search=Souleater)
+- [Souls of the Forgotten](db.ygoprodeck.com/card/?search=Souls%20of%20the%20Forgotten)
+- [Sound the Retreat!](db.ygoprodeck.com/card/?search=Sound%20the%20Retreat!)
+- [Space Cyclone](db.ygoprodeck.com/card/?search=Space%20Cyclone)
+- [Space Gift](db.ygoprodeck.com/card/?search=Space%20Gift)
+- [Space Insulator](db.ygoprodeck.com/card/?search=Space%20Insulator)
+- [Space Mambo](db.ygoprodeck.com/card/?search=Space%20Mambo)
+- [Spacegate](db.ygoprodeck.com/card/?search=Spacegate)
+- [Spacetime Transcendence](db.ygoprodeck.com/card/?search=Spacetime%20Transcendence)
+- [Spark Blaster](db.ygoprodeck.com/card/?search=Spark%20Blaster)
+- [Sparks](db.ygoprodeck.com/card/?search=Sparks)
+- [Spatial Collapse](db.ygoprodeck.com/card/?search=Spatial%20Collapse)
+- [Spear Cretin](db.ygoprodeck.com/card/?search=Spear%20Cretin)
+- [Spear Dragon](db.ygoprodeck.com/card/?search=Spear%20Dragon)
+- [Spear Shark](db.ygoprodeck.com/card/?search=Spear%20Shark)
+- [Spearfish Soldier](db.ygoprodeck.com/card/?search=Spearfish%20Soldier)
+- [Special Schedule](db.ygoprodeck.com/card/?search=Special%20Schedule)
+- [Speed Bird](db.ygoprodeck.com/card/?search=Speed%20Bird)
+- [Speed Recovery](db.ygoprodeck.com/card/?search=Speed%20Recovery)
+- [Speed Warrior](db.ygoprodeck.com/card/?search=Speed%20Warrior)
+- [Speedburst Dragon](db.ygoprodeck.com/card/?search=Speedburst%20Dragon)
+- [Speedlift](db.ygoprodeck.com/card/?search=Speedlift)
+- [Speedroid Block-n-Roll](db.ygoprodeck.com/card/?search=Speedroid%20Block-n-Roll)
+- [Speedroid CarTurbo](db.ygoprodeck.com/card/?search=Speedroid%20CarTurbo)
+- [Speedroid Den-Den Daiko Duke](db.ygoprodeck.com/card/?search=Speedroid%20Den-Den%20Daiko%20Duke)
+- [Speedroid Double Yoyo](db.ygoprodeck.com/card/?search=Speedroid%20Double%20Yoyo)
+- [Speedroid Gum Prize](db.ygoprodeck.com/card/?search=Speedroid%20Gum%20Prize)
+- [Speedroid Horse Stilts](db.ygoprodeck.com/card/?search=Speedroid%20Horse%20Stilts)
+- [Speedroid Maliciousmagnet](db.ygoprodeck.com/card/?search=Speedroid%20Maliciousmagnet)
+- [Speedroid Marble Machine](db.ygoprodeck.com/card/?search=Speedroid%20Marble%20Machine)
+- [Speedroid Menko](db.ygoprodeck.com/card/?search=Speedroid%20Menko)
+- [Speedroid Passinglider](db.ygoprodeck.com/card/?search=Speedroid%20Passinglider)
+- [Speedroid Red-Eyed Dice](db.ygoprodeck.com/card/?search=Speedroid%20Red-Eyed%20Dice)
+- [Speedroid Skull Marbles](db.ygoprodeck.com/card/?search=Speedroid%20Skull%20Marbles)
+- [Speedroid Taketomborg](db.ygoprodeck.com/card/?search=Speedroid%20Taketomborg)
+- [Speedroid Tri-Eyed Dice](db.ygoprodeck.com/card/?search=Speedroid%20Tri-Eyed%20Dice)
+- [Spell Absorption](db.ygoprodeck.com/card/?search=Spell%20Absorption)
+- [Spell Canceller](db.ygoprodeck.com/card/?search=Spell%20Canceller)
+- [Spell Chronicle](db.ygoprodeck.com/card/?search=Spell%20Chronicle)
+- [Spell Economics](db.ygoprodeck.com/card/?search=Spell%20Economics)
+- [Spell Gear](db.ygoprodeck.com/card/?search=Spell%20Gear)
+- [Spell of Mask](db.ygoprodeck.com/card/?search=Spell%20of%20Mask)
+- [Spell of Pain](db.ygoprodeck.com/card/?search=Spell%20of%20Pain)
+- [Spell Power Grasp](db.ygoprodeck.com/card/?search=Spell%20Power%20Grasp)
+- [Spell Purification](db.ygoprodeck.com/card/?search=Spell%20Purification)
+- [Spell Reactor RE](db.ygoprodeck.com/card/?search=Spell%20Reactor%20RE)
+- [Spell Recycler](db.ygoprodeck.com/card/?search=Spell%20Recycler)
+- [Spell Reproduction](db.ygoprodeck.com/card/?search=Spell%20Reproduction)
+- [Spell Shattering Arrow](db.ygoprodeck.com/card/?search=Spell%20Shattering%20Arrow)
+- [Spell Shield Type-8](db.ygoprodeck.com/card/?search=Spell%20Shield%20Type-8)
+- [Spell Striker](db.ygoprodeck.com/card/?search=Spell%20Striker)
+- [Spell Wall](db.ygoprodeck.com/card/?search=Spell%20Wall)
+- [Spellbinding Circle](db.ygoprodeck.com/card/?search=Spellbinding%20Circle)
+- [Spellbook Library of the Heliosphere](db.ygoprodeck.com/card/?search=Spellbook%20Library%20of%20the%20Heliosphere)
+- [Spellbook Magician of Prophecy](db.ygoprodeck.com/card/?search=Spellbook%20Magician%20of%20Prophecy)
+- [Spellbook of Knowledge](db.ygoprodeck.com/card/?search=Spellbook%20of%20Knowledge)
+- [Spellbook of Miracles](db.ygoprodeck.com/card/?search=Spellbook%20of%20Miracles)
+- [Spellbook of Power](db.ygoprodeck.com/card/?search=Spellbook%20of%20Power)
+- [Spellbook of Secrets](db.ygoprodeck.com/card/?search=Spellbook%20of%20Secrets)
+- [Spellbook of Wisdom](db.ygoprodeck.com/card/?search=Spellbook%20of%20Wisdom)
+- [Spellbook Organization](db.ygoprodeck.com/card/?search=Spellbook%20Organization)
+- [Spellbreaker of the Ice Barrier](db.ygoprodeck.com/card/?search=Spellbreaker%20of%20the%20Ice%20Barrier)
+- [Sphere Kuriboh](db.ygoprodeck.com/card/?search=Sphere%20Kuriboh)
+- [Spherous Lady](db.ygoprodeck.com/card/?search=Spherous%20Lady)
+- [Spider Egg](db.ygoprodeck.com/card/?search=Spider%20Egg)
+- [Spider Web](db.ygoprodeck.com/card/?search=Spider%20Web)
+- [Spiders' Lair](db.ygoprodeck.com/card/?search=Spiders'%20Lair)
+- [Spike Seadra](db.ygoprodeck.com/card/?search=Spike%20Seadra)
+- [Spikebot](db.ygoprodeck.com/card/?search=Spikebot)
+- [Spikeshield with Chain](db.ygoprodeck.com/card/?search=Spikeshield%20with%20Chain)
+- [Spined Gillman](db.ygoprodeck.com/card/?search=Spined%20Gillman)
+- [Spiral Discharge](db.ygoprodeck.com/card/?search=Spiral%20Discharge)
+- [Spiral Flame Strike](db.ygoprodeck.com/card/?search=Spiral%20Flame%20Strike)
+- [Spiral Fusion](db.ygoprodeck.com/card/?search=Spiral%20Fusion)
+- [Spiral Reborn](db.ygoprodeck.com/card/?search=Spiral%20Reborn)
+- [Spiral Serpent](db.ygoprodeck.com/card/?search=Spiral%20Serpent)
+- [Spiral Spear Strike](db.ygoprodeck.com/card/?search=Spiral%20Spear%20Strike)
+- [Spirit Barrier](db.ygoprodeck.com/card/?search=Spirit%20Barrier)
+- [Spirit Burner](db.ygoprodeck.com/card/?search=Spirit%20Burner)
+- [Spirit Caller](db.ygoprodeck.com/card/?search=Spirit%20Caller)
+- [Spirit Elimination](db.ygoprodeck.com/card/?search=Spirit%20Elimination)
+- [Spirit Force](db.ygoprodeck.com/card/?search=Spirit%20Force)
+- [Spirit Message "A"](db.ygoprodeck.com/card/?search=Spirit%20Message%20"A")
+- [Spirit Message "I"](db.ygoprodeck.com/card/?search=Spirit%20Message%20"I")
+- [Spirit Message "L"](db.ygoprodeck.com/card/?search=Spirit%20Message%20"L")
+- [Spirit Message "N"](db.ygoprodeck.com/card/?search=Spirit%20Message%20"N")
+- [Spirit of Flames](db.ygoprodeck.com/card/?search=Spirit%20of%20Flames)
+- [Spirit of the Books](db.ygoprodeck.com/card/?search=Spirit%20of%20the%20Books)
+- [Spirit of the Breeze](db.ygoprodeck.com/card/?search=Spirit%20of%20the%20Breeze)
+- [Spirit of the Harp](db.ygoprodeck.com/card/?search=Spirit%20of%20the%20Harp)
+- [Spirit of the Pot of Greed](db.ygoprodeck.com/card/?search=Spirit%20of%20the%20Pot%20of%20Greed)
+- [Spirit of the Six Samurai](db.ygoprodeck.com/card/?search=Spirit%20of%20the%20Six%20Samurai)
+- [Spirit Reaper](db.ygoprodeck.com/card/?search=Spirit%20Reaper)
+- [Spirit Ryu](db.ygoprodeck.com/card/?search=Spirit%20Ryu)
+- [Spirit's Invitation](db.ygoprodeck.com/card/?search=Spirit's%20Invitation)
+- [Spiritual Beast Rampengu](db.ygoprodeck.com/card/?search=Spiritual%20Beast%20Rampengu)
+- [Spiritual Earth Art - Kurogane](db.ygoprodeck.com/card/?search=Spiritual%20Earth%20Art%20-%20Kurogane)
+- [Spiritual Energy Settle Machine](db.ygoprodeck.com/card/?search=Spiritual%20Energy%20Settle%20Machine)
+- [Spiritual Entanglement](db.ygoprodeck.com/card/?search=Spiritual%20Entanglement)
+- [Spiritual Fire Art - Kurenai](db.ygoprodeck.com/card/?search=Spiritual%20Fire%20Art%20-%20Kurenai)
+- [Spiritual Forest](db.ygoprodeck.com/card/?search=Spiritual%20Forest)
+- [Spiritual Water Art - Aoi](db.ygoprodeck.com/card/?search=Spiritual%20Water%20Art%20-%20Aoi)
+- [Spiritual Wind Art - Miyabi](db.ygoprodeck.com/card/?search=Spiritual%20Wind%20Art%20-%20Miyabi)
+- [Spiritualism](db.ygoprodeck.com/card/?search=Spiritualism)
+- [Splash Capture](db.ygoprodeck.com/card/?search=Splash%20Capture)
+- [Splash Mage](db.ygoprodeck.com/card/?search=Splash%20Mage)
+- [Splendid Rose](db.ygoprodeck.com/card/?search=Splendid%20Rose)
+- [Splendid Venus](db.ygoprodeck.com/card/?search=Splendid%20Venus)
+- [Spore](db.ygoprodeck.com/card/?search=Spore)
+- [Sprind the Irondash Dragon](db.ygoprodeck.com/card/?search=Sprind%20the%20Irondash%20Dragon)
+- [Spring of Rebirth](db.ygoprodeck.com/card/?search=Spring%20of%20Rebirth)
+- [Springans Blast!](db.ygoprodeck.com/card/?search=Springans%20Blast!)
+- [Springans Booty](db.ygoprodeck.com/card/?search=Springans%20Booty)
+- [Springans Branga](db.ygoprodeck.com/card/?search=Springans%20Branga)
+- [Springans Brothers](db.ygoprodeck.com/card/?search=Springans%20Brothers)
+- [Springans Call!](db.ygoprodeck.com/card/?search=Springans%20Call!)
+- [Springans Captain Sargas](db.ygoprodeck.com/card/?search=Springans%20Captain%20Sargas)
+- [Springans Interluder](db.ygoprodeck.com/card/?search=Springans%20Interluder)
+- [Springans Pedor](db.ygoprodeck.com/card/?search=Springans%20Pedor)
+- [Springans Rockey](db.ygoprodeck.com/card/?search=Springans%20Rockey)
+- [Sprite's Blessing](db.ygoprodeck.com/card/?search=Sprite's%20Blessing)
+- [Spy-C-Spy](db.ygoprodeck.com/card/?search=Spy-C-Spy)
+- [Spyder Spider](db.ygoprodeck.com/card/?search=Spyder%20Spider)
+- [SPYRAL MISSION - Rescue](db.ygoprodeck.com/card/?search=SPYRAL%20MISSION%20-%20Rescue)
+- [Squeaknight](db.ygoprodeck.com/card/?search=Squeaknight)
+- [Squib Draw](db.ygoprodeck.com/card/?search=Squib%20Draw)
+- [Squirt Squid](db.ygoprodeck.com/card/?search=Squirt%20Squid)
+- [St. Joan](db.ygoprodeck.com/card/?search=St.%20Joan)
+- [Stack Reviver](db.ygoprodeck.com/card/?search=Stack%20Reviver)
+- [Stairs of Mail](db.ygoprodeck.com/card/?search=Stairs%20of%20Mail)
+- [Stairway to a Fabled Realm](db.ygoprodeck.com/card/?search=Stairway%20to%20a%20Fabled%20Realm)
+- [Stamping Destruction](db.ygoprodeck.com/card/?search=Stamping%20Destruction)
+- [Stand In](db.ygoprodeck.com/card/?search=Stand%20In)
+- [Stand-Off](db.ygoprodeck.com/card/?search=Stand-Off)
+- [Star Blast](db.ygoprodeck.com/card/?search=Star%20Blast)
+- [Star Boy](db.ygoprodeck.com/card/?search=Star%20Boy)
+- [Star Changer](db.ygoprodeck.com/card/?search=Star%20Changer)
+- [Star Drawing](db.ygoprodeck.com/card/?search=Star%20Drawing)
+- [Star Light, Star Bright](db.ygoprodeck.com/card/?search=Star%20Light,%20Star%20Bright)
+- [Star Mine](db.ygoprodeck.com/card/?search=Star%20Mine)
+- [Star Seraph Sage](db.ygoprodeck.com/card/?search=Star%20Seraph%20Sage)
+- [Star Seraph Scout](db.ygoprodeck.com/card/?search=Star%20Seraph%20Scout)
+- [Star Seraph Sword](db.ygoprodeck.com/card/?search=Star%20Seraph%20Sword)
+- [Star Siphon](db.ygoprodeck.com/card/?search=Star%20Siphon)
+- [Stardust Assault Warrior](db.ygoprodeck.com/card/?search=Stardust%20Assault%20Warrior)
+- [Stardust Dragon](db.ygoprodeck.com/card/?search=Stardust%20Dragon)
+- [Stardust Dragon/Assault Mode](db.ygoprodeck.com/card/?search=Stardust%20Dragon/Assault%20Mode)
+- [Stardust Flash](db.ygoprodeck.com/card/?search=Stardust%20Flash)
+- [Stardust Trail](db.ygoprodeck.com/card/?search=Stardust%20Trail)
+- [Stardust Warrior](db.ygoprodeck.com/card/?search=Stardust%20Warrior)
+- [Stardust Wish](db.ygoprodeck.com/card/?search=Stardust%20Wish)
+- [Stardust Xiaolong](db.ygoprodeck.com/card/?search=Stardust%20Xiaolong)
+- [Starduston](db.ygoprodeck.com/card/?search=Starduston)
+- [Starfish](db.ygoprodeck.com/card/?search=Starfish)
+- [Stargazer Magician](db.ygoprodeck.com/card/?search=Stargazer%20Magician)
+- [Staring Contest](db.ygoprodeck.com/card/?search=Staring%20Contest)
+- [Starlight Junktion](db.ygoprodeck.com/card/?search=Starlight%20Junktion)
+- [Starry Knight Ciel](db.ygoprodeck.com/card/?search=Starry%20Knight%20Ciel)
+- [Starry Knight Orbitael](db.ygoprodeck.com/card/?search=Starry%20Knight%20Orbitael)
+- [Starship Spy Plane](db.ygoprodeck.com/card/?search=Starship%20Spy%20Plane)
+- [Statue of Anguish Pattern](db.ygoprodeck.com/card/?search=Statue%20of%20Anguish%20Pattern)
+- [Staunch Defender](db.ygoprodeck.com/card/?search=Staunch%20Defender)
+- [Stealth Bird](db.ygoprodeck.com/card/?search=Stealth%20Bird)
+- [Stealthroid](db.ygoprodeck.com/card/?search=Stealthroid)
+- [Steam Gyroid](db.ygoprodeck.com/card/?search=Steam%20Gyroid)
+- [Steamroid](db.ygoprodeck.com/card/?search=Steamroid)
+- [Steel Ogre Grotto #1](db.ygoprodeck.com/card/?search=Steel%20Ogre%20Grotto%20#1)
+- [Steel Ogre Grotto #2](db.ygoprodeck.com/card/?search=Steel%20Ogre%20Grotto%20#2)
+- [Steel Scorpion](db.ygoprodeck.com/card/?search=Steel%20Scorpion)
+- [Steel Star Regulator](db.ygoprodeck.com/card/?search=Steel%20Star%20Regulator)
+- [Steelswarm Cell](db.ygoprodeck.com/card/?search=Steelswarm%20Cell)
+- [Steelswarm Gatekeeper](db.ygoprodeck.com/card/?search=Steelswarm%20Gatekeeper)
+- [Steelswarm Genome](db.ygoprodeck.com/card/?search=Steelswarm%20Genome)
+- [Steelswarm Mantis](db.ygoprodeck.com/card/?search=Steelswarm%20Mantis)
+- [Steelswarm Sentinel](db.ygoprodeck.com/card/?search=Steelswarm%20Sentinel)
+- [Stegocyber](db.ygoprodeck.com/card/?search=Stegocyber)
+- [Stellarknight Alpha](db.ygoprodeck.com/card/?search=Stellarknight%20Alpha)
+- [Stellarnova Wave](db.ygoprodeck.com/card/?search=Stellarnova%20Wave)
+- [Stim-Pack](db.ygoprodeck.com/card/?search=Stim-Pack)
+- [Stinging Swordsman](db.ygoprodeck.com/card/?search=Stinging%20Swordsman)
+- [Stoic of Prophecy](db.ygoprodeck.com/card/?search=Stoic%20of%20Prophecy)
+- [Stone Armadiller](db.ygoprodeck.com/card/?search=Stone%20Armadiller)
+- [Stone Dragon](db.ygoprodeck.com/card/?search=Stone%20Dragon)
+- [Stone Ogre Grotto](db.ygoprodeck.com/card/?search=Stone%20Ogre%20Grotto)
+- [Stone Statue of the Aztecs](db.ygoprodeck.com/card/?search=Stone%20Statue%20of%20the%20Aztecs)
+- [Stonehenge Methods](db.ygoprodeck.com/card/?search=Stonehenge%20Methods)
+- [Stop Defense](db.ygoprodeck.com/card/?search=Stop%20Defense)
+- [Storm](db.ygoprodeck.com/card/?search=Storm)
+- [Storm Cipher](db.ygoprodeck.com/card/?search=Storm%20Cipher)
+- [Storming Mirror Force](db.ygoprodeck.com/card/?search=Storming%20Mirror%20Force)
+- [Storming Wynn](db.ygoprodeck.com/card/?search=Storming%20Wynn)
+- [Straight Flush](db.ygoprodeck.com/card/?search=Straight%20Flush)
+- [Strategist of the Ice Barrier](db.ygoprodeck.com/card/?search=Strategist%20of%20the%20Ice%20Barrier)
+- [Stray Asmodian](db.ygoprodeck.com/card/?search=Stray%20Asmodian)
+- [Stray Lambs](db.ygoprodeck.com/card/?search=Stray%20Lambs)
+- [Stream, Dragon Ruler of Droplets](db.ygoprodeck.com/card/?search=Stream,%20Dragon%20Ruler%20of%20Droplets)
+- [Strength of Prophecy](db.ygoprodeck.com/card/?search=Strength%20of%20Prophecy)
+- [Strike Ninja](db.ygoprodeck.com/card/?search=Strike%20Ninja)
+- [Strike of the Monarchs](db.ygoprodeck.com/card/?search=Strike%20of%20the%20Monarchs)
+- [Strike Slash](db.ygoprodeck.com/card/?search=Strike%20Slash)
+- [Striping Partner](db.ygoprodeck.com/card/?search=Striping%20Partner)
+- [Stronghold Guardian](db.ygoprodeck.com/card/?search=Stronghold%20Guardian)
+- [Stronghold the Moving Fortress](db.ygoprodeck.com/card/?search=Stronghold%20the%20Moving%20Fortress)
+- [Stuffed Animal](db.ygoprodeck.com/card/?search=Stuffed%20Animal)
+- [Stumbling](db.ygoprodeck.com/card/?search=Stumbling)
+- [Stygian Dirge](db.ygoprodeck.com/card/?search=Stygian%20Dirge)
+- [Stygian Security](db.ygoprodeck.com/card/?search=Stygian%20Security)
+- [Stygian Street Patrol](db.ygoprodeck.com/card/?search=Stygian%20Street%20Patrol)
+- [Submarine Frog](db.ygoprodeck.com/card/?search=Submarine%20Frog)
+- [Submarineroid](db.ygoprodeck.com/card/?search=Submarineroid)
+- [Submersible Carrier Aero Shark](db.ygoprodeck.com/card/?search=Submersible%20Carrier%20Aero%20Shark)
+- [Subsurface Stage Divers](db.ygoprodeck.com/card/?search=Subsurface%20Stage%20Divers)
+- [Subterror Behemoth Phospheroglacier](db.ygoprodeck.com/card/?search=Subterror%20Behemoth%20Phospheroglacier)
+- [Subterror Behemoth Speleogeist](db.ygoprodeck.com/card/?search=Subterror%20Behemoth%20Speleogeist)
+- [Subterror Guru](db.ygoprodeck.com/card/?search=Subterror%20Guru)
+- [Subterror Succession](db.ygoprodeck.com/card/?search=Subterror%20Succession)
+- [Success Probability 0%](db.ygoprodeck.com/card/?search=Success%20Probability%200%)
+- [Succubus Knight](db.ygoprodeck.com/card/?search=Succubus%20Knight)
+- [Suijin](db.ygoprodeck.com/card/?search=Suijin)
+- [Summon Breaker](db.ygoprodeck.com/card/?search=Summon%20Breaker)
+- [Summon Cloud](db.ygoprodeck.com/card/?search=Summon%20Cloud)
+- [Summon Gate](db.ygoprodeck.com/card/?search=Summon%20Gate)
+- [Summon Limit](db.ygoprodeck.com/card/?search=Summon%20Limit)
+- [Summon Over](db.ygoprodeck.com/card/?search=Summon%20Over)
+- [Summon Reactor SK](db.ygoprodeck.com/card/?search=Summon%20Reactor%20SK)
+- [Summoned Skull](db.ygoprodeck.com/card/?search=Summoned%20Skull)
+- [Summoner Monk](db.ygoprodeck.com/card/?search=Summoner%20Monk)
+- [Summoner of Illusions](db.ygoprodeck.com/card/?search=Summoner%20of%20Illusions)
+- [Summoner's Art](db.ygoprodeck.com/card/?search=Summoner's%20Art)
+- [Summoning Curse](db.ygoprodeck.com/card/?search=Summoning%20Curse)
+- [Sun Dragon Inti](db.ygoprodeck.com/card/?search=Sun%20Dragon%20Inti)
+- [Sunavalon Daphne](db.ygoprodeck.com/card/?search=Sunavalon%20Daphne)
+- [Sunlight Unicorn](db.ygoprodeck.com/card/?search=Sunlight%20Unicorn)
+- [Sunny Pixie](db.ygoprodeck.com/card/?search=Sunny%20Pixie)
+- [Sunvine Cross Breed](db.ygoprodeck.com/card/?search=Sunvine%20Cross%20Breed)
+- [Supay](db.ygoprodeck.com/card/?search=Supay)
+- [Super Anti-Kaiju War Machine Mecha-Dogoran](db.ygoprodeck.com/card/?search=Super%20Anti-Kaiju%20War%20Machine%20Mecha-Dogoran)
+- [Super Armored Robot Armed Black Iron "C"](db.ygoprodeck.com/card/?search=Super%20Armored%20Robot%20Armed%20Black%20Iron%20"C")
+- [Super Conductor Tyranno](db.ygoprodeck.com/card/?search=Super%20Conductor%20Tyranno)
+- [Super Defense Robot Elephan](db.ygoprodeck.com/card/?search=Super%20Defense%20Robot%20Elephan)
+- [Super Defense Robot Lio](db.ygoprodeck.com/card/?search=Super%20Defense%20Robot%20Lio)
+- [Super Defense Robot Monki](db.ygoprodeck.com/card/?search=Super%20Defense%20Robot%20Monki)
+- [Super Double Summon](db.ygoprodeck.com/card/?search=Super%20Double%20Summon)
+- [Super Hippo Carnival](db.ygoprodeck.com/card/?search=Super%20Hippo%20Carnival)
+- [Super Junior Confrontation](db.ygoprodeck.com/card/?search=Super%20Junior%20Confrontation)
+- [Super Polymerization](db.ygoprodeck.com/card/?search=Super%20Polymerization)
+- [Super Quantal Alphan Spike](db.ygoprodeck.com/card/?search=Super%20Quantal%20Alphan%20Spike)
+- [Super Quantal Alphancall Appeal](db.ygoprodeck.com/card/?search=Super%20Quantal%20Alphancall%20Appeal)
+- [Super Quantal Fairy Alphan](db.ygoprodeck.com/card/?search=Super%20Quantal%20Fairy%20Alphan)
+- [Super Quantal Mech Beast Magnaliger](db.ygoprodeck.com/card/?search=Super%20Quantal%20Mech%20Beast%20Magnaliger)
+- [Super Quantal Mech Ship Magnacarrier](db.ygoprodeck.com/card/?search=Super%20Quantal%20Mech%20Ship%20Magnacarrier)
+- [Super Quantal Mech Sword - Magnaslayer](db.ygoprodeck.com/card/?search=Super%20Quantal%20Mech%20Sword%20-%20Magnaslayer)
+- [Super Quantal Union - Magnaformation](db.ygoprodeck.com/card/?search=Super%20Quantal%20Union%20-%20Magnaformation)
+- [Super Quantum Red Layer](db.ygoprodeck.com/card/?search=Super%20Quantum%20Red%20Layer)
+- [Super Rejuvenation](db.ygoprodeck.com/card/?search=Super%20Rejuvenation)
+- [Super Robolady](db.ygoprodeck.com/card/?search=Super%20Robolady)
+- [Super Roboyarou](db.ygoprodeck.com/card/?search=Super%20Roboyarou)
+- [Super Rush Headlong](db.ygoprodeck.com/card/?search=Super%20Rush%20Headlong)
+- [Super Rush Recklessly](db.ygoprodeck.com/card/?search=Super%20Rush%20Recklessly)
+- [Super Solar Nutrient](db.ygoprodeck.com/card/?search=Super%20Solar%20Nutrient)
+- [Super Soldier Rebirth](db.ygoprodeck.com/card/?search=Super%20Soldier%20Rebirth)
+- [Super Soldier Soul](db.ygoprodeck.com/card/?search=Super%20Soldier%20Soul)
+- [Super Soldier Synthesis](db.ygoprodeck.com/card/?search=Super%20Soldier%20Synthesis)
+- [Super Strident Blaze](db.ygoprodeck.com/card/?search=Super%20Strident%20Blaze)
+- [Super Team Buddy Force Unite!](db.ygoprodeck.com/card/?search=Super%20Team%20Buddy%20Force%20Unite!)
+- [Super Vehicroid - Mobile Base](db.ygoprodeck.com/card/?search=Super%20Vehicroid%20-%20Mobile%20Base)
+- [Super War-Lion](db.ygoprodeck.com/card/?search=Super%20War-Lion)
+- [Super-Ancient Dinobeast](db.ygoprodeck.com/card/?search=Super-Ancient%20Dinobeast)
+- [Super-Nimble Mega Hamster](db.ygoprodeck.com/card/?search=Super-Nimble%20Mega%20Hamster)
+- [Superalloy Beast Raptinus](db.ygoprodeck.com/card/?search=Superalloy%20Beast%20Raptinus)
+- [Superancient Deepsea King Coelacanth](db.ygoprodeck.com/card/?search=Superancient%20Deepsea%20King%20Coelacanth)
+- [Supercharge](db.ygoprodeck.com/card/?search=Supercharge)
+- [Superdreadnought Rail Cannon Gustav Max](db.ygoprodeck.com/card/?search=Superdreadnought%20Rail%20Cannon%20Gustav%20Max)
+- [Superheavy Samurai Battleball](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Battleball)
+- [Superheavy Samurai Big Benkei](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Big%20Benkei)
+- [Superheavy Samurai Big Waraji](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Big%20Waraji)
+- [Superheavy Samurai Blowtorch](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Blowtorch)
+- [Superheavy Samurai Blue Brawler](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Blue%20Brawler)
+- [Superheavy Samurai Drum](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Drum)
+- [Superheavy Samurai General Coral](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20General%20Coral)
+- [Superheavy Samurai General Jade](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20General%20Jade)
+- [Superheavy Samurai Gigagloves](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Gigagloves)
+- [Superheavy Samurai Kabuto](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Kabuto)
+- [Superheavy Samurai Magnet](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Magnet)
+- [Superheavy Samurai Ogre Shutendoji](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Ogre%20Shutendoji)
+- [Superheavy Samurai Prepped Defense](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Prepped%20Defense)
+- [Superheavy Samurai Scarecrow](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Scarecrow)
+- [Superheavy Samurai Soulbang Cannon](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulbang%20Cannon)
+- [Superheavy Samurai Soulbeads](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulbeads)
+- [Superheavy Samurai Soulbreaker Armor](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulbreaker%20Armor)
+- [Superheavy Samurai Soulbuster Gauntlet](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulbuster%20Gauntlet)
+- [Superheavy Samurai Soulclaw](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulclaw)
+- [Superheavy Samurai Soulfire Suit](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulfire%20Suit)
+- [Superheavy Samurai Soulhorns](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulhorns)
+- [Superheavy Samurai Soulpiercer](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulpiercer)
+- [Superheavy Samurai Soulshield Wall](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulshield%20Wall)
+- [Superheavy Samurai Swordmaster Musashi](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Swordmaster%20Musashi)
+- [Superheavy Samurai Swordsman](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Swordsman)
+- [Superheavy Samurai Thief](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Thief)
+- [Superheavy Samurai Transporter](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Transporter)
+- [Superheavy Samurai Trumpeter](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Trumpeter)
+- [Superheavy Samurai Wagon](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Wagon)
+- [Superheavy Samurai Warlord Susanowo](db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Warlord%20Susanowo)
+- [Supernatural Regeneration](db.ygoprodeck.com/card/?search=Supernatural%20Regeneration)
+- [Supervise](db.ygoprodeck.com/card/?search=Supervise)
+- [Supply](db.ygoprodeck.com/card/?search=Supply)
+- [Supply Squad](db.ygoprodeck.com/card/?search=Supply%20Squad)
+- [Suppression Collider](db.ygoprodeck.com/card/?search=Suppression%20Collider)
+- [Supremacy Berry](db.ygoprodeck.com/card/?search=Supremacy%20Berry)
+- [Supreme King Dragon Clear Wing](db.ygoprodeck.com/card/?search=Supreme%20King%20Dragon%20Clear%20Wing)
+- [Supreme King Dragon Dark Rebellion](db.ygoprodeck.com/card/?search=Supreme%20King%20Dragon%20Dark%20Rebellion)
+- [Supreme King Dragon Darkwurm](db.ygoprodeck.com/card/?search=Supreme%20King%20Dragon%20Darkwurm)
+- [Supreme King Dragon Odd-Eyes](db.ygoprodeck.com/card/?search=Supreme%20King%20Dragon%20Odd-Eyes)
+- [Supreme King Z-ARC](db.ygoprodeck.com/card/?search=Supreme%20King%20Z-ARC)
+- [Supreme Rage](db.ygoprodeck.com/card/?search=Supreme%20Rage)
+- [Surface](db.ygoprodeck.com/card/?search=Surface)
+- [Survival Instinct](db.ygoprodeck.com/card/?search=Survival%20Instinct)
+- [Survival of the Fittest](db.ygoprodeck.com/card/?search=Survival%20of%20the%20Fittest)
+- [Svartalf of the Nordic Alfar](db.ygoprodeck.com/card/?search=Svartalf%20of%20the%20Nordic%20Alfar)
+- [Swallowtail Butterspy](db.ygoprodeck.com/card/?search=Swallowtail%20Butterspy)
+- [Swamp Battleguard](db.ygoprodeck.com/card/?search=Swamp%20Battleguard)
+- [Swamp Mirrorer](db.ygoprodeck.com/card/?search=Swamp%20Mirrorer)
+- [Swap Frog](db.ygoprodeck.com/card/?search=Swap%20Frog)
+- [Swarm of Locusts](db.ygoprodeck.com/card/?search=Swarm%20of%20Locusts)
+- [Swarm of Scarabs](db.ygoprodeck.com/card/?search=Swarm%20of%20Scarabs)
+- [Sweet Corn](db.ygoprodeck.com/card/?search=Sweet%20Corn)
+- [Swift Birdman Joe](db.ygoprodeck.com/card/?search=Swift%20Birdman%20Joe)
+- [Swift Gaia the Fierce Knight](db.ygoprodeck.com/card/?search=Swift%20Gaia%20the%20Fierce%20Knight)
+- [Swift Samurai Storm!](db.ygoprodeck.com/card/?search=Swift%20Samurai%20Storm!)
+- [Swift Scarecrow](db.ygoprodeck.com/card/?search=Swift%20Scarecrow)
+- [Swiftstrike Armor](db.ygoprodeck.com/card/?search=Swiftstrike%20Armor)
+- [Swing of Memories](db.ygoprodeck.com/card/?search=Swing%20of%20Memories)
+- [Sword Arm of Dragon](db.ygoprodeck.com/card/?search=Sword%20Arm%20of%20Dragon)
+- [Sword Hunter](db.ygoprodeck.com/card/?search=Sword%20Hunter)
+- [Sword Master](db.ygoprodeck.com/card/?search=Sword%20Master)
+- [Sword of Dark Destruction](db.ygoprodeck.com/card/?search=Sword%20of%20Dark%20Destruction)
+- [Sword of Dark Rites](db.ygoprodeck.com/card/?search=Sword%20of%20Dark%20Rites)
+- [Sword of Deep-Seated](db.ygoprodeck.com/card/?search=Sword%20of%20Deep-Seated)
+- [Sword of Kusanagi](db.ygoprodeck.com/card/?search=Sword%20of%20Kusanagi)
+- [Sword of Sparkles](db.ygoprodeck.com/card/?search=Sword%20of%20Sparkles)
+- [Sword of the Soul-Eater](db.ygoprodeck.com/card/?search=Sword%20of%20the%20Soul-Eater)
+- [Sword Slasher](db.ygoprodeck.com/card/?search=Sword%20Slasher)
+- [Swords of Burning Light](db.ygoprodeck.com/card/?search=Swords%20of%20Burning%20Light)
+- [Swords of Concealing Light](db.ygoprodeck.com/card/?search=Swords%20of%20Concealing%20Light)
+- [Swords of Revealing Light](db.ygoprodeck.com/card/?search=Swords%20of%20Revealing%20Light)
+- [Swordsman from a Distant Land](db.ygoprodeck.com/card/?search=Swordsman%20from%20a%20Distant%20Land)
+- [Swordsman of Landstar](db.ygoprodeck.com/card/?search=Swordsman%20of%20Landstar)
+- [Swordsoul Assessment](db.ygoprodeck.com/card/?search=Swordsoul%20Assessment)
+- [Swordsoul Blackout](db.ygoprodeck.com/card/?search=Swordsoul%20Blackout)
+- [Swordstalker](db.ygoprodeck.com/card/?search=Swordstalker)
+- [Sylvan Blessing](db.ygoprodeck.com/card/?search=Sylvan%20Blessing)
+- [Sylvan Cherubsprout](db.ygoprodeck.com/card/?search=Sylvan%20Cherubsprout)
+- [Sylvan Guardioak](db.ygoprodeck.com/card/?search=Sylvan%20Guardioak)
+- [Sylvan Lotuswain](db.ygoprodeck.com/card/?search=Sylvan%20Lotuswain)
+- [Sylvan Waterslide](db.ygoprodeck.com/card/?search=Sylvan%20Waterslide)
+- [Symbol of Heritage](db.ygoprodeck.com/card/?search=Symbol%20of%20Heritage)
+- [Symbols of Duty](db.ygoprodeck.com/card/?search=Symbols%20of%20Duty)
+- [Symph Amplifire](db.ygoprodeck.com/card/?search=Symph%20Amplifire)
+- [Symphonic Warrior Guitaar](db.ygoprodeck.com/card/?search=Symphonic%20Warrior%20Guitaar)
+- [Symphonic Warrior Miccs](db.ygoprodeck.com/card/?search=Symphonic%20Warrior%20Miccs)
+- [Symphonic Warrior Synthess](db.ygoprodeck.com/card/?search=Symphonic%20Warrior%20Synthess)
+- [Synchro Barrier](db.ygoprodeck.com/card/?search=Synchro%20Barrier)
+- [Synchro Blast Wave](db.ygoprodeck.com/card/?search=Synchro%20Blast%20Wave)
+- [Synchro Boost](db.ygoprodeck.com/card/?search=Synchro%20Boost)
+- [Synchro Cracker](db.ygoprodeck.com/card/?search=Synchro%20Cracker)
+- [Synchro Deflector](db.ygoprodeck.com/card/?search=Synchro%20Deflector)
+- [Synchro Magnet](db.ygoprodeck.com/card/?search=Synchro%20Magnet)
+- [Synchro Material](db.ygoprodeck.com/card/?search=Synchro%20Material)
+- [Synchro Soldier](db.ygoprodeck.com/card/?search=Synchro%20Soldier)
+- [Synchro Strike](db.ygoprodeck.com/card/?search=Synchro%20Strike)
+- [Synchro Transmission](db.ygoprodeck.com/card/?search=Synchro%20Transmission)
+- [Synchron Carrier](db.ygoprodeck.com/card/?search=Synchron%20Carrier)
+- [Synchron Explorer](db.ygoprodeck.com/card/?search=Synchron%20Explorer)
+- [Synchronized Realm](db.ygoprodeck.com/card/?search=Synchronized%20Realm)
+- [Synkron Resonator](db.ygoprodeck.com/card/?search=Synkron%20Resonator)
+- [Synthesis Spell](db.ygoprodeck.com/card/?search=Synthesis%20Spell)
+- [Synthetic Seraphim](db.ygoprodeck.com/card/?search=Synthetic%20Seraphim)
+- [Synthetic Seraphim Token](db.ygoprodeck.com/card/?search=Synthetic%20Seraphim%20Token)
+- [System Down](db.ygoprodeck.com/card/?search=System%20Down)
+- [SZW - Fenrir Sword](db.ygoprodeck.com/card/?search=SZW%20-%20Fenrir%20Sword)
+- [T.A.D.P.O.L.E.](db.ygoprodeck.com/card/?search=T.A.D.P.O.L.E.)
+- [T.G. Booster Raptor](db.ygoprodeck.com/card/?search=T.G.%20Booster%20Raptor)
+- [T.G. Catapult Dragon](db.ygoprodeck.com/card/?search=T.G.%20Catapult%20Dragon)
+- [T.G. Cyber Magician](db.ygoprodeck.com/card/?search=T.G.%20Cyber%20Magician)
+- [T.G. Jet Falcon](db.ygoprodeck.com/card/?search=T.G.%20Jet%20Falcon)
+- [T.G. Power Gladiator](db.ygoprodeck.com/card/?search=T.G.%20Power%20Gladiator)
+- [T.G. Recipro Dragonfly](db.ygoprodeck.com/card/?search=T.G.%20Recipro%20Dragonfly)
+- [T.G. Rush Rhino](db.ygoprodeck.com/card/?search=T.G.%20Rush%20Rhino)
+- [T.G. Striker](db.ygoprodeck.com/card/?search=T.G.%20Striker)
+- [T.G. Tank Grub](db.ygoprodeck.com/card/?search=T.G.%20Tank%20Grub)
+- [T.G. Warwolf](db.ygoprodeck.com/card/?search=T.G.%20Warwolf)
+- [T.G. Wonder Magician](db.ygoprodeck.com/card/?search=T.G.%20Wonder%20Magician)
+- [TA.I. Strike](db.ygoprodeck.com/card/?search=TA.I.%20Strike)
+- [Tachyon Spiral Galaxy](db.ygoprodeck.com/card/?search=Tachyon%20Spiral%20Galaxy)
+- [Tachyon Transmigration](db.ygoprodeck.com/card/?search=Tachyon%20Transmigration)
+- [Tackle Crusader](db.ygoprodeck.com/card/?search=Tackle%20Crusader)
+- [Tactical Espionage Expert](db.ygoprodeck.com/card/?search=Tactical%20Espionage%20Expert)
+- [Tail Swipe](db.ygoprodeck.com/card/?search=Tail%20Swipe)
+- [Tailor of the Fickle](db.ygoprodeck.com/card/?search=Tailor%20of%20the%20Fickle)
+- [Tailwind of Gusto](db.ygoprodeck.com/card/?search=Tailwind%20of%20Gusto)
+- [Tainted Wisdom](db.ygoprodeck.com/card/?search=Tainted%20Wisdom)
+- [Takuhee](db.ygoprodeck.com/card/?search=Takuhee)
+- [Talisman of Spell Sealing](db.ygoprodeck.com/card/?search=Talisman%20of%20Spell%20Sealing)
+- [Talisman of Trap Sealing](db.ygoprodeck.com/card/?search=Talisman%20of%20Trap%20Sealing)
+- [Tamtam the Melodious Diva](db.ygoprodeck.com/card/?search=Tamtam%20the%20Melodious%20Diva)
+- [Tanngnjostr of the Nordic Beasts](db.ygoprodeck.com/card/?search=Tanngnjostr%20of%20the%20Nordic%20Beasts)
+- [Tanngrisnir of the Nordic Beasts](db.ygoprodeck.com/card/?search=Tanngrisnir%20of%20the%20Nordic%20Beasts)
+- [Taotie Dragon](db.ygoprodeck.com/card/?search=Taotie%20Dragon)
+- [Tardy Orc](db.ygoprodeck.com/card/?search=Tardy%20Orc)
+- [Tasuke Knight](db.ygoprodeck.com/card/?search=Tasuke%20Knight)
+- [Tatakawa Knight](db.ygoprodeck.com/card/?search=Tatakawa%20Knight)
+- [Taunt](db.ygoprodeck.com/card/?search=Taunt)
+- [Telekinetic Power Well](db.ygoprodeck.com/card/?search=Telekinetic%20Power%20Well)
+- [Telekinetic Shocker](db.ygoprodeck.com/card/?search=Telekinetic%20Shocker)
+- [Telepathic Power](db.ygoprodeck.com/card/?search=Telepathic%20Power)
+- [Teleport](db.ygoprodeck.com/card/?search=Teleport)
+- [Temple of Skulls](db.ygoprodeck.com/card/?search=Temple%20of%20Skulls)
+- [Temple of the Kings](db.ygoprodeck.com/card/?search=Temple%20of%20the%20Kings)
+- [Temple of the Mind's Eye](db.ygoprodeck.com/card/?search=Temple%20of%20the%20Mind's%20Eye)
+- [Temple of the Six](db.ygoprodeck.com/card/?search=Temple%20of%20the%20Six)
+- [Temple of the Sun](db.ygoprodeck.com/card/?search=Temple%20of%20the%20Sun)
+- [Temtempo the Percussion Djinn](db.ygoprodeck.com/card/?search=Temtempo%20the%20Percussion%20Djinn)
+- [Tenacity of the Monarchs](db.ygoprodeck.com/card/?search=Tenacity%20of%20the%20Monarchs)
+- [Tenkabito Shien](db.ygoprodeck.com/card/?search=Tenkabito%20Shien)
+- [Tenshin](db.ygoprodeck.com/card/?search=Tenshin)
+- [Tenyi Spirit - Adhara](db.ygoprodeck.com/card/?search=Tenyi%20Spirit%20-%20Adhara)
+- [Tenyi Spirit - Ashuna](db.ygoprodeck.com/card/?search=Tenyi%20Spirit%20-%20Ashuna)
+- [Tenyi Spirit - Mapura](db.ygoprodeck.com/card/?search=Tenyi%20Spirit%20-%20Mapura)
+- [Tenyi Spirit - Nahata](db.ygoprodeck.com/card/?search=Tenyi%20Spirit%20-%20Nahata)
+- [Tenyi Spirit - Sahasrara](db.ygoprodeck.com/card/?search=Tenyi%20Spirit%20-%20Sahasrara)
+- [Tenyi Spirit - Shthana](db.ygoprodeck.com/card/?search=Tenyi%20Spirit%20-%20Shthana)
+- [Tenyi Spirit - Vishuda](db.ygoprodeck.com/card/?search=Tenyi%20Spirit%20-%20Vishuda)
+- [Terminal World](db.ygoprodeck.com/card/?search=Terminal%20World)
+- [Terminal World NEXT](db.ygoprodeck.com/card/?search=Terminal%20World%20NEXT)
+- [Terra the Terrible](db.ygoprodeck.com/card/?search=Terra%20the%20Terrible)
+- [Terratiger, the Empowered Warrior](db.ygoprodeck.com/card/?search=Terratiger,%20the%20Empowered%20Warrior)
+- [Terrene Toothed Tsuchinoko](db.ygoprodeck.com/card/?search=Terrene%20Toothed%20Tsuchinoko)
+- [Terrible Deal](db.ygoprodeck.com/card/?search=Terrible%20Deal)
+- [Terrifying Toddler of Torment](db.ygoprodeck.com/card/?search=Terrifying%20Toddler%20of%20Torment)
+- [Terror of Trishula](db.ygoprodeck.com/card/?search=Terror%20of%20Trishula)
+- [Terrorking Salmon](db.ygoprodeck.com/card/?search=Terrorking%20Salmon)
+- [Terrors of the Underroot](db.ygoprodeck.com/card/?search=Terrors%20of%20the%20Underroot)
+- [Test Ape](db.ygoprodeck.com/card/?search=Test%20Ape)
+- [Test Tiger](db.ygoprodeck.com/card/?search=Test%20Tiger)
+- [Testudo erat Numen](db.ygoprodeck.com/card/?search=Testudo%20erat%20Numen)
+- [Tethys, Goddess of Light](db.ygoprodeck.com/card/?search=Tethys,%20Goddess%20of%20Light)
+- [Texchanger](db.ygoprodeck.com/card/?search=Texchanger)
+- [TG-SX1](db.ygoprodeck.com/card/?search=TG-SX1)
+- [TG1-EM1](db.ygoprodeck.com/card/?search=TG1-EM1)
+- [TGX1-HL](db.ygoprodeck.com/card/?search=TGX1-HL)
+- [TGX300](db.ygoprodeck.com/card/?search=TGX300)
+- [That Six](db.ygoprodeck.com/card/?search=That%20Six)
+- [That Wacky Magic!](db.ygoprodeck.com/card/?search=That%20Wacky%20Magic!)
+- [That Which Feeds on Life](db.ygoprodeck.com/card/?search=That%20Which%20Feeds%20on%20Life)
+- [The 13th Grave](db.ygoprodeck.com/card/?search=The%2013th%20Grave)
+- [The A. Forces](db.ygoprodeck.com/card/?search=The%20A.%20Forces)
+- [The Accumulator](db.ygoprodeck.com/card/?search=The%20Accumulator)
+- [The Agent of Creation - Venus](db.ygoprodeck.com/card/?search=The%20Agent%20of%20Creation%20-%20Venus)
+- [The Agent of Entropy - Uranus](db.ygoprodeck.com/card/?search=The%20Agent%20of%20Entropy%20-%20Uranus)
+- [The Agent of Force - Mars](db.ygoprodeck.com/card/?search=The%20Agent%20of%20Force%20-%20Mars)
+- [The Agent of Judgment - Saturn](db.ygoprodeck.com/card/?search=The%20Agent%20of%20Judgment%20-%20Saturn)
+- [The Agent of Wisdom - Mercury](db.ygoprodeck.com/card/?search=The%20Agent%20of%20Wisdom%20-%20Mercury)
+- [The All-Seeing White Tiger](db.ygoprodeck.com/card/?search=The%20All-Seeing%20White%20Tiger)
+- [The Ascended of Thunder](db.ygoprodeck.com/card/?search=The%20Ascended%20of%20Thunder)
+- [The Atmosphere](db.ygoprodeck.com/card/?search=The%20Atmosphere)
+- [The Beginning of the End](db.ygoprodeck.com/card/?search=The%20Beginning%20of%20the%20End)
+- [The Big Cattle Drive](db.ygoprodeck.com/card/?search=The%20Big%20Cattle%20Drive)
+- [The Big March of Animals](db.ygoprodeck.com/card/?search=The%20Big%20March%20of%20Animals)
+- [The Big Saturn](db.ygoprodeck.com/card/?search=The%20Big%20Saturn)
+- [The Bistro Butcher](db.ygoprodeck.com/card/?search=The%20Bistro%20Butcher)
+- [The Black Stone of Legend](db.ygoprodeck.com/card/?search=The%20Black%20Stone%20of%20Legend)
+- [The Blazing Mars](db.ygoprodeck.com/card/?search=The%20Blazing%20Mars)
+- [The Calculator](db.ygoprodeck.com/card/?search=The%20Calculator)
+- [The Calibrator](db.ygoprodeck.com/card/?search=The%20Calibrator)
+- [The Cheerful Coffin](db.ygoprodeck.com/card/?search=The%20Cheerful%20Coffin)
+- [The Claw of Hermos](db.ygoprodeck.com/card/?search=The%20Claw%20of%20Hermos)
+- [The Creator](db.ygoprodeck.com/card/?search=The%20Creator)
+- [The Creator Incarnate](db.ygoprodeck.com/card/?search=The%20Creator%20Incarnate)
+- [The Dark - Hex-Sealed Fusion](db.ygoprodeck.com/card/?search=The%20Dark%20-%20Hex-Sealed%20Fusion)
+- [The Dark Creator](db.ygoprodeck.com/card/?search=The%20Dark%20Creator)
+- [The Dark Door](db.ygoprodeck.com/card/?search=The%20Dark%20Door)
+- [The Deep Grave](db.ygoprodeck.com/card/?search=The%20Deep%20Grave)
+- [The Despair Uranus](db.ygoprodeck.com/card/?search=The%20Despair%20Uranus)
+- [The Dragon Dwelling in the Cave](db.ygoprodeck.com/card/?search=The%20Dragon%20Dwelling%20in%20the%20Cave)
+- [The Dragon's Bead](db.ygoprodeck.com/card/?search=The%20Dragon's%20Bead)
+- [The Earl of Demise](db.ygoprodeck.com/card/?search=The%20Earl%20of%20Demise)
+- [The Earth - Hex-Sealed Fusion](db.ygoprodeck.com/card/?search=The%20Earth%20-%20Hex-Sealed%20Fusion)
+- [The Emperor's Holiday](db.ygoprodeck.com/card/?search=The%20Emperor's%20Holiday)
+- [The Eye of Timaeus](db.ygoprodeck.com/card/?search=The%20Eye%20of%20Timaeus)
+- [The Eye of Truth](db.ygoprodeck.com/card/?search=The%20Eye%20of%20Truth)
+- [The Fabled Abanc](db.ygoprodeck.com/card/?search=The%20Fabled%20Abanc)
+- [The Fabled Cerburrel](db.ygoprodeck.com/card/?search=The%20Fabled%20Cerburrel)
+- [The Fabled Chawa](db.ygoprodeck.com/card/?search=The%20Fabled%20Chawa)
+- [The Fabled Ganashia](db.ygoprodeck.com/card/?search=The%20Fabled%20Ganashia)
+- [The Fabled Kokkator](db.ygoprodeck.com/card/?search=The%20Fabled%20Kokkator)
+- [The Fabled Nozoochee](db.ygoprodeck.com/card/?search=The%20Fabled%20Nozoochee)
+- [The Fabled Peggulsus](db.ygoprodeck.com/card/?search=The%20Fabled%20Peggulsus)
+- [The Fang of Critias](db.ygoprodeck.com/card/?search=The%20Fang%20of%20Critias)
+- [The Fiend Megacyber](db.ygoprodeck.com/card/?search=The%20Fiend%20Megacyber)
+- [The First Monarch](db.ygoprodeck.com/card/?search=The%20First%20Monarch)
+- [The Flute of Summoning Dragon](db.ygoprodeck.com/card/?search=The%20Flute%20of%20Summoning%20Dragon)
+- [The Flute of Summoning Kuriboh](db.ygoprodeck.com/card/?search=The%20Flute%20of%20Summoning%20Kuriboh)
+- [The Forceful Checkpoint](db.ygoprodeck.com/card/?search=The%20Forceful%20Checkpoint)
+- [The Forces of Darkness](db.ygoprodeck.com/card/?search=The%20Forces%20of%20Darkness)
+- [The Forgiving Maiden](db.ygoprodeck.com/card/?search=The%20Forgiving%20Maiden)
+- [The Fountain in the Sky](db.ygoprodeck.com/card/?search=The%20Fountain%20in%20the%20Sky)
+- [The Furious Sea King](db.ygoprodeck.com/card/?search=The%20Furious%20Sea%20King)
+- [The Gates of Dark World](db.ygoprodeck.com/card/?search=The%20Gates%20of%20Dark%20World)
+- [The Gift of Greed](db.ygoprodeck.com/card/?search=The%20Gift%20of%20Greed)
+- [The Golden Apples](db.ygoprodeck.com/card/?search=The%20Golden%20Apples)
+- [The Grand Jupiter](db.ygoprodeck.com/card/?search=The%20Grand%20Jupiter)
+- [The Graveyard in the Fourth Dimension](db.ygoprodeck.com/card/?search=The%20Graveyard%20in%20the%20Fourth%20Dimension)
+- [The Great Emperor Penguin](db.ygoprodeck.com/card/?search=The%20Great%20Emperor%20Penguin)
+- [The Gross Ghost of Fled Dreams](db.ygoprodeck.com/card/?search=The%20Gross%20Ghost%20of%20Fled%20Dreams)
+- [The Huge Revolution is Over](db.ygoprodeck.com/card/?search=The%20Huge%20Revolution%20is%20Over)
+- [The Humble Sentry](db.ygoprodeck.com/card/?search=The%20Humble%20Sentry)
+- [The Hunter with 7 Weapons](db.ygoprodeck.com/card/?search=The%20Hunter%20with%207%20Weapons)
+- [The Illusory Gentleman](db.ygoprodeck.com/card/?search=The%20Illusory%20Gentleman)
+- [The Immortal Bushi](db.ygoprodeck.com/card/?search=The%20Immortal%20Bushi)
+- [The Immortal of Thunder](db.ygoprodeck.com/card/?search=The%20Immortal%20of%20Thunder)
+- [The Inexperienced Spy](db.ygoprodeck.com/card/?search=The%20Inexperienced%20Spy)
+- [The Judgement Hand](db.ygoprodeck.com/card/?search=The%20Judgement%20Hand)
+- [The Kaiju Files](db.ygoprodeck.com/card/?search=The%20Kaiju%20Files)
+- [The Kick Man](db.ygoprodeck.com/card/?search=The%20Kick%20Man)
+- [The Lady in Wight](db.ygoprodeck.com/card/?search=The%20Lady%20in%20Wight)
+- [The Law of the Normal](db.ygoprodeck.com/card/?search=The%20Law%20of%20the%20Normal)
+- [The League of Uniform Nomenclature](db.ygoprodeck.com/card/?search=The%20League%20of%20Uniform%20Nomenclature)
+- [The Legendary Fisherman](db.ygoprodeck.com/card/?search=The%20Legendary%20Fisherman)
+- [The Legendary Fisherman II](db.ygoprodeck.com/card/?search=The%20Legendary%20Fisherman%20II)
+- [The Legendary Fisherman III](db.ygoprodeck.com/card/?search=The%20Legendary%20Fisherman%20III)
+- [The Light - Hex-Sealed Fusion](db.ygoprodeck.com/card/?search=The%20Light%20-%20Hex-Sealed%20Fusion)
+- [The Little Swordsman of Aile](db.ygoprodeck.com/card/?search=The%20Little%20Swordsman%20of%20Aile)
+- [The Mask of Remnants](db.ygoprodeck.com/card/?search=The%20Mask%20of%20Remnants)
+- [The Masked Beast](db.ygoprodeck.com/card/?search=The%20Masked%20Beast)
+- [The Melody of Awakening Dragon](db.ygoprodeck.com/card/?search=The%20Melody%20of%20Awakening%20Dragon)
+- [The Monarchs Awaken](db.ygoprodeck.com/card/?search=The%20Monarchs%20Awaken)
+- [The Monarchs Erupt](db.ygoprodeck.com/card/?search=The%20Monarchs%20Erupt)
+- [The Monarchs Stormforth](db.ygoprodeck.com/card/?search=The%20Monarchs%20Stormforth)
+- [The Nordic Lights](db.ygoprodeck.com/card/?search=The%20Nordic%20Lights)
+- [The Paths of Destiny](db.ygoprodeck.com/card/?search=The%20Paths%20of%20Destiny)
+- [The Phantom Knights of Ancient Cloak](db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Ancient%20Cloak)
+- [The Phantom Knights of Cloven Helm](db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Cloven%20Helm)
+- [The Phantom Knights of Cursed Javelin](db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Cursed%20Javelin)
+- [The Phantom Knights of Dark Gauntlets](db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Dark%20Gauntlets)
+- [The Phantom Knights of Fragile Armor](db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Fragile%20Armor)
+- [The Phantom Knights of Lost Vambrace](db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Lost%20Vambrace)
+- [The Phantom Knights of Ragged Gloves](db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Ragged%20Gloves)
+- [The Phantom Knights of Shade Brigandine](db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Shade%20Brigandine)
+- [The Phantom Knights of Shadow Veil](db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Shadow%20Veil)
+- [The Phantom Knights of Silent Boots](db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Silent%20Boots)
+- [The Phantom Knights of Stained Greaves](db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Stained%20Greaves)
+- [The Phantom Knights of Tomb Shield](db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Tomb%20Shield)
+- [The Phantom Knights of Wrong Magnetring](db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Wrong%20Magnetring)
+- [The Phantom Knights' Rank-Up-Magic Launch](db.ygoprodeck.com/card/?search=The%20Phantom%20Knights'%20Rank-Up-Magic%20Launch)
+- [The Portrait's Secret](db.ygoprodeck.com/card/?search=The%20Portrait's%20Secret)
+- [The Prime Monarch](db.ygoprodeck.com/card/?search=The%20Prime%20Monarch)
+- [The Psychic Duelist](db.ygoprodeck.com/card/?search=The%20Psychic%20Duelist)
+- [The Puppet Magic of Dark Ruler](db.ygoprodeck.com/card/?search=The%20Puppet%20Magic%20of%20Dark%20Ruler)
+- [The Regulation of Tribe](db.ygoprodeck.com/card/?search=The%20Regulation%20of%20Tribe)
+- [The Reliable Guardian](db.ygoprodeck.com/card/?search=The%20Reliable%20Guardian)
+- [The Resolute Meklord Army](db.ygoprodeck.com/card/?search=The%20Resolute%20Meklord%20Army)
+- [The Return to the Normal](db.ygoprodeck.com/card/?search=The%20Return%20to%20the%20Normal)
+- [The Revenge of the Normal](db.ygoprodeck.com/card/?search=The%20Revenge%20of%20the%20Normal)
+- [The Rock Spirit](db.ygoprodeck.com/card/?search=The%20Rock%20Spirit)
+- [The Sanctuary in the Sky](db.ygoprodeck.com/card/?search=The%20Sanctuary%20in%20the%20Sky)
+- [The Second Sarcophagus](db.ygoprodeck.com/card/?search=The%20Second%20Sarcophagus)
+- [The Secret of the Bandit](db.ygoprodeck.com/card/?search=The%20Secret%20of%20the%20Bandit)
+- [The Shadow Who Controls the Dark](db.ygoprodeck.com/card/?search=The%20Shadow%20Who%20Controls%20the%20Dark)
+- [The Shallow Grave](db.ygoprodeck.com/card/?search=The%20Shallow%20Grave)
+- [The Six Samurai - Irou](db.ygoprodeck.com/card/?search=The%20Six%20Samurai%20-%20Irou)
+- [The Six Samurai - Kamon](db.ygoprodeck.com/card/?search=The%20Six%20Samurai%20-%20Kamon)
+- [The Six Samurai - Nisashi](db.ygoprodeck.com/card/?search=The%20Six%20Samurai%20-%20Nisashi)
+- [The Six Samurai - Yaichi](db.ygoprodeck.com/card/?search=The%20Six%20Samurai%20-%20Yaichi)
+- [The Six Samurai - Yariza](db.ygoprodeck.com/card/?search=The%20Six%20Samurai%20-%20Yariza)
+- [The Six Samurai - Zanji](db.ygoprodeck.com/card/?search=The%20Six%20Samurai%20-%20Zanji)
+- [The Snake Hair](db.ygoprodeck.com/card/?search=The%20Snake%20Hair)
+- [The Spell Absorbing Life](db.ygoprodeck.com/card/?search=The%20Spell%20Absorbing%20Life)
+- [The Statue of Easter Island](db.ygoprodeck.com/card/?search=The%20Statue%20of%20Easter%20Island)
+- [The Stern Mystic](db.ygoprodeck.com/card/?search=The%20Stern%20Mystic)
+- [The Suppression Pluto](db.ygoprodeck.com/card/?search=The%20Suppression%20Pluto)
+- [The Thing in the Crater](db.ygoprodeck.com/card/?search=The%20Thing%20in%20the%20Crater)
+- [The Third Sarcophagus](db.ygoprodeck.com/card/?search=The%20Third%20Sarcophagus)
+- [The Transmigration Prophecy](db.ygoprodeck.com/card/?search=The%20Transmigration%20Prophecy)
+- [The Tricky](db.ygoprodeck.com/card/?search=The%20Tricky)
+- [The Tripper Mercury](db.ygoprodeck.com/card/?search=The%20Tripper%20Mercury)
+- [The Trojan Horse](db.ygoprodeck.com/card/?search=The%20Trojan%20Horse)
+- [The True Name](db.ygoprodeck.com/card/?search=The%20True%20Name)
+- [The Unfriendly Amazon](db.ygoprodeck.com/card/?search=The%20Unfriendly%20Amazon)
+- [The Unhappy Girl](db.ygoprodeck.com/card/?search=The%20Unhappy%20Girl)
+- [The Unhappy Maiden](db.ygoprodeck.com/card/?search=The%20Unhappy%20Maiden)
+- [The Warrior Returning Alive](db.ygoprodeck.com/card/?search=The%20Warrior%20Returning%20Alive)
+- [The White Stone of Ancients](db.ygoprodeck.com/card/?search=The%20White%20Stone%20of%20Ancients)
+- [The White Stone of Legend](db.ygoprodeck.com/card/?search=The%20White%20Stone%20of%20Legend)
+- [The Wicked Worm Beast](db.ygoprodeck.com/card/?search=The%20Wicked%20Worm%20Beast)
+- [The World Legacy](db.ygoprodeck.com/card/?search=The%20World%20Legacy)
+- [Theban Nightmare](db.ygoprodeck.com/card/?search=Theban%20Nightmare)
+- [Thestalos the Firestorm Monarch](db.ygoprodeck.com/card/?search=Thestalos%20the%20Firestorm%20Monarch)
+- [Thor, Lord of the Aesir](db.ygoprodeck.com/card/?search=Thor,%20Lord%20of%20the%20Aesir)
+- [Thorn of Malice](db.ygoprodeck.com/card/?search=Thorn%20of%20Malice)
+- [Thousand Dragon](db.ygoprodeck.com/card/?search=Thousand%20Dragon)
+- [Thousand Energy](db.ygoprodeck.com/card/?search=Thousand%20Energy)
+- [Thousand Knives](db.ygoprodeck.com/card/?search=Thousand%20Knives)
+- [Thousand Needles](db.ygoprodeck.com/card/?search=Thousand%20Needles)
+- [Thousand-Eyes Idol](db.ygoprodeck.com/card/?search=Thousand-Eyes%20Idol)
+- [Thousand-Eyes Restrict](db.ygoprodeck.com/card/?search=Thousand-Eyes%20Restrict)
+- [Thousand-Eyes Spell](db.ygoprodeck.com/card/?search=Thousand-Eyes%20Spell)
+- [Threatening Roar](db.ygoprodeck.com/card/?search=Threatening%20Roar)
+- [Three of a Kind](db.ygoprodeck.com/card/?search=Three%20of%20a%20Kind)
+- [Three Strikes Barrier](db.ygoprodeck.com/card/?search=Three%20Strikes%20Barrier)
+- [Three Thousand Needles](db.ygoprodeck.com/card/?search=Three%20Thousand%20Needles)
+- [Three Trolling Trolls](db.ygoprodeck.com/card/?search=Three%20Trolling%20Trolls)
+- [Three-Headed Geedo](db.ygoprodeck.com/card/?search=Three-Headed%20Geedo)
+- [Three-Legged Zombies](db.ygoprodeck.com/card/?search=Three-Legged%20Zombies)
+- [Threshold Borg](db.ygoprodeck.com/card/?search=Threshold%20Borg)
+- [Throwstone Unit](db.ygoprodeck.com/card/?search=Throwstone%20Unit)
+- [Thunder Crash](db.ygoprodeck.com/card/?search=Thunder%20Crash)
+- [Thunder Dragon](db.ygoprodeck.com/card/?search=Thunder%20Dragon)
+- [Thunder Dragon Discharge](db.ygoprodeck.com/card/?search=Thunder%20Dragon%20Discharge)
+- [Thunder Dragonlord](db.ygoprodeck.com/card/?search=Thunder%20Dragonlord)
+- [Thunder Dragonmatrix](db.ygoprodeck.com/card/?search=Thunder%20Dragonmatrix)
+- [Thunder Dragons' Hundred Thunders](db.ygoprodeck.com/card/?search=Thunder%20Dragons'%20Hundred%20Thunders)
+- [Thunder End Dragon](db.ygoprodeck.com/card/?search=Thunder%20End%20Dragon)
+- [Thunder Hand](db.ygoprodeck.com/card/?search=Thunder%20Hand)
+- [Thunder Kid](db.ygoprodeck.com/card/?search=Thunder%20Kid)
+- [Thunder King Rai-Oh](db.ygoprodeck.com/card/?search=Thunder%20King%20Rai-Oh)
+- [Thunder Nyan Nyan](db.ygoprodeck.com/card/?search=Thunder%20Nyan%20Nyan)
+- [Thunder of Ruler](db.ygoprodeck.com/card/?search=Thunder%20of%20Ruler)
+- [Thunder Short](db.ygoprodeck.com/card/?search=Thunder%20Short)
+- [Ties of the Brethren](db.ygoprodeck.com/card/?search=Ties%20of%20the%20Brethren)
+- [Tiger Axe](db.ygoprodeck.com/card/?search=Tiger%20Axe)
+- [Tiger Dragon](db.ygoprodeck.com/card/?search=Tiger%20Dragon)
+- [Tiki Curse](db.ygoprodeck.com/card/?search=Tiki%20Curse)
+- [Tiki Soul](db.ygoprodeck.com/card/?search=Tiki%20Soul)
+- [Tilted Try](db.ygoprodeck.com/card/?search=Tilted%20Try)
+- [Time Escaper](db.ygoprodeck.com/card/?search=Time%20Escaper)
+- [Time Machine](db.ygoprodeck.com/card/?search=Time%20Machine)
+- [Time Magic Hammer](db.ygoprodeck.com/card/?search=Time%20Magic%20Hammer)
+- [Time Passage](db.ygoprodeck.com/card/?search=Time%20Passage)
+- [Time Thief Bezel Ship](db.ygoprodeck.com/card/?search=Time%20Thief%20Bezel%20Ship)
+- [Time Thief Chronocorder](db.ygoprodeck.com/card/?search=Time%20Thief%20Chronocorder)
+- [Time Thief Flyback](db.ygoprodeck.com/card/?search=Time%20Thief%20Flyback)
+- [Time Thief Hack](db.ygoprodeck.com/card/?search=Time%20Thief%20Hack)
+- [Time Thief Redoer](db.ygoprodeck.com/card/?search=Time%20Thief%20Redoer)
+- [Time Thief Regulator](db.ygoprodeck.com/card/?search=Time%20Thief%20Regulator)
+- [Time Thief Retrograde](db.ygoprodeck.com/card/?search=Time%20Thief%20Retrograde)
+- [Time Thief Startup](db.ygoprodeck.com/card/?search=Time%20Thief%20Startup)
+- [Time Thief Winder](db.ygoprodeck.com/card/?search=Time%20Thief%20Winder)
+- [Time Wizard](db.ygoprodeck.com/card/?search=Time%20Wizard)
+- [Timeater](db.ygoprodeck.com/card/?search=Timeater)
+- [Timegazer Magician](db.ygoprodeck.com/card/?search=Timegazer%20Magician)
+- [Timidity](db.ygoprodeck.com/card/?search=Timidity)
+- [Tin Goldfish](db.ygoprodeck.com/card/?search=Tin%20Goldfish)
+- [Tindangle Acute Cerberus](db.ygoprodeck.com/card/?search=Tindangle%20Acute%20Cerberus)
+- [Tindangle Angel](db.ygoprodeck.com/card/?search=Tindangle%20Angel)
+- [Tindangle Base Gardna](db.ygoprodeck.com/card/?search=Tindangle%20Base%20Gardna)
+- [Tindangle Delaunay](db.ygoprodeck.com/card/?search=Tindangle%20Delaunay)
+- [Tindangle Hound](db.ygoprodeck.com/card/?search=Tindangle%20Hound)
+- [Tindangle Intruder](db.ygoprodeck.com/card/?search=Tindangle%20Intruder)
+- [Tindangle Protector](db.ygoprodeck.com/card/?search=Tindangle%20Protector)
+- [Tindangle Trinity](db.ygoprodeck.com/card/?search=Tindangle%20Trinity)
+- [Token Collector](db.ygoprodeck.com/card/?search=Token%20Collector)
+- [Token Feastevil](db.ygoprodeck.com/card/?search=Token%20Feastevil)
+- [Token Stampede](db.ygoprodeck.com/card/?search=Token%20Stampede)
+- [Token Sundae](db.ygoprodeck.com/card/?search=Token%20Sundae)
+- [Token Thanksgiving](db.ygoprodeck.com/card/?search=Token%20Thanksgiving)
+- [Toll](db.ygoprodeck.com/card/?search=Toll)
+- [Toll Hike](db.ygoprodeck.com/card/?search=Toll%20Hike)
+- [Tomozaurus](db.ygoprodeck.com/card/?search=Tomozaurus)
+- [Tongyo](db.ygoprodeck.com/card/?search=Tongyo)
+- [Toon Alligator](db.ygoprodeck.com/card/?search=Toon%20Alligator)
+- [Toon Ancient Gear Golem](db.ygoprodeck.com/card/?search=Toon%20Ancient%20Gear%20Golem)
+- [Toon Barrel Dragon](db.ygoprodeck.com/card/?search=Toon%20Barrel%20Dragon)
+- [Toon Buster Blader](db.ygoprodeck.com/card/?search=Toon%20Buster%20Blader)
+- [Toon Cannon Soldier](db.ygoprodeck.com/card/?search=Toon%20Cannon%20Soldier)
+- [Toon Cyber Dragon](db.ygoprodeck.com/card/?search=Toon%20Cyber%20Dragon)
+- [Toon Dark Magician](db.ygoprodeck.com/card/?search=Toon%20Dark%20Magician)
+- [Toon Dark Magician Girl](db.ygoprodeck.com/card/?search=Toon%20Dark%20Magician%20Girl)
+- [Toon Defense](db.ygoprodeck.com/card/?search=Toon%20Defense)
+- [Toon Gemini Elf](db.ygoprodeck.com/card/?search=Toon%20Gemini%20Elf)
+- [Toon Goblin Attack Force](db.ygoprodeck.com/card/?search=Toon%20Goblin%20Attack%20Force)
+- [Toon Mask](db.ygoprodeck.com/card/?search=Toon%20Mask)
+- [Toon Masked Sorcerer](db.ygoprodeck.com/card/?search=Toon%20Masked%20Sorcerer)
+- [Toon Mayhem!](db.ygoprodeck.com/card/?search=Toon%20Mayhem!)
+- [Toon Mermaid](db.ygoprodeck.com/card/?search=Toon%20Mermaid)
+- [Toon Rollback](db.ygoprodeck.com/card/?search=Toon%20Rollback)
+- [Toon Summoned Skull](db.ygoprodeck.com/card/?search=Toon%20Summoned%20Skull)
+- [Toon Table of Contents](db.ygoprodeck.com/card/?search=Toon%20Table%20of%20Contents)
+- [Toon World](db.ygoprodeck.com/card/?search=Toon%20World)
+- [Top Runner](db.ygoprodeck.com/card/?search=Top%20Runner)
+- [Torment Token](db.ygoprodeck.com/card/?search=Torment%20Token)
+- [Tornado](db.ygoprodeck.com/card/?search=Tornado)
+- [Tornado Bird](db.ygoprodeck.com/card/?search=Tornado%20Bird)
+- [Tornado Dragon](db.ygoprodeck.com/card/?search=Tornado%20Dragon)
+- [Tornado Wall](db.ygoprodeck.com/card/?search=Tornado%20Wall)
+- [Torpedo Fish](db.ygoprodeck.com/card/?search=Torpedo%20Fish)
+- [Torpedo Takedown](db.ygoprodeck.com/card/?search=Torpedo%20Takedown)
+- [Torque Tune Gear](db.ygoprodeck.com/card/?search=Torque%20Tune%20Gear)
+- [Torrential Tribute](db.ygoprodeck.com/card/?search=Torrential%20Tribute)
+- [Totem Five](db.ygoprodeck.com/card/?search=Totem%20Five)
+- [Tour Bus From the Underworld](db.ygoprodeck.com/card/?search=Tour%20Bus%20From%20the%20Underworld)
+- [Tour Guide From the Underworld](db.ygoprodeck.com/card/?search=Tour%20Guide%20From%20the%20Underworld)
+- [Tour of Doom](db.ygoprodeck.com/card/?search=Tour%20of%20Doom)
+- [Tower of Babel](db.ygoprodeck.com/card/?search=Tower%20of%20Babel)
+- [Toy Knight](db.ygoprodeck.com/card/?search=Toy%20Knight)
+- [Toy Vendor](db.ygoprodeck.com/card/?search=Toy%20Vendor)
+- [Trade-In](db.ygoprodeck.com/card/?search=Trade-In)
+- [Trading Places](db.ygoprodeck.com/card/?search=Trading%20Places)
+- [Traffic Ghost](db.ygoprodeck.com/card/?search=Traffic%20Ghost)
+- [Tragedy](db.ygoprodeck.com/card/?search=Tragedy)
+- [Tragoedia](db.ygoprodeck.com/card/?search=Tragoedia)
+- [Train Connection](db.ygoprodeck.com/card/?search=Train%20Connection)
+- [Training Fur Hire, Fur All Your Training Needs](db.ygoprodeck.com/card/?search=Training%20Fur%20Hire,%20Fur%20All%20Your%20Training%20Needs)
+- [Trakodon](db.ygoprodeck.com/card/?search=Trakodon)
+- [Trance Archfiend](db.ygoprodeck.com/card/?search=Trance%20Archfiend)
+- [Trance the Magic Swordsman](db.ygoprodeck.com/card/?search=Trance%20the%20Magic%20Swordsman)
+- [Trancefamiliar](db.ygoprodeck.com/card/?search=Trancefamiliar)
+- [Transcendent Wings](db.ygoprodeck.com/card/?search=Transcendent%20Wings)
+- [Transcicada](db.ygoprodeck.com/card/?search=Transcicada)
+- [Transforming Sphere](db.ygoprodeck.com/card/?search=Transforming%20Sphere)
+- [Transmigration Break](db.ygoprodeck.com/card/?search=Transmigration%20Break)
+- [Transmission Gear](db.ygoprodeck.com/card/?search=Transmission%20Gear)
+- [Transmodify](db.ygoprodeck.com/card/?search=Transmodify)
+- [Transonic Bird](db.ygoprodeck.com/card/?search=Transonic%20Bird)
+- [Trap Eater](db.ygoprodeck.com/card/?search=Trap%20Eater)
+- [Trap Hole](db.ygoprodeck.com/card/?search=Trap%20Hole)
+- [Trap Jammer](db.ygoprodeck.com/card/?search=Trap%20Jammer)
+- [Trap Master](db.ygoprodeck.com/card/?search=Trap%20Master)
+- [Trap of Board Eraser](db.ygoprodeck.com/card/?search=Trap%20of%20Board%20Eraser)
+- [Trap of Darkness](db.ygoprodeck.com/card/?search=Trap%20of%20Darkness)
+- [Trap of the Imperial Tomb](db.ygoprodeck.com/card/?search=Trap%20of%20the%20Imperial%20Tomb)
+- [Trap Reactor Y FI](db.ygoprodeck.com/card/?search=Trap%20Reactor%20Y%20FI)
+- [Trap Stun](db.ygoprodeck.com/card/?search=Trap%20Stun)
+- [Trap Trick](db.ygoprodeck.com/card/?search=Trap%20Trick)
+- [Traptrix Nepenthes](db.ygoprodeck.com/card/?search=Traptrix%20Nepenthes)
+- [Traptrix Trap Hole Nightmare](db.ygoprodeck.com/card/?search=Traptrix%20Trap%20Hole%20Nightmare)
+- [Treacherous Trap Hole](db.ygoprodeck.com/card/?search=Treacherous%20Trap%20Hole)
+- [Treasure Panda](db.ygoprodeck.com/card/?search=Treasure%20Panda)
+- [Treaty on Uniform Nomenclature](db.ygoprodeck.com/card/?search=Treaty%20on%20Uniform%20Nomenclature)
+- [Tree Otter](db.ygoprodeck.com/card/?search=Tree%20Otter)
+- [Treeborn Frog](db.ygoprodeck.com/card/?search=Treeborn%20Frog)
+- [Tremendous Fire](db.ygoprodeck.com/card/?search=Tremendous%20Fire)
+- [Trent](db.ygoprodeck.com/card/?search=Trent)
+- [Tri-and-Guess](db.ygoprodeck.com/card/?search=Tri-and-Guess)
+- [Tri-Brigade Nervall](db.ygoprodeck.com/card/?search=Tri-Brigade%20Nervall)
+- [Tri-Brigade Oath](db.ygoprodeck.com/card/?search=Tri-Brigade%20Oath)
+- [Tri-Brigade Rendezvous](db.ygoprodeck.com/card/?search=Tri-Brigade%20Rendezvous)
+- [Tri-Brigade Revolt](db.ygoprodeck.com/card/?search=Tri-Brigade%20Revolt)
+- [Tri-Brigade Rugal the Silver Sheller](db.ygoprodeck.com/card/?search=Tri-Brigade%20Rugal%20the%20Silver%20Sheller)
+- [Tri-Brigade Stand-Off](db.ygoprodeck.com/card/?search=Tri-Brigade%20Stand-Off)
+- [Tri-Wight](db.ygoprodeck.com/card/?search=Tri-Wight)
+- [Trial of Nightmare](db.ygoprodeck.com/card/?search=Trial%20of%20Nightmare)
+- [Trial of the Princesses](db.ygoprodeck.com/card/?search=Trial%20of%20the%20Princesses)
+- [Triamid Dancer](db.ygoprodeck.com/card/?search=Triamid%20Dancer)
+- [Triamid Fortress](db.ygoprodeck.com/card/?search=Triamid%20Fortress)
+- [Triamid Loading](db.ygoprodeck.com/card/?search=Triamid%20Loading)
+- [Triangle Ecstasy Spark](db.ygoprodeck.com/card/?search=Triangle%20Ecstasy%20Spark)
+- [Triangle Power](db.ygoprodeck.com/card/?search=Triangle%20Power)
+- [Trias Hierarchia](db.ygoprodeck.com/card/?search=Trias%20Hierarchia)
+- [Tribal Synergy](db.ygoprodeck.com/card/?search=Tribal%20Synergy)
+- [Tribe-Infecting Virus](db.ygoprodeck.com/card/?search=Tribe-Infecting%20Virus)
+- [Tribute Doll](db.ygoprodeck.com/card/?search=Tribute%20Doll)
+- [Tribute to the Doomed](db.ygoprodeck.com/card/?search=Tribute%20to%20the%20Doomed)
+- [Trick Box](db.ygoprodeck.com/card/?search=Trick%20Box)
+- [Trickstar Bloom](db.ygoprodeck.com/card/?search=Trickstar%20Bloom)
+- [Trickstar Bouquet](db.ygoprodeck.com/card/?search=Trickstar%20Bouquet)
+- [Trickstar Candina](db.ygoprodeck.com/card/?search=Trickstar%20Candina)
+- [Trickstar Delfiendium](db.ygoprodeck.com/card/?search=Trickstar%20Delfiendium)
+- [Trickstar Fusion](db.ygoprodeck.com/card/?search=Trickstar%20Fusion)
+- [Trickstar Light Arena](db.ygoprodeck.com/card/?search=Trickstar%20Light%20Arena)
+- [Trickstar Lilybell](db.ygoprodeck.com/card/?search=Trickstar%20Lilybell)
+- [Trickstar Lycoris](db.ygoprodeck.com/card/?search=Trickstar%20Lycoris)
+- [Trickstar Mandrake](db.ygoprodeck.com/card/?search=Trickstar%20Mandrake)
+- [Trickstar Narkissus](db.ygoprodeck.com/card/?search=Trickstar%20Narkissus)
+- [Trickstar Nightshade](db.ygoprodeck.com/card/?search=Trickstar%20Nightshade)
+- [Tricky Spell 4](db.ygoprodeck.com/card/?search=Tricky%20Spell%204)
+- [Tricular](db.ygoprodeck.com/card/?search=Tricular)
+- [Trident Warrior](db.ygoprodeck.com/card/?search=Trident%20Warrior)
+- [Trifortressops](db.ygoprodeck.com/card/?search=Trifortressops)
+- [Triggered Summon](db.ygoprodeck.com/card/?search=Triggered%20Summon)
+- [Trigon](db.ygoprodeck.com/card/?search=Trigon)
+- [Triple Burst Dragon](db.ygoprodeck.com/card/?search=Triple%20Burst%20Dragon)
+- [Tripod Fish](db.ygoprodeck.com/card/?search=Tripod%20Fish)
+- [Tripwire Beast](db.ygoprodeck.com/card/?search=Tripwire%20Beast)
+- [Tristan, Knight of the Underworld](db.ygoprodeck.com/card/?search=Tristan,%20Knight%20of%20the%20Underworld)
+- [Trojan Gladiator Beast](db.ygoprodeck.com/card/?search=Trojan%20Gladiator%20Beast)
+- [Troop Dragon](db.ygoprodeck.com/card/?search=Troop%20Dragon)
+- [Truckroid](db.ygoprodeck.com/card/?search=Truckroid)
+- [True Draco Apocalypse](db.ygoprodeck.com/card/?search=True%20Draco%20Apocalypse)
+- [True Draco Heritage](db.ygoprodeck.com/card/?search=True%20Draco%20Heritage)
+- [True King Agnimazud, the Vanisher](db.ygoprodeck.com/card/?search=True%20King%20Agnimazud,%20the%20Vanisher)
+- [True King's Return](db.ygoprodeck.com/card/?search=True%20King's%20Return)
+- [Tsukuyomi](db.ygoprodeck.com/card/?search=Tsukuyomi)
+- [Tune Warrior](db.ygoprodeck.com/card/?search=Tune%20Warrior)
+- [Tuned Magician](db.ygoprodeck.com/card/?search=Tuned%20Magician)
+- [Tuner Capture](db.ygoprodeck.com/card/?search=Tuner%20Capture)
+- [Tuning](db.ygoprodeck.com/card/?search=Tuning)
+- [Tuningware](db.ygoprodeck.com/card/?search=Tuningware)
+- [Turbo Booster](db.ygoprodeck.com/card/?search=Turbo%20Booster)
+- [Turbo Synchron](db.ygoprodeck.com/card/?search=Turbo%20Synchron)
+- [Turbo Warrior](db.ygoprodeck.com/card/?search=Turbo%20Warrior)
+- [Turnabout](db.ygoprodeck.com/card/?search=Turnabout)
+- [Turning of the World](db.ygoprodeck.com/card/?search=Turning%20of%20the%20World)
+- [Turret Warrior](db.ygoprodeck.com/card/?search=Turret%20Warrior)
+- [Turtle Bird](db.ygoprodeck.com/card/?search=Turtle%20Bird)
+- [Turtle Oath](db.ygoprodeck.com/card/?search=Turtle%20Oath)
+- [Turtle Tiger](db.ygoprodeck.com/card/?search=Turtle%20Tiger)
+- [Turu-Purun](db.ygoprodeck.com/card/?search=Turu-Purun)
+- [Tutan Mask](db.ygoprodeck.com/card/?search=Tutan%20Mask)
+- [Twilight Cloth](db.ygoprodeck.com/card/?search=Twilight%20Cloth)
+- [Twilight Ninja Getsuga, the Shogun](db.ygoprodeck.com/card/?search=Twilight%20Ninja%20Getsuga,%20the%20Shogun)
+- [Twilight Ninja Nichirin, the Chunin](db.ygoprodeck.com/card/?search=Twilight%20Ninja%20Nichirin,%20the%20Chunin)
+- [Twilight Ninja Shingetsu](db.ygoprodeck.com/card/?search=Twilight%20Ninja%20Shingetsu)
+- [Twilight Rose Knight](db.ygoprodeck.com/card/?search=Twilight%20Rose%20Knight)
+- [Twilight Twin Dragons](db.ygoprodeck.com/card/?search=Twilight%20Twin%20Dragons)
+- [Twin Long Rods #2](db.ygoprodeck.com/card/?search=Twin%20Long%20Rods%20#2)
+- [Twin Photon Lizard](db.ygoprodeck.com/card/?search=Twin%20Photon%20Lizard)
+- [Twin Swords of Flashing Light - Tryce](db.ygoprodeck.com/card/?search=Twin%20Swords%20of%20Flashing%20Light%20-%20Tryce)
+- [Twin Triangle Dragon](db.ygoprodeck.com/card/?search=Twin%20Triangle%20Dragon)
+- [Twin Twisters](db.ygoprodeck.com/card/?search=Twin%20Twisters)
+- [Twin-Barrel Dragon](db.ygoprodeck.com/card/?search=Twin-Barrel%20Dragon)
+- [Twin-Headed Behemoth](db.ygoprodeck.com/card/?search=Twin-Headed%20Behemoth)
+- [Twin-Headed Fire Dragon](db.ygoprodeck.com/card/?search=Twin-Headed%20Fire%20Dragon)
+- [Twin-Headed Thunder Dragon](db.ygoprodeck.com/card/?search=Twin-Headed%20Thunder%20Dragon)
+- [Twin-Headed Wolf](db.ygoprodeck.com/card/?search=Twin-Headed%20Wolf)
+- [Twin-Shield Defender](db.ygoprodeck.com/card/?search=Twin-Shield%20Defender)
+- [Twin-Sword Marauder](db.ygoprodeck.com/card/?search=Twin-Sword%20Marauder)
+- [Twisted Personality](db.ygoprodeck.com/card/?search=Twisted%20Personality)
+- [Twister](db.ygoprodeck.com/card/?search=Twister)
+- [Two Thousand Needles](db.ygoprodeck.com/card/?search=Two%20Thousand%20Needles)
+- [Two Toads with One Sting](db.ygoprodeck.com/card/?search=Two%20Toads%20with%20One%20Sting)
+- [Two-for-One Team](db.ygoprodeck.com/card/?search=Two-for-One%20Team)
+- [Two-Headed King Rex](db.ygoprodeck.com/card/?search=Two-Headed%20King%20Rex)
+- [Two-Man Cell Battle](db.ygoprodeck.com/card/?search=Two-Man%20Cell%20Battle)
+- [Two-Mouth Darkruler](db.ygoprodeck.com/card/?search=Two-Mouth%20Darkruler)
+- [Two-Pronged Attack](db.ygoprodeck.com/card/?search=Two-Pronged%20Attack)
+- [Tyhone](db.ygoprodeck.com/card/?search=Tyhone)
+- [Tyhone #2](db.ygoprodeck.com/card/?search=Tyhone%20#2)
+- [Type Zero Magic Crusher](db.ygoprodeck.com/card/?search=Type%20Zero%20Magic%20Crusher)
+- [Typhoon](db.ygoprodeck.com/card/?search=Typhoon)
+- [Tyr of the Nordic Champions](db.ygoprodeck.com/card/?search=Tyr%20of%20the%20Nordic%20Champions)
+- [Tyranno Infinity](db.ygoprodeck.com/card/?search=Tyranno%20Infinity)
+- [Tyrant Burst Dragon](db.ygoprodeck.com/card/?search=Tyrant%20Burst%20Dragon)
+- [Tyrant Dino Fusion](db.ygoprodeck.com/card/?search=Tyrant%20Dino%20Fusion)
+- [Tyrant Dragon](db.ygoprodeck.com/card/?search=Tyrant%20Dragon)
+- [Tyrant Farm](db.ygoprodeck.com/card/?search=Tyrant%20Farm)
+- [Tyrant Wing](db.ygoprodeck.com/card/?search=Tyrant%20Wing)
+- [Tyrant's Tantrum](db.ygoprodeck.com/card/?search=Tyrant's%20Tantrum)
+- [Tyrant's Tirade](db.ygoprodeck.com/card/?search=Tyrant's%20Tirade)
+- [Tyrant's Tummyache](db.ygoprodeck.com/card/?search=Tyrant's%20Tummyache)
+- [Tytannial, Princess of Camellias](db.ygoprodeck.com/card/?search=Tytannial,%20Princess%20of%20Camellias)
+- [U.A. Dreadnought Dunker](db.ygoprodeck.com/card/?search=U.A.%20Dreadnought%20Dunker)
+- [U.A. Libero Spiker](db.ygoprodeck.com/card/?search=U.A.%20Libero%20Spiker)
+- [U.A. Locker Room](db.ygoprodeck.com/card/?search=U.A.%20Locker%20Room)
+- [U.A. Man of the Match](db.ygoprodeck.com/card/?search=U.A.%20Man%20of%20the%20Match)
+- [U.A. Penalty Box](db.ygoprodeck.com/card/?search=U.A.%20Penalty%20Box)
+- [U.A. Player Manager](db.ygoprodeck.com/card/?search=U.A.%20Player%20Manager)
+- [U.A. Powered Jersey](db.ygoprodeck.com/card/?search=U.A.%20Powered%20Jersey)
+- [U.A. Rival Rebounder](db.ygoprodeck.com/card/?search=U.A.%20Rival%20Rebounder)
+- [U.A. Signing Deal](db.ygoprodeck.com/card/?search=U.A.%20Signing%20Deal)
+- [U.A. Stadium](db.ygoprodeck.com/card/?search=U.A.%20Stadium)
+- [UFO Turtle](db.ygoprodeck.com/card/?search=UFO%20Turtle)
+- [UFOroid](db.ygoprodeck.com/card/?search=UFOroid)
+- [Ultimate Ancient Gear Golem](db.ygoprodeck.com/card/?search=Ultimate%20Ancient%20Gear%20Golem)
+- [Ultimate Baseball Kid](db.ygoprodeck.com/card/?search=Ultimate%20Baseball%20Kid)
+- [Ultimate Obedient Fiend](db.ygoprodeck.com/card/?search=Ultimate%20Obedient%20Fiend)
+- [Ultimate Providence](db.ygoprodeck.com/card/?search=Ultimate%20Providence)
+- [Ultimate Tyranno](db.ygoprodeck.com/card/?search=Ultimate%20Tyranno)
+- [Ultimaya Tzolkin](db.ygoprodeck.com/card/?search=Ultimaya%20Tzolkin)
+- [Ultra Evolution Pill](db.ygoprodeck.com/card/?search=Ultra%20Evolution%20Pill)
+- [Umbral Horror Ghost](db.ygoprodeck.com/card/?search=Umbral%20Horror%20Ghost)
+- [Umbral Horror Ghoul](db.ygoprodeck.com/card/?search=Umbral%20Horror%20Ghoul)
+- [Umbral Horror Unform](db.ygoprodeck.com/card/?search=Umbral%20Horror%20Unform)
+- [Umbral Horror Will o' the Wisp](db.ygoprodeck.com/card/?search=Umbral%20Horror%20Will%20o'%20the%20Wisp)
+- [Umbral Soul](db.ygoprodeck.com/card/?search=Umbral%20Soul)
+- [Umi](db.ygoprodeck.com/card/?search=Umi)
+- [Umiiruka](db.ygoprodeck.com/card/?search=Umiiruka)
+- [Uminotaurus](db.ygoprodeck.com/card/?search=Uminotaurus)
+- [Unauthorized Bootup Device](db.ygoprodeck.com/card/?search=Unauthorized%20Bootup%20Device)
+- [Unbreakable Spirit](db.ygoprodeck.com/card/?search=Unbreakable%20Spirit)
+- [Unchained Twins - Aruha](db.ygoprodeck.com/card/?search=Unchained%20Twins%20-%20Aruha)
+- [Unchained Twins - Rakea](db.ygoprodeck.com/card/?search=Unchained%20Twins%20-%20Rakea)
+- [Unchained Twins - Sarama](db.ygoprodeck.com/card/?search=Unchained%20Twins%20-%20Sarama)
+- [Undaunted Bumpkin Beast](db.ygoprodeck.com/card/?search=Undaunted%20Bumpkin%20Beast)
+- [Underclock Taker](db.ygoprodeck.com/card/?search=Underclock%20Taker)
+- [Underworld Egg Clutch](db.ygoprodeck.com/card/?search=Underworld%20Egg%20Clutch)
+- [Unending Nightmare](db.ygoprodeck.com/card/?search=Unending%20Nightmare)
+- [Unexpected Dai](db.ygoprodeck.com/card/?search=Unexpected%20Dai)
+- [Uni-Horned Familiar](db.ygoprodeck.com/card/?search=Uni-Horned%20Familiar)
+- [Uni-Song Tuning](db.ygoprodeck.com/card/?search=Uni-Song%20Tuning)
+- [Uni-Zombie](db.ygoprodeck.com/card/?search=Uni-Zombie)
+- [Unicycular](db.ygoprodeck.com/card/?search=Unicycular)
+- [Unification](db.ygoprodeck.com/card/?search=Unification)
+- [Unified Front](db.ygoprodeck.com/card/?search=Unified%20Front)
+- [Uniflora, Mystical Beast of the Forest](db.ygoprodeck.com/card/?search=Uniflora,%20Mystical%20Beast%20of%20the%20Forest)
+- [Unifrog](db.ygoprodeck.com/card/?search=Unifrog)
+- [Union Attack](db.ygoprodeck.com/card/?search=Union%20Attack)
+- [Union Combination](db.ygoprodeck.com/card/?search=Union%20Combination)
+- [Union Hangar](db.ygoprodeck.com/card/?search=Union%20Hangar)
+- [Union Rider](db.ygoprodeck.com/card/?search=Union%20Rider)
+- [Union Scramble](db.ygoprodeck.com/card/?search=Union%20Scramble)
+- [United Resistance](db.ygoprodeck.com/card/?search=United%20Resistance)
+- [United We Stand](db.ygoprodeck.com/card/?search=United%20We%20Stand)
+- [Universal Adapter](db.ygoprodeck.com/card/?search=Universal%20Adapter)
+- [Unknown Synchron](db.ygoprodeck.com/card/?search=Unknown%20Synchron)
+- [Unknown Warrior of Fiend](db.ygoprodeck.com/card/?search=Unknown%20Warrior%20of%20Fiend)
+- [Unleash Your Power!](db.ygoprodeck.com/card/?search=Unleash%20Your%20Power!)
+- [Unmasked Dragon](db.ygoprodeck.com/card/?search=Unmasked%20Dragon)
+- [Unpossessed](db.ygoprodeck.com/card/?search=Unpossessed)
+- [Unshaven Angler](db.ygoprodeck.com/card/?search=Unshaven%20Angler)
+- [Unstable Evolution](db.ygoprodeck.com/card/?search=Unstable%20Evolution)
+- [Until Noble Arms are Needed Once Again](db.ygoprodeck.com/card/?search=Until%20Noble%20Arms%20are%20Needed%20Once%20Again)
+- [Update Jammer](db.ygoprodeck.com/card/?search=Update%20Jammer)
+- [Upstart Golden Ninja](db.ygoprodeck.com/card/?search=Upstart%20Golden%20Ninja)
+- [Uraby](db.ygoprodeck.com/card/?search=Uraby)
+- [Urgent Synthesis](db.ygoprodeck.com/card/?search=Urgent%20Synthesis)
+- [Urgent Tuning](db.ygoprodeck.com/card/?search=Urgent%20Tuning)
+- [Ursarctic Drytron](db.ygoprodeck.com/card/?search=Ursarctic%20Drytron)
+- [Ushi Oni](db.ygoprodeck.com/card/?search=Ushi%20Oni)
+- [Utopian Aura](db.ygoprodeck.com/card/?search=Utopian%20Aura)
+- [V-Tiger Jet](db.ygoprodeck.com/card/?search=V-Tiger%20Jet)
+- [Vain Betrayer](db.ygoprodeck.com/card/?search=Vain%20Betrayer)
+- [Valerifawn, Mystical Beast of the Forest](db.ygoprodeck.com/card/?search=Valerifawn,%20Mystical%20Beast%20of%20the%20Forest)
+- [Valhalla, Hall of the Fallen](db.ygoprodeck.com/card/?search=Valhalla,%20Hall%20of%20the%20Fallen)
+- [Valkyrian Knight](db.ygoprodeck.com/card/?search=Valkyrian%20Knight)
+- [Valkyrie Chariot](db.ygoprodeck.com/card/?search=Valkyrie%20Chariot)
+- [Valkyrie Funfte](db.ygoprodeck.com/card/?search=Valkyrie%20Funfte)
+- [Valkyrie of the Nordic Ascendant](db.ygoprodeck.com/card/?search=Valkyrie%20of%20the%20Nordic%20Ascendant)
+- [Valkyrion the Magna Warrior](db.ygoprodeck.com/card/?search=Valkyrion%20the%20Magna%20Warrior)
+- [Vampire Awakening](db.ygoprodeck.com/card/?search=Vampire%20Awakening)
+- [Vampire Baby](db.ygoprodeck.com/card/?search=Vampire%20Baby)
+- [Vampire Domination](db.ygoprodeck.com/card/?search=Vampire%20Domination)
+- [Vampire Dragon](db.ygoprodeck.com/card/?search=Vampire%20Dragon)
+- [Vampire Familiar](db.ygoprodeck.com/card/?search=Vampire%20Familiar)
+- [Vampire Genesis](db.ygoprodeck.com/card/?search=Vampire%20Genesis)
+- [Vampire Grace](db.ygoprodeck.com/card/?search=Vampire%20Grace)
+- [Vampire Grimson](db.ygoprodeck.com/card/?search=Vampire%20Grimson)
+- [Vampire Kingdom](db.ygoprodeck.com/card/?search=Vampire%20Kingdom)
+- [Vampire Lady](db.ygoprodeck.com/card/?search=Vampire%20Lady)
+- [Vampire Lord](db.ygoprodeck.com/card/?search=Vampire%20Lord)
+- [Vampire Red Baron](db.ygoprodeck.com/card/?search=Vampire%20Red%20Baron)
+- [Vampire Retainer](db.ygoprodeck.com/card/?search=Vampire%20Retainer)
+- [Vampire Scarlet Scourge](db.ygoprodeck.com/card/?search=Vampire%20Scarlet%20Scourge)
+- [Vampire's Curse](db.ygoprodeck.com/card/?search=Vampire's%20Curse)
+- [Vampire's Desire](db.ygoprodeck.com/card/?search=Vampire's%20Desire)
+- [Vampire's Domain](db.ygoprodeck.com/card/?search=Vampire's%20Domain)
+- [Vampiric Koala](db.ygoprodeck.com/card/?search=Vampiric%20Koala)
+- [Vampiric Orchis](db.ygoprodeck.com/card/?search=Vampiric%20Orchis)
+- [Van'Dalgyon the Dark Dragon Lord](db.ygoprodeck.com/card/?search=Van'Dalgyon%20the%20Dark%20Dragon%20Lord)
+- [Vanadis of the Nordic Ascendant](db.ygoprodeck.com/card/?search=Vanadis%20of%20the%20Nordic%20Ascendant)
+- [Vanguard of the Dragon](db.ygoprodeck.com/card/?search=Vanguard%20of%20the%20Dragon)
+- [Vanity's Call](db.ygoprodeck.com/card/?search=Vanity's%20Call)
+- [Vanity's Fiend](db.ygoprodeck.com/card/?search=Vanity's%20Fiend)
+- [Vanity's Ruler](db.ygoprodeck.com/card/?search=Vanity's%20Ruler)
+- [Vanquishing Light](db.ygoprodeck.com/card/?search=Vanquishing%20Light)
+- [Variable Form](db.ygoprodeck.com/card/?search=Variable%20Form)
+- [Variety Comes Out](db.ygoprodeck.com/card/?search=Variety%20Comes%20Out)
+- [Vehicroid Connection Zone](db.ygoprodeck.com/card/?search=Vehicroid%20Connection%20Zone)
+- [Veil of Darkness](db.ygoprodeck.com/card/?search=Veil%20of%20Darkness)
+- [Vendread Anima](db.ygoprodeck.com/card/?search=Vendread%20Anima)
+- [Vendread Daybreak](db.ygoprodeck.com/card/?search=Vendread%20Daybreak)
+- [Vendread Nightmare](db.ygoprodeck.com/card/?search=Vendread%20Nightmare)
+- [Vendread Revenants](db.ygoprodeck.com/card/?search=Vendread%20Revenants)
+- [Vendread Striges](db.ygoprodeck.com/card/?search=Vendread%20Striges)
+- [Vengeful Bog Spirit](db.ygoprodeck.com/card/?search=Vengeful%20Bog%20Spirit)
+- [Vengeful Servant](db.ygoprodeck.com/card/?search=Vengeful%20Servant)
+- [Vengeful Shinobi](db.ygoprodeck.com/card/?search=Vengeful%20Shinobi)
+- [Vennominon the King of Poisonous Snakes](db.ygoprodeck.com/card/?search=Vennominon%20the%20King%20of%20Poisonous%20Snakes)
+- [Vennu, Bright Bird of Divinity](db.ygoprodeck.com/card/?search=Vennu,%20Bright%20Bird%20of%20Divinity)
+- [Venom Boa](db.ygoprodeck.com/card/?search=Venom%20Boa)
+- [Venom Burn](db.ygoprodeck.com/card/?search=Venom%20Burn)
+- [Venom Cobra](db.ygoprodeck.com/card/?search=Venom%20Cobra)
+- [Venom Serpent](db.ygoprodeck.com/card/?search=Venom%20Serpent)
+- [Venom Shot](db.ygoprodeck.com/card/?search=Venom%20Shot)
+- [Venom Snake](db.ygoprodeck.com/card/?search=Venom%20Snake)
+- [Venom Swamp](db.ygoprodeck.com/card/?search=Venom%20Swamp)
+- [Ventdra, the Empowered Warrior](db.ygoprodeck.com/card/?search=Ventdra,%20the%20Empowered%20Warrior)
+- [Verdant Sanctuary](db.ygoprodeck.com/card/?search=Verdant%20Sanctuary)
+- [Vermillion Sparrow](db.ygoprodeck.com/card/?search=Vermillion%20Sparrow)
+- [Versago the Destroyer](db.ygoprodeck.com/card/?search=Versago%20the%20Destroyer)
+- [Vertical Landing](db.ygoprodeck.com/card/?search=Vertical%20Landing)
+- [Vessel for the Dragon Cycle](db.ygoprodeck.com/card/?search=Vessel%20for%20the%20Dragon%20Cycle)
+- [Vice Berserker](db.ygoprodeck.com/card/?search=Vice%20Berserker)
+- [Vice Dragon](db.ygoprodeck.com/card/?search=Vice%20Dragon)
+- [Vicious Claw](db.ygoprodeck.com/card/?search=Vicious%20Claw)
+- [Victoria](db.ygoprodeck.com/card/?search=Victoria)
+- [Victory Viper XX03](db.ygoprodeck.com/card/?search=Victory%20Viper%20XX03)
+- [Vile Germs](db.ygoprodeck.com/card/?search=Vile%20Germs)
+- [Vilepawn Archfiend](db.ygoprodeck.com/card/?search=Vilepawn%20Archfiend)
+- [Violent Rain](db.ygoprodeck.com/card/?search=Violent%20Rain)
+- [Violet Crystal](db.ygoprodeck.com/card/?search=Violet%20Crystal)
+- [Viper's Rebirth](db.ygoprodeck.com/card/?search=Viper's%20Rebirth)
+- [Virtual World Gate - Qinglong](db.ygoprodeck.com/card/?search=Virtual%20World%20Gate%20-%20Qinglong)
+- [Virtual World Gate - Xuanwu](db.ygoprodeck.com/card/?search=Virtual%20World%20Gate%20-%20Xuanwu)
+- [Virtual World Kirin - Lili](db.ygoprodeck.com/card/?search=Virtual%20World%20Kirin%20-%20Lili)
+- [Virtual World Shell - Jaja](db.ygoprodeck.com/card/?search=Virtual%20World%20Shell%20-%20Jaja)
+- [Virtual World Xiezhi - Jiji](db.ygoprodeck.com/card/?search=Virtual%20World%20Xiezhi%20-%20Jiji)
+- [Viser Des](db.ygoprodeck.com/card/?search=Viser%20Des)
+- [Void Feast](db.ygoprodeck.com/card/?search=Void%20Feast)
+- [Void Ogre Dragon](db.ygoprodeck.com/card/?search=Void%20Ogre%20Dragon)
+- [Volcanic Blaster](db.ygoprodeck.com/card/?search=Volcanic%20Blaster)
+- [Volcanic Counter](db.ygoprodeck.com/card/?search=Volcanic%20Counter)
+- [Volcanic Eruption](db.ygoprodeck.com/card/?search=Volcanic%20Eruption)
+- [Volcanic Hammerer](db.ygoprodeck.com/card/?search=Volcanic%20Hammerer)
+- [Volcanic Queen](db.ygoprodeck.com/card/?search=Volcanic%20Queen)
+- [Volcanic Rat](db.ygoprodeck.com/card/?search=Volcanic%20Rat)
+- [Volcanic Recharge](db.ygoprodeck.com/card/?search=Volcanic%20Recharge)
+- [Volcanic Rocket](db.ygoprodeck.com/card/?search=Volcanic%20Rocket)
+- [Volcanic Scattershot](db.ygoprodeck.com/card/?search=Volcanic%20Scattershot)
+- [Volcanic Shell](db.ygoprodeck.com/card/?search=Volcanic%20Shell)
+- [Voltester](db.ygoprodeck.com/card/?search=Voltester)
+- [Voltic Kong](db.ygoprodeck.com/card/?search=Voltic%20Kong)
+- [Vorse Raider](db.ygoprodeck.com/card/?search=Vorse%20Raider)
+- [Vortex Trooper](db.ygoprodeck.com/card/?search=Vortex%20Trooper)
+- [Vorticular Drumgon](db.ygoprodeck.com/card/?search=Vorticular%20Drumgon)
+- [VW-Tiger Catapult](db.ygoprodeck.com/card/?search=VW-Tiger%20Catapult)
+- [VWXYZ-Dragon Catapult Cannon](db.ygoprodeck.com/card/?search=VWXYZ-Dragon%20Catapult%20Cannon)
+- [Vylon Component](db.ygoprodeck.com/card/?search=Vylon%20Component)
+- [Vylon Element](db.ygoprodeck.com/card/?search=Vylon%20Element)
+- [Vylon Filament](db.ygoprodeck.com/card/?search=Vylon%20Filament)
+- [Vylon Matter](db.ygoprodeck.com/card/?search=Vylon%20Matter)
+- [Vylon Ohm](db.ygoprodeck.com/card/?search=Vylon%20Ohm)
+- [Vylon Pentachloro](db.ygoprodeck.com/card/?search=Vylon%20Pentachloro)
+- [Vylon Prism](db.ygoprodeck.com/card/?search=Vylon%20Prism)
+- [Vylon Segment](db.ygoprodeck.com/card/?search=Vylon%20Segment)
+- [Vylon Soldier](db.ygoprodeck.com/card/?search=Vylon%20Soldier)
+- [Vylon Stella](db.ygoprodeck.com/card/?search=Vylon%20Stella)
+- [Vylon Tesseract](db.ygoprodeck.com/card/?search=Vylon%20Tesseract)
+- [Vylon Tetra](db.ygoprodeck.com/card/?search=Vylon%20Tetra)
+- [Vylon Vanguard](db.ygoprodeck.com/card/?search=Vylon%20Vanguard)
+- [W Nebula Meteorite](db.ygoprodeck.com/card/?search=W%20Nebula%20Meteorite)
+- [W-Wing Catapult](db.ygoprodeck.com/card/?search=W-Wing%20Catapult)
+- [Waboku](db.ygoprodeck.com/card/?search=Waboku)
+- [Waking the Dragon](db.ygoprodeck.com/card/?search=Waking%20the%20Dragon)
+- [Wall of Disruption](db.ygoprodeck.com/card/?search=Wall%20of%20Disruption)
+- [Wall of Illusion](db.ygoprodeck.com/card/?search=Wall%20of%20Illusion)
+- [Wall of Ivy](db.ygoprodeck.com/card/?search=Wall%20of%20Ivy)
+- [Wall Shadow](db.ygoprodeck.com/card/?search=Wall%20Shadow)
+- [Wandering Mummy](db.ygoprodeck.com/card/?search=Wandering%20Mummy)
+- [War Rock Big Blow](db.ygoprodeck.com/card/?search=War%20Rock%20Big%20Blow)
+- [War Rock Generations](db.ygoprodeck.com/card/?search=War%20Rock%20Generations)
+- [War Rock Mammud](db.ygoprodeck.com/card/?search=War%20Rock%20Mammud)
+- [War Rock Ordeal](db.ygoprodeck.com/card/?search=War%20Rock%20Ordeal)
+- [War Rock Orpis](db.ygoprodeck.com/card/?search=War%20Rock%20Orpis)
+- [War Rock Skyler](db.ygoprodeck.com/card/?search=War%20Rock%20Skyler)
+- [War-Lion Ritual](db.ygoprodeck.com/card/?search=War-Lion%20Ritual)
+- [Warlock of the Ice Barrier](db.ygoprodeck.com/card/?search=Warlock%20of%20the%20Ice%20Barrier)
+- [Warrior Dai Grepher](db.ygoprodeck.com/card/?search=Warrior%20Dai%20Grepher)
+- [Warrior Elimination](db.ygoprodeck.com/card/?search=Warrior%20Elimination)
+- [Warrior Lady of the Wasteland](db.ygoprodeck.com/card/?search=Warrior%20Lady%20of%20the%20Wasteland)
+- [Warrior of Atlantis](db.ygoprodeck.com/card/?search=Warrior%20of%20Atlantis)
+- [Warrior of Zera](db.ygoprodeck.com/card/?search=Warrior%20of%20Zera)
+- [Wasteland](db.ygoprodeck.com/card/?search=Wasteland)
+- [Watapon](db.ygoprodeck.com/card/?search=Watapon)
+- [Watch Cat](db.ygoprodeck.com/card/?search=Watch%20Cat)
+- [Watch Dog](db.ygoprodeck.com/card/?search=Watch%20Dog)
+- [Water Dragon](db.ygoprodeck.com/card/?search=Water%20Dragon)
+- [Water Hazard](db.ygoprodeck.com/card/?search=Water%20Hazard)
+- [Water Leviathan @Ignister](db.ygoprodeck.com/card/?search=Water%20Leviathan%20@Ignister)
+- [Water Magician](db.ygoprodeck.com/card/?search=Water%20Magician)
+- [Water Omotics](db.ygoprodeck.com/card/?search=Water%20Omotics)
+- [Water Spirit](db.ygoprodeck.com/card/?search=Water%20Spirit)
+- [Wattaildragon](db.ygoprodeck.com/card/?search=Wattaildragon)
+- [Wattbetta](db.ygoprodeck.com/card/?search=Wattbetta)
+- [Wattcancel](db.ygoprodeck.com/card/?search=Wattcancel)
+- [Wattcannon](db.ygoprodeck.com/card/?search=Wattcannon)
+- [Wattcine](db.ygoprodeck.com/card/?search=Wattcine)
+- [Wattcobra](db.ygoprodeck.com/card/?search=Wattcobra)
+- [Wattcube](db.ygoprodeck.com/card/?search=Wattcube)
+- [Wattdragonfly](db.ygoprodeck.com/card/?search=Wattdragonfly)
+- [Wattfox](db.ygoprodeck.com/card/?search=Wattfox)
+- [Watthopper](db.ygoprodeck.com/card/?search=Watthopper)
+- [Wattjustment](db.ygoprodeck.com/card/?search=Wattjustment)
+- [Wattkeeper](db.ygoprodeck.com/card/?search=Wattkeeper)
+- [Wattkey](db.ygoprodeck.com/card/?search=Wattkey)
+- [Wattkid](db.ygoprodeck.com/card/?search=Wattkid)
+- [Wattkinetic Puppeteer](db.ygoprodeck.com/card/?search=Wattkinetic%20Puppeteer)
+- [Wattkiwi](db.ygoprodeck.com/card/?search=Wattkiwi)
+- [Wattlemur](db.ygoprodeck.com/card/?search=Wattlemur)
+- [Wattmole](db.ygoprodeck.com/card/?search=Wattmole)
+- [Wattpheasant](db.ygoprodeck.com/card/?search=Wattpheasant)
+- [Wattrain](db.ygoprodeck.com/card/?search=Wattrain)
+- [Wattwoodpecker](db.ygoprodeck.com/card/?search=Wattwoodpecker)
+- [Wave-Motion Cannon](db.ygoprodeck.com/card/?search=Wave-Motion%20Cannon)
+- [Wavering Eyes](db.ygoprodeck.com/card/?search=Wavering%20Eyes)
+- [Weapon Change](db.ygoprodeck.com/card/?search=Weapon%20Change)
+- [Weather Report](db.ygoprodeck.com/card/?search=Weather%20Report)
+- [Weed Out](db.ygoprodeck.com/card/?search=Weed%20Out)
+- [Weeping Idol](db.ygoprodeck.com/card/?search=Weeping%20Idol)
+- [Wetha](db.ygoprodeck.com/card/?search=Wetha)
+- [Wetlands](db.ygoprodeck.com/card/?search=Wetlands)
+- [Where Arf Thou?](db.ygoprodeck.com/card/?search=Where%20Arf%20Thou?)
+- [Whiptail Crow](db.ygoprodeck.com/card/?search=Whiptail%20Crow)
+- [Whirlwind of Gusto](db.ygoprodeck.com/card/?search=Whirlwind%20of%20Gusto)
+- [Whirlwind Prodigy](db.ygoprodeck.com/card/?search=Whirlwind%20Prodigy)
+- [Whirlwind Weasel](db.ygoprodeck.com/card/?search=Whirlwind%20Weasel)
+- [White Dragon Ritual](db.ygoprodeck.com/card/?search=White%20Dragon%20Ritual)
+- [White Duston](db.ygoprodeck.com/card/?search=White%20Duston)
+- [White Elephant's Gift](db.ygoprodeck.com/card/?search=White%20Elephant's%20Gift)
+- [White Hole](db.ygoprodeck.com/card/?search=White%20Hole)
+- [White Magical Hat](db.ygoprodeck.com/card/?search=White%20Magical%20Hat)
+- [White Magician Pikeru](db.ygoprodeck.com/card/?search=White%20Magician%20Pikeru)
+- [White Night Dragon](db.ygoprodeck.com/card/?search=White%20Night%20Dragon)
+- [White Night Queen](db.ygoprodeck.com/card/?search=White%20Night%20Queen)
+- [White Ninja](db.ygoprodeck.com/card/?search=White%20Ninja)
+- [White Potan](db.ygoprodeck.com/card/?search=White%20Potan)
+- [White Stingray](db.ygoprodeck.com/card/?search=White%20Stingray)
+- [White Tiger Summoner](db.ygoprodeck.com/card/?search=White%20Tiger%20Summoner)
+- [White-Horned Dragon](db.ygoprodeck.com/card/?search=White-Horned%20Dragon)
+- [Wicked Acolyte Chilam Sabak](db.ygoprodeck.com/card/?search=Wicked%20Acolyte%20Chilam%20Sabak)
+- [Wicked Rebirth](db.ygoprodeck.com/card/?search=Wicked%20Rebirth)
+- [Wicked-Breaking Flamberge - Baou](db.ygoprodeck.com/card/?search=Wicked-Breaking%20Flamberge%20-%20Baou)
+- [Widespread Dud](db.ygoprodeck.com/card/?search=Widespread%20Dud)
+- [Widespread Ruin](db.ygoprodeck.com/card/?search=Widespread%20Ruin)
+- [Wightmare](db.ygoprodeck.com/card/?search=Wightmare)
+- [Wightprince](db.ygoprodeck.com/card/?search=Wightprince)
+- [Wightprincess](db.ygoprodeck.com/card/?search=Wightprincess)
+- [Wild Fire](db.ygoprodeck.com/card/?search=Wild%20Fire)
+- [Wild Nature's Release](db.ygoprodeck.com/card/?search=Wild%20Nature's%20Release)
+- [Wild Tornado](db.ygoprodeck.com/card/?search=Wild%20Tornado)
+- [Will of the Salamangreat](db.ygoprodeck.com/card/?search=Will%20of%20the%20Salamangreat)
+- [Wind Effigy](db.ygoprodeck.com/card/?search=Wind%20Effigy)
+- [Wind Pegasus @Ignister](db.ygoprodeck.com/card/?search=Wind%20Pegasus%20@Ignister)
+- [Wind-Up Bat](db.ygoprodeck.com/card/?search=Wind-Up%20Bat)
+- [Wind-Up Dog](db.ygoprodeck.com/card/?search=Wind-Up%20Dog)
+- [Wind-Up Factory](db.ygoprodeck.com/card/?search=Wind-Up%20Factory)
+- [Wind-Up Honeybee](db.ygoprodeck.com/card/?search=Wind-Up%20Honeybee)
+- [Wind-Up Soldier](db.ygoprodeck.com/card/?search=Wind-Up%20Soldier)
+- [Wind-Up Warrior](db.ygoprodeck.com/card/?search=Wind-Up%20Warrior)
+- [Winda, Priestess of Gusto](db.ygoprodeck.com/card/?search=Winda,%20Priestess%20of%20Gusto)
+- [Windstorm of Etaqua](db.ygoprodeck.com/card/?search=Windstorm%20of%20Etaqua)
+- [Windwitch - Blizzard Bell](db.ygoprodeck.com/card/?search=Windwitch%20-%20Blizzard%20Bell)
+- [Windwitch - Glass Bell](db.ygoprodeck.com/card/?search=Windwitch%20-%20Glass%20Bell)
+- [Windwitch - Ice Bell](db.ygoprodeck.com/card/?search=Windwitch%20-%20Ice%20Bell)
+- [Windwitch - Snow Bell](db.ygoprodeck.com/card/?search=Windwitch%20-%20Snow%20Bell)
+- [Winged Cleaver](db.ygoprodeck.com/card/?search=Winged%20Cleaver)
+- [Winged Dragon, Guardian of the Fortress #1](db.ygoprodeck.com/card/?search=Winged%20Dragon,%20Guardian%20of%20the%20Fortress%20#1)
+- [Winged Dragon, Guardian of the Fortress #2](db.ygoprodeck.com/card/?search=Winged%20Dragon,%20Guardian%20of%20the%20Fortress%20#2)
+- [Winged Kuriboh](db.ygoprodeck.com/card/?search=Winged%20Kuriboh)
+- [Winged Kuriboh LV10](db.ygoprodeck.com/card/?search=Winged%20Kuriboh%20LV10)
+- [Winged Minion](db.ygoprodeck.com/card/?search=Winged%20Minion)
+- [Winged Rhynos](db.ygoprodeck.com/card/?search=Winged%20Rhynos)
+- [Winged Sage Falcos](db.ygoprodeck.com/card/?search=Winged%20Sage%20Falcos)
+- [Wings of Wicked Flame](db.ygoprodeck.com/card/?search=Wings%20of%20Wicked%20Flame)
+- [Wingweaver](db.ygoprodeck.com/card/?search=Wingweaver)
+- [Wiretap](db.ygoprodeck.com/card/?search=Wiretap)
+- [Witch Doctor of Chaos](db.ygoprodeck.com/card/?search=Witch%20Doctor%20of%20Chaos)
+- [Witch Doctor of Sparta](db.ygoprodeck.com/card/?search=Witch%20Doctor%20of%20Sparta)
+- [Witch of the Black Forest](db.ygoprodeck.com/card/?search=Witch%20of%20the%20Black%20Forest)
+- [Witch of the Black Rose](db.ygoprodeck.com/card/?search=Witch%20of%20the%20Black%20Rose)
+- [Witch's Apprentice](db.ygoprodeck.com/card/?search=Witch's%20Apprentice)
+- [Witchcrafter Draping](db.ygoprodeck.com/card/?search=Witchcrafter%20Draping)
+- [Witchcrafter Genni](db.ygoprodeck.com/card/?search=Witchcrafter%20Genni)
+- [Witchcrafter Golem Aruru](db.ygoprodeck.com/card/?search=Witchcrafter%20Golem%20Aruru)
+- [Witchcrafter Patronus](db.ygoprodeck.com/card/?search=Witchcrafter%20Patronus)
+- [Witchcrafter Unveiling](db.ygoprodeck.com/card/?search=Witchcrafter%20Unveiling)
+- [Witty Phantom](db.ygoprodeck.com/card/?search=Witty%20Phantom)
+- [Wiz, Sage Fur Hire](db.ygoprodeck.com/card/?search=Wiz,%20Sage%20Fur%20Hire)
+- [Wizard Buster Destruction Sword](db.ygoprodeck.com/card/?search=Wizard%20Buster%20Destruction%20Sword)
+- [Wodan the Resident of the Forest](db.ygoprodeck.com/card/?search=Wodan%20the%20Resident%20of%20the%20Forest)
+- [Wolf](db.ygoprodeck.com/card/?search=Wolf)
+- [Wolf Axwielder](db.ygoprodeck.com/card/?search=Wolf%20Axwielder)
+- [Wolf in Sheep's Clothing](db.ygoprodeck.com/card/?search=Wolf%20in%20Sheep's%20Clothing)
+- [Wonder Balloons](db.ygoprodeck.com/card/?search=Wonder%20Balloons)
+- [Wonder Clover](db.ygoprodeck.com/card/?search=Wonder%20Clover)
+- [Wonder Garage](db.ygoprodeck.com/card/?search=Wonder%20Garage)
+- [Wonder Wand](db.ygoprodeck.com/card/?search=Wonder%20Wand)
+- [Wonder Xyz](db.ygoprodeck.com/card/?search=Wonder%20Xyz)
+- [Woodborg Inpachi](db.ygoprodeck.com/card/?search=Woodborg%20Inpachi)
+- [Woodland Archer](db.ygoprodeck.com/card/?search=Woodland%20Archer)
+- [Woodland Sprite](db.ygoprodeck.com/card/?search=Woodland%20Sprite)
+- [World Carrotweight Champion](db.ygoprodeck.com/card/?search=World%20Carrotweight%20Champion)
+- [World Chalice Guardragon](db.ygoprodeck.com/card/?search=World%20Chalice%20Guardragon)
+- [World Chalice Guardragon Almarduke](db.ygoprodeck.com/card/?search=World%20Chalice%20Guardragon%20Almarduke)
+- [World Dino Wrestling](db.ygoprodeck.com/card/?search=World%20Dino%20Wrestling)
+- [World Legacy - "World Key"](db.ygoprodeck.com/card/?search=World%20Legacy%20-%20"World%20Key")
+- [World Legacy - "World Shield"](db.ygoprodeck.com/card/?search=World%20Legacy%20-%20"World%20Shield")
+- [World Legacy - "World Wand"](db.ygoprodeck.com/card/?search=World%20Legacy%20-%20"World%20Wand")
+- [World Legacy Awakens](db.ygoprodeck.com/card/?search=World%20Legacy%20Awakens)
+- [World Legacy Bestowal](db.ygoprodeck.com/card/?search=World%20Legacy%20Bestowal)
+- [World Legacy Clash](db.ygoprodeck.com/card/?search=World%20Legacy%20Clash)
+- [World Legacy Cliffhanger](db.ygoprodeck.com/card/?search=World%20Legacy%20Cliffhanger)
+- [World Legacy Collapse](db.ygoprodeck.com/card/?search=World%20Legacy%20Collapse)
+- [World Legacy Guardragon Mardark](db.ygoprodeck.com/card/?search=World%20Legacy%20Guardragon%20Mardark)
+- [World Legacy in Shadow](db.ygoprodeck.com/card/?search=World%20Legacy%20in%20Shadow)
+- [World Legacy Landmark](db.ygoprodeck.com/card/?search=World%20Legacy%20Landmark)
+- [World Legacy Pawns](db.ygoprodeck.com/card/?search=World%20Legacy%20Pawns)
+- [World Legacy Struggle](db.ygoprodeck.com/card/?search=World%20Legacy%20Struggle)
+- [World Legacy's Corruption](db.ygoprodeck.com/card/?search=World%20Legacy's%20Corruption)
+- [World Legacy's Heart](db.ygoprodeck.com/card/?search=World%20Legacy's%20Heart)
+- [World Legacy's Memory](db.ygoprodeck.com/card/?search=World%20Legacy's%20Memory)
+- [World Legacy's Mind Meld](db.ygoprodeck.com/card/?search=World%20Legacy's%20Mind%20Meld)
+- [World Legacy's Nightmare](db.ygoprodeck.com/card/?search=World%20Legacy's%20Nightmare)
+- [World Reassembly](db.ygoprodeck.com/card/?search=World%20Reassembly)
+- [World Soul - Carbon](db.ygoprodeck.com/card/?search=World%20Soul%20-%20Carbon)
+- [World Suppression](db.ygoprodeck.com/card/?search=World%20Suppression)
+- [Worm Apocalypse](db.ygoprodeck.com/card/?search=Worm%20Apocalypse)
+- [Worm Bait](db.ygoprodeck.com/card/?search=Worm%20Bait)
+- [Worm Barses](db.ygoprodeck.com/card/?search=Worm%20Barses)
+- [Worm Call](db.ygoprodeck.com/card/?search=Worm%20Call)
+- [Worm Cartaros](db.ygoprodeck.com/card/?search=Worm%20Cartaros)
+- [Worm Dimikles](db.ygoprodeck.com/card/?search=Worm%20Dimikles)
+- [Worm Drake](db.ygoprodeck.com/card/?search=Worm%20Drake)
+- [Worm Falco](db.ygoprodeck.com/card/?search=Worm%20Falco)
+- [Worm Gulse](db.ygoprodeck.com/card/?search=Worm%20Gulse)
+- [Worm Hope](db.ygoprodeck.com/card/?search=Worm%20Hope)
+- [Worm Illidan](db.ygoprodeck.com/card/?search=Worm%20Illidan)
+- [Worm Jetelikpse](db.ygoprodeck.com/card/?search=Worm%20Jetelikpse)
+- [Worm Linx](db.ygoprodeck.com/card/?search=Worm%20Linx)
+- [Worm Millidith](db.ygoprodeck.com/card/?search=Worm%20Millidith)
+- [Worm Prince](db.ygoprodeck.com/card/?search=Worm%20Prince)
+- [Worm Rakuyeh](db.ygoprodeck.com/card/?search=Worm%20Rakuyeh)
+- [Worm Tentacles](db.ygoprodeck.com/card/?search=Worm%20Tentacles)
+- [Worm Ugly](db.ygoprodeck.com/card/?search=Worm%20Ugly)
+- [Worm Xex](db.ygoprodeck.com/card/?search=Worm%20Xex)
+- [Worm Yagan](db.ygoprodeck.com/card/?search=Worm%20Yagan)
+- [Wow Warrior](db.ygoprodeck.com/card/?search=Wow%20Warrior)
+- [Wrecker Panda](db.ygoprodeck.com/card/?search=Wrecker%20Panda)
+- [Wretched Ghost of the Attic](db.ygoprodeck.com/card/?search=Wretched%20Ghost%20of%20the%20Attic)
+- [Wroughtweiler](db.ygoprodeck.com/card/?search=Wroughtweiler)
+- [Wulf, Lightsworn Beast](db.ygoprodeck.com/card/?search=Wulf,%20Lightsworn%20Beast)
+- [Wynn the Wind Charmer](db.ygoprodeck.com/card/?search=Wynn%20the%20Wind%20Charmer)
+- [X-Head Cannon](db.ygoprodeck.com/card/?search=X-Head%20Cannon)
+- [X-Krawler Neurogos](db.ygoprodeck.com/card/?search=X-Krawler%20Neurogos)
+- [X-Krawler Synaphysis](db.ygoprodeck.com/card/?search=X-Krawler%20Synaphysis)
+- [X-Saber Airbellum](db.ygoprodeck.com/card/?search=X-Saber%20Airbellum)
+- [X-Saber Anu Piranha](db.ygoprodeck.com/card/?search=X-Saber%20Anu%20Piranha)
+- [X-Saber Axel](db.ygoprodeck.com/card/?search=X-Saber%20Axel)
+- [X-Saber Galahad](db.ygoprodeck.com/card/?search=X-Saber%20Galahad)
+- [X-Saber Palomuro](db.ygoprodeck.com/card/?search=X-Saber%20Palomuro)
+- [X-Saber Pashuul](db.ygoprodeck.com/card/?search=X-Saber%20Pashuul)
+- [X-Saber Souza](db.ygoprodeck.com/card/?search=X-Saber%20Souza)
+- [X-Saber Urbellum](db.ygoprodeck.com/card/?search=X-Saber%20Urbellum)
+- [X-Saber Uruz](db.ygoprodeck.com/card/?search=X-Saber%20Uruz)
+- [Xiangke Magician](db.ygoprodeck.com/card/?search=Xiangke%20Magician)
+- [Xiangsheng Magician](db.ygoprodeck.com/card/?search=Xiangsheng%20Magician)
+- [Xing Zhen Hu](db.ygoprodeck.com/card/?search=Xing%20Zhen%20Hu)
+- [Xing Zhen Hu Replica](db.ygoprodeck.com/card/?search=Xing%20Zhen%20Hu%20Replica)
+- [Xtra HERO Cross Crusader](db.ygoprodeck.com/card/?search=Xtra%20HERO%20Cross%20Crusader)
+- [XX-Saber Boggart Knight](db.ygoprodeck.com/card/?search=XX-Saber%20Boggart%20Knight)
+- [XX-Saber Faultroll](db.ygoprodeck.com/card/?search=XX-Saber%20Faultroll)
+- [XX-Saber Fulhelmknight](db.ygoprodeck.com/card/?search=XX-Saber%20Fulhelmknight)
+- [XX-Saber Ragigura](db.ygoprodeck.com/card/?search=XX-Saber%20Ragigura)
+- [XY-Dragon Cannon](db.ygoprodeck.com/card/?search=XY-Dragon%20Cannon)
+- [Xyz Agent](db.ygoprodeck.com/card/?search=Xyz%20Agent)
+- [Xyz Avenger](db.ygoprodeck.com/card/?search=Xyz%20Avenger)
+- [Xyz Block](db.ygoprodeck.com/card/?search=Xyz%20Block)
+- [Xyz Burst](db.ygoprodeck.com/card/?search=Xyz%20Burst)
+- [Xyz Dimension Splash](db.ygoprodeck.com/card/?search=Xyz%20Dimension%20Splash)
+- [Xyz Double Back](db.ygoprodeck.com/card/?search=Xyz%20Double%20Back)
+- [Xyz Effect](db.ygoprodeck.com/card/?search=Xyz%20Effect)
+- [Xyz Energy](db.ygoprodeck.com/card/?search=Xyz%20Energy)
+- [Xyz Import](db.ygoprodeck.com/card/?search=Xyz%20Import)
+- [Xyz Override](db.ygoprodeck.com/card/?search=Xyz%20Override)
+- [Xyz Reception](db.ygoprodeck.com/card/?search=Xyz%20Reception)
+- [Xyz Reflect](db.ygoprodeck.com/card/?search=Xyz%20Reflect)
+- [Xyz Remora](db.ygoprodeck.com/card/?search=Xyz%20Remora)
+- [Xyz Revenge Shuffle](db.ygoprodeck.com/card/?search=Xyz%20Revenge%20Shuffle)
+- [Xyz Reversal](db.ygoprodeck.com/card/?search=Xyz%20Reversal)
+- [Xyz Revive Splash](db.ygoprodeck.com/card/?search=Xyz%20Revive%20Splash)
+- [Xyz Shift](db.ygoprodeck.com/card/?search=Xyz%20Shift)
+- [Xyz Slidolphin](db.ygoprodeck.com/card/?search=Xyz%20Slidolphin)
+- [Xyz Soul](db.ygoprodeck.com/card/?search=Xyz%20Soul)
+- [Xyz Tribalrivals](db.ygoprodeck.com/card/?search=Xyz%20Tribalrivals)
+- [Xyz Unit](db.ygoprodeck.com/card/?search=Xyz%20Unit)
+- [Xyz Wrath](db.ygoprodeck.com/card/?search=Xyz%20Wrath)
+- [Xyz Xtreme !!](db.ygoprodeck.com/card/?search=Xyz%20Xtreme%20!!)
+- [XYZ-Dragon Cannon](db.ygoprodeck.com/card/?search=XYZ-Dragon%20Cannon)
+- [XZ-Tank Cannon](db.ygoprodeck.com/card/?search=XZ-Tank%20Cannon)
+- [Y-Dragon Head](db.ygoprodeck.com/card/?search=Y-Dragon%20Head)
+- [Yado Karu](db.ygoprodeck.com/card/?search=Yado%20Karu)
+- [Yaiba Robo](db.ygoprodeck.com/card/?search=Yaiba%20Robo)
+- [Yajiro Invader](db.ygoprodeck.com/card/?search=Yajiro%20Invader)
+- [Yaksha](db.ygoprodeck.com/card/?search=Yaksha)
+- [Yamadron](db.ygoprodeck.com/card/?search=Yamadron)
+- [Yami](db.ygoprodeck.com/card/?search=Yami)
+- [Yamorimori](db.ygoprodeck.com/card/?search=Yamorimori)
+- [Yang Zing Brutality](db.ygoprodeck.com/card/?search=Yang%20Zing%20Brutality)
+- [Yang Zing Prana](db.ygoprodeck.com/card/?search=Yang%20Zing%20Prana)
+- [Yang Zing Unleashed](db.ygoprodeck.com/card/?search=Yang%20Zing%20Unleashed)
+- [Yaranzo](db.ygoprodeck.com/card/?search=Yaranzo)
+- [Yazi, Evil of the Yang Zing](db.ygoprodeck.com/card/?search=Yazi,%20Evil%20of%20the%20Yang%20Zing)
+- [Yellow Duston](db.ygoprodeck.com/card/?search=Yellow%20Duston)
+- [Yellow Gadget](db.ygoprodeck.com/card/?search=Yellow%20Gadget)
+- [Yellow Luster Shield](db.ygoprodeck.com/card/?search=Yellow%20Luster%20Shield)
+- [Yellow-Bellied Oni](db.ygoprodeck.com/card/?search=Yellow-Bellied%20Oni)
+- [Yoko-Zuna Sumo Spirit](db.ygoprodeck.com/card/?search=Yoko-Zuna%20Sumo%20Spirit)
+- [Yokotuner](db.ygoprodeck.com/card/?search=Yokotuner)
+- [Yomi Ship](db.ygoprodeck.com/card/?search=Yomi%20Ship)
+- [Yosen Whirlwind](db.ygoprodeck.com/card/?search=Yosen%20Whirlwind)
+- [Yosenju Izna](db.ygoprodeck.com/card/?search=Yosenju%20Izna)
+- [Yosenju Kama 1](db.ygoprodeck.com/card/?search=Yosenju%20Kama%201)
+- [Yosenju Kama 2](db.ygoprodeck.com/card/?search=Yosenju%20Kama%202)
+- [Yosenju Kama 3](db.ygoprodeck.com/card/?search=Yosenju%20Kama%203)
+- [Yosenju Kodam](db.ygoprodeck.com/card/?search=Yosenju%20Kodam)
+- [Yosenju Magat](db.ygoprodeck.com/card/?search=Yosenju%20Magat)
+- [Yosenju Oroshi Channeling](db.ygoprodeck.com/card/?search=Yosenju%20Oroshi%20Channeling)
+- [Yosenju Sabu](db.ygoprodeck.com/card/?search=Yosenju%20Sabu)
+- [Yosenju Shinchu L](db.ygoprodeck.com/card/?search=Yosenju%20Shinchu%20L)
+- [Yosenju Shinchu R](db.ygoprodeck.com/card/?search=Yosenju%20Shinchu%20R)
+- [Yosenju Tsujik](db.ygoprodeck.com/card/?search=Yosenju%20Tsujik)
+- [Yosenju Wind Worship](db.ygoprodeck.com/card/?search=Yosenju%20Wind%20Worship)
+- [Yosenjus' Secret Move](db.ygoprodeck.com/card/?search=Yosenjus'%20Secret%20Move)
+- [Yosenjus' Sword Sting](db.ygoprodeck.com/card/?search=Yosenjus'%20Sword%20Sting)
+- [You and A.I.](db.ygoprodeck.com/card/?search=You%20and%20A.I.)
+- [You're in Danger!](db.ygoprodeck.com/card/?search=You're%20in%20Danger!)
+- [Yuki-Musume, the Ice Mayakashi](db.ygoprodeck.com/card/?search=Yuki-Musume,%20the%20Ice%20Mayakashi)
+- [YZ-Tank Dragon](db.ygoprodeck.com/card/?search=YZ-Tank%20Dragon)
+- [Z-Metal Tank](db.ygoprodeck.com/card/?search=Z-Metal%20Tank)
+- [Z-ONE](db.ygoprodeck.com/card/?search=Z-ONE)
+- [Zaborg the Thunder Monarch](db.ygoprodeck.com/card/?search=Zaborg%20the%20Thunder%20Monarch)
+- [Zany Zebra](db.ygoprodeck.com/card/?search=Zany%20Zebra)
+- [Zap Mustung](db.ygoprodeck.com/card/?search=Zap%20Mustung)
+- [Zefra Path](db.ygoprodeck.com/card/?search=Zefra%20Path)
+- [Zefra War](db.ygoprodeck.com/card/?search=Zefra%20War)
+- [Zefrasaber, Swordmaster of the Nekroz](db.ygoprodeck.com/card/?search=Zefrasaber,%20Swordmaster%20of%20the%20Nekroz)
+- [Zefraxa, Flame Beast of the Nekroz](db.ygoprodeck.com/card/?search=Zefraxa,%20Flame%20Beast%20of%20the%20Nekroz)
+- [Zenmaiday](db.ygoprodeck.com/card/?search=Zenmaiday)
+- [Zenmailfunction](db.ygoprodeck.com/card/?search=Zenmailfunction)
+- [Zenmailstrom](db.ygoprodeck.com/card/?search=Zenmailstrom)
+- [Zenmairch](db.ygoprodeck.com/card/?search=Zenmairch)
+- [Zeradias, Herald of Heaven](db.ygoprodeck.com/card/?search=Zeradias,%20Herald%20of%20Heaven)
+- [Zero Extra Link](db.ygoprodeck.com/card/?search=Zero%20Extra%20Link)
+- [Zero Force](db.ygoprodeck.com/card/?search=Zero%20Force)
+- [Zero Gardna](db.ygoprodeck.com/card/?search=Zero%20Gardna)
+- [Zero Gravity](db.ygoprodeck.com/card/?search=Zero%20Gravity)
+- [Zerozerock](db.ygoprodeck.com/card/?search=Zerozerock)
+- [Zexal Alliance](db.ygoprodeck.com/card/?search=Zexal%20Alliance)
+- [Zexal Entrust](db.ygoprodeck.com/card/?search=Zexal%20Entrust)
+- [Zoa](db.ygoprodeck.com/card/?search=Zoa)
+- [Zodiac Sign](db.ygoprodeck.com/card/?search=Zodiac%20Sign)
+- [Zolga](db.ygoprodeck.com/card/?search=Zolga)
+- [Zoma the Spirit](db.ygoprodeck.com/card/?search=Zoma%20the%20Spirit)
+- [Zombie Mammoth](db.ygoprodeck.com/card/?search=Zombie%20Mammoth)
+- [Zombie Master](db.ygoprodeck.com/card/?search=Zombie%20Master)
+- [Zombie Necronize](db.ygoprodeck.com/card/?search=Zombie%20Necronize)
+- [Zombie Power Struggle](db.ygoprodeck.com/card/?search=Zombie%20Power%20Struggle)
+- [Zombie Tiger](db.ygoprodeck.com/card/?search=Zombie%20Tiger)
+- [Zombie Warrior](db.ygoprodeck.com/card/?search=Zombie%20Warrior)
+- [Zombie World](db.ygoprodeck.com/card/?search=Zombie%20World)
+- [Zombina](db.ygoprodeck.com/card/?search=Zombina)
+- [Zombino](db.ygoprodeck.com/card/?search=Zombino)
+- [Zombyra the Dark](db.ygoprodeck.com/card/?search=Zombyra%20the%20Dark)
+- [Zone Eater](db.ygoprodeck.com/card/?search=Zone%20Eater)
+- [Zoodiac Bunnyblast](db.ygoprodeck.com/card/?search=Zoodiac%20Bunnyblast)
+- [Zoodiac Combo](db.ygoprodeck.com/card/?search=Zoodiac%20Combo)
+- [Zoodiac Gathering](db.ygoprodeck.com/card/?search=Zoodiac%20Gathering)
+- [Zoodiac Hammerkong](db.ygoprodeck.com/card/?search=Zoodiac%20Hammerkong)
+- [Zoodiac Kataroost](db.ygoprodeck.com/card/?search=Zoodiac%20Kataroost)
+- [Zoodiac Ramram](db.ygoprodeck.com/card/?search=Zoodiac%20Ramram)
+- [ZS - Armed Sage](db.ygoprodeck.com/card/?search=ZS%20-%20Armed%20Sage)
+- [ZS - Vanish Sage](db.ygoprodeck.com/card/?search=ZS%20-%20Vanish%20Sage)
+- [Zubaba Buster](db.ygoprodeck.com/card/?search=Zubaba%20Buster)
+- [Zubaba General](db.ygoprodeck.com/card/?search=Zubaba%20General)
+- [Zubaba Knight](db.ygoprodeck.com/card/?search=Zubaba%20Knight)
+- [Zure, Knight of Dark World](db.ygoprodeck.com/card/?search=Zure,%20Knight%20of%20Dark%20World)
+- [Zushin the Sleeping Giant](db.ygoprodeck.com/card/?search=Zushin%20the%20Sleeping%20Giant)
+- [ZW - Eagle Claw](db.ygoprodeck.com/card/?search=ZW%20-%20Eagle%20Claw)
+- [ZW - Pegasus Twin Saber](db.ygoprodeck.com/card/?search=ZW%20-%20Pegasus%20Twin%20Saber)
+- [ZW - Sleipnir Mail](db.ygoprodeck.com/card/?search=ZW%20-%20Sleipnir%20Mail)
+- [ZW - Ultimate Shield](db.ygoprodeck.com/card/?search=ZW%20-%20Ultimate%20Shield)
+- [ZW - Unicorn Spear](db.ygoprodeck.com/card/?search=ZW%20-%20Unicorn%20Spear)
