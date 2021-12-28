@@ -46,19 +46,22 @@ status = 'status'
 filename = 'index.md'
 
 def writeCard(card, outfile):
-	outfile.write("\n- [%s](%s) "%(card.get(name), "https://db.ygoprodeck.com/card/?search=%s"%card.get(name).replace(" ", "%20")))
-	if card.get(status) < 1:
-		outfile.write(":no_entry_sign:")
-	elif card.get(status) == 1:
-		outfile.write(":one:")
-	elif card.get(status) == 2:
-		outfile.write(":two:")
-	elif card.get(status) == 3:
-		outfile.write(":three:")
+	cardStatus = card.get(status)
+	cardStatusAsText = "Unlimited"
+	if (cardStatus < 1):
+		cardStatusAsText = "Forbidden"
+	elif (cardStatus == 1):
+		cardStatusAsText = "Limited"
+	elif (cardStatus == 2):
+		cardStatusAsText = "Semi-Limited"
+
+	cardUrl = "https://db.ygoprodeck.com/card/?search=%s"%card.get(name).replace(" ", "%20")
+
+	outfile.write("\n| [%s](%s) | %s |"%(card.get(name), cardUrl, cardStatusAsText))
 
 with urllib.request.urlopen(request) as url:
 	with open(filename, 'w', encoding="utf-8") as outfile:
-		outfile.write("### :no_entry_sign: means a card is Forbidden.\n### :one: means a card is Limited.\n### :two: means a card is Semi-Limited.\n### :three: means a card is not limited.\n")
+		outfile.write("| Card Name | Status |")
 		cards = json.loads(url.read().decode()).get(data)
 		limitedCards = []
 		semiLimitedCards = []
