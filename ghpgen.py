@@ -111,19 +111,10 @@ with urllib.request.urlopen(request) as url:
 
 		allCards = []
 		for card in bannedCards:
-			allCards.append(card)
-		for card in limitedCards:
-			allCards.append(card)
-		for card in semiLimitedCards:
-			allCards.append(card)
-		for card in unlimitedCards:
-			allCards.append(card)
-
-		outfile.write("\n\n| Card Name | Status |")
-		printedCards = 0
-		for card in allCards:
-			if printedCards == 100:
-				outfile.write("\n\n| Card Name | Status |")
-				printedCards = 0
 			writeCard(card, outfile)
-			printedCards+=1
+		for card in limitedCards:
+			writeCard(card, outfile)
+		for card in semiLimitedCards:
+			writeCard(card, outfile)
+		for card in unlimitedCards:
+			writeCard(card, outfile)
