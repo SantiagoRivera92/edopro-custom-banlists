@@ -46,67 +46,53 @@ status = 'status'
 filename = 'index.md'
 
 def writeCard(card, outfile):
-	outfile.write("\n- [%s](%s)"%(card.get(name), "https://db.ygoprodeck.com/card/?search=%s"%card.get(name).replace(" ", "%20")))
+	outfile.write("\n- [%s](%s) "%(card.get(name), "https://db.ygoprodeck.com/card/?search=%s"%card.get(name).replace(" ", "%20")))
+	if card.get(status) < 1:
+		outfile.write(":no_entry_sign:")
+	elif card.get(status) == 1:
+		outfile.write(":one:")
+	elif card.get(status) == 2:
+		outfile.write(":two:")
+	elif card.get(status) == 3:
+		outfile.write(":three:")
 
 with urllib.request.urlopen(request) as url:
-	cards = json.loads(url.read().decode()).get(data)
-	limitedCards = []
-	semiLimitedCards = []
-	unlimitedCards = []
-	forbiddenCards = []
-	for card in cards:
-		if card.get(card_sets) != None:
-			images = card.get(card_images)
-			banInfo = card.get(banlist_info)
-			banTcg = 3
-			if (banInfo == None):
-				banTcg = 3	
-			if (banInfo != None):
-				banlistStatus = banInfo.get(ban_tcg)
-				if (banlistStatus == None):
-					banTcg = 3
-				if (banlistStatus == banned):
-					banTcg = 0
-				if (banlistStatus == limited):
-					banTcg = 1
-				if (banlistStatus == semi):
-					banTcg = 2
-			cardSets = card.get(card_sets)
-			hasCommonPrint = False
-			for printing in cardSets:
-				if printing.get(rarity_code) in legalRarities:
-					hasCommonPrint = True
-
-			#Portuguese fix, remove as soon as YGOPRODECK adds portuguese OTS support
-			if not hasCommonPrint:
-				if card.get(cardId) in portugueseOTSLegalCards:
-					hasCommonPrint = True
-
-			simpleCard = {}
-			simpleCard[name] = card.get(name)
-			simpleCard[status] = banTcg
-			if hasCommonPrint:
-				if banTcg == 3:
-					unlimitedCards.append(simpleCard)
-				elif banTcg == 2:
-					semiLimitedCards.append(simpleCard)
-				elif banTcg == 1:
-					limitedCards.append(simpleCard)
-				elif banTcg == 0:
-					forbiddenCards.append(simpleCard)
-			else:
-				forbiddenCards.append(simpleCard)
-
 	with open(filename, 'w', encoding="utf-8") as outfile:
-		outfile.write("\n\n## Forbidden:\n")
-		for card in forbiddenCards:
-			writeCard(card, outfile)
-		outfile.write("\n\n## Limited:\n")
-		for card in limitedCards:
-			writeCard(card, outfile)
-		outfile.write("\n\n## Semi-Limited:")
-		for card in semiLimitedCards:
-			writeCard(card, outfile)
-		outfile.write("\n\n## Unimited:")
-		for card in unlimitedCards:
-			writeCard(card, outfile)
+		outfile.write("### :no_entry_sign: means a card is Forbidden.\n### :one: means a card is Limited.\n### :two: means a card is Semi-Limited.\n### :three: means a card is not limited.\n")
+		cards = json.loads(url.read().decode()).get(data)
+		limitedCards = []
+		semiLimitedCards = []
+		unlimitedCards = []
+		forbiddenCards = []
+		for card in cards:
+			if card.get(card_sets) != None:
+				images = card.get(card_images)
+				banInfo = card.get(banlist_info)
+				banTcg = 3
+				if (banInfo == None):
+					banTcg = 3	
+				if (banInfo != None):
+					banlistStatus = banInfo.get(ban_tcg)
+					if (banlistStatus == None):
+						banTcg = 3
+					if (banlistStatus == banned):
+						banTcg = 0
+					if (banlistStatus == limited):
+						banTcg = 1
+					if (banlistStatus == semi):
+						banTcg = 2
+				cardSets = card.get(card_sets)
+				hasCommonPrint = False
+				for printing in cardSets:
+					if printing.get(rarity_code) in legalRarities:
+						hasCommonPrint = True
+
+				#Portuguese fix, remove as soon as YGOPRODECK adds portuguese OTS support
+				if not hasCommonPrint:
+					if card.get(cardId) in portugueseOTSLegalCards:
+						hasCommonPrint = True
+
+				simpleCard = {}
+				simpleCard[name] = card.get(name)
+				simpleCard[status] = banTcg
+				writeCard(simpleCard, outfile)
