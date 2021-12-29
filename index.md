@@ -1,7 +1,4 @@
 
-
-## Resources
-
 [Banlist](ccbanlist)
 
 ## Event decklists
