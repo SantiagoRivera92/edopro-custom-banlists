@@ -1,3 +1,8 @@
+---
+title:  "Common Charity"
+---
+
+
 ### 1st tournament decklists
 
 # 1st place:

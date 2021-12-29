@@ -59,11 +59,14 @@ def writeCard(card, outfile):
 
 	cardUrl = "https://db.ygoprodeck.com/card/?search=%s"%card.get(name).replace(" ", "%20")
 
-	outfile.write("| [%s](%s) | %s |\n"%(card.get(name), cardUrl, cardStatusAsText))
+	outfile.write("\n| [%s](%s) | %s |"%(card.get(name), cardUrl, cardStatusAsText))
 
 def writeCards(cards, outfile):
 	for card in cards:
 		writeCard(card,outfile)
+
+def writeHeader(outfile):
+	outfile.write("---\ntitle:  \"Common Charity\"\n---")
 
 
 illegalCards = []
@@ -121,6 +124,7 @@ with urllib.request.urlopen(request) as url:
 				unlimitedCards.append(simpleCard)
 
 with open(filename, 'w', encoding="utf-8") as outfile:
+	writeHeader(outfile)
 	writeCards(illegalCards, outfile)
 	writeCards(bannedCards, outfile)
 	writeCards(limitedCards, outfile)
