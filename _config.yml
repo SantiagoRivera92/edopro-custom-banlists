@@ -1,6 +1,7 @@
 theme: jekyll-theme-tactile
 title: Common Charity
 name: Common Charity
+headline: Common Charity
 description: The format without Mystic Mine
 github:
   is_project_page: false
