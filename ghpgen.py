@@ -68,6 +68,9 @@ def writeCards(cards, outfile):
 def writeHeader(outfile):
 	outfile.write("---\ntitle:  \"Common Charity\"\n---")
 
+def writeFooter(outfile):
+	outfile.write("###### [Back home](index)")
+
 
 illegalCards = []
 bannedCards = []
@@ -130,3 +133,4 @@ with open(filename, 'w', encoding="utf-8") as outfile:
 	writeCards(limitedCards, outfile)
 	writeCards(semiLimitedCards, outfile)
 	writeCards(unlimitedCards, outfile)
+	writeFooter(outfile)
