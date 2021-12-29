@@ -48,7 +48,9 @@ filename = 'index.md'
 def writeCard(card, outfile):
 	cardStatus = card.get(status)
 	cardStatusAsText = "Unlimited"
-	if (cardStatus == 0):
+	if (cardStatus == -1):
+		cardStatusAsText = "Illegal"
+	elif (cardStatus == 0):
 		cardStatusAsText = "Forbidden"
 	elif (cardStatus == 1):
 		cardStatusAsText = "Limited"
@@ -57,64 +59,70 @@ def writeCard(card, outfile):
 
 	cardUrl = "https://db.ygoprodeck.com/card/?search=%s"%card.get(name).replace(" ", "%20")
 
-	outfile.write("\n| [%s](%s) | %s |"%(card.get(name), cardUrl, cardStatusAsText))
+	outfile.write("| [%s](%s) | %s |\n"%(card.get(name), cardUrl, cardStatusAsText))
+
+def writeCards(cards, outfile):
+	for card in cards:
+		writeCard(card,outfile)
+
+
+illegalCards = []
+bannedCards = []
+limitedCards = []
+semiLimitedCards = []
+unlimitedCards = []
 
 with urllib.request.urlopen(request) as url:
-	with open(filename, 'w', encoding="utf-8") as outfile:
-		cards = json.loads(url.read().decode()).get(data)
-		bannedCards = []
-		limitedCards = []
-		semiLimitedCards = []
-		unlimitedCards = []
-		for card in cards:
-			if card.get(card_sets) != None:
-				images = card.get(card_images)
-				banInfo = card.get(banlist_info)
-				banTcg = 3
-				if (banInfo == None):
-					banTcg = 3	
-				if (banInfo != None):
-					banlistStatus = banInfo.get(ban_tcg)
-					if (banlistStatus == None):
-						banTcg = 3
-					if (banlistStatus == banned):
-						banTcg = 0
-					if (banlistStatus == limited):
-						banTcg = 1
-					if (banlistStatus == semi):
-						banTcg = 2
-				cardSets = card.get(card_sets)
-				hasCommonPrint = False
-				for printing in cardSets:
-					if printing.get(rarity_code) in legalRarities:
-						hasCommonPrint = True
-
-				#Portuguese fix, remove as soon as YGOPRODECK adds portuguese OTS support
-				if not hasCommonPrint:
-					if card.get(cardId) in portugueseOTSLegalCards:
-						hasCommonPrint = True
-
-				if not hasCommonPrint:
+	cards = json.loads(url.read().decode()).get(data)
+	for card in cards:
+		if card.get(card_sets) != None:
+			images = card.get(card_images)
+			banInfo = card.get(banlist_info)
+			banTcg = 3
+			if (banInfo == None):
+				banTcg = 3	
+			if (banInfo != None):
+				banlistStatus = banInfo.get(ban_tcg)
+				if (banlistStatus == None):
+					banTcg = 3
+				if (banlistStatus == banned):
 					banTcg = 0
+				if (banlistStatus == limited):
+					banTcg = 1
+				if (banlistStatus == semi):
+					banTcg = 2
+			cardSets = card.get(card_sets)
+			hasCommonPrint = False
 
-				simpleCard = {}
-				simpleCard[name] = card.get(name)
-				simpleCard[status] = banTcg
-				if banTcg == 0:
-					bannedCards.append(simpleCard)
-				elif banTcg == 1:
-					limitedCards.append(simpleCard)
-				elif banTcg == 2:
-					semiLimitedCards.append(simpleCard)
-				else:
-					unlimitedCards.append(simpleCard)
+			for printing in cardSets:
+				if printing.get(rarity_code) in legalRarities:
+					hasCommonPrint = True
 
-		allCards = []
-		for card in bannedCards:
-			writeCard(card, outfile)
-		for card in limitedCards:
-			writeCard(card, outfile)
-		for card in semiLimitedCards:
-			writeCard(card, outfile)
-		for card in unlimitedCards:
-			writeCard(card, outfile)
+			#Portuguese fix, remove as soon as YGOPRODECK adds portuguese OTS support
+			if not hasCommonPrint:
+				if card.get(cardId) in portugueseOTSLegalCards:
+					hasCommonPrint = True
+				if not hasCommonPrint:
+					banTcg = -1
+
+			simpleCard = {}
+			simpleCard[name] = card.get(name)
+			simpleCard[cardId] = card.get(cardId)
+			simpleCard[status] = banTcg
+			if banTcg == -1:
+				illegalCards.append(simpleCard)
+			elif banTcg == 0:
+				bannedCards.append(simpleCard)
+			elif banTcg == 1:
+				limitedCards.append(simpleCard)
+			elif banTcg == 2:
+				semiLimitedCards.append(simpleCard)
+			elif banTcg == 3:
+				unlimitedCards.append(simpleCard)
+
+with open(filename, 'w', encoding="utf-8") as outfile:
+	writeCards(illegalCards, outfile)
+	writeCards(bannedCards, outfile)
+	writeCards(limitedCards, outfile)
+	writeCards(semiLimitedCards, outfile)
+	writeCards(unlimitedCards, outfile)
