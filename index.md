@@ -1,4 +1,4 @@
-## Resources for the Common Charity format
+## Resources
 
 [Banlist](ccbanlist)
 
