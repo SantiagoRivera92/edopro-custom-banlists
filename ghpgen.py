@@ -43,7 +43,7 @@ cardId = 'id'
 status = 'status'
 
 #Filename for banlist
-filename = 'index.md'
+filename = 'ccbanlist.md'
 
 def writeCard(card, outfile):
 	cardStatus = card.get(status)
