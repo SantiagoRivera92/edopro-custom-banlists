@@ -1,5 +1,5 @@
 ---
-title:  "<a href="https://diamonddudetcg.github.io/edopro-custom-banlists">Common Charity</a>"
+title:  "[Common Charity](index)"
 ---
 
 ## 1st tournament decklists
