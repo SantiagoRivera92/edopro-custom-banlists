@@ -1,5 +1,5 @@
 ---
-title:  "[Common Charity](index)"
+title:  "Common Charity"
 ---
 
 ## 1st tournament decklists
@@ -19,3 +19,6 @@ title:  "[Common Charity](index)"
 ### 4th place:
 
 [Tenyi](https://ygoprodeck.com/tenyi-cc-4th-place-by-helias/) by Helias
+
+
+###### [Back home](index)
