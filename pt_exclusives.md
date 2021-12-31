@@ -3,9 +3,13 @@ title:  "Common Charity"
 ---
 ## Cards that were only printed as Portuguese OTS exclusives
 | [Arcana Force XXI - The World](https://db.ygoprodeck.com/card/?search=Arcana%20Force%20XXI%20-%20The%20World) | OP14-PT029 |
+
 | [Arcane Apprentice](https://db.ygoprodeck.com/card/?search=Arcane%20Apprentice) | OP10-PT031 |
+
 | [Arcanite Magician/Assault Mode](https://db.ygoprodeck.com/card/?search=Arcanite%20Magician/Assault%20Mode) | OP10-PT029 |
+
 | [Colossal Fighter](https://db.ygoprodeck.com/card/?search=Colossal%20Fighter) | OP10-PT034 |
+
 | [Colossal Fighter/Assault Mode](https://db.ygoprodeck.com/card/?search=Colossal%20Fighter/Assault%20Mode) | OP10-PT030 |
 | [Doomkaiser Dragon](https://db.ygoprodeck.com/card/?search=Doomkaiser%20Dragon) | OP10-PT033 |
 | [Doomkaiser Dragon/Assault Mode](https://db.ygoprodeck.com/card/?search=Doomkaiser%20Dragon/Assault%20Mode) | OP10-PT028 |
