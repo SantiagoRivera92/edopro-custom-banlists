@@ -15,7 +15,7 @@ filename = "pt_exclusives.md"
 
 def writeCard(card, outfile):
 	cardUrl = "https://db.ygoprodeck.com/card/?search=%s"%card.get('name').replace(" ", "%20")
-	outfile.write("\n[%s](%s)"%(card.get('name'), cardUrl))
+	outfile.write("\n| [%s](%s) |"%(card.get('name'), cardUrl))
 
 def writeCards(cards, outfile):
 	for card in cards:
