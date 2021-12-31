@@ -19,7 +19,7 @@ status = 'status'
 
 def writeCard(card, outfile):
 	cardUrl = "https://db.ygoprodeck.com/card/?search=%s"%card.get(name).replace(" ", "%20")
-	outfile.write("\n| [%s](%s) |"%(card.get(name), cardUrl))
+	outfile.write("\n| [%s](%s) | %s |"%(card.get(name), cardUrl, card.get('set')))
 
 def writeCards(cards, outfile):
 	for card in cards:
@@ -27,7 +27,7 @@ def writeCards(cards, outfile):
 
 def writeHeader(outfile):
 	outfile.write("---\ntitle:  \"Common Charity\"\n---\n")
-	outfile.write("### Cards that were only printed in Duel Terminal")
+	outfile.write("## Cards that were only printed in Duel Terminal")
 
 def writeFooter(outfile):
 	outfile.write("\n###### [Back home](index)")
@@ -40,6 +40,7 @@ with urllib.request.urlopen(request) as url:
 			if card.get('card_sets') != None:
 				cardSets = card.get('card_sets')
 				hasCommonPrint = False
+				printSet = ""
 				isDT = False
 				for printing in cardSets:
 					rarity = printing.get('set_rarity_code')
@@ -47,11 +48,13 @@ with urllib.request.urlopen(request) as url:
 						hasCommonPrint = True
 					elif rarity == '(DNPR)':
 						isDT = True
+						printSet = printing.get('set_code')
 				if isDT:
 					if not hasCommonPrint:
 						simpleCard = {}
 						simpleCard[name] = card.get(name)
 						simpleCard[cardId] = card.get(cardId)
+						simpleCard['set'] = printSet
 						simpleCards.append(simpleCard)
 		writeHeader(outfile)
 		writeCards(simpleCards, outfile)

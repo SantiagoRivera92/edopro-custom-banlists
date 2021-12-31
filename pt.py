@@ -15,7 +15,7 @@ filename = "pt_exclusives.md"
 
 def writeCard(card, outfile):
 	cardUrl = "https://db.ygoprodeck.com/card/?search=%s"%card.get('name').replace(" ", "%20")
-	outfile.write("\n| [%s](%s) |"%(card.get('name'), cardUrl))
+	outfile.write("\n| [%s](%s) | %s |"%(card.get('name'), cardUrl, card.get('set')))
 
 def writeCards(cards, outfile):
 	for card in cards:
@@ -36,11 +36,13 @@ with urllib.request.urlopen(request) as url:
 			cardSets = card.get('card_sets')
 			hasCommonPrint = False
 			isPortuguese = False
+			printSet = ""
 			for printing in cardSets:
 				rarity = printing.get('set_rarity_code')
 				if rarity == '(C)':
 					if '(POR)' in printing.get('set_name'):
 						isPortuguese = True
+						printSet = printing.get('set_code')
 					else:
 						hasCommonPrint = True
 			if isPortuguese:
@@ -48,6 +50,7 @@ with urllib.request.urlopen(request) as url:
 					simpleCard = {}
 					simpleCard['name'] = card.get('name')
 					simpleCard['id'] = card.get('id')
+					simpleCard['set'] = printSet
 					portugueseOTSCards.append(simpleCard)
 
 	with open(filename, 'w', encoding="utf-8") as outfile:
