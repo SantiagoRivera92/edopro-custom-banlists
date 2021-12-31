@@ -57,7 +57,7 @@ def writeCard(card, outfile):
 	elif (cardStatus == 2):
 		cardStatusAsText = "Semi-Limited"
 
-	cardUrl = "| https://db.ygoprodeck.com/card/?search=%s |"%card.get(name).replace(" ", "%20")
+	cardUrl = "https://db.ygoprodeck.com/card/?search=%s"%card.get(name).replace(" ", "%20")
 
 	outfile.write("\n| [%s](%s) | %s |"%(card.get(name), cardUrl, cardStatusAsText))
 
@@ -69,7 +69,7 @@ def writeHeader(outfile):
 	outfile.write("---\ntitle:  \"Common Charity\"\n---")
 
 def writeFooter(outfile):
-	outfile.write("###### [Back home](index)")
+	outfile.write("\n\n###### [Back home](index)")
 
 
 illegalCards = []

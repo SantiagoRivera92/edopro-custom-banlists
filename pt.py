@@ -13,6 +13,11 @@ request = urllib.request.Request(url, None, header)
 
 filename = "pt_exclusives.md"
 
+portugueseOTSLegalCards = [
+	98259197,40391316,24040093,98024118,19439119,10118318,47395382,29905795,66976526,60470713,
+	76442347,36318200,15941690,88552992,4192696,2461031,16550875,69207766,90576781,21179143,
+	64514622,3300267,31516413,78033100,41639001,13140300,8611007,51555725,38492752,32761286]
+
 def writeCard(card, outfile):
 	cardUrl = "https://db.ygoprodeck.com/card/?search=%s"%card.get('name').replace(" ", "%20")
 	outfile.write("\n| [%s](%s) | %s |"%(card.get('name'), cardUrl, card.get('set')))
@@ -45,6 +50,12 @@ with urllib.request.urlopen(request) as url:
 						printSet = printing.get('set_code')
 					else:
 						hasCommonPrint = True
+
+			if not isPortuguese:
+				if card.get('id') in portugueseOTSLegalCards:
+					isPortuguese = True
+					printSet = "Not in YGOPRODECK"
+
 			if isPortuguese:
 				if not hasCommonPrint:
 					simpleCard = {}

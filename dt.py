@@ -27,7 +27,7 @@ def writeCards(cards, outfile):
 
 def writeHeader(outfile):
 	outfile.write("---\ntitle:  \"Common Charity\"\n---\n")
-	outfile.write("## Cards that were only printed in Duel Terminal")
+	outfile.write("## Cards that were only printed in Duel Terminal\n\n")
 
 def writeFooter(outfile):
 	outfile.write("\n###### [Back home](index)")
