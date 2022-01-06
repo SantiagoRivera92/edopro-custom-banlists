@@ -43,7 +43,7 @@ cardId = 'id'
 status = 'status'
 
 #Filename for banlist
-filename = 'cc banlist/charity.lflist.conf'
+filename = 'charity.lflist.conf'
 
 def writeCard(card, outfile):
 	outfile.write("%d %d -- %s\n" % (card.get(cardId), card.get(status), card.get(name)))

@@ -12,5 +12,6 @@ title:  "Common Charity"
 
 ## Event decklists
 
-[1st tournament top 4](1st_tournament)
+[CCC1 top 4](ccc1)
 
+[CCC2 top 8](ccc2)
