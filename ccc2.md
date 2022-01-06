@@ -29,3 +29,5 @@ title:  "Common Charity"
 [Melffy](https://www.duelingbook.com/deck?id=9841237) by [Jaxel_MS](https://twitter.com/Jaxel_MS)
 
 [60 Card Paleozoic](https://www.duelingbook.com/deck?id=9842233) by Razor
+
+###### [Back home](index)

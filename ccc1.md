@@ -19,3 +19,5 @@ title:  "Common Charity"
 ### 4th place:
 
 [Tenyi](https://ygoprodeck.com/tenyi-cc-4th-place-by-helias/) by Helias
+
+###### [Back home](index)
