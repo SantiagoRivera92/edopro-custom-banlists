@@ -57,7 +57,7 @@ def writeCard(card, outfile):
 	elif (cardStatus == 2):
 		cardStatusAsText = "Semi-Limited"
 
-	cardUrl = "https://db.ygoprodeck.com/card/?search=%s"%card.get(name).replace(" ", "%20")
+	cardUrl = "https://db.ygoprodeck.com/card/?search=%s"%card.get(name).replace(" ", "%20").replace("&", "%26")
 
 	outfile.write("\n| [%s](%s) | %s |"%(card.get(name), cardUrl, cardStatusAsText))
 

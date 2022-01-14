@@ -550,7 +550,7 @@ title:  "Common Charity"
 | [Cipher Interference](https://db.ygoprodeck.com/card/?search=Cipher%20Interference) | Illegal |
 | [Cir, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Cir,%20Malebranche%20of%20the%20Burning%20Abyss) | Illegal |
 | [Citadel Whale](https://db.ygoprodeck.com/card/?search=Citadel%20Whale) | Illegal |
-| [Clara & Rushka, the Ventriloduo](https://db.ygoprodeck.com/card/?search=Clara%20&%20Rushka,%20the%20Ventriloduo) | Illegal |
+| [Clara & Rushka, the Ventriloduo](https://db.ygoprodeck.com/card/?search=Clara%20%26%20Rushka,%20the%20Ventriloduo) | Illegal |
 | [Clashing Souls](https://db.ygoprodeck.com/card/?search=Clashing%20Souls) | Illegal |
 | [Clear Effector](https://db.ygoprodeck.com/card/?search=Clear%20Effector) | Illegal |
 | [Clear Kuriboh](https://db.ygoprodeck.com/card/?search=Clear%20Kuriboh) | Illegal |
@@ -990,6 +990,7 @@ title:  "Common Charity"
 | [Duck Fighter](https://db.ygoprodeck.com/card/?search=Duck%20Fighter) | Illegal |
 | [Duel Link Dragon, the Duel Dragon](https://db.ygoprodeck.com/card/?search=Duel%20Link%20Dragon,%20the%20Duel%20Dragon) | Illegal |
 | [Dueltaining](https://db.ygoprodeck.com/card/?search=Dueltaining) | Illegal |
+| [Dunnell, the Noble Arms of Light](https://db.ygoprodeck.com/card/?search=Dunnell,%20the%20Noble%20Arms%20of%20Light) | Illegal |
 | [Duoterion](https://db.ygoprodeck.com/card/?search=Duoterion) | Illegal |
 | [Dust Knight](https://db.ygoprodeck.com/card/?search=Dust%20Knight) | Illegal |
 | [Duza the Meteor Cubic Vessel](https://db.ygoprodeck.com/card/?search=Duza%20the%20Meteor%20Cubic%20Vessel) | Illegal |
@@ -1138,7 +1139,7 @@ title:  "Common Charity"
 | [Evil★Twin Lil-la](https://db.ygoprodeck.com/card/?search=Evil★Twin%20Lil-la) | Illegal |
 | [Evil★Twin Present](https://db.ygoprodeck.com/card/?search=Evil★Twin%20Present) | Illegal |
 | [Evil★Twin's Trouble Sunny](https://db.ygoprodeck.com/card/?search=Evil★Twin's%20Trouble%20Sunny) | Illegal |
-| [Evil★Twins Ki-sikil & Lil-la](https://db.ygoprodeck.com/card/?search=Evil★Twins%20Ki-sikil%20&%20Lil-la) | Illegal |
+| [Evil★Twins Ki-sikil & Lil-la](https://db.ygoprodeck.com/card/?search=Evil★Twins%20Ki-sikil%20%26%20Lil-la) | Illegal |
 | [Evo-Diversity](https://db.ygoprodeck.com/card/?search=Evo-Diversity) | Illegal |
 | [Evo-Force](https://db.ygoprodeck.com/card/?search=Evo-Force) | Illegal |
 | [Evo-Instant](https://db.ygoprodeck.com/card/?search=Evo-Instant) | Illegal |
@@ -1227,10 +1228,10 @@ title:  "Common Charity"
 | [Flash of the Forbidden Spell](https://db.ygoprodeck.com/card/?search=Flash%20of%20the%20Forbidden%20Spell) | Illegal |
 | [Fleuret de Fleur](https://db.ygoprodeck.com/card/?search=Fleuret%20de%20Fleur) | Illegal |
 | [Flogos, the Ogdoadic Boundless](https://db.ygoprodeck.com/card/?search=Flogos,%20the%20Ogdoadic%20Boundless) | Illegal |
-| [Floowandereeze & Eglen](https://db.ygoprodeck.com/card/?search=Floowandereeze%20&%20Eglen) | Illegal |
-| [Floowandereeze & Empen](https://db.ygoprodeck.com/card/?search=Floowandereeze%20&%20Empen) | Illegal |
-| [Floowandereeze & Robina](https://db.ygoprodeck.com/card/?search=Floowandereeze%20&%20Robina) | Illegal |
-| [Floowandereeze & Snowl](https://db.ygoprodeck.com/card/?search=Floowandereeze%20&%20Snowl) | Illegal |
+| [Floowandereeze & Eglen](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Eglen) | Illegal |
+| [Floowandereeze & Empen](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Empen) | Illegal |
+| [Floowandereeze & Robina](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Robina) | Illegal |
+| [Floowandereeze & Snowl](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Snowl) | Illegal |
 | [Floowandereeze and the Dreaming Town](https://db.ygoprodeck.com/card/?search=Floowandereeze%20and%20the%20Dreaming%20Town) | Illegal |
 | [Floowandereeze and the Magnificent Map](https://db.ygoprodeck.com/card/?search=Floowandereeze%20and%20the%20Magnificent%20Map) | Illegal |
 | [Floowandereeze and the Scary Sea](https://db.ygoprodeck.com/card/?search=Floowandereeze%20and%20the%20Scary%20Sea) | Illegal |
@@ -1402,17 +1403,17 @@ title:  "Common Charity"
 | [Geomathmech Final Sigma](https://db.ygoprodeck.com/card/?search=Geomathmech%20Final%20Sigma) | Illegal |
 | [Geomathmech Magma](https://db.ygoprodeck.com/card/?search=Geomathmech%20Magma) | Illegal |
 | [Get Out!](https://db.ygoprodeck.com/card/?search=Get%20Out!) | Illegal |
-| [Ghost Belle & Haunted Mansion](https://db.ygoprodeck.com/card/?search=Ghost%20Belle%20&%20Haunted%20Mansion) | Illegal |
+| [Ghost Belle & Haunted Mansion](https://db.ygoprodeck.com/card/?search=Ghost%20Belle%20%26%20Haunted%20Mansion) | Illegal |
 | [Ghost Bird of Bewitchment](https://db.ygoprodeck.com/card/?search=Ghost%20Bird%20of%20Bewitchment) | Illegal |
 | [Ghost Charon, the Underworld Boatman](https://db.ygoprodeck.com/card/?search=Ghost%20Charon,%20the%20Underworld%20Boatman) | Illegal |
 | [Ghost Fairy Elfobia](https://db.ygoprodeck.com/card/?search=Ghost%20Fairy%20Elfobia) | Illegal |
 | [Ghost Meets Girl - A Shiranui's Story](https://db.ygoprodeck.com/card/?search=Ghost%20Meets%20Girl%20-%20A%20Shiranui's%20Story) | Illegal |
-| [Ghost Mourner & Moonlit Chill](https://db.ygoprodeck.com/card/?search=Ghost%20Mourner%20&%20Moonlit%20Chill) | Illegal |
+| [Ghost Mourner & Moonlit Chill](https://db.ygoprodeck.com/card/?search=Ghost%20Mourner%20%26%20Moonlit%20Chill) | Illegal |
 | [Ghost of a Grudge](https://db.ygoprodeck.com/card/?search=Ghost%20of%20a%20Grudge) | Illegal |
-| [Ghost Ogre & Snow Rabbit](https://db.ygoprodeck.com/card/?search=Ghost%20Ogre%20&%20Snow%20Rabbit) | Illegal |
-| [Ghost Reaper & Winter Cherries](https://db.ygoprodeck.com/card/?search=Ghost%20Reaper%20&%20Winter%20Cherries) | Illegal |
+| [Ghost Ogre & Snow Rabbit](https://db.ygoprodeck.com/card/?search=Ghost%20Ogre%20%26%20Snow%20Rabbit) | Illegal |
+| [Ghost Reaper & Winter Cherries](https://db.ygoprodeck.com/card/?search=Ghost%20Reaper%20%26%20Winter%20Cherries) | Illegal |
 | [Ghost Ship](https://db.ygoprodeck.com/card/?search=Ghost%20Ship) | Illegal |
-| [Ghost Sister & Spooky Dogwood](https://db.ygoprodeck.com/card/?search=Ghost%20Sister%20&%20Spooky%20Dogwood) | Illegal |
+| [Ghost Sister & Spooky Dogwood](https://db.ygoprodeck.com/card/?search=Ghost%20Sister%20%26%20Spooky%20Dogwood) | Illegal |
 | [Ghostrick Alucard](https://db.ygoprodeck.com/card/?search=Ghostrick%20Alucard) | Illegal |
 | [Ghostrick Angel of Mischief](https://db.ygoprodeck.com/card/?search=Ghostrick%20Angel%20of%20Mischief) | Illegal |
 | [Ghostrick Break](https://db.ygoprodeck.com/card/?search=Ghostrick%20Break) | Illegal |
@@ -1497,7 +1498,7 @@ title:  "Common Charity"
 | [Golden Castle of Stromberg](https://db.ygoprodeck.com/card/?search=Golden%20Castle%20of%20Stromberg) | Illegal |
 | [Golden Land Forever!](https://db.ygoprodeck.com/card/?search=Golden%20Land%20Forever!) | Illegal |
 | [Golden-Eyes Idol](https://db.ygoprodeck.com/card/?search=Golden-Eyes%20Idol) | Illegal |
-| [Good & Evil in the Burning Abyss](https://db.ygoprodeck.com/card/?search=Good%20&%20Evil%20in%20the%20Burning%20Abyss) | Illegal |
+| [Good & Evil in the Burning Abyss](https://db.ygoprodeck.com/card/?search=Good%20%26%20Evil%20in%20the%20Burning%20Abyss) | Illegal |
 | [Gorgon, Empress of the Evil Eyed](https://db.ygoprodeck.com/card/?search=Gorgon,%20Empress%20of%20the%20Evil%20Eyed) | Illegal |
 | [Gorz the Emissary of Darkness](https://db.ygoprodeck.com/card/?search=Gorz%20the%20Emissary%20of%20Darkness) | Illegal |
 | [Gottoms' Second Call](https://db.ygoprodeck.com/card/?search=Gottoms'%20Second%20Call) | Illegal |
@@ -2906,6 +2907,7 @@ title:  "Common Charity"
 | [Rikka Tranquility](https://db.ygoprodeck.com/card/?search=Rikka%20Tranquility) | Illegal |
 | [Rilliona, the Magistus of Verre](https://db.ygoprodeck.com/card/?search=Rilliona,%20the%20Magistus%20of%20Verre) | Illegal |
 | [Rilliona, the Wondrous Magistus Witch Wardrobe](https://db.ygoprodeck.com/card/?search=Rilliona,%20the%20Wondrous%20Magistus%20Witch%20Wardrobe) | Illegal |
+| [Rite of Aramesir](https://db.ygoprodeck.com/card/?search=Rite%20of%20Aramesir) | Illegal |
 | [Ritual Beast Steeds](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Steeds) | Illegal |
 | [Ritual Beast Tamer Elder](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Tamer%20Elder) | Illegal |
 | [Ritual Beast Tamer Lara](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Tamer%20Lara) | Illegal |
@@ -3212,7 +3214,7 @@ title:  "Common Charity"
 | [SPYRAL Sleeper](https://db.ygoprodeck.com/card/?search=SPYRAL%20Sleeper) | Illegal |
 | [SPYRAL Super Agent](https://db.ygoprodeck.com/card/?search=SPYRAL%20Super%20Agent) | Illegal |
 | [SPYRAL Tough](https://db.ygoprodeck.com/card/?search=SPYRAL%20Tough) | Illegal |
-| [Stained Glass of Light & Dark](https://db.ygoprodeck.com/card/?search=Stained%20Glass%20of%20Light%20&%20Dark) | Illegal |
+| [Stained Glass of Light & Dark](https://db.ygoprodeck.com/card/?search=Stained%20Glass%20of%20Light%20%26%20Dark) | Illegal |
 | [Stall Turn](https://db.ygoprodeck.com/card/?search=Stall%20Turn) | Illegal |
 | [Star Eater](https://db.ygoprodeck.com/card/?search=Star%20Eater) | Illegal |
 | [Star Pendulumgraph](https://db.ygoprodeck.com/card/?search=Star%20Pendulumgraph) | Illegal |
@@ -3236,6 +3238,7 @@ title:  "Common Charity"
 | [Starliege Photon Blast Dragon](https://db.ygoprodeck.com/card/?search=Starliege%20Photon%20Blast%20Dragon) | Illegal |
 | [Starliege Seyfert](https://db.ygoprodeck.com/card/?search=Starliege%20Seyfert) | Illegal |
 | [Starlight Road](https://db.ygoprodeck.com/card/?search=Starlight%20Road) | Illegal |
+| [Starlit Papillon](https://db.ygoprodeck.com/card/?search=Starlit%20Papillon) | Illegal |
 | [Starry Knight Arrival](https://db.ygoprodeck.com/card/?search=Starry%20Knight%20Arrival) | Illegal |
 | [Starry Knight Astel](https://db.ygoprodeck.com/card/?search=Starry%20Knight%20Astel) | Illegal |
 | [Starry Knight Balefire](https://db.ygoprodeck.com/card/?search=Starry%20Knight%20Balefire) | Illegal |
@@ -3508,6 +3511,7 @@ title:  "Common Charity"
 | [Thought Ruler Archfiend](https://db.ygoprodeck.com/card/?search=Thought%20Ruler%20Archfiend) | Illegal |
 | [Thousand-Eyes Jellyfish](https://db.ygoprodeck.com/card/?search=Thousand-Eyes%20Jellyfish) | Illegal |
 | [Thron the Disciplined Angel](https://db.ygoprodeck.com/card/?search=Thron%20the%20Disciplined%20Angel) | Illegal |
+| [Thunder Discharge](https://db.ygoprodeck.com/card/?search=Thunder%20Discharge) | Illegal |
 | [Thunder Dragon Colossus](https://db.ygoprodeck.com/card/?search=Thunder%20Dragon%20Colossus) | Illegal |
 | [Thunder Dragon Fusion](https://db.ygoprodeck.com/card/?search=Thunder%20Dragon%20Fusion) | Illegal |
 | [Thunder Dragon Thunderstormech](https://db.ygoprodeck.com/card/?search=Thunder%20Dragon%20Thunderstormech) | Illegal |
@@ -3659,6 +3663,7 @@ title:  "Common Charity"
 | [U.A. Playmaker](https://db.ygoprodeck.com/card/?search=U.A.%20Playmaker) | Illegal |
 | [U.A. Turnover Tactics](https://db.ygoprodeck.com/card/?search=U.A.%20Turnover%20Tactics) | Illegal |
 | [UFOroid Fighter](https://db.ygoprodeck.com/card/?search=UFOroid%20Fighter) | Illegal |
+| [Ukiyoe-P.U.N.K. Amazing Dragon](https://db.ygoprodeck.com/card/?search=Ukiyoe-P.U.N.K.%20Amazing%20Dragon) | Illegal |
 | [Ukiyoe-P.U.N.K. Rising Carp](https://db.ygoprodeck.com/card/?search=Ukiyoe-P.U.N.K.%20Rising%20Carp) | Illegal |
 | [Ulevo](https://db.ygoprodeck.com/card/?search=Ulevo) | Illegal |
 | [Ultimate Axon Kicker](https://db.ygoprodeck.com/card/?search=Ultimate%20Axon%20Kicker) | Illegal |
@@ -3813,6 +3818,7 @@ title:  "Common Charity"
 | [Vylon Stigma](https://db.ygoprodeck.com/card/?search=Vylon%20Stigma) | Illegal |
 | [Wailing of the Unchained Souls](https://db.ygoprodeck.com/card/?search=Wailing%20of%20the%20Unchained%20Souls) | Illegal |
 | [Wall of Thorns](https://db.ygoprodeck.com/card/?search=Wall%20of%20Thorns) | Illegal |
+| [Wandering Gryphon Rider](https://db.ygoprodeck.com/card/?search=Wandering%20Gryphon%20Rider) | Illegal |
 | [Wandering King Wildwind](https://db.ygoprodeck.com/card/?search=Wandering%20King%20Wildwind) | Illegal |
 | [War Rock Bashileos](https://db.ygoprodeck.com/card/?search=War%20Rock%20Bashileos) | Illegal |
 | [War Rock Dignity](https://db.ygoprodeck.com/card/?search=War%20Rock%20Dignity) | Illegal |
@@ -3826,6 +3832,7 @@ title:  "Common Charity"
 | [Warning Point](https://db.ygoprodeck.com/card/?search=Warning%20Point) | Illegal |
 | [Warrior of Tradition](https://db.ygoprodeck.com/card/?search=Warrior%20of%20Tradition) | Illegal |
 | [Water Dragon Cluster](https://db.ygoprodeck.com/card/?search=Water%20Dragon%20Cluster) | Illegal |
+| [Water Enchantress of the Temple](https://db.ygoprodeck.com/card/?search=Water%20Enchantress%20of%20the%20Temple) | Illegal |
 | [Water of Life](https://db.ygoprodeck.com/card/?search=Water%20of%20Life) | Illegal |
 | [Waterfall of Dragon Souls](https://db.ygoprodeck.com/card/?search=Waterfall%20of%20Dragon%20Souls) | Illegal |
 | [Wattberyx](https://db.ygoprodeck.com/card/?search=Wattberyx) | Illegal |
@@ -3838,7 +3845,7 @@ title:  "Common Charity"
 | [Wave-Motion Inferno](https://db.ygoprodeck.com/card/?search=Wave-Motion%20Inferno) | Illegal |
 | [Weathering Soldier](https://db.ygoprodeck.com/card/?search=Weathering%20Soldier) | Illegal |
 | [Wee Witch's Apprentice](https://db.ygoprodeck.com/card/?search=Wee%20Witch's%20Apprentice) | Illegal |
-| [Weights & Zenmaisures](https://db.ygoprodeck.com/card/?search=Weights%20&%20Zenmaisures) | Illegal |
+| [Weights & Zenmaisures](https://db.ygoprodeck.com/card/?search=Weights%20%26%20Zenmaisures) | Illegal |
 | [Wheel of Prophecy](https://db.ygoprodeck.com/card/?search=Wheel%20of%20Prophecy) | Illegal |
 | [White Aura Bihamut](https://db.ygoprodeck.com/card/?search=White%20Aura%20Bihamut) | Illegal |
 | [White Aura Dolphin](https://db.ygoprodeck.com/card/?search=White%20Aura%20Dolphin) | Illegal |
@@ -4496,7 +4503,7 @@ title:  "Common Charity"
 | [Artifact Moralltach](https://db.ygoprodeck.com/card/?search=Artifact%20Moralltach) | Unlimited |
 | [Artifact Vajra](https://db.ygoprodeck.com/card/?search=Artifact%20Vajra) | Unlimited |
 | [Artifacts Unleashed](https://db.ygoprodeck.com/card/?search=Artifacts%20Unleashed) | Unlimited |
-| [Ash Blossom & Joyous Spring](https://db.ygoprodeck.com/card/?search=Ash%20Blossom%20&%20Joyous%20Spring) | Unlimited |
+| [Ash Blossom & Joyous Spring](https://db.ygoprodeck.com/card/?search=Ash%20Blossom%20%26%20Joyous%20Spring) | Unlimited |
 | [Asleep at the Switch](https://db.ygoprodeck.com/card/?search=Asleep%20at%20the%20Switch) | Unlimited |
 | [Assault Beast](https://db.ygoprodeck.com/card/?search=Assault%20Beast) | Unlimited |
 | [Assault Blackwing - Sohaya the Rain Storm](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Sohaya%20the%20Rain%20Storm) | Unlimited |
@@ -4678,7 +4685,7 @@ title:  "Common Charity"
 | [Beelzeus of the Diabolic Dragons](https://db.ygoprodeck.com/card/?search=Beelzeus%20of%20the%20Diabolic%20Dragons) | Unlimited |
 | [Beetron](https://db.ygoprodeck.com/card/?search=Beetron) | Unlimited |
 | [Beetrooper Assault Roller](https://db.ygoprodeck.com/card/?search=Beetrooper%20Assault%20Roller) | Unlimited |
-| [Beetrooper Fly & Sting](https://db.ygoprodeck.com/card/?search=Beetrooper%20Fly%20&%20Sting) | Unlimited |
+| [Beetrooper Fly & Sting](https://db.ygoprodeck.com/card/?search=Beetrooper%20Fly%20%26%20Sting) | Unlimited |
 | [Beetrooper Landing](https://db.ygoprodeck.com/card/?search=Beetrooper%20Landing) | Unlimited |
 | [Beetrooper Squad](https://db.ygoprodeck.com/card/?search=Beetrooper%20Squad) | Unlimited |
 | [Beginning of Heaven and Earth](https://db.ygoprodeck.com/card/?search=Beginning%20of%20Heaven%20and%20Earth) | Unlimited |
@@ -5929,7 +5936,7 @@ title:  "Common Charity"
 | [Double Spell](https://db.ygoprodeck.com/card/?search=Double%20Spell) | Unlimited |
 | [Double Summon](https://db.ygoprodeck.com/card/?search=Double%20Summon) | Unlimited |
 | [Double Tag Team](https://db.ygoprodeck.com/card/?search=Double%20Tag%20Team) | Unlimited |
-| [Double Tool C&D](https://db.ygoprodeck.com/card/?search=Double%20Tool%20C&D) | Unlimited |
+| [Double Tool C&D](https://db.ygoprodeck.com/card/?search=Double%20Tool%20C%26D) | Unlimited |
 | [Double Trap Hole](https://db.ygoprodeck.com/card/?search=Double%20Trap%20Hole) | Unlimited |
 | [Double-Edged Sword](https://db.ygoprodeck.com/card/?search=Double-Edged%20Sword) | Unlimited |
 | [Double-Edged Sword Technique](https://db.ygoprodeck.com/card/?search=Double-Edged%20Sword%20Technique) | Unlimited |
@@ -6012,7 +6019,7 @@ title:  "Common Charity"
 | [Drillago](https://db.ygoprodeck.com/card/?search=Drillago) | Unlimited |
 | [Drillroid](https://db.ygoprodeck.com/card/?search=Drillroid) | Unlimited |
 | [Driving Snow](https://db.ygoprodeck.com/card/?search=Driving%20Snow) | Unlimited |
-| [Droll & Lock Bird](https://db.ygoprodeck.com/card/?search=Droll%20&%20Lock%20Bird) | Unlimited |
+| [Droll & Lock Bird](https://db.ygoprodeck.com/card/?search=Droll%20%26%20Lock%20Bird) | Unlimited |
 | [Drooling Lizard](https://db.ygoprodeck.com/card/?search=Drooling%20Lizard) | Unlimited |
 | [Drop Off](https://db.ygoprodeck.com/card/?search=Drop%20Off) | Unlimited |
 | [Drowning Mirror Force](https://db.ygoprodeck.com/card/?search=Drowning%20Mirror%20Force) | Unlimited |
@@ -6431,8 +6438,8 @@ title:  "Common Charity"
 | [Flip Flop Frog](https://db.ygoprodeck.com/card/?search=Flip%20Flop%20Frog) | Unlimited |
 | [Flip Frozen](https://db.ygoprodeck.com/card/?search=Flip%20Frozen) | Unlimited |
 | [Floodgate Trap Hole](https://db.ygoprodeck.com/card/?search=Floodgate%20Trap%20Hole) | Unlimited |
-| [Floowandereeze & Stri](https://db.ygoprodeck.com/card/?search=Floowandereeze%20&%20Stri) | Unlimited |
-| [Floowandereeze & Toccan](https://db.ygoprodeck.com/card/?search=Floowandereeze%20&%20Toccan) | Unlimited |
+| [Floowandereeze & Stri](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Stri) | Unlimited |
+| [Floowandereeze & Toccan](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Toccan) | Unlimited |
 | [Flourishing Frolic](https://db.ygoprodeck.com/card/?search=Flourishing%20Frolic) | Unlimited |
 | [Flower Cardian Cherry Blossom with Curtain](https://db.ygoprodeck.com/card/?search=Flower%20Cardian%20Cherry%20Blossom%20with%20Curtain) | Unlimited |
 | [Flower Cardian Clover with Boar](https://db.ygoprodeck.com/card/?search=Flower%20Cardian%20Clover%20with%20Boar) | Unlimited |
@@ -6840,7 +6847,7 @@ title:  "Common Charity"
 | [Goe Goe the Gallant Ninja](https://db.ygoprodeck.com/card/?search=Goe%20Goe%20the%20Gallant%20Ninja) | Unlimited |
 | [Goggle Golem](https://db.ygoprodeck.com/card/?search=Goggle%20Golem) | Unlimited |
 | [Gogiga Gagagigo](https://db.ygoprodeck.com/card/?search=Gogiga%20Gagagigo) | Unlimited |
-| [Gogogo Aristera & Dexia](https://db.ygoprodeck.com/card/?search=Gogogo%20Aristera%20&%20Dexia) | Unlimited |
+| [Gogogo Aristera & Dexia](https://db.ygoprodeck.com/card/?search=Gogogo%20Aristera%20%26%20Dexia) | Unlimited |
 | [Gogogo Ghost](https://db.ygoprodeck.com/card/?search=Gogogo%20Ghost) | Unlimited |
 | [Gogogo Giant](https://db.ygoprodeck.com/card/?search=Gogogo%20Giant) | Unlimited |
 | [Gogogo Golem](https://db.ygoprodeck.com/card/?search=Gogogo%20Golem) | Unlimited |
@@ -8016,7 +8023,7 @@ title:  "Common Charity"
 | [Masked Sorcerer](https://db.ygoprodeck.com/card/?search=Masked%20Sorcerer) | Unlimited |
 | [Mass Hypnosis](https://db.ygoprodeck.com/card/?search=Mass%20Hypnosis) | Unlimited |
 | [Massivemorph](https://db.ygoprodeck.com/card/?search=Massivemorph) | Unlimited |
-| [Master & Expert](https://db.ygoprodeck.com/card/?search=Master%20&%20Expert) | Unlimited |
+| [Master & Expert](https://db.ygoprodeck.com/card/?search=Master%20%26%20Expert) | Unlimited |
 | [Master Craftsman Gamil](https://db.ygoprodeck.com/card/?search=Master%20Craftsman%20Gamil) | Unlimited |
 | [Master Gig](https://db.ygoprodeck.com/card/?search=Master%20Gig) | Unlimited |
 | [Master Kyonshee](https://db.ygoprodeck.com/card/?search=Master%20Kyonshee) | Unlimited |
@@ -9101,7 +9108,7 @@ title:  "Common Charity"
 | [Raremetalfoes Bismugear](https://db.ygoprodeck.com/card/?search=Raremetalfoes%20Bismugear) | Unlimited |
 | [Rasetsu](https://db.ygoprodeck.com/card/?search=Rasetsu) | Unlimited |
 | [Ravenous Crocodragon Archethys](https://db.ygoprodeck.com/card/?search=Ravenous%20Crocodragon%20Archethys) | Unlimited |
-| [Ray & Temperature](https://db.ygoprodeck.com/card/?search=Ray%20&%20Temperature) | Unlimited |
+| [Ray & Temperature](https://db.ygoprodeck.com/card/?search=Ray%20%26%20Temperature) | Unlimited |
 | [Ray of Hope](https://db.ygoprodeck.com/card/?search=Ray%20of%20Hope) | Unlimited |
 | [Razor Lizard](https://db.ygoprodeck.com/card/?search=Razor%20Lizard) | Unlimited |
 | [Re-Cover](https://db.ygoprodeck.com/card/?search=Re-Cover) | Unlimited |
@@ -9566,7 +9573,7 @@ title:  "Common Charity"
 | [Shattered Axe](https://db.ygoprodeck.com/card/?search=Shattered%20Axe) | Unlimited |
 | [Sheep Token](https://db.ygoprodeck.com/card/?search=Sheep%20Token) | Unlimited |
 | [Shelrokket Dragon](https://db.ygoprodeck.com/card/?search=Shelrokket%20Dragon) | Unlimited |
-| [Shield & Sword](https://db.ygoprodeck.com/card/?search=Shield%20&%20Sword) | Unlimited |
+| [Shield & Sword](https://db.ygoprodeck.com/card/?search=Shield%20%26%20Sword) | Unlimited |
 | [Shield Crush](https://db.ygoprodeck.com/card/?search=Shield%20Crush) | Unlimited |
 | [Shield Handler](https://db.ygoprodeck.com/card/?search=Shield%20Handler) | Unlimited |
 | [Shield Spear](https://db.ygoprodeck.com/card/?search=Shield%20Spear) | Unlimited |
