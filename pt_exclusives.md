@@ -55,4 +55,5 @@ title:  "Common Charity"
 | [Scrap Worm](https://db.ygoprodeck.com/card/?search=Scrap%20Worm) | OP16-PT027 |
 | [Scrapyard](https://db.ygoprodeck.com/card/?search=Scrapyard) | OP09-PT033 |
 | [The Fabled Chawa](https://db.ygoprodeck.com/card/?search=The%20Fabled%20Chawa) | OP15-PT034 |
+
 ###### [Back home](index)
