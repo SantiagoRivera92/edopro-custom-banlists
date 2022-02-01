@@ -1,9 +1,6 @@
 ---
 title:  "Common Charity"
 ---
-## Cards that were only printed in Duel Terminal
-
-
 | [Acid Rain](https://db.ygoprodeck.com/card/?search=Acid%20Rain) | DT02-EN037 |
 | [Ally Mind](https://db.ygoprodeck.com/card/?search=Ally%20Mind) | DT02-EN023 |
 | [Ally of Justice Garadholg](https://db.ygoprodeck.com/card/?search=Ally%20of%20Justice%20Garadholg) | DT01-EN024 |
