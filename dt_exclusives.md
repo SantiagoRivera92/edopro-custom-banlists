@@ -3,6 +3,7 @@ title:  "Common Charity"
 ---
 ## Cards that were only printed in Duel Terminal
 
+
 | [Acid Rain](https://db.ygoprodeck.com/card/?search=Acid%20Rain) | DT02-EN037 |
 | [Ally Mind](https://db.ygoprodeck.com/card/?search=Ally%20Mind) | DT02-EN023 |
 | [Ally of Justice Garadholg](https://db.ygoprodeck.com/card/?search=Ally%20of%20Justice%20Garadholg) | DT01-EN024 |
@@ -162,7 +163,6 @@ title:  "Common Charity"
 | [Steelswarm Genome](https://db.ygoprodeck.com/card/?search=Steelswarm%20Genome) | DT06-EN028 |
 | [Steelswarm Mantis](https://db.ygoprodeck.com/card/?search=Steelswarm%20Mantis) | DT05-EN080 |
 | [Steelswarm Sentinel](https://db.ygoprodeck.com/card/?search=Steelswarm%20Sentinel) | DT06-EN029 |
-| [The Fabled Chawa](https://db.ygoprodeck.com/card/?search=The%20Fabled%20Chawa) | DT04-EN016 |
 | [The Fabled Ganashia](https://db.ygoprodeck.com/card/?search=The%20Fabled%20Ganashia) | DT04-EN019 |
 | [The Fabled Kokkator](https://db.ygoprodeck.com/card/?search=The%20Fabled%20Kokkator) | DT04-EN072 |
 | [The Fabled Nozoochee](https://db.ygoprodeck.com/card/?search=The%20Fabled%20Nozoochee) | DT04-EN020 |
@@ -188,5 +188,4 @@ title:  "Common Charity"
 | [X-Saber Axel](https://db.ygoprodeck.com/card/?search=X-Saber%20Axel) | DT01-EN019 |
 | [X-Saber Uruz](https://db.ygoprodeck.com/card/?search=X-Saber%20Uruz) | DT01-EN021 |
 | [XX-Saber Faultroll](https://db.ygoprodeck.com/card/?search=XX-Saber%20Faultroll) | DT07-EN013 |
-
 ###### [Back home](index)
