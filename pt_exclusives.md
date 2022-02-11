@@ -1,6 +1,9 @@
 ---
 title:  "Common Charity"
 ---
+## Cards that were only printed as Portuguese OTS exclusives
+
+
 | [Arcana Force XXI - The World](https://db.ygoprodeck.com/card/?search=Arcana%20Force%20XXI%20-%20The%20World) | OP14-PT029 |
 | [Arcane Apprentice](https://db.ygoprodeck.com/card/?search=Arcane%20Apprentice) | OP10-PT031 |
 | [Arcanite Magician/Assault Mode](https://db.ygoprodeck.com/card/?search=Arcanite%20Magician/Assault%20Mode) | OP10-PT029 |
@@ -34,7 +37,7 @@ title:  "Common Charity"
 | [Infernity Doom Dragon](https://db.ygoprodeck.com/card/?search=Infernity%20Doom%20Dragon) | OP14-PT035 |
 | [Inzektor Hornet](https://db.ygoprodeck.com/card/?search=Inzektor%20Hornet) | OP17-PT029 |
 | [Inzektor Sword - Zektkaliber](https://db.ygoprodeck.com/card/?search=Inzektor%20Sword%20-%20Zektkaliber) | OP17-PT030 |
-| [Karakuri Steel Shogun mdl 00X "Bureido"](https://db.ygoprodeck.com/card/?search=Karakuri%20Steel%20Shogun%20mdl%2000X%20"Bureido") | Not in YGOPRODECK |
+| [Karakuri Steel Shogun mdl 00X "Bureido"](https://db.ygoprodeck.com/card/?search=Karakuri%20Steel%20Shogun%20mdl%2000X%20"Bureido") | OP15-PT035 |
 | [Laval Cannon](https://db.ygoprodeck.com/card/?search=Laval%20Cannon) | OP16-PT028 |
 | [Lavalval Dragun](https://db.ygoprodeck.com/card/?search=Lavalval%20Dragun) | OP16-PT030 |
 | [Light Barrier](https://db.ygoprodeck.com/card/?search=Light%20Barrier) | OP14-PT030 |
@@ -55,5 +58,4 @@ title:  "Common Charity"
 | [Scrap Worm](https://db.ygoprodeck.com/card/?search=Scrap%20Worm) | OP16-PT027 |
 | [Scrapyard](https://db.ygoprodeck.com/card/?search=Scrapyard) | OP09-PT033 |
 | [The Fabled Chawa](https://db.ygoprodeck.com/card/?search=The%20Fabled%20Chawa) | OP15-PT034 |
-
 ###### [Back home](index)

@@ -935,6 +935,7 @@ title:  "Common Charity"
 | [Dragon Queen of Tragic Endings](https://db.ygoprodeck.com/card/?search=Dragon%20Queen%20of%20Tragic%20Endings) | Illegal |
 | [Dragon Revival Rhapsody](https://db.ygoprodeck.com/card/?search=Dragon%20Revival%20Rhapsody) | Illegal |
 | [Dragon's Fighting Spirit](https://db.ygoprodeck.com/card/?search=Dragon's%20Fighting%20Spirit) | Illegal |
+| [Dragonbite](https://db.ygoprodeck.com/card/?search=Dragonbite) | Illegal |
 | [Dragoncaller Magician](https://db.ygoprodeck.com/card/?search=Dragoncaller%20Magician) | Illegal |
 | [Dragonecro Nethersoul Dragon](https://db.ygoprodeck.com/card/?search=Dragonecro%20Nethersoul%20Dragon) | Illegal |
 | [Dragoness the Wicked Knight](https://db.ygoprodeck.com/card/?search=Dragoness%20the%20Wicked%20Knight) | Illegal |
@@ -1450,8 +1451,6 @@ title:  "Common Charity"
 | [Ghost Ship](https://db.ygoprodeck.com/card/?search=Ghost%20Ship) | Illegal |
 | [Ghost Sister & Spooky Dogwood](https://db.ygoprodeck.com/card/?search=Ghost%20Sister%20%26%20Spooky%20Dogwood) | Illegal |
 | [Ghostrick Alucard](https://db.ygoprodeck.com/card/?search=Ghostrick%20Alucard) | Illegal |
-| [Ghostrick Angel of Mischief](https://db.ygoprodeck.com/card/?search=Ghostrick%20Angel%20of%20Mischief) | Illegal |
-| [Ghostrick Break](https://db.ygoprodeck.com/card/?search=Ghostrick%20Break) | Illegal |
 | [Ghostrick Dullahan](https://db.ygoprodeck.com/card/?search=Ghostrick%20Dullahan) | Illegal |
 | [Ghostrick Ghoul](https://db.ygoprodeck.com/card/?search=Ghostrick%20Ghoul) | Illegal |
 | [Ghostrick Lantern](https://db.ygoprodeck.com/card/?search=Ghostrick%20Lantern) | Illegal |
@@ -1589,7 +1588,6 @@ title:  "Common Charity"
 | [Guardragon Elpy](https://db.ygoprodeck.com/card/?search=Guardragon%20Elpy) | Illegal |
 | [Guardragon Pisty](https://db.ygoprodeck.com/card/?search=Guardragon%20Pisty) | Illegal |
 | [Guerilla Kite](https://db.ygoprodeck.com/card/?search=Guerilla%20Kite) | Illegal |
-| [Gullveig of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Gullveig%20of%20the%20Nordic%20Ascendant) | Illegal |
 | [Gungnir, Dragon of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Gungnir,%20Dragon%20of%20the%20Ice%20Barrier) | Illegal |
 | [Gunkan Suship Uni-class Super-Dreadnought](https://db.ygoprodeck.com/card/?search=Gunkan%20Suship%20Uni-class%20Super-Dreadnought) | Illegal |
 | [Gust Fan](https://db.ygoprodeck.com/card/?search=Gust%20Fan) | Illegal |
@@ -1735,7 +1733,6 @@ title:  "Common Charity"
 | [Immortal Phoenix Gearfried](https://db.ygoprodeck.com/card/?search=Immortal%20Phoenix%20Gearfried) | Illegal |
 | [Impcantation Candoll](https://db.ygoprodeck.com/card/?search=Impcantation%20Candoll) | Illegal |
 | [Impcantation Chalislime](https://db.ygoprodeck.com/card/?search=Impcantation%20Chalislime) | Illegal |
-| [Impcantation Talismandra](https://db.ygoprodeck.com/card/?search=Impcantation%20Talismandra) | Illegal |
 | [Imperial Bower](https://db.ygoprodeck.com/card/?search=Imperial%20Bower) | Illegal |
 | [Imperion Magnum the Superconductive Battlebot](https://db.ygoprodeck.com/card/?search=Imperion%20Magnum%20the%20Superconductive%20Battlebot) | Illegal |
 | [Incredible Ecclesia, the Virtuous](https://db.ygoprodeck.com/card/?search=Incredible%20Ecclesia,%20the%20Virtuous) | Illegal |
@@ -1976,6 +1973,11 @@ title:  "Common Charity"
 | [Level Resist Wall](https://db.ygoprodeck.com/card/?search=Level%20Resist%20Wall) | Illegal |
 | [Lib the World Key Blademaster](https://db.ygoprodeck.com/card/?search=Lib%20the%20World%20Key%20Blademaster) | Illegal |
 | [Libic, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Libic,%20Malebranche%20of%20the%20Burning%20Abyss) | Illegal |
+| [Libromancer Agent](https://db.ygoprodeck.com/card/?search=Libromancer%20Agent) | Illegal |
+| [Libromancer Doombroker](https://db.ygoprodeck.com/card/?search=Libromancer%20Doombroker) | Illegal |
+| [Libromancer Firestarter](https://db.ygoprodeck.com/card/?search=Libromancer%20Firestarter) | Illegal |
+| [Libromancer Intervention](https://db.ygoprodeck.com/card/?search=Libromancer%20Intervention) | Illegal |
+| [Libromancer Magigirl](https://db.ygoprodeck.com/card/?search=Libromancer%20Magigirl) | Illegal |
 | [Life Equalizer](https://db.ygoprodeck.com/card/?search=Life%20Equalizer) | Illegal |
 | [Lifeforce Harmonizer](https://db.ygoprodeck.com/card/?search=Lifeforce%20Harmonizer) | Illegal |
 | [Light End Dragon](https://db.ygoprodeck.com/card/?search=Light%20End%20Dragon) | Illegal |
@@ -3183,6 +3185,7 @@ title:  "Common Charity"
 | [Snoww, Unlight of Dark World](https://db.ygoprodeck.com/card/?search=Snoww,%20Unlight%20of%20Dark%20World) | Illegal |
 | [Snyffus](https://db.ygoprodeck.com/card/?search=Snyffus) | Illegal |
 | [Soaring Eagle Above the Searing Land](https://db.ygoprodeck.com/card/?search=Soaring%20Eagle%20Above%20the%20Searing%20Land) | Illegal |
+| [Sol and Luna](https://db.ygoprodeck.com/card/?search=Sol%20and%20Luna) | Illegal |
 | [Solemn Scolding](https://db.ygoprodeck.com/card/?search=Solemn%20Scolding) | Illegal |
 | [Solfachord Elegance](https://db.ygoprodeck.com/card/?search=Solfachord%20Elegance) | Illegal |
 | [Solfachord Formal](https://db.ygoprodeck.com/card/?search=Solfachord%20Formal) | Illegal |
@@ -6541,6 +6544,7 @@ title:  "Common Charity"
 | [Flower Cardian Zebra Grass with Moon](https://db.ygoprodeck.com/card/?search=Flower%20Cardian%20Zebra%20Grass%20with%20Moon) | Unlimited |
 | [Flower Gathering](https://db.ygoprodeck.com/card/?search=Flower%20Gathering) | Unlimited |
 | [Flower Stacking](https://db.ygoprodeck.com/card/?search=Flower%20Stacking) | Unlimited |
+| [Flowerdino](https://db.ygoprodeck.com/card/?search=Flowerdino) | Unlimited |
 | [Fluffal Bear](https://db.ygoprodeck.com/card/?search=Fluffal%20Bear) | Unlimited |
 | [Fluffal Cat](https://db.ygoprodeck.com/card/?search=Fluffal%20Cat) | Unlimited |
 | [Fluffal Crane](https://db.ygoprodeck.com/card/?search=Fluffal%20Crane) | Unlimited |
@@ -6806,6 +6810,8 @@ title:  "Common Charity"
 | [Ghost Gardna](https://db.ygoprodeck.com/card/?search=Ghost%20Gardna) | Unlimited |
 | [Ghost Knight of Jackal](https://db.ygoprodeck.com/card/?search=Ghost%20Knight%20of%20Jackal) | Unlimited |
 | [Ghost Meets Girl - A Mayakashi's Manuscript](https://db.ygoprodeck.com/card/?search=Ghost%20Meets%20Girl%20-%20A%20Mayakashi's%20Manuscript) | Unlimited |
+| [Ghostrick Angel of Mischief](https://db.ygoprodeck.com/card/?search=Ghostrick%20Angel%20of%20Mischief) | Unlimited |
+| [Ghostrick Break](https://db.ygoprodeck.com/card/?search=Ghostrick%20Break) | Unlimited |
 | [Ghostrick Doll](https://db.ygoprodeck.com/card/?search=Ghostrick%20Doll) | Unlimited |
 | [Ghostrick Fairy](https://db.ygoprodeck.com/card/?search=Ghostrick%20Fairy) | Unlimited |
 | [Ghostrick Festival](https://db.ygoprodeck.com/card/?search=Ghostrick%20Festival) | Unlimited |
@@ -7118,6 +7124,7 @@ title:  "Common Charity"
 | [Guiding Light](https://db.ygoprodeck.com/card/?search=Guiding%20Light) | Unlimited |
 | [Guitar Gurnards Duonigis](https://db.ygoprodeck.com/card/?search=Guitar%20Gurnards%20Duonigis) | Unlimited |
 | [Guldfaxe of the Nordic Beasts](https://db.ygoprodeck.com/card/?search=Guldfaxe%20of%20the%20Nordic%20Beasts) | Unlimited |
+| [Gullveig of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Gullveig%20of%20the%20Nordic%20Ascendant) | Unlimited |
 | [Gundari](https://db.ygoprodeck.com/card/?search=Gundari) | Unlimited |
 | [Gunkan Suship Daily Special](https://db.ygoprodeck.com/card/?search=Gunkan%20Suship%20Daily%20Special) | Unlimited |
 | [Gunkan Suship Ikura](https://db.ygoprodeck.com/card/?search=Gunkan%20Suship%20Ikura) | Unlimited |
@@ -7373,6 +7380,7 @@ title:  "Common Charity"
 | [Impcantation Bookstone](https://db.ygoprodeck.com/card/?search=Impcantation%20Bookstone) | Unlimited |
 | [Impcantation Inception](https://db.ygoprodeck.com/card/?search=Impcantation%20Inception) | Unlimited |
 | [Impcantation Penciplume](https://db.ygoprodeck.com/card/?search=Impcantation%20Penciplume) | Unlimited |
+| [Impcantation Talismandra](https://db.ygoprodeck.com/card/?search=Impcantation%20Talismandra) | Unlimited |
 | [Impcantation Thanatosis](https://db.ygoprodeck.com/card/?search=Impcantation%20Thanatosis) | Unlimited |
 | [Impenetrable Attack](https://db.ygoprodeck.com/card/?search=Impenetrable%20Attack) | Unlimited |
 | [Impenetrable Formation](https://db.ygoprodeck.com/card/?search=Impenetrable%20Formation) | Unlimited |
@@ -9419,6 +9427,7 @@ title:  "Common Charity"
 | [Rock Band Xenoguitar](https://db.ygoprodeck.com/card/?search=Rock%20Band%20Xenoguitar) | Unlimited |
 | [Rock Bombardment](https://db.ygoprodeck.com/card/?search=Rock%20Bombardment) | Unlimited |
 | [Rock Ogre Grotto #1](https://db.ygoprodeck.com/card/?search=Rock%20Ogre%20Grotto%20#1) | Unlimited |
+| [Rock Scales](https://db.ygoprodeck.com/card/?search=Rock%20Scales) | Unlimited |
 | [Rocket Arrow Express](https://db.ygoprodeck.com/card/?search=Rocket%20Arrow%20Express) | Unlimited |
 | [Rocket Hand](https://db.ygoprodeck.com/card/?search=Rocket%20Hand) | Unlimited |
 | [Rocket Hermos Cannon](https://db.ygoprodeck.com/card/?search=Rocket%20Hermos%20Cannon) | Unlimited |
@@ -10405,6 +10414,7 @@ title:  "Common Charity"
 | [The Golden Apples](https://db.ygoprodeck.com/card/?search=The%20Golden%20Apples) | Unlimited |
 | [The Grand Jupiter](https://db.ygoprodeck.com/card/?search=The%20Grand%20Jupiter) | Unlimited |
 | [The Graveyard in the Fourth Dimension](https://db.ygoprodeck.com/card/?search=The%20Graveyard%20in%20the%20Fourth%20Dimension) | Unlimited |
+| [The Great Double Casted Caster](https://db.ygoprodeck.com/card/?search=The%20Great%20Double%20Casted%20Caster) | Unlimited |
 | [The Great Emperor Penguin](https://db.ygoprodeck.com/card/?search=The%20Great%20Emperor%20Penguin) | Unlimited |
 | [The Gross Ghost of Fled Dreams](https://db.ygoprodeck.com/card/?search=The%20Gross%20Ghost%20of%20Fled%20Dreams) | Unlimited |
 | [The Huge Revolution is Over](https://db.ygoprodeck.com/card/?search=The%20Huge%20Revolution%20is%20Over) | Unlimited |
