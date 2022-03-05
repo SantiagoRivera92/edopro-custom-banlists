@@ -11,12 +11,6 @@ header= {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) '
 url = "https://db.ygoprodeck.com/api/v7/cardinfo.php"
 request = urllib.request.Request(url, None, header)
 
-#This is a temporary fix until YGOPRODECK includes portuguese commons for OP15, OP16 and OP17 specifically
-portugueseOTSLegalCards = [
-	98259197,40391316,24040093,98024118,19439119,10118318,47395382,29905795,66976526,60470713,
-	76442347,36318200,15941690,88552992,4192696,2461031,16550875,69207766,90576781,21179143,
-	64514622,3300267,31516413,78033100,41639001,13140300,8611007,51555725,38492752,32761286]
-
 #(C) is common, (SP) is Short Print, (SSP) is Super Short Print, (DNPR) is Duel Terminal common
 legalRarities = ['(C)', '(SP)', '(SSP)', '(DNPR)']
 
@@ -103,13 +97,6 @@ with urllib.request.urlopen(request) as url:
 			for printing in cardSets:
 				if printing.get(rarity_code) in legalRarities:
 					hasCommonPrint = True
-
-			#Portuguese fix, remove as soon as YGOPRODECK adds portuguese OTS support
-			if not hasCommonPrint:
-				if card.get(cardId) in portugueseOTSLegalCards:
-					hasCommonPrint = True
-				if not hasCommonPrint:
-					banTcg = -1
 
 			simpleCard = {}
 			simpleCard[name] = card.get(name)

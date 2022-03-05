@@ -15,15 +15,10 @@ title:  "Common Charity"
 | [Dragunity Aklys](https://db.ygoprodeck.com/card/?search=Dragunity%20Aklys) | OP08-PT033 |
 | [Dragunity Arma Leyvaten](https://db.ygoprodeck.com/card/?search=Dragunity%20Arma%20Leyvaten) | OP08-PT031 |
 | [Dragunity Arma Mystletainn](https://db.ygoprodeck.com/card/?search=Dragunity%20Arma%20Mystletainn) | OP08-PT032 |
-| [Dragunity Corsesca](https://db.ygoprodeck.com/card/?search=Dragunity%20Corsesca) | OP08-PT028 |
 | [Dragunity Knight - Barcha](https://db.ygoprodeck.com/card/?search=Dragunity%20Knight%20-%20Barcha) | OP08-PT036 |
 | [Dragunity Knight - Gae Bulg](https://db.ygoprodeck.com/card/?search=Dragunity%20Knight%20-%20Gae%20Bulg) | OP08-PT034 |
-| [Dragunity Knight - Trident](https://db.ygoprodeck.com/card/?search=Dragunity%20Knight%20-%20Trident) | OP08-PT035 |
-| [Dragunity Partisan](https://db.ygoprodeck.com/card/?search=Dragunity%20Partisan) | OP08-PT029 |
-| [Dragunity Pilum](https://db.ygoprodeck.com/card/?search=Dragunity%20Pilum) | OP08-PT030 |
 | [Eco, Mystical Spirit of the Forest](https://db.ygoprodeck.com/card/?search=Eco,%20Mystical%20Spirit%20of%20the%20Forest) | OP17-PT032 |
 | [Fabled Grimro](https://db.ygoprodeck.com/card/?search=Fabled%20Grimro) | OP15-PT029 |
-| [Fabled Krus](https://db.ygoprodeck.com/card/?search=Fabled%20Krus) | OP15-PT031 |
 | [Fabled Ragin](https://db.ygoprodeck.com/card/?search=Fabled%20Ragin) | OP15-PT033 |
 | [Fortune Lady Dark](https://db.ygoprodeck.com/card/?search=Fortune%20Lady%20Dark) | OP11-PT028 |
 | [Fortune Lady Earth](https://db.ygoprodeck.com/card/?search=Fortune%20Lady%20Earth) | OP11-PT029 |
@@ -57,5 +52,4 @@ title:  "Common Charity"
 | [Scrap Soldier](https://db.ygoprodeck.com/card/?search=Scrap%20Soldier) | OP09-PT031 |
 | [Scrap Worm](https://db.ygoprodeck.com/card/?search=Scrap%20Worm) | OP16-PT027 |
 | [Scrapyard](https://db.ygoprodeck.com/card/?search=Scrapyard) | OP09-PT033 |
-| [The Fabled Chawa](https://db.ygoprodeck.com/card/?search=The%20Fabled%20Chawa) | OP15-PT034 |
 ###### [Back home](index)
