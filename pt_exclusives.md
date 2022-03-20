@@ -20,6 +20,7 @@ title:  "Common Charity"
 | [Eco, Mystical Spirit of the Forest](https://db.ygoprodeck.com/card/?search=Eco,%20Mystical%20Spirit%20of%20the%20Forest) | OP17-PT032 |
 | [Fabled Grimro](https://db.ygoprodeck.com/card/?search=Fabled%20Grimro) | OP15-PT029 |
 | [Fabled Ragin](https://db.ygoprodeck.com/card/?search=Fabled%20Ragin) | OP15-PT033 |
+| [Flamvell Commando](https://db.ygoprodeck.com/card/?search=Flamvell%20Commando) | OP18-PT030 |
 | [Fortune Lady Dark](https://db.ygoprodeck.com/card/?search=Fortune%20Lady%20Dark) | OP11-PT028 |
 | [Fortune Lady Earth](https://db.ygoprodeck.com/card/?search=Fortune%20Lady%20Earth) | OP11-PT029 |
 | [Fortune Lady Wind](https://db.ygoprodeck.com/card/?search=Fortune%20Lady%20Wind) | OP11-PT027 |
@@ -52,4 +53,7 @@ title:  "Common Charity"
 | [Scrap Soldier](https://db.ygoprodeck.com/card/?search=Scrap%20Soldier) | OP09-PT031 |
 | [Scrap Worm](https://db.ygoprodeck.com/card/?search=Scrap%20Worm) | OP16-PT027 |
 | [Scrapyard](https://db.ygoprodeck.com/card/?search=Scrapyard) | OP09-PT033 |
+| [Simorgh, Bird of Ancestry](https://db.ygoprodeck.com/card/?search=Simorgh,%20Bird%20of%20Ancestry) | OP18-PT027 |
+| [The Fabled Rubyruda](https://db.ygoprodeck.com/card/?search=The%20Fabled%20Rubyruda) | OP18-PT031 |
+| [Underworld Fighter Balmung](https://db.ygoprodeck.com/card/?search=Underworld%20Fighter%20Balmung) | OP18-PT034 |
 ###### [Back home](index)

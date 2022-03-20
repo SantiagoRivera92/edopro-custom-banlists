@@ -98,6 +98,9 @@ with urllib.request.urlopen(request) as url:
 				if printing.get(rarity_code) in legalRarities:
 					hasCommonPrint = True
 
+			if not hasCommonPrint:
+				banTcg = -1
+			
 			simpleCard = {}
 			simpleCard[name] = card.get(name)
 			simpleCard[cardId] = card.get(cardId)

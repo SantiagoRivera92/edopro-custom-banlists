@@ -5,7 +5,6 @@ title:  "Common Charity"
 
 
 | [Acid Rain](https://db.ygoprodeck.com/card/?search=Acid%20Rain) | DT02-EN037 |
-| [Ancient Flamvell Deity](https://db.ygoprodeck.com/card/?search=Ancient%20Flamvell%20Deity) | HAC1-EN075 |
 | [Aquamirror Illusion](https://db.ygoprodeck.com/card/?search=Aquamirror%20Illusion) | DT06-EN099 |
 | [Beast-Warrior Puma](https://db.ygoprodeck.com/card/?search=Beast-Warrior%20Puma) | DT07-EN052 |
 | [Blessings for Gusto](https://db.ygoprodeck.com/card/?search=Blessings%20for%20Gusto) | DT05-EN097 |
@@ -63,7 +62,6 @@ title:  "Common Charity"
 | [Gishki Shadow](https://db.ygoprodeck.com/card/?search=Gishki%20Shadow) | DT05-EN069 |
 | [Gishki Vanity](https://db.ygoprodeck.com/card/?search=Gishki%20Vanity) | DT05-EN065 |
 | [Gishki Vision](https://db.ygoprodeck.com/card/?search=Gishki%20Vision) | DT06-EN076 |
-| [Golden Ladybug](https://db.ygoprodeck.com/card/?search=Golden%20Ladybug) | DT03-EN053 |
 | [Gusto Egul](https://db.ygoprodeck.com/card/?search=Gusto%20Egul) | DT05-EN071 |
 | [Gusto Falco](https://db.ygoprodeck.com/card/?search=Gusto%20Falco) | DT06-EN079 |
 | [Gusto Griffin](https://db.ygoprodeck.com/card/?search=Gusto%20Griffin) | DT07-EN017 |
