@@ -11,6 +11,9 @@ header= {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) '
 url = "https://db.ygoprodeck.com/api/v7/cardinfo.php"
 request = urllib.request.Request(url, None, header)
 
+#Cards that aren't in YGOPRODECK but are legal. As of right now, it's only Ghost Ogre
+temporarilyLegalCards = [59438930]
+
 #(C) is common, (SP) is Short Print, (SSP) is Super Short Print, (DNPR) is Duel Terminal common
 legalRarities = ['(C)', '(SP)', '(SSP)', '(DNPR)']
 
@@ -96,6 +99,11 @@ with urllib.request.urlopen(request) as url:
 
 			for printing in cardSets:
 				if printing.get(rarity_code) in legalRarities:
+					hasCommonPrint = True
+
+			#Manually add the cards that don't have legal prints but should be legal
+			if not hasCommonPrint:
+				if card.get(cardId) in temporarilyLegalCards:
 					hasCommonPrint = True
 
 			if not hasCommonPrint:
