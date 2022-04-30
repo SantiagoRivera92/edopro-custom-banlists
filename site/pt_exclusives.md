@@ -3,6 +3,7 @@ title:  "Common Charity"
 ---
 
 ## Portuguese OTS exclusives
+
 | Card name | Set |
 | :-- | :-- |
 | [Arcana Force XXI - The World](https://db.ygoprodeck.com/card/?search=Arcana%20Force%20XXI%20-%20The%20World) | OP14-PT029 |

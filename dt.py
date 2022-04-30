@@ -28,7 +28,7 @@ def writeCards(cards, outfile):
 def writeHeader(outfile):
 	outfile.write("---\ntitle:  \"Common Charity\"\n---")
 	outfile.write("\n\n## Duel Terminal exclusives")
-	outfile.write("\n| Card name | Set |")
+	outfile.write("\n\n| Card name | Set |")
 	outfile.write("\n| :-- | :-- |")
 
 def writeFooter(outfile):

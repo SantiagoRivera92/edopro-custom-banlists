@@ -3,6 +3,7 @@ title:  "Common Charity"
 ---
 
 ## Duel Terminal exclusives
+
 | Card name | Set |
 | :-- | :-- |
 | [Acid Rain](https://db.ygoprodeck.com/card/?search=Acid%20Rain) | DT02-EN037 |

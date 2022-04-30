@@ -65,7 +65,7 @@ def writeCards(cards, outfile):
 def writeHeader(outfile):
 	outfile.write("---\ntitle:  \"Common Charity\"\n---")
 	outfile.write("\n\n## Common Charity F&L list")
-	outfile.write("\n| Card name | Set |")
+	outfile.write("\n\n| Card name | Status |")
 	outfile.write("\n| :-- | :-- |")
 
 def writeFooter(outfile):
