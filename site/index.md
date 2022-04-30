@@ -2,7 +2,7 @@
 title:  "Common Charity"
 ---
 
-## Resources
+## Common Charity Resources
 
 [Banlist](ccbanlist)
 
