@@ -11,8 +11,8 @@ header= {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) '
 url = "https://db.ygoprodeck.com/api/v7/cardinfo.php"
 request = urllib.request.Request(url, None, header)
 
-#Cards that aren't in YGOPRODECK but are legal. As of right now, it's only Ghost Ogre
-temporarilyLegalCards = [59438930]
+#Cards that aren't in YGOPRODECK but are legal.
+temporarilyLegalCards = []
 
 #(C) is common, (SP) is Short Print, (SSP) is Super Short Print, (DNPR) is Duel Terminal common
 legalRarities = ['(C)', '(SP)', '(SSP)', '(DNPR)']
@@ -64,6 +64,9 @@ def writeCards(cards, outfile):
 
 def writeHeader(outfile):
 	outfile.write("---\ntitle:  \"Common Charity\"\n---")
+	outfile.write("\n\n## Common Charity F&L list")
+	outfile.write("\n| Card name | Set |")
+	outfile.write("\n| :-- | :-- |")
 
 def writeFooter(outfile):
 	outfile.write("\n\n###### [Back home](index)")

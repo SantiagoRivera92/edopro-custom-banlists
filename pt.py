@@ -23,7 +23,9 @@ def writeCards(cards, outfile):
 
 def writeHeader(outfile):
 	outfile.write("---\ntitle:  \"Common Charity\"\n---")
-	outfile.write("\n\n## Cards that were only printed as Portuguese OTS exclusives\n\n")
+	outfile.write("\n\n## Portuguese OTS exclusives")
+	outfile.write("\n| Card name | Set |")
+	outfile.write("\n| :-- | :-- |")
 
 def writeFooter(outfile):
 	outfile.write("\n\n###### [Back home](index)")

@@ -2,9 +2,9 @@
 title:  "Common Charity"
 ---
 
-## Cards that were only printed as Portuguese OTS exclusives
-
-
+## Portuguese OTS exclusives
+| Card name | Set |
+| :-- | :-- |
 | [Arcana Force XXI - The World](https://db.ygoprodeck.com/card/?search=Arcana%20Force%20XXI%20-%20The%20World) | OP14-PT029 |
 | [Arcane Apprentice](https://db.ygoprodeck.com/card/?search=Arcane%20Apprentice) | OP10-PT031 |
 | [Arcanite Magician/Assault Mode](https://db.ygoprodeck.com/card/?search=Arcanite%20Magician/Assault%20Mode) | OP10-PT029 |
