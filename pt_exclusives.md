@@ -1,8 +1,8 @@
 ---
 title:  "Common Charity"
 ---
-## Cards that were only printed as Portuguese OTS exclusives
 
+## Cards that were only printed as Portuguese OTS exclusives
 
 | [Arcana Force XXI - The World](https://db.ygoprodeck.com/card/?search=Arcana%20Force%20XXI%20-%20The%20World) | OP14-PT029 |
 | [Arcane Apprentice](https://db.ygoprodeck.com/card/?search=Arcane%20Apprentice) | OP10-PT031 |
@@ -56,4 +56,5 @@ title:  "Common Charity"
 | [Simorgh, Bird of Ancestry](https://db.ygoprodeck.com/card/?search=Simorgh,%20Bird%20of%20Ancestry) | OP18-PT027 |
 | [The Fabled Rubyruda](https://db.ygoprodeck.com/card/?search=The%20Fabled%20Rubyruda) | OP18-PT031 |
 | [Underworld Fighter Balmung](https://db.ygoprodeck.com/card/?search=Underworld%20Fighter%20Balmung) | OP18-PT034 |
+
 ###### [Back home](index)
