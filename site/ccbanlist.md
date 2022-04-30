@@ -3,6 +3,7 @@ title:  "Common Charity"
 ---
 
 ## Common Charity F&L list
+
 | Card name | Set |
 | :-- | :-- |
 | ["Infernoble Arms - Durendal"](https://db.ygoprodeck.com/card/?search="Infernoble%20Arms%20-%20Durendal") | Illegal |
