@@ -11,12 +11,7 @@ header= {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) '
 url = "https://db.ygoprodeck.com/api/v7/cardinfo.php"
 request = urllib.request.Request(url, None, header)
 
-filename = "pt_exclusives.md"
-
-portugueseOTSLegalCards = [
-	98259197,40391316,24040093,98024118,19439119,10118318,47395382,29905795,66976526,60470713,
-	76442347,36318200,15941690,88552992,4192696,2461031,16550875,69207766,90576781,21179143,
-	64514622,3300267,31516413,78033100,41639001,13140300,8611007,51555725,38492752,32761286]
+filename = "site/pt_exclusives.md"
 
 def writeCard(card, outfile):
 	cardUrl = "https://db.ygoprodeck.com/card/?search=%s"%card.get('name').replace(" ", "%20")
@@ -27,11 +22,11 @@ def writeCards(cards, outfile):
 		writeCard(card,outfile)
 
 def writeHeader(outfile):
-	outfile.write("---\ntitle:  \"Common Charity\"\n---\n")
-	outfile.write("## Cards that were only printed as Portuguese OTS exclusives\n\n")
+	outfile.write("---\ntitle:  \"Common Charity\"\n---")
+	outfile.write("\n\n## Cards that were only printed as Portuguese OTS exclusives\n\n")
 
 def writeFooter(outfile):
-	outfile.write("\n###### [Back home](index)")
+	outfile.write("\n\n###### [Back home](index)")
 
 with urllib.request.urlopen(request) as url:
 	cards = json.loads(url.read().decode()).get('data')
@@ -50,11 +45,6 @@ with urllib.request.urlopen(request) as url:
 						printSet = printing.get('set_code')
 					else:
 						hasCommonPrint = True
-
-			if not isPortuguese:
-				if card.get('id') in portugueseOTSLegalCards:
-					isPortuguese = True
-					printSet = "Not in YGOPRODECK"
 
 			if isPortuguese:
 				if not hasCommonPrint:

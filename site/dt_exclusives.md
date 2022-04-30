@@ -4,6 +4,7 @@ title:  "Common Charity"
 
 ## Cards that were only printed in Duel Terminal
 
+
 | [Acid Rain](https://db.ygoprodeck.com/card/?search=Acid%20Rain) | DT02-EN037 |
 | [Aquamirror Illusion](https://db.ygoprodeck.com/card/?search=Aquamirror%20Illusion) | DT06-EN099 |
 | [Beast-Warrior Puma](https://db.ygoprodeck.com/card/?search=Beast-Warrior%20Puma) | DT07-EN052 |

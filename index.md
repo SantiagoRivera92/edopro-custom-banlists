@@ -4,8 +4,8 @@ title:  "Common Charity"
 
 ## Resources
 
-[Banlist](ccbanlist)
+[Banlist](site/ccbanlist)
 
-[Duel Terminal exclusives](dt_exclusives)
+[Duel Terminal exclusives](site/dt_exclusives)
 
-[Portuguese OTS exclusives](pt_exclusives)
+[Portuguese OTS exclusives](site/pt_exclusives)

@@ -11,7 +11,7 @@ header= {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) '
 url = "https://db.ygoprodeck.com/api/v7/cardinfo.php"
 request = urllib.request.Request(url, None, header)
 
-filename = 'dt_exclusives.md'
+filename = 'site/dt_exclusives.md'
 
 name = 'name'
 cardId = 'id'
@@ -26,11 +26,11 @@ def writeCards(cards, outfile):
 		writeCard(card,outfile)
 
 def writeHeader(outfile):
-	outfile.write("---\ntitle:  \"Common Charity\"\n---\n")
-	outfile.write("## Cards that were only printed in Duel Terminal\n\n")
+	outfile.write("---\ntitle:  \"Common Charity\"\n---")
+	outfile.write("\n\n## Cards that were only printed in Duel Terminal\n\n")
 
 def writeFooter(outfile):
-	outfile.write("\n###### [Back home](index)")
+	outfile.write("\n\n###### [Back home](index)")
 
 with urllib.request.urlopen(request) as url:
 	with open(filename, 'w', encoding="utf-8") as outfile:
