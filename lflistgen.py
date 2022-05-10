@@ -11,8 +11,11 @@ header= {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) '
 url = "https://db.ygoprodeck.com/api/v7/cardinfo.php"
 request = urllib.request.Request(url, None, header)
 
-#Cards that aren't in YGOPRODECK but are legal. As of right now, it's only Ghost Ogre
-temporarilyLegalCards = [59438930]
+#Cards that aren't in YGOPRODECK but are legal. 
+temporarilyLegalCards = []
+
+#Cards that aren't released yet but are confirmed as commons.
+futureLegalCards = [84332527,21727231,57111330,83488497,19882096,46877100,18760514,45154513,71549257,18548966,44932065,70427670,17825378,43210483,70204022,79582540,5577149,52253888,32975247,78360952,4754691,31259606,67248304,4632019,30037118,66309175,24070330,23848752,96637156,83670388,10065487,82735249,45115956,81613061,17008760,44092304,70491413,17885118,79775821,42158279,5941982,32335697,4825390,31213049,7608148,101108081,101108084,101108085,64806765,13536606]
 
 #(C) is common, (SP) is Short Print, (SSP) is Super Short Print, (DNPR) is Duel Terminal common
 legalRarities = ['(C)', '(SP)', '(SSP)', '(DNPR)']
@@ -43,7 +46,10 @@ status = 'status'
 filename = 'banlist/charity.lflist.conf'
 
 def writeCard(card, outfile):
-	outfile.write("%d %d -- %s\n" % (card.get(cardId), card.get(status), card.get(name)))
+	try:
+		outfile.write("%d %d -- %s\n" % (card.get(cardId), card.get(status), card.get(name)))
+	except TypeError:
+		print(card)
 
 with urllib.request.urlopen(request) as url:
 	cards = json.loads(url.read().decode()).get(data)
@@ -92,8 +98,14 @@ with urllib.request.urlopen(request) as url:
 			simpleCard[name] = card.get(name)
 			simpleCard[status] = -1
 			for variant in card.get(card_images):
-				simpleCard[cardId] = variant.get(cardId)
-				ocgCards.append(simpleCard)
+				variantCardId = variant.get(cardId)
+				willBeLegal = False
+				for futureCardId in futureLegalCards:
+					if futureCardId == variantCardId:
+						willBeLegal = True
+				if not willBeLegal:
+					simpleCard[cardId] = variant.get(cardId)
+					ocgCards.append(simpleCard)
 	with open(filename, 'w', encoding="utf-8") as outfile:
 		outfile.write("#[Common Charity Format]\n")
 		outfile.write("!Common Charity %s.%s\n\n" % (datetime.now().month, datetime.now().year))
