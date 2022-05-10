@@ -42,19 +42,79 @@ name = 'name'
 cardId = 'id'
 status = 'status'
 
-#Filename for banlist
-filename = 'banlist/charity.lflist.conf'
+#Filename for banlist file
+banlistFilename = 'banlist/charity.lflist.conf'
+siteFilename ='site/ccbanlist.md'
 
-def writeCard(card, outfile):
+#Card arrays
+illegalCards = [] # Cards that will appear as illegal in the site
+bannedCards = [] # Cards that will appear as forbidden in the site
+limitedCards = [] # Cards that will appear as limited in the site
+semiLimitedCards = [] # Cards that will appear as semi-limited in the site
+unlimitedCards = [] # Cards that will appear as unlimited in the site
+simpleCards = [] # List of all TCG legal cards for banlist generation
+ocgCards = [] # List of all OCG exclusive cards for banlist generation. We ignore these unless they're in futurelegalcards.
+
+def writeCardToBanlist(card, outfile):
 	try:
 		outfile.write("%d %d -- %s\n" % (card.get(cardId), card.get(status), card.get(name)))
 	except TypeError:
 		print(card)
 
+def writeCardToSite(card, outfile):
+	cardStatus = card.get(status)
+	cardStatusAsText = "Unlimited"
+	if (cardStatus == -1):
+		cardStatusAsText = "Illegal"
+	elif (cardStatus == 0):
+		cardStatusAsText = "Forbidden"
+	elif (cardStatus == 1):
+		cardStatusAsText = "Limited"
+	elif (cardStatus == 2):
+		cardStatusAsText = "Semi-Limited"
+
+	cardUrl = "https://db.ygoprodeck.com/card/?search=%s"%card.get(name).replace(" ", "%20").replace("&", "%26")
+
+	outfile.write("\n| [%s](%s) | %s |"%(card.get(name), cardUrl, cardStatusAsText))
+
+def writeCardsToSite(cards, outfile):
+	for card in cards:
+		writeCardToSite(card,outfile)
+
+def writeHeader(outfile):
+	outfile.write("---\ntitle:  \"Common Charity\"\n---")
+	outfile.write("\n\n## Common Charity F&L list")
+	outfile.write("\n\n| Card name | Status |")
+	outfile.write("\n| :-- | :-- |")
+
+def writeFooter(outfile):
+	outfile.write("\n\n###### [Back home](index)")
+
+def printSite():
+	with open(siteFilename, 'w', encoding="'utf-8") as siteFile:
+		writeHeader(siteFile)
+		writeCardsToSite(illegalCards, siteFile)
+		writeCardsToSite(bannedCards, siteFile)
+		writeCardsToSite(limitedCards, siteFile)
+		writeCardsToSite(semiLimitedCards, siteFile)
+		writeCardsToSite(unlimitedCards, siteFile)
+		writeFooter(siteFile)
+
+def printBanlist():
+	with open(banlistFilename, 'w', encoding="utf-8") as outfile:
+		outfile.write("#[Common Charity Format]\n")
+		outfile.write("!Common Charity %s.%s\n\n" % (datetime.now().month, datetime.now().year))
+		outfile.write("\n#OCG Cards\n\n")
+		for card in ocgCards:
+			writeCardToBanlist(card, outfile)
+		outfile.write("\n#Regular Banlist\n\n")
+		for card in simpleCards:
+			writeCardToBanlist(card, outfile)
+
+
+
 with urllib.request.urlopen(request) as url:
 	cards = json.loads(url.read().decode()).get(data)
-	simpleCards = []
-	ocgCards = []
 	for card in cards:
 		if card.get(card_sets) != None:
 			images = card.get(card_images)
@@ -86,13 +146,27 @@ with urllib.request.urlopen(request) as url:
 			if not hasCommonPrint:
 				banTcg = -1
 
-			if (banTcg<3):
-				for variant in images:
-					simpleCard = {}
-					simpleCard[name] = card.get(name)
-					simpleCard[status] = banTcg
+			simpleCard = {}
+			simpleCard[name] = card.get(name)
+			simpleCard[status] = banTcg
+			simpleCard[cardId] = card.get(cardId)
+
+			for variant in images:
+				if (banTcg<3):
 					simpleCard[cardId] = variant.get(cardId)
 					simpleCards.append(simpleCard)
+
+			if banTcg == -1:
+				illegalCards.append(simpleCard)
+			elif banTcg == 0:
+				bannedCards.append(simpleCard)
+			elif banTcg == 1:
+				limitedCards.append(simpleCard)
+			elif banTcg == 2:
+				semiLimitedCards.append(simpleCard)
+			elif banTcg == 3:
+				unlimitedCards.append(simpleCard)
+
 		if (card.get(card_sets)) == None and card.get(cardType) != token:
 			simpleCard = {}
 			simpleCard[name] = card.get(name)
@@ -100,18 +174,15 @@ with urllib.request.urlopen(request) as url:
 			for variant in card.get(card_images):
 				variantCardId = variant.get(cardId)
 				willBeLegal = False
-				for futureCardId in futureLegalCards:
-					if futureCardId == variantCardId:
-						willBeLegal = True
+				if variantCardId in futureLegalCards:
+					willBeLegal = True
+					simpleCard[status] = 3
 				if not willBeLegal:
 					simpleCard[cardId] = variant.get(cardId)
 					ocgCards.append(simpleCard)
-	with open(filename, 'w', encoding="utf-8") as outfile:
-		outfile.write("#[Common Charity Format]\n")
-		outfile.write("!Common Charity %s.%s\n\n" % (datetime.now().month, datetime.now().year))
-		outfile.write("\n#OCG Cards\n\n")
-		for card in ocgCards:
-			writeCard(card, outfile)
-		outfile.write("\n#Regular Banlist\n\n")
-		for card in simpleCards:
-			writeCard(card, outfile)
+					illegalCards.append(simpleCard)
+				else:
+					unlimitedCards.append(simpleCard)
+
+printBanlist()
+printSite()
