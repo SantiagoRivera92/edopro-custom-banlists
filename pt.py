@@ -1,4 +1,4 @@
-import urllib.request, json 
+import urllib.request, json, operator
 from datetime import datetime
 header= {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) ' 
 			'AppleWebKit/537.11 (KHTML, like Gecko) '
@@ -18,7 +18,7 @@ def writeCard(card, outfile):
 	outfile.write("\n| [%s](%s) | %s |"%(card.get('name'), cardUrl, card.get('set')))
 
 def writeCards(cards, outfile):
-	for card in cards:
+	for card in sorted(cards, key=operator.itemgetter('set')):
 		writeCard(card,outfile)
 
 def writeHeader(outfile):

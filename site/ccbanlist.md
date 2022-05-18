@@ -167,6 +167,7 @@ title:  "Common Charity"
 | [Anti-Magic Arrows](https://db.ygoprodeck.com/card/?search=Anti-Magic%20Arrows) | Illegal |
 | [Antihuman Intelligence ME-PSY-YA](https://db.ygoprodeck.com/card/?search=Antihuman%20Intelligence%20ME-PSY-YA) | Illegal |
 | [Apollousa, Bow of the Goddess](https://db.ygoprodeck.com/card/?search=Apollousa,%20Bow%20of%20the%20Goddess) | Illegal |
+| [Apophis the Swamp Deity](https://db.ygoprodeck.com/card/?search=Apophis%20the%20Swamp%20Deity) | Illegal |
 | [Apoqliphort Skybase](https://db.ygoprodeck.com/card/?search=Apoqliphort%20Skybase) | Illegal |
 | [Apoqliphort Towers](https://db.ygoprodeck.com/card/?search=Apoqliphort%20Towers) | Illegal |
 | [Apparition](https://db.ygoprodeck.com/card/?search=Apparition) | Illegal |
@@ -708,6 +709,9 @@ title:  "Common Charity"
 | [Crystal Bond](https://db.ygoprodeck.com/card/?search=Crystal%20Bond) | Illegal |
 | [Crystal Clear Wing Synchro Dragon](https://db.ygoprodeck.com/card/?search=Crystal%20Clear%20Wing%20Synchro%20Dragon) | Illegal |
 | [Crystal Girl](https://db.ygoprodeck.com/card/?search=Crystal%20Girl) | Illegal |
+| [Crystal Grace](https://db.ygoprodeck.com/card/?search=Crystal%20Grace) | Illegal |
+| [Crystal Miracle](https://db.ygoprodeck.com/card/?search=Crystal%20Miracle) | Illegal |
+| [Crystal Protection](https://db.ygoprodeck.com/card/?search=Crystal%20Protection) | Illegal |
 | [Crystal Shark](https://db.ygoprodeck.com/card/?search=Crystal%20Shark) | Illegal |
 | [Crystal Transcendence](https://db.ygoprodeck.com/card/?search=Crystal%20Transcendence) | Illegal |
 | [Crystal Wing Synchro Dragon](https://db.ygoprodeck.com/card/?search=Crystal%20Wing%20Synchro%20Dragon) | Illegal |
@@ -1477,6 +1481,7 @@ title:  "Common Charity"
 | [Gabrion, the Timelord](https://db.ygoprodeck.com/card/?search=Gabrion,%20the%20Timelord) | Illegal |
 | [Gachi Gachi Gantetsu](https://db.ygoprodeck.com/card/?search=Gachi%20Gachi%20Gantetsu) | Illegal |
 | [Gadarla, the Mystery Dust Kaiju](https://db.ygoprodeck.com/card/?search=Gadarla,%20the%20Mystery%20Dust%20Kaiju) | Illegal |
+| [Gadget Gamer](https://db.ygoprodeck.com/card/?search=Gadget%20Gamer) | Illegal |
 | [Gagaga Academy Emergency Network](https://db.ygoprodeck.com/card/?search=Gagaga%20Academy%20Emergency%20Network) | Illegal |
 | [Gagaga Caesar](https://db.ygoprodeck.com/card/?search=Gagaga%20Caesar) | Illegal |
 | [Gagaga Clerk](https://db.ygoprodeck.com/card/?search=Gagaga%20Clerk) | Illegal |
@@ -1706,6 +1711,7 @@ title:  "Common Charity"
 | [Grave Ohja](https://db.ygoprodeck.com/card/?search=Grave%20Ohja) | Illegal |
 | [Gravedigger Ghoul](https://db.ygoprodeck.com/card/?search=Gravedigger%20Ghoul) | Illegal |
 | [Gravedigger's Trap Hole](https://db.ygoprodeck.com/card/?search=Gravedigger's%20Trap%20Hole) | Illegal |
+| [Gravekeeper's Engraving](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Engraving) | Illegal |
 | [Gravekeeper's Heretic](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Heretic) | Illegal |
 | [Gravekeeper's Nobleman](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Nobleman) | Illegal |
 | [Gravekeeper's Trap](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Trap) | Illegal |
@@ -2054,6 +2060,7 @@ title:  "Common Charity"
 | [Karakuri Showdown Castle](https://db.ygoprodeck.com/card/?search=Karakuri%20Showdown%20Castle) | Illegal |
 | [Karakuri Super Shogun mdl 00N "Bureibu"](https://db.ygoprodeck.com/card/?search=Karakuri%20Super%20Shogun%20mdl%2000N%20"Bureibu") | Illegal |
 | [Kattapillar](https://db.ygoprodeck.com/card/?search=Kattapillar) | Illegal |
+| [Kelbek the Ancient Vanguard](https://db.ygoprodeck.com/card/?search=Kelbek%20the%20Ancient%20Vanguard) | Illegal |
 | [Keldo the Possessed Statue](https://db.ygoprodeck.com/card/?search=Keldo%20the%20Possessed%20Statue) | Illegal |
 | [Keurse, the Ogdoadic Light](https://db.ygoprodeck.com/card/?search=Keurse,%20the%20Ogdoadic%20Light) | Illegal |
 | [Key Mace #2](https://db.ygoprodeck.com/card/?search=Key%20Mace%20#2) | Illegal |
@@ -2191,6 +2198,7 @@ title:  "Common Charity"
 | [Libromancer Intervention](https://db.ygoprodeck.com/card/?search=Libromancer%20Intervention) | Illegal |
 | [Libromancer Magigirl](https://db.ygoprodeck.com/card/?search=Libromancer%20Magigirl) | Illegal |
 | [Life Equalizer](https://db.ygoprodeck.com/card/?search=Life%20Equalizer) | Illegal |
+| [Life Exstream](https://db.ygoprodeck.com/card/?search=Life%20Exstream) | Illegal |
 | [Life Shaver](https://db.ygoprodeck.com/card/?search=Life%20Shaver) | Illegal |
 | [Lifeforce Harmonizer](https://db.ygoprodeck.com/card/?search=Lifeforce%20Harmonizer) | Illegal |
 | [Light Bringer Lucifer](https://db.ygoprodeck.com/card/?search=Light%20Bringer%20Lucifer) | Illegal |
@@ -2559,8 +2567,11 @@ title:  "Common Charity"
 | [Morpheus, the Dream Mirror Black Knight](https://db.ygoprodeck.com/card/?search=Morpheus,%20the%20Dream%20Mirror%20Black%20Knight) | Illegal |
 | [Morpheus, the Dream Mirror White Knight](https://db.ygoprodeck.com/card/?search=Morpheus,%20the%20Dream%20Mirror%20White%20Knight) | Illegal |
 | [Morphtronic Accelerator](https://db.ygoprodeck.com/card/?search=Morphtronic%20Accelerator) | Illegal |
+| [Morphtronic Convert Unit](https://db.ygoprodeck.com/card/?search=Morphtronic%20Convert%20Unit) | Illegal |
+| [Morphtronic Earfon](https://db.ygoprodeck.com/card/?search=Morphtronic%20Earfon) | Illegal |
 | [Morphtronic Radion](https://db.ygoprodeck.com/card/?search=Morphtronic%20Radion) | Illegal |
 | [Morphtronic Remoten](https://db.ygoprodeck.com/card/?search=Morphtronic%20Remoten) | Illegal |
+| [Morphtronic Telefon](https://db.ygoprodeck.com/card/?search=Morphtronic%20Telefon) | Illegal |
 | [Mosaic Manticore](https://db.ygoprodeck.com/card/?search=Mosaic%20Manticore) | Illegal |
 | [Mother Spider](https://db.ygoprodeck.com/card/?search=Mother%20Spider) | Illegal |
 | [Motivating Captain](https://db.ygoprodeck.com/card/?search=Motivating%20Captain) | Illegal |
@@ -3003,6 +3014,7 @@ title:  "Common Charity"
 | [Phantom Fortress Enterblathnir](https://db.ygoprodeck.com/card/?search=Phantom%20Fortress%20Enterblathnir) | Illegal |
 | [Phantom Ghost](https://db.ygoprodeck.com/card/?search=Phantom%20Ghost) | Illegal |
 | [Phantom Knights' Rank-Up-Magic Force](https://db.ygoprodeck.com/card/?search=Phantom%20Knights'%20Rank-Up-Magic%20Force) | Illegal |
+| [Pharaonic Advent](https://db.ygoprodeck.com/card/?search=Pharaonic%20Advent) | Illegal |
 | [Phoenixian Cluster Amaryllis](https://db.ygoprodeck.com/card/?search=Phoenixian%20Cluster%20Amaryllis) | Illegal |
 | [Phonon Pulse Dragon](https://db.ygoprodeck.com/card/?search=Phonon%20Pulse%20Dragon) | Illegal |
 | [Phosphorage the Elemental Lord](https://db.ygoprodeck.com/card/?search=Phosphorage%20the%20Elemental%20Lord) | Illegal |
@@ -4559,7 +4571,6 @@ title:  "Common Charity"
 | [Blackwing - Steam the Cloak](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Steam%20the%20Cloak) | Forbidden |
 | [Butterfly Dagger - Elma](https://db.ygoprodeck.com/card/?search=Butterfly%20Dagger%20-%20Elma) | Forbidden |
 | [Card of Safe Return](https://db.ygoprodeck.com/card/?search=Card%20of%20Safe%20Return) | Forbidden |
-| [Change of Heart](https://db.ygoprodeck.com/card/?search=Change%20of%20Heart) | Forbidden |
 | [Chicken Game](https://db.ygoprodeck.com/card/?search=Chicken%20Game) | Forbidden |
 | [Cold Wave](https://db.ygoprodeck.com/card/?search=Cold%20Wave) | Forbidden |
 | [Confiscation](https://db.ygoprodeck.com/card/?search=Confiscation) | Forbidden |
@@ -4572,7 +4583,6 @@ title:  "Common Charity"
 | [Grinder Golem](https://db.ygoprodeck.com/card/?search=Grinder%20Golem) | Forbidden |
 | [Heavy Storm](https://db.ygoprodeck.com/card/?search=Heavy%20Storm) | Forbidden |
 | [Imperial Order](https://db.ygoprodeck.com/card/?search=Imperial%20Order) | Forbidden |
-| [Jet Synchron](https://db.ygoprodeck.com/card/?search=Jet%20Synchron) | Forbidden |
 | [Kaiser Colosseum](https://db.ygoprodeck.com/card/?search=Kaiser%20Colosseum) | Forbidden |
 | [Last Turn](https://db.ygoprodeck.com/card/?search=Last%20Turn) | Forbidden |
 | [Last Will](https://db.ygoprodeck.com/card/?search=Last%20Will) | Forbidden |
@@ -4585,7 +4595,6 @@ title:  "Common Charity"
 | [Number 42: Galaxy Tomahawk](https://db.ygoprodeck.com/card/?search=Number%2042:%20Galaxy%20Tomahawk) | Forbidden |
 | [Painful Choice](https://db.ygoprodeck.com/card/?search=Painful%20Choice) | Forbidden |
 | [Performage Plushfire](https://db.ygoprodeck.com/card/?search=Performage%20Plushfire) | Forbidden |
-| [Performapal Monkeyboard](https://db.ygoprodeck.com/card/?search=Performapal%20Monkeyboard) | Forbidden |
 | [Pot of Greed](https://db.ygoprodeck.com/card/?search=Pot%20of%20Greed) | Forbidden |
 | [Premature Burial](https://db.ygoprodeck.com/card/?search=Premature%20Burial) | Forbidden |
 | [Return from the Different Dimension](https://db.ygoprodeck.com/card/?search=Return%20from%20the%20Different%20Dimension) | Forbidden |
@@ -4597,17 +4606,15 @@ title:  "Common Charity"
 | [Snatch Steal](https://db.ygoprodeck.com/card/?search=Snatch%20Steal) | Forbidden |
 | [Soul Charge](https://db.ygoprodeck.com/card/?search=Soul%20Charge) | Forbidden |
 | [Supreme King Dragon Starving Venom](https://db.ygoprodeck.com/card/?search=Supreme%20King%20Dragon%20Starving%20Venom) | Forbidden |
-| [Time Seal](https://db.ygoprodeck.com/card/?search=Time%20Seal) | Forbidden |
 | [Trap Dustshoot](https://db.ygoprodeck.com/card/?search=Trap%20Dustshoot) | Forbidden |
 | [Ultimate Offering](https://db.ygoprodeck.com/card/?search=Ultimate%20Offering) | Forbidden |
 | [Vanity's Emptiness](https://db.ygoprodeck.com/card/?search=Vanity's%20Emptiness) | Forbidden |
-| [Yata-Garasu](https://db.ygoprodeck.com/card/?search=Yata-Garasu) | Forbidden |
 | [Armageddon Knight](https://db.ygoprodeck.com/card/?search=Armageddon%20Knight) | Limited |
 | [Black Dragon Collapserpent](https://db.ygoprodeck.com/card/?search=Black%20Dragon%20Collapserpent) | Limited |
 | [Called by the Grave](https://db.ygoprodeck.com/card/?search=Called%20by%20the%20Grave) | Limited |
 | [Card Destruction](https://db.ygoprodeck.com/card/?search=Card%20Destruction) | Limited |
 | [Chain Strike](https://db.ygoprodeck.com/card/?search=Chain%20Strike) | Limited |
-| [Cyber Angel Benten](https://db.ygoprodeck.com/card/?search=Cyber%20Angel%20Benten) | Limited |
+| [Change of Heart](https://db.ygoprodeck.com/card/?search=Change%20of%20Heart) | Limited |
 | [Dark Grepher](https://db.ygoprodeck.com/card/?search=Dark%20Grepher) | Limited |
 | [Dimensional Fissure](https://db.ygoprodeck.com/card/?search=Dimensional%20Fissure) | Limited |
 | [Dinowrestler Pankratops](https://db.ygoprodeck.com/card/?search=Dinowrestler%20Pankratops) | Limited |
@@ -4616,7 +4623,6 @@ title:  "Common Charity"
 | [Exodia the Forbidden One](https://db.ygoprodeck.com/card/?search=Exodia%20the%20Forbidden%20One) | Limited |
 | [Fairy Tail - Snow](https://db.ygoprodeck.com/card/?search=Fairy%20Tail%20-%20Snow) | Limited |
 | [Final Countdown](https://db.ygoprodeck.com/card/?search=Final%20Countdown) | Limited |
-| [Fire Formation - Tenki](https://db.ygoprodeck.com/card/?search=Fire%20Formation%20-%20Tenki) | Limited |
 | [Foolish Burial](https://db.ygoprodeck.com/card/?search=Foolish%20Burial) | Limited |
 | [Gateway of the Six](https://db.ygoprodeck.com/card/?search=Gateway%20of%20the%20Six) | Limited |
 | [Gem-Knight Master Diamond](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Master%20Diamond) | Limited |
@@ -4624,6 +4630,7 @@ title:  "Common Charity"
 | [Gold Sarcophagus](https://db.ygoprodeck.com/card/?search=Gold%20Sarcophagus) | Limited |
 | [Infernity Archfiend](https://db.ygoprodeck.com/card/?search=Infernity%20Archfiend) | Limited |
 | [Instant Fusion](https://db.ygoprodeck.com/card/?search=Instant%20Fusion) | Limited |
+| [Jet Synchron](https://db.ygoprodeck.com/card/?search=Jet%20Synchron) | Limited |
 | [Left Arm of the Forbidden One](https://db.ygoprodeck.com/card/?search=Left%20Arm%20of%20the%20Forbidden%20One) | Limited |
 | [Left Leg of the Forbidden One](https://db.ygoprodeck.com/card/?search=Left%20Leg%20of%20the%20Forbidden%20One) | Limited |
 | [Lunalight Tiger](https://db.ygoprodeck.com/card/?search=Lunalight%20Tiger) | Limited |
@@ -4637,11 +4644,10 @@ title:  "Common Charity"
 | [Monster Gate](https://db.ygoprodeck.com/card/?search=Monster%20Gate) | Limited |
 | [Monster Reborn](https://db.ygoprodeck.com/card/?search=Monster%20Reborn) | Limited |
 | [Morphing Jar](https://db.ygoprodeck.com/card/?search=Morphing%20Jar) | Limited |
-| [Night Assailant](https://db.ygoprodeck.com/card/?search=Night%20Assailant) | Limited |
 | [One Day of Peace](https://db.ygoprodeck.com/card/?search=One%20Day%20of%20Peace) | Limited |
 | [One for One](https://db.ygoprodeck.com/card/?search=One%20for%20One) | Limited |
+| [Performapal Monkeyboard](https://db.ygoprodeck.com/card/?search=Performapal%20Monkeyboard) | Limited |
 | [Phantom Skyblaster](https://db.ygoprodeck.com/card/?search=Phantom%20Skyblaster) | Limited |
-| [Pot of Desires](https://db.ygoprodeck.com/card/?search=Pot%20of%20Desires) | Limited |
 | [Reasoning](https://db.ygoprodeck.com/card/?search=Reasoning) | Limited |
 | [Red Reboot](https://db.ygoprodeck.com/card/?search=Red%20Reboot) | Limited |
 | [Reinforcement of the Army](https://db.ygoprodeck.com/card/?search=Reinforcement%20of%20the%20Army) | Limited |
@@ -4654,13 +4660,16 @@ title:  "Common Charity"
 | [Speedroid Terrortop](https://db.ygoprodeck.com/card/?search=Speedroid%20Terrortop) | Limited |
 | [T.G. Hyper Librarian](https://db.ygoprodeck.com/card/?search=T.G.%20Hyper%20Librarian) | Limited |
 | [Terraforming](https://db.ygoprodeck.com/card/?search=Terraforming) | Limited |
-| [Trickstar Light Stage](https://db.ygoprodeck.com/card/?search=Trickstar%20Light%20Stage) | Limited |
+| [Time Seal](https://db.ygoprodeck.com/card/?search=Time%20Seal) | Limited |
 | [Upstart Goblin](https://db.ygoprodeck.com/card/?search=Upstart%20Goblin) | Limited |
-| [Wall of Revealing Light](https://db.ygoprodeck.com/card/?search=Wall%20of%20Revealing%20Light) | Limited |
 | [White Dragon Wyverburster](https://db.ygoprodeck.com/card/?search=White%20Dragon%20Wyverburster) | Limited |
-| [A Hero Lives](https://db.ygoprodeck.com/card/?search=A%20Hero%20Lives) | Semi-Limited |
+| [Yata-Garasu](https://db.ygoprodeck.com/card/?search=Yata-Garasu) | Limited |
+| [Cyber Angel Benten](https://db.ygoprodeck.com/card/?search=Cyber%20Angel%20Benten) | Semi-Limited |
 | [Destiny HERO - Malicious](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Malicious) | Semi-Limited |
-| [Scapegoat](https://db.ygoprodeck.com/card/?search=Scapegoat) | Semi-Limited |
+| [Fire Formation - Tenki](https://db.ygoprodeck.com/card/?search=Fire%20Formation%20-%20Tenki) | Semi-Limited |
+| [Pot of Desires](https://db.ygoprodeck.com/card/?search=Pot%20of%20Desires) | Semi-Limited |
+| [Trickstar Light Stage](https://db.ygoprodeck.com/card/?search=Trickstar%20Light%20Stage) | Semi-Limited |
+| [Wall of Revealing Light](https://db.ygoprodeck.com/card/?search=Wall%20of%20Revealing%20Light) | Semi-Limited |
 | ["A" Cell Breeding Device](https://db.ygoprodeck.com/card/?search="A"%20Cell%20Breeding%20Device) | Unlimited |
 | ["A" Cell Incubator](https://db.ygoprodeck.com/card/?search="A"%20Cell%20Incubator) | Unlimited |
 | ["A" Cell Recombination Device](https://db.ygoprodeck.com/card/?search="A"%20Cell%20Recombination%20Device) | Unlimited |
@@ -4677,6 +4686,7 @@ title:  "Common Charity"
 | [A Feather of the Phoenix](https://db.ygoprodeck.com/card/?search=A%20Feather%20of%20the%20Phoenix) | Unlimited |
 | [A Feint Plan](https://db.ygoprodeck.com/card/?search=A%20Feint%20Plan) | Unlimited |
 | [A Hero Emerges](https://db.ygoprodeck.com/card/?search=A%20Hero%20Emerges) | Unlimited |
+| [A Hero Lives](https://db.ygoprodeck.com/card/?search=A%20Hero%20Lives) | Unlimited |
 | [A Legendary Ocean](https://db.ygoprodeck.com/card/?search=A%20Legendary%20Ocean) | Unlimited |
 | [A Major Upset](https://db.ygoprodeck.com/card/?search=A%20Major%20Upset) | Unlimited |
 | [A Man with Wdjat](https://db.ygoprodeck.com/card/?search=A%20Man%20with%20Wdjat) | Unlimited |
@@ -9065,6 +9075,7 @@ title:  "Common Charity"
 | [Newdoria](https://db.ygoprodeck.com/card/?search=Newdoria) | Unlimited |
 | [NEX](https://db.ygoprodeck.com/card/?search=NEX) | Unlimited |
 | [Next to be Lost](https://db.ygoprodeck.com/card/?search=Next%20to%20be%20Lost) | Unlimited |
+| [Night Assailant](https://db.ygoprodeck.com/card/?search=Night%20Assailant) | Unlimited |
 | [Night Beam](https://db.ygoprodeck.com/card/?search=Night%20Beam) | Unlimited |
 | [Night Express Knight](https://db.ygoprodeck.com/card/?search=Night%20Express%20Knight) | Unlimited |
 | [Night Flight](https://db.ygoprodeck.com/card/?search=Night%20Flight) | Unlimited |
@@ -10090,6 +10101,7 @@ title:  "Common Charity"
 | [Sauropod Brachion](https://db.ygoprodeck.com/card/?search=Sauropod%20Brachion) | Unlimited |
 | [Savage Colosseum](https://db.ygoprodeck.com/card/?search=Savage%20Colosseum) | Unlimited |
 | [Scapeghost](https://db.ygoprodeck.com/card/?search=Scapeghost) | Unlimited |
+| [Scapegoat](https://db.ygoprodeck.com/card/?search=Scapegoat) | Unlimited |
 | [Scareclaw Acro](https://db.ygoprodeck.com/card/?search=Scareclaw%20Acro) | Unlimited |
 | [Scareclaw Alternative](https://db.ygoprodeck.com/card/?search=Scareclaw%20Alternative) | Unlimited |
 | [Scareclaw Astra](https://db.ygoprodeck.com/card/?search=Scareclaw%20Astra) | Unlimited |

@@ -1,4 +1,4 @@
-import urllib.request, json 
+import urllib.request, json, operator
 from datetime import datetime
 header= {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) ' 
 			'AppleWebKit/537.11 (KHTML, like Gecko) '
@@ -47,13 +47,9 @@ banlistFilename = 'banlist/charity.lflist.conf'
 siteFilename ='site/ccbanlist.md'
 
 #Card arrays
-illegalCards = [] # Cards that will appear as illegal in the site
-bannedCards = [] # Cards that will appear as forbidden in the site
-limitedCards = [] # Cards that will appear as limited in the site
-semiLimitedCards = [] # Cards that will appear as semi-limited in the site
-unlimitedCards = [] # Cards that will appear as unlimited in the site
+siteCards = []
 simpleCards = [] # List of all TCG legal cards for banlist generation
-ocgCards = [] # List of all OCG exclusive cards for banlist generation. We ignore these unless they're in futurelegalcards.
+ocgCards = [] # List of all OCG exclusive cards for banlist generation.
 
 def writeCardToBanlist(card, outfile):
 	try:
@@ -78,7 +74,7 @@ def writeCardToSite(card, outfile):
 	outfile.write("\n| [%s](%s) | %s |"%(card.get(name), cardUrl, cardStatusAsText))
 
 def writeCardsToSite(cards, outfile):
-	for card in cards:
+	for card in sorted(cards, key=operator.itemgetter('status')):
 		writeCardToSite(card,outfile)
 
 def writeHeader(outfile):
@@ -93,11 +89,7 @@ def writeFooter(outfile):
 def printSite():
 	with open(siteFilename, 'w', encoding="'utf-8") as siteFile:
 		writeHeader(siteFile)
-		writeCardsToSite(illegalCards, siteFile)
-		writeCardsToSite(bannedCards, siteFile)
-		writeCardsToSite(limitedCards, siteFile)
-		writeCardsToSite(semiLimitedCards, siteFile)
-		writeCardsToSite(unlimitedCards, siteFile)
+		writeCardsToSite(siteCards, siteFile)
 		writeFooter(siteFile)
 
 def printBanlist():
@@ -156,16 +148,7 @@ with urllib.request.urlopen(request) as url:
 					simpleCard[cardId] = variant.get(cardId)
 					simpleCards.append(simpleCard)
 
-			if banTcg == -1:
-				illegalCards.append(simpleCard)
-			elif banTcg == 0:
-				bannedCards.append(simpleCard)
-			elif banTcg == 1:
-				limitedCards.append(simpleCard)
-			elif banTcg == 2:
-				semiLimitedCards.append(simpleCard)
-			elif banTcg == 3:
-				unlimitedCards.append(simpleCard)
+			siteCards.append(simpleCard)
 
 		if (card.get(card_sets)) == None and card.get(cardType) != token:
 			simpleCard = {}
@@ -173,16 +156,15 @@ with urllib.request.urlopen(request) as url:
 			simpleCard[status] = -1
 			for variant in card.get(card_images):
 				variantCardId = variant.get(cardId)
+				simpleCard[cardId] = variantCardId
 				willBeLegal = False
 				if variantCardId in futureLegalCards:
 					willBeLegal = True
 					simpleCard[status] = 3
 				if not willBeLegal:
-					simpleCard[cardId] = variant.get(cardId)
 					ocgCards.append(simpleCard)
-					illegalCards.append(simpleCard)
-				else:
-					unlimitedCards.append(simpleCard)
+
+				siteCards.append(simpleCard)
 
 printBanlist()
 printSite()
