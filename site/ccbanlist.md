@@ -371,6 +371,7 @@ title:  "Common Charity"
 | [Black Brutdrago](https://db.ygoprodeck.com/card/?search=Black%20Brutdrago) | Illegal |
 | [Black Fang Magician](https://db.ygoprodeck.com/card/?search=Black%20Fang%20Magician) | Illegal |
 | [Black Feather Beacon](https://db.ygoprodeck.com/card/?search=Black%20Feather%20Beacon) | Illegal |
+| [Black Feather Whirlwind](https://db.ygoprodeck.com/card/?search=Black%20Feather%20Whirlwind) | Illegal |
 | [Black Illusion](https://db.ygoprodeck.com/card/?search=Black%20Illusion) | Illegal |
 | [Black Luster Soldier - Envoy of the Evening Twilight](https://db.ygoprodeck.com/card/?search=Black%20Luster%20Soldier%20-%20Envoy%20of%20the%20Evening%20Twilight) | Illegal |
 | [Black Luster Soldier - Sacred Soldier](https://db.ygoprodeck.com/card/?search=Black%20Luster%20Soldier%20-%20Sacred%20Soldier) | Illegal |
@@ -378,6 +379,7 @@ title:  "Common Charity"
 | [Black Luster Soldier - Super Soldier](https://db.ygoprodeck.com/card/?search=Black%20Luster%20Soldier%20-%20Super%20Soldier) | Illegal |
 | [Black Mamba](https://db.ygoprodeck.com/card/?search=Black%20Mamba) | Illegal |
 | [Black Rose Moonlight Dragon](https://db.ygoprodeck.com/card/?search=Black%20Rose%20Moonlight%20Dragon) | Illegal |
+| [Black Shadow Squall](https://db.ygoprodeck.com/card/?search=Black%20Shadow%20Squall) | Illegal |
 | [Black Sonic](https://db.ygoprodeck.com/card/?search=Black%20Sonic) | Illegal |
 | [Blackbeard, the Plunder Patroll Captain](https://db.ygoprodeck.com/card/?search=Blackbeard,%20the%20Plunder%20Patroll%20Captain) | Illegal |
 | [Blackfeather Darkrage Dragon](https://db.ygoprodeck.com/card/?search=Blackfeather%20Darkrage%20Dragon) | Illegal |
@@ -622,7 +624,6 @@ title:  "Common Charity"
 | [Cipher Biplane](https://db.ygoprodeck.com/card/?search=Cipher%20Biplane) | Illegal |
 | [Cipher Interference](https://db.ygoprodeck.com/card/?search=Cipher%20Interference) | Illegal |
 | [Cir, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Cir,%20Malebranche%20of%20the%20Burning%20Abyss) | Illegal |
-| [Citadel Whale](https://db.ygoprodeck.com/card/?search=Citadel%20Whale) | Illegal |
 | [Clara & Rushka, the Ventriloduo](https://db.ygoprodeck.com/card/?search=Clara%20%26%20Rushka,%20the%20Ventriloduo) | Illegal |
 | [Clashing Souls](https://db.ygoprodeck.com/card/?search=Clashing%20Souls) | Illegal |
 | [Clear Effector](https://db.ygoprodeck.com/card/?search=Clear%20Effector) | Illegal |
@@ -1462,7 +1463,6 @@ title:  "Common Charity"
 | [Frost Blast of the Monarchs](https://db.ygoprodeck.com/card/?search=Frost%20Blast%20of%20the%20Monarchs) | Illegal |
 | [Frozen Fitzgerald](https://db.ygoprodeck.com/card/?search=Frozen%20Fitzgerald) | Illegal |
 | [Frozen Rose](https://db.ygoprodeck.com/card/?search=Frozen%20Rose) | Illegal |
-| [Full Armored Black Ray Lancer](https://db.ygoprodeck.com/card/?search=Full%20Armored%20Black%20Ray%20Lancer) | Illegal |
 | [Full Armored Crystalzero Lancer](https://db.ygoprodeck.com/card/?search=Full%20Armored%20Crystalzero%20Lancer) | Illegal |
 | [Full House](https://db.ygoprodeck.com/card/?search=Full%20House) | Illegal |
 | [Fullmetalfoes Alkahest](https://db.ygoprodeck.com/card/?search=Fullmetalfoes%20Alkahest) | Illegal |
@@ -2190,13 +2190,19 @@ title:  "Common Charity"
 | [Lib the World Key Blademaster](https://db.ygoprodeck.com/card/?search=Lib%20the%20World%20Key%20Blademaster) | Illegal |
 | [Libic, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Libic,%20Malebranche%20of%20the%20Burning%20Abyss) | Illegal |
 | [Libromancer Agent](https://db.ygoprodeck.com/card/?search=Libromancer%20Agent) | Illegal |
+| [Libromancer Bonded](https://db.ygoprodeck.com/card/?search=Libromancer%20Bonded) | Illegal |
+| [Libromancer Displaced](https://db.ygoprodeck.com/card/?search=Libromancer%20Displaced) | Illegal |
 | [Libromancer Doombroker](https://db.ygoprodeck.com/card/?search=Libromancer%20Doombroker) | Illegal |
 | [Libromancer Fire](https://db.ygoprodeck.com/card/?search=Libromancer%20Fire) | Illegal |
+| [Libromancer Fireburst](https://db.ygoprodeck.com/card/?search=Libromancer%20Fireburst) | Illegal |
 | [Libromancer Firestarter](https://db.ygoprodeck.com/card/?search=Libromancer%20Firestarter) | Illegal |
 | [Libromancer First Appearance](https://db.ygoprodeck.com/card/?search=Libromancer%20First%20Appearance) | Illegal |
 | [Libromancer Geek Boy](https://db.ygoprodeck.com/card/?search=Libromancer%20Geek%20Boy) | Illegal |
 | [Libromancer Intervention](https://db.ygoprodeck.com/card/?search=Libromancer%20Intervention) | Illegal |
 | [Libromancer Magigirl](https://db.ygoprodeck.com/card/?search=Libromancer%20Magigirl) | Illegal |
+| [Libromancer Mystigirl](https://db.ygoprodeck.com/card/?search=Libromancer%20Mystigirl) | Illegal |
+| [Libromancer Prevented](https://db.ygoprodeck.com/card/?search=Libromancer%20Prevented) | Illegal |
+| [Libromancer Realized](https://db.ygoprodeck.com/card/?search=Libromancer%20Realized) | Illegal |
 | [Life Equalizer](https://db.ygoprodeck.com/card/?search=Life%20Equalizer) | Illegal |
 | [Life Exstream](https://db.ygoprodeck.com/card/?search=Life%20Exstream) | Illegal |
 | [Life Shaver](https://db.ygoprodeck.com/card/?search=Life%20Shaver) | Illegal |
@@ -2375,19 +2381,13 @@ title:  "Common Charity"
 | [Marina, Princess of Sunflowers](https://db.ygoprodeck.com/card/?search=Marina,%20Princess%20of%20Sunflowers) | Illegal |
 | [Marincess Aqua Argonaut](https://db.ygoprodeck.com/card/?search=Marincess%20Aqua%20Argonaut) | Illegal |
 | [Marincess Blue Slug](https://db.ygoprodeck.com/card/?search=Marincess%20Blue%20Slug) | Illegal |
-| [Marincess Blue Tang](https://db.ygoprodeck.com/card/?search=Marincess%20Blue%20Tang) | Illegal |
 | [Marincess Bubble Ring](https://db.ygoprodeck.com/card/?search=Marincess%20Bubble%20Ring) | Illegal |
 | [Marincess Circulation](https://db.ygoprodeck.com/card/?search=Marincess%20Circulation) | Illegal |
 | [Marincess Coral Anemone](https://db.ygoprodeck.com/card/?search=Marincess%20Coral%20Anemone) | Illegal |
 | [Marincess Coral Triangle](https://db.ygoprodeck.com/card/?search=Marincess%20Coral%20Triangle) | Illegal |
-| [Marincess Crystal Heart](https://db.ygoprodeck.com/card/?search=Marincess%20Crystal%20Heart) | Illegal |
 | [Marincess Dive](https://db.ygoprodeck.com/card/?search=Marincess%20Dive) | Illegal |
-| [Marincess Marbled Rock](https://db.ygoprodeck.com/card/?search=Marincess%20Marbled%20Rock) | Illegal |
-| [Marincess Pascalus](https://db.ygoprodeck.com/card/?search=Marincess%20Pascalus) | Illegal |
-| [Marincess Sea Horse](https://db.ygoprodeck.com/card/?search=Marincess%20Sea%20Horse) | Illegal |
 | [Marincess Sleepy Maiden](https://db.ygoprodeck.com/card/?search=Marincess%20Sleepy%20Maiden) | Illegal |
 | [Marincess Springirl](https://db.ygoprodeck.com/card/?search=Marincess%20Springirl) | Illegal |
-| [Marincess Wave](https://db.ygoprodeck.com/card/?search=Marincess%20Wave) | Illegal |
 | [Marshalling Field](https://db.ygoprodeck.com/card/?search=Marshalling%20Field) | Illegal |
 | [Marshmacaron](https://db.ygoprodeck.com/card/?search=Marshmacaron) | Illegal |
 | [Martial Metal Marcher](https://db.ygoprodeck.com/card/?search=Martial%20Metal%20Marcher) | Illegal |
@@ -2571,6 +2571,7 @@ title:  "Common Charity"
 | [Morphtronic Earfon](https://db.ygoprodeck.com/card/?search=Morphtronic%20Earfon) | Illegal |
 | [Morphtronic Radion](https://db.ygoprodeck.com/card/?search=Morphtronic%20Radion) | Illegal |
 | [Morphtronic Remoten](https://db.ygoprodeck.com/card/?search=Morphtronic%20Remoten) | Illegal |
+| [Morphtronic Scannen](https://db.ygoprodeck.com/card/?search=Morphtronic%20Scannen) | Illegal |
 | [Morphtronic Telefon](https://db.ygoprodeck.com/card/?search=Morphtronic%20Telefon) | Illegal |
 | [Mosaic Manticore](https://db.ygoprodeck.com/card/?search=Mosaic%20Manticore) | Illegal |
 | [Mother Spider](https://db.ygoprodeck.com/card/?search=Mother%20Spider) | Illegal |
@@ -2631,6 +2632,7 @@ title:  "Common Charity"
 | [Naturia Gaiastrio](https://db.ygoprodeck.com/card/?search=Naturia%20Gaiastrio) | Illegal |
 | [Naturia Sacred Tree](https://db.ygoprodeck.com/card/?search=Naturia%20Sacred%20Tree) | Illegal |
 | [Nauya, the Ogdoadic Remnant](https://db.ygoprodeck.com/card/?search=Nauya,%20the%20Ogdoadic%20Remnant) | Illegal |
+| [Navy Dragon Mech](https://db.ygoprodeck.com/card/?search=Navy%20Dragon%20Mech) | Illegal |
 | [Nazuki, Ninja of the Valiants](https://db.ygoprodeck.com/card/?search=Nazuki,%20Ninja%20of%20the%20Valiants) | Illegal |
 | [Necro Defender](https://db.ygoprodeck.com/card/?search=Necro%20Defender) | Illegal |
 | [Necro Synchron](https://db.ygoprodeck.com/card/?search=Necro%20Synchron) | Illegal |
@@ -2780,7 +2782,6 @@ title:  "Common Charity"
 | [Number 68: Sanaphond the Sky Prison](https://db.ygoprodeck.com/card/?search=Number%2068:%20Sanaphond%20the%20Sky%20Prison) | Illegal |
 | [Number 69: Heraldry Crest](https://db.ygoprodeck.com/card/?search=Number%2069:%20Heraldry%20Crest) | Illegal |
 | [Number 70: Malevolent Sin](https://db.ygoprodeck.com/card/?search=Number%2070:%20Malevolent%20Sin) | Illegal |
-| [Number 71: Rebarian Shark](https://db.ygoprodeck.com/card/?search=Number%2071:%20Rebarian%20Shark) | Illegal |
 | [Number 72: Shogi Rook](https://db.ygoprodeck.com/card/?search=Number%2072:%20Shogi%20Rook) | Illegal |
 | [Number 74: Master of Blades](https://db.ygoprodeck.com/card/?search=Number%2074:%20Master%20of%20Blades) | Illegal |
 | [Number 75: Bamboozling Gossip Shadow](https://db.ygoprodeck.com/card/?search=Number%2075:%20Bamboozling%20Gossip%20Shadow) | Illegal |
@@ -2807,7 +2808,6 @@ title:  "Common Charity"
 | [Number 99: Utopic Dragon](https://db.ygoprodeck.com/card/?search=Number%2099:%20Utopic%20Dragon) | Illegal |
 | [Number 9: Dyson Sphere](https://db.ygoprodeck.com/card/?search=Number%209:%20Dyson%20Sphere) | Illegal |
 | [Number C1000: Numerounius](https://db.ygoprodeck.com/card/?search=Number%20C1000:%20Numerounius) | Illegal |
-| [Number C101: Silent Honor DARK](https://db.ygoprodeck.com/card/?search=Number%20C101:%20Silent%20Honor%20DARK) | Illegal |
 | [Number C102: Archfiend Seraph](https://db.ygoprodeck.com/card/?search=Number%20C102:%20Archfiend%20Seraph) | Illegal |
 | [Number C103: Ragnafinity](https://db.ygoprodeck.com/card/?search=Number%20C103:%20Ragnafinity) | Illegal |
 | [Number C104: Umbral Horror Masquerade](https://db.ygoprodeck.com/card/?search=Number%20C104:%20Umbral%20Horror%20Masquerade) | Illegal |
@@ -2943,6 +2943,7 @@ title:  "Common Charity"
 | [Paralyzing Chain](https://db.ygoprodeck.com/card/?search=Paralyzing%20Chain) | Illegal |
 | [Parametalfoes Azortless](https://db.ygoprodeck.com/card/?search=Parametalfoes%20Azortless) | Illegal |
 | [Parlor Dragonmaid](https://db.ygoprodeck.com/card/?search=Parlor%20Dragonmaid) | Illegal |
+| [Patissciel Couverture](https://db.ygoprodeck.com/card/?search=Patissciel%20Couverture) | Illegal |
 | [Patrol Robo](https://db.ygoprodeck.com/card/?search=Patrol%20Robo) | Illegal |
 | [Peaceful Burial](https://db.ygoprodeck.com/card/?search=Peaceful%20Burial) | Illegal |
 | [Pendransaction](https://db.ygoprodeck.com/card/?search=Pendransaction) | Illegal |
@@ -2950,7 +2951,6 @@ title:  "Common Charity"
 | [Pendulum Fusion](https://db.ygoprodeck.com/card/?search=Pendulum%20Fusion) | Illegal |
 | [Pendulum Halt](https://db.ygoprodeck.com/card/?search=Pendulum%20Halt) | Illegal |
 | [Pendulum Paradox](https://db.ygoprodeck.com/card/?search=Pendulum%20Paradox) | Illegal |
-| [Pendulum Scale](https://db.ygoprodeck.com/card/?search=Pendulum%20Scale) | Illegal |
 | [Pendulum Transfer](https://db.ygoprodeck.com/card/?search=Pendulum%20Transfer) | Illegal |
 | [Pendulum Treasure](https://db.ygoprodeck.com/card/?search=Pendulum%20Treasure) | Illegal |
 | [Pendulum Xyz](https://db.ygoprodeck.com/card/?search=Pendulum%20Xyz) | Illegal |
@@ -3154,6 +3154,7 @@ title:  "Common Charity"
 | [Purple Poison Magician](https://db.ygoprodeck.com/card/?search=Purple%20Poison%20Magician) | Illegal |
 | [Pyrorex the Elemental Lord](https://db.ygoprodeck.com/card/?search=Pyrorex%20the%20Elemental%20Lord) | Illegal |
 | [Qadshaddoll Keios](https://db.ygoprodeck.com/card/?search=Qadshaddoll%20Keios) | Illegal |
+| [Qardan the Great Sage](https://db.ygoprodeck.com/card/?search=Qardan%20the%20Great%20Sage) | Illegal |
 | [Qlife's End](https://db.ygoprodeck.com/card/?search=Qlife's%20End) | Illegal |
 | [Qliphort Carrier](https://db.ygoprodeck.com/card/?search=Qliphort%20Carrier) | Illegal |
 | [Qliphort Cephalopod](https://db.ygoprodeck.com/card/?search=Qliphort%20Cephalopod) | Illegal |
@@ -3213,7 +3214,6 @@ title:  "Common Charity"
 | [Rank-Up-Magic Doom Double Force](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Doom%20Double%20Force) | Illegal |
 | [Rank-Up-Magic Limited Barian's Force](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Limited%20Barian's%20Force) | Illegal |
 | [Rank-Up-Magic Numeron Force](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Numeron%20Force) | Illegal |
-| [Rank-Up-Magic Quick Chaos](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Quick%20Chaos) | Illegal |
 | [Rank-Up-Magic Raid Force](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Raid%20Force) | Illegal |
 | [Rank-Up-Magic Revolution Force](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Revolution%20Force) | Illegal |
 | [Rank-Up-Magic Skip Force](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Skip%20Force) | Illegal |
@@ -3346,7 +3346,6 @@ title:  "Common Charity"
 | [S-Force Retroactive](https://db.ygoprodeck.com/card/?search=S-Force%20Retroactive) | Illegal |
 | [Saber Hole](https://db.ygoprodeck.com/card/?search=Saber%20Hole) | Illegal |
 | [Saber Reflection](https://db.ygoprodeck.com/card/?search=Saber%20Reflection) | Illegal |
-| [Saber Shark](https://db.ygoprodeck.com/card/?search=Saber%20Shark) | Illegal |
 | [Saber Slash](https://db.ygoprodeck.com/card/?search=Saber%20Slash) | Illegal |
 | [Saber Vault](https://db.ygoprodeck.com/card/?search=Saber%20Vault) | Illegal |
 | [Sacred Arch-Airknight Parshath](https://db.ygoprodeck.com/card/?search=Sacred%20Arch-Airknight%20Parshath) | Illegal |
@@ -3871,11 +3870,11 @@ title:  "Common Charity"
 | [Tearalaments Haufenis](https://db.ygoprodeck.com/card/?search=Tearalaments%20Haufenis) | Illegal |
 | [Tearalaments Kaleido-Heart](https://db.ygoprodeck.com/card/?search=Tearalaments%20Kaleido-Heart) | Illegal |
 | [Tearalaments Kitkalos](https://db.ygoprodeck.com/card/?search=Tearalaments%20Kitkalos) | Illegal |
-| [Tearalaments Meiru](https://db.ygoprodeck.com/card/?search=Tearalaments%20Meiru) | Illegal |
+| [Tearalaments Meirrow](https://db.ygoprodeck.com/card/?search=Tearalaments%20Meirrow) | Illegal |
 | [Tearalaments Metanoise](https://db.ygoprodeck.com/card/?search=Tearalaments%20Metanoise) | Illegal |
 | [Tearalaments Reinoheart](https://db.ygoprodeck.com/card/?search=Tearalaments%20Reinoheart) | Illegal |
 | [Tearalaments Salic](https://db.ygoprodeck.com/card/?search=Tearalaments%20Salic) | Illegal |
-| [Tearalaments Shaylen](https://db.ygoprodeck.com/card/?search=Tearalaments%20Shaylen) | Illegal |
+| [Tearalaments Seiren](https://db.ygoprodeck.com/card/?search=Tearalaments%20Seiren) | Illegal |
 | [Teardrop the Rikka Queen](https://db.ygoprodeck.com/card/?search=Teardrop%20the%20Rikka%20Queen) | Illegal |
 | [Telekinetic Charging Cell](https://db.ygoprodeck.com/card/?search=Telekinetic%20Charging%20Cell) | Illegal |
 | [Tellarknight Genesis](https://db.ygoprodeck.com/card/?search=Tellarknight%20Genesis) | Illegal |
@@ -5139,6 +5138,7 @@ title:  "Common Charity"
 | [Backup Secretary](https://db.ygoprodeck.com/card/?search=Backup%20Secretary) | Unlimited |
 | [Backup Soldier](https://db.ygoprodeck.com/card/?search=Backup%20Soldier) | Unlimited |
 | [Backup Squad](https://db.ygoprodeck.com/card/?search=Backup%20Squad) | Unlimited |
+| [Backup Team](https://db.ygoprodeck.com/card/?search=Backup%20Team) | Unlimited |
 | [Backup Warrior](https://db.ygoprodeck.com/card/?search=Backup%20Warrior) | Unlimited |
 | [Bacon Saver](https://db.ygoprodeck.com/card/?search=Bacon%20Saver) | Unlimited |
 | [Bad Aim](https://db.ygoprodeck.com/card/?search=Bad%20Aim) | Unlimited |
@@ -5200,7 +5200,7 @@ title:  "Common Charity"
 | [Battle Waltz](https://db.ygoprodeck.com/card/?search=Battle%20Waltz) | Unlimited |
 | [Battle Warrior](https://db.ygoprodeck.com/card/?search=Battle%20Warrior) | Unlimited |
 | [Battle-Scarred](https://db.ygoprodeck.com/card/?search=Battle-Scarred) | Unlimited |
-| [Battleguard #0](https://db.ygoprodeck.com/card/?search=Battleguard%20#0) | Unlimited |
+| [Battleguard Cadet](https://db.ygoprodeck.com/card/?search=Battleguard%20Cadet) | Unlimited |
 | [Battleguard Howling](https://db.ygoprodeck.com/card/?search=Battleguard%20Howling) | Unlimited |
 | [Battleguard King](https://db.ygoprodeck.com/card/?search=Battleguard%20King) | Unlimited |
 | [Battleguard Rage](https://db.ygoprodeck.com/card/?search=Battleguard%20Rage) | Unlimited |
@@ -5697,6 +5697,7 @@ title:  "Common Charity"
 | [Cipher Twin Raptor](https://db.ygoprodeck.com/card/?search=Cipher%20Twin%20Raptor) | Unlimited |
 | [Cipher Wing](https://db.ygoprodeck.com/card/?search=Cipher%20Wing) | Unlimited |
 | [Circle of the Fire Kings](https://db.ygoprodeck.com/card/?search=Circle%20of%20the%20Fire%20Kings) | Unlimited |
+| [Citadel Whale](https://db.ygoprodeck.com/card/?search=Citadel%20Whale) | Unlimited |
 | [Clavkiys, the Magikey Skyblaster](https://db.ygoprodeck.com/card/?search=Clavkiys,%20the%20Magikey%20Skyblaster) | Unlimited |
 | [Claw Reacher](https://db.ygoprodeck.com/card/?search=Claw%20Reacher) | Unlimited |
 | [Clay Charge](https://db.ygoprodeck.com/card/?search=Clay%20Charge) | Unlimited |
@@ -5743,6 +5744,7 @@ title:  "Common Charity"
 | [Cold Enchanter](https://db.ygoprodeck.com/card/?search=Cold%20Enchanter) | Unlimited |
 | [Cold Feet](https://db.ygoprodeck.com/card/?search=Cold%20Feet) | Unlimited |
 | [Collected Power](https://db.ygoprodeck.com/card/?search=Collected%20Power) | Unlimited |
+| [Colonel on C-String](https://db.ygoprodeck.com/card/?search=Colonel%20on%20C-String) | Unlimited |
 | [Colossal Fighter](https://db.ygoprodeck.com/card/?search=Colossal%20Fighter) | Unlimited |
 | [Colossal Fighter/Assault Mode](https://db.ygoprodeck.com/card/?search=Colossal%20Fighter/Assault%20Mode) | Unlimited |
 | [Column Switch](https://db.ygoprodeck.com/card/?search=Column%20Switch) | Unlimited |
@@ -7137,6 +7139,7 @@ title:  "Common Charity"
 | [Fuhma Wave](https://db.ygoprodeck.com/card/?search=Fuhma%20Wave) | Unlimited |
 | [Fukubiki](https://db.ygoprodeck.com/card/?search=Fukubiki) | Unlimited |
 | [Fulfillment of the Contract](https://db.ygoprodeck.com/card/?search=Fulfillment%20of%20the%20Contract) | Unlimited |
+| [Full Armored Black Ray Lancer](https://db.ygoprodeck.com/card/?search=Full%20Armored%20Black%20Ray%20Lancer) | Unlimited |
 | [Full Force Virus](https://db.ygoprodeck.com/card/?search=Full%20Force%20Virus) | Unlimited |
 | [Full Salvo](https://db.ygoprodeck.com/card/?search=Full%20Salvo) | Unlimited |
 | [Full-Force Strike](https://db.ygoprodeck.com/card/?search=Full-Force%20Strike) | Unlimited |
@@ -8609,14 +8612,20 @@ title:  "Common Charity"
 | [Mariamne, the True Dracophoenix](https://db.ygoprodeck.com/card/?search=Mariamne,%20the%20True%20Dracophoenix) | Unlimited |
 | [Marincess Basilalima](https://db.ygoprodeck.com/card/?search=Marincess%20Basilalima) | Unlimited |
 | [Marincess Battle Ocean](https://db.ygoprodeck.com/card/?search=Marincess%20Battle%20Ocean) | Unlimited |
+| [Marincess Blue Tang](https://db.ygoprodeck.com/card/?search=Marincess%20Blue%20Tang) | Unlimited |
 | [Marincess Cascade](https://db.ygoprodeck.com/card/?search=Marincess%20Cascade) | Unlimited |
 | [Marincess Crown Tail](https://db.ygoprodeck.com/card/?search=Marincess%20Crown%20Tail) | Unlimited |
+| [Marincess Crystal Heart](https://db.ygoprodeck.com/card/?search=Marincess%20Crystal%20Heart) | Unlimited |
 | [Marincess Current](https://db.ygoprodeck.com/card/?search=Marincess%20Current) | Unlimited |
 | [Marincess Great Bubble Reef](https://db.ygoprodeck.com/card/?search=Marincess%20Great%20Bubble%20Reef) | Unlimited |
 | [Marincess Mandarin](https://db.ygoprodeck.com/card/?search=Marincess%20Mandarin) | Unlimited |
+| [Marincess Marbled Rock](https://db.ygoprodeck.com/card/?search=Marincess%20Marbled%20Rock) | Unlimited |
+| [Marincess Pascalus](https://db.ygoprodeck.com/card/?search=Marincess%20Pascalus) | Unlimited |
 | [Marincess Sea Angel](https://db.ygoprodeck.com/card/?search=Marincess%20Sea%20Angel) | Unlimited |
+| [Marincess Sea Horse](https://db.ygoprodeck.com/card/?search=Marincess%20Sea%20Horse) | Unlimited |
 | [Marincess Sea Star](https://db.ygoprodeck.com/card/?search=Marincess%20Sea%20Star) | Unlimited |
 | [Marincess Snow](https://db.ygoprodeck.com/card/?search=Marincess%20Snow) | Unlimited |
+| [Marincess Wave](https://db.ygoprodeck.com/card/?search=Marincess%20Wave) | Unlimited |
 | [Marincess Wonder Heart](https://db.ygoprodeck.com/card/?search=Marincess%20Wonder%20Heart) | Unlimited |
 | [Marine Beast](https://db.ygoprodeck.com/card/?search=Marine%20Beast) | Unlimited |
 | [Marionette Mite](https://db.ygoprodeck.com/card/?search=Marionette%20Mite) | Unlimited |
@@ -9150,6 +9159,7 @@ title:  "Common Charity"
 | [Number 62: Galaxy-Eyes Prime Photon Dragon](https://db.ygoprodeck.com/card/?search=Number%2062:%20Galaxy-Eyes%20Prime%20Photon%20Dragon) | Unlimited |
 | [Number 66: Master Key Beetle](https://db.ygoprodeck.com/card/?search=Number%2066:%20Master%20Key%20Beetle) | Unlimited |
 | [Number 6: Chronomaly Atlandis](https://db.ygoprodeck.com/card/?search=Number%206:%20Chronomaly%20Atlandis) | Unlimited |
+| [Number 71: Rebarian Shark](https://db.ygoprodeck.com/card/?search=Number%2071:%20Rebarian%20Shark) | Unlimited |
 | [Number 73: Abyss Splash](https://db.ygoprodeck.com/card/?search=Number%2073:%20Abyss%20Splash) | Unlimited |
 | [Number 78: Number Archive](https://db.ygoprodeck.com/card/?search=Number%2078:%20Number%20Archive) | Unlimited |
 | [Number 7: Lucky Straight](https://db.ygoprodeck.com/card/?search=Number%207:%20Lucky%20Straight) | Unlimited |
@@ -9157,6 +9167,7 @@ title:  "Common Charity"
 | [Number 83: Galaxy Queen](https://db.ygoprodeck.com/card/?search=Number%2083:%20Galaxy%20Queen) | Unlimited |
 | [Number 96: Dark Mist](https://db.ygoprodeck.com/card/?search=Number%2096:%20Dark%20Mist) | Unlimited |
 | [Number 98: Antitopian](https://db.ygoprodeck.com/card/?search=Number%2098:%20Antitopian) | Unlimited |
+| [Number C101: Silent Honor DARK](https://db.ygoprodeck.com/card/?search=Number%20C101:%20Silent%20Honor%20DARK) | Unlimited |
 | [Number C106: Giant Red Hand](https://db.ygoprodeck.com/card/?search=Number%20C106:%20Giant%20Red%20Hand) | Unlimited |
 | [Number C39: Utopia Ray](https://db.ygoprodeck.com/card/?search=Number%20C39:%20Utopia%20Ray) | Unlimited |
 | [Number C39: Utopia Ray V](https://db.ygoprodeck.com/card/?search=Number%20C39:%20Utopia%20Ray%20V) | Unlimited |
@@ -9212,6 +9223,7 @@ title:  "Common Charity"
 | [Old Mind](https://db.ygoprodeck.com/card/?search=Old%20Mind) | Unlimited |
 | [Old Vindictive Magician](https://db.ygoprodeck.com/card/?search=Old%20Vindictive%20Magician) | Unlimited |
 | [Omega Goggles](https://db.ygoprodeck.com/card/?search=Omega%20Goggles) | Unlimited |
+| [Omega Judgment](https://db.ygoprodeck.com/card/?search=Omega%20Judgment) | Unlimited |
 | [Ominous Fortunetelling](https://db.ygoprodeck.com/card/?search=Ominous%20Fortunetelling) | Unlimited |
 | [Omni Dragon Brotaur](https://db.ygoprodeck.com/card/?search=Omni%20Dragon%20Brotaur) | Unlimited |
 | [One by One](https://db.ygoprodeck.com/card/?search=One%20by%20One) | Unlimited |
@@ -9336,6 +9348,7 @@ title:  "Common Charity"
 | [Pendulum Machine](https://db.ygoprodeck.com/card/?search=Pendulum%20Machine) | Unlimited |
 | [Pendulum Reborn](https://db.ygoprodeck.com/card/?search=Pendulum%20Reborn) | Unlimited |
 | [Pendulum Rising](https://db.ygoprodeck.com/card/?search=Pendulum%20Rising) | Unlimited |
+| [Pendulum Scale](https://db.ygoprodeck.com/card/?search=Pendulum%20Scale) | Unlimited |
 | [Pendulum Shift](https://db.ygoprodeck.com/card/?search=Pendulum%20Shift) | Unlimited |
 | [Pendulum Storm](https://db.ygoprodeck.com/card/?search=Pendulum%20Storm) | Unlimited |
 | [Pendulum Switch](https://db.ygoprodeck.com/card/?search=Pendulum%20Switch) | Unlimited |
@@ -9741,6 +9754,7 @@ title:  "Common Charity"
 | [Rank-Up-Magic Admiration of the Thousands](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Admiration%20of%20the%20Thousands) | Unlimited |
 | [Rank-Up-Magic Astral Force](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Astral%20Force) | Unlimited |
 | [Rank-Up-Magic Cipher Ascension](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Cipher%20Ascension) | Unlimited |
+| [Rank-Up-Magic Quick Chaos](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Quick%20Chaos) | Unlimited |
 | [Rank-Up-Magic Raptor's Force](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Raptor's%20Force) | Unlimited |
 | [Ranryu](https://db.ygoprodeck.com/card/?search=Ranryu) | Unlimited |
 | [Rapid Trigger](https://db.ygoprodeck.com/card/?search=Rapid%20Trigger) | Unlimited |
@@ -10035,6 +10049,7 @@ title:  "Common Charity"
 | [Saambell the Summoner](https://db.ygoprodeck.com/card/?search=Saambell%20the%20Summoner) | Unlimited |
 | [Sabatiel - The Philosopher's Stone](https://db.ygoprodeck.com/card/?search=Sabatiel%20-%20The%20Philosopher's%20Stone) | Unlimited |
 | [Saber Beetle](https://db.ygoprodeck.com/card/?search=Saber%20Beetle) | Unlimited |
+| [Saber Shark](https://db.ygoprodeck.com/card/?search=Saber%20Shark) | Unlimited |
 | [Sabersaurus](https://db.ygoprodeck.com/card/?search=Sabersaurus) | Unlimited |
 | [Sacred Crane](https://db.ygoprodeck.com/card/?search=Sacred%20Crane) | Unlimited |
 | [Sacred Phoenix of Nephthys](https://db.ygoprodeck.com/card/?search=Sacred%20Phoenix%20of%20Nephthys) | Unlimited |
