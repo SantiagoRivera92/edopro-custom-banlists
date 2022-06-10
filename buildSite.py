@@ -1,8 +1,17 @@
 import os
+from datetime import date
 
-print('dt', flush=True)
+today = date.today()
+formatted = today.strftime("%d/%m/%Y")
+commitName = 'git commit -m \"%s\"'%formatted
+
+print('Generating Duel Terminal exclusives', flush=True)
 os.system('python dt.py')
-print('pt', flush=True)
+print('Generating Portuguese OTS pack exclusives', flush=True)
 os.system('python pt.py')
-print('lflistgen', flush=True)
+print('Generating the actual banlist', flush=True)
 os.system('python lflistgen.py')
+print('Committing to Github')
+os.system('git add .')
+os.system(commitName)
+os.system('git push')

@@ -947,7 +947,6 @@ title:  "Common Charity"
 | [Destroyersaurus](https://db.ygoprodeck.com/card/?search=Destroyersaurus) | Illegal |
 | [Destruction Dragon](https://db.ygoprodeck.com/card/?search=Destruction%20Dragon) | Illegal |
 | [Destruction Jammer](https://db.ygoprodeck.com/card/?search=Destruction%20Jammer) | Illegal |
-| [Destrudo the Lost Dragon's Frisson](https://db.ygoprodeck.com/card/?search=Destrudo%20the%20Lost%20Dragon's%20Frisson) | Illegal |
 | [Detonate Deleter](https://db.ygoprodeck.com/card/?search=Detonate%20Deleter) | Illegal |
 | [Devotee of Nephthys](https://db.ygoprodeck.com/card/?search=Devotee%20of%20Nephthys) | Illegal |
 | [Dewloren, Tiger King of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Dewloren,%20Tiger%20King%20of%20the%20Ice%20Barrier) | Illegal |
@@ -1695,7 +1694,6 @@ title:  "Common Charity"
 | [Good & Evil in the Burning Abyss](https://db.ygoprodeck.com/card/?search=Good%20%26%20Evil%20in%20the%20Burning%20Abyss) | Illegal |
 | [Gorgon Egg](https://db.ygoprodeck.com/card/?search=Gorgon%20Egg) | Illegal |
 | [Gorgon, Empress of the Evil Eyed](https://db.ygoprodeck.com/card/?search=Gorgon,%20Empress%20of%20the%20Evil%20Eyed) | Illegal |
-| [Gorz the Emissary of Darkness](https://db.ygoprodeck.com/card/?search=Gorz%20the%20Emissary%20of%20Darkness) | Illegal |
 | [Gottoms' Second Call](https://db.ygoprodeck.com/card/?search=Gottoms'%20Second%20Call) | Illegal |
 | [Gouki Cage Match](https://db.ygoprodeck.com/card/?search=Gouki%20Cage%20Match) | Illegal |
 | [Gouki Jet Ogre](https://db.ygoprodeck.com/card/?search=Gouki%20Jet%20Ogre) | Illegal |
@@ -1813,10 +1811,7 @@ title:  "Common Charity"
 | [Heroic Challenger - Assault Halberd](https://db.ygoprodeck.com/card/?search=Heroic%20Challenger%20-%20Assault%20Halberd) | Illegal |
 | [Heroic Challenger - Clasp Sword](https://db.ygoprodeck.com/card/?search=Heroic%20Challenger%20-%20Clasp%20Sword) | Illegal |
 | [Heroic Challenger - Double Lance](https://db.ygoprodeck.com/card/?search=Heroic%20Challenger%20-%20Double%20Lance) | Illegal |
-| [Heroic Challenger - Thousand Blades](https://db.ygoprodeck.com/card/?search=Heroic%20Challenger%20-%20Thousand%20Blades) | Illegal |
 | [Heroic Champion - Claivesolish](https://db.ygoprodeck.com/card/?search=Heroic%20Champion%20-%20Claivesolish) | Illegal |
-| [Heroic Champion - Excalibur](https://db.ygoprodeck.com/card/?search=Heroic%20Champion%20-%20Excalibur) | Illegal |
-| [Heroic Champion - Gandiva](https://db.ygoprodeck.com/card/?search=Heroic%20Champion%20-%20Gandiva) | Illegal |
 | [Heroic Champion - Kusanagi](https://db.ygoprodeck.com/card/?search=Heroic%20Champion%20-%20Kusanagi) | Illegal |
 | [Heroic Envoy](https://db.ygoprodeck.com/card/?search=Heroic%20Envoy) | Illegal |
 | [Hexe Trude](https://db.ygoprodeck.com/card/?search=Hexe%20Trude) | Illegal |
@@ -4421,7 +4416,6 @@ title:  "Common Charity"
 | [Winged Egg of New Life](https://db.ygoprodeck.com/card/?search=Winged%20Egg%20of%20New%20Life) | Illegal |
 | [Winged Kuriboh LV9](https://db.ygoprodeck.com/card/?search=Winged%20Kuriboh%20LV9) | Illegal |
 | [Wingtortoise](https://db.ygoprodeck.com/card/?search=Wingtortoise) | Illegal |
-| [Wisdom-Eye Magician](https://db.ygoprodeck.com/card/?search=Wisdom-Eye%20Magician) | Illegal |
 | [Wiseman's Chalice](https://db.ygoprodeck.com/card/?search=Wiseman's%20Chalice) | Illegal |
 | [Witch's Strike](https://db.ygoprodeck.com/card/?search=Witch's%20Strike) | Illegal |
 | [Witchcrafter Bystreet](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Bystreet) | Illegal |
@@ -4621,6 +4615,7 @@ title:  "Common Charity"
 | [Chain Strike](https://db.ygoprodeck.com/card/?search=Chain%20Strike) | Limited |
 | [Change of Heart](https://db.ygoprodeck.com/card/?search=Change%20of%20Heart) | Limited |
 | [Dark Grepher](https://db.ygoprodeck.com/card/?search=Dark%20Grepher) | Limited |
+| [Destrudo the Lost Dragon's Frisson](https://db.ygoprodeck.com/card/?search=Destrudo%20the%20Lost%20Dragon's%20Frisson) | Limited |
 | [Dimensional Fissure](https://db.ygoprodeck.com/card/?search=Dimensional%20Fissure) | Limited |
 | [Dinowrestler Pankratops](https://db.ygoprodeck.com/card/?search=Dinowrestler%20Pankratops) | Limited |
 | [Divine Wind of Mist Valley](https://db.ygoprodeck.com/card/?search=Divine%20Wind%20of%20Mist%20Valley) | Limited |
@@ -7492,6 +7487,7 @@ title:  "Common Charity"
 | [Gorgonic Ghoul](https://db.ygoprodeck.com/card/?search=Gorgonic%20Ghoul) | Unlimited |
 | [Gorgonic Golem](https://db.ygoprodeck.com/card/?search=Gorgonic%20Golem) | Unlimited |
 | [Gorgonic Guardian](https://db.ygoprodeck.com/card/?search=Gorgonic%20Guardian) | Unlimited |
+| [Gorz the Emissary of Darkness](https://db.ygoprodeck.com/card/?search=Gorz%20the%20Emissary%20of%20Darkness) | Unlimited |
 | [Gotterdammerung](https://db.ygoprodeck.com/card/?search=Gotterdammerung) | Unlimited |
 | [Gottoms' Emergency Call](https://db.ygoprodeck.com/card/?search=Gottoms'%20Emergency%20Call) | Unlimited |
 | [Gouki Bearhug](https://db.ygoprodeck.com/card/?search=Gouki%20Bearhug) | Unlimited |
@@ -7779,7 +7775,10 @@ title:  "Common Charity"
 | [Heroic Challenger - Night Watchman](https://db.ygoprodeck.com/card/?search=Heroic%20Challenger%20-%20Night%20Watchman) | Unlimited |
 | [Heroic Challenger - Spartan](https://db.ygoprodeck.com/card/?search=Heroic%20Challenger%20-%20Spartan) | Unlimited |
 | [Heroic Challenger - Swordshield](https://db.ygoprodeck.com/card/?search=Heroic%20Challenger%20-%20Swordshield) | Unlimited |
+| [Heroic Challenger - Thousand Blades](https://db.ygoprodeck.com/card/?search=Heroic%20Challenger%20-%20Thousand%20Blades) | Unlimited |
 | [Heroic Challenger - War Hammer](https://db.ygoprodeck.com/card/?search=Heroic%20Challenger%20-%20War%20Hammer) | Unlimited |
+| [Heroic Champion - Excalibur](https://db.ygoprodeck.com/card/?search=Heroic%20Champion%20-%20Excalibur) | Unlimited |
+| [Heroic Champion - Gandiva](https://db.ygoprodeck.com/card/?search=Heroic%20Champion%20-%20Gandiva) | Unlimited |
 | [Heroic Champion - Jarngreipr](https://db.ygoprodeck.com/card/?search=Heroic%20Champion%20-%20Jarngreipr) | Unlimited |
 | [Heroic Chance](https://db.ygoprodeck.com/card/?search=Heroic%20Chance) | Unlimited |
 | [Heroic Gift](https://db.ygoprodeck.com/card/?search=Heroic%20Gift) | Unlimited |
@@ -11649,6 +11648,7 @@ title:  "Common Charity"
 | [Wings of Wicked Flame](https://db.ygoprodeck.com/card/?search=Wings%20of%20Wicked%20Flame) | Unlimited |
 | [Wingweaver](https://db.ygoprodeck.com/card/?search=Wingweaver) | Unlimited |
 | [Wiretap](https://db.ygoprodeck.com/card/?search=Wiretap) | Unlimited |
+| [Wisdom-Eye Magician](https://db.ygoprodeck.com/card/?search=Wisdom-Eye%20Magician) | Unlimited |
 | [Witch Doctor of Chaos](https://db.ygoprodeck.com/card/?search=Witch%20Doctor%20of%20Chaos) | Unlimited |
 | [Witch Doctor of Sparta](https://db.ygoprodeck.com/card/?search=Witch%20Doctor%20of%20Sparta) | Unlimited |
 | [Witch of the Black Forest](https://db.ygoprodeck.com/card/?search=Witch%20of%20the%20Black%20Forest) | Unlimited |
