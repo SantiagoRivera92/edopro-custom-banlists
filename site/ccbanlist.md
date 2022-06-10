@@ -64,6 +64,7 @@ title:  "Common Charity"
 | [Akihiron](https://db.ygoprodeck.com/card/?search=Akihiron) | Illegal |
 | [Akz, the Pumer](https://db.ygoprodeck.com/card/?search=Akz,%20the%20Pumer) | Illegal |
 | [Alba-Lenatus the Abyss Dragon](https://db.ygoprodeck.com/card/?search=Alba-Lenatus%20the%20Abyss%20Dragon) | Illegal |
+| [Albaz the Ashen](https://db.ygoprodeck.com/card/?search=Albaz%20the%20Ashen) | Illegal |
 | [Alchemic Magician](https://db.ygoprodeck.com/card/?search=Alchemic%20Magician) | Illegal |
 | [Alchemist of Black Spells](https://db.ygoprodeck.com/card/?search=Alchemist%20of%20Black%20Spells) | Illegal |
 | [Aleirtt, the Ogdoadic Dark](https://db.ygoprodeck.com/card/?search=Aleirtt,%20the%20Ogdoadic%20Dark) | Illegal |
@@ -260,10 +261,8 @@ title:  "Common Charity"
 | [Artorigus, King of the Noble Knights](https://db.ygoprodeck.com/card/?search=Artorigus,%20King%20of%20the%20Noble%20Knights) | Illegal |
 | [Ascator, Dawnwalker](https://db.ygoprodeck.com/card/?search=Ascator,%20Dawnwalker) | Illegal |
 | [Ascending Soul](https://db.ygoprodeck.com/card/?search=Ascending%20Soul) | Illegal |
-| [Ascension of the Seven Emperors](https://db.ygoprodeck.com/card/?search=Ascension%20of%20the%20Seven%20Emperors) | Illegal |
 | [Ascension Sky Dragon](https://db.ygoprodeck.com/card/?search=Ascension%20Sky%20Dragon) | Illegal |
 | [Asceticism of the Six Samurai](https://db.ygoprodeck.com/card/?search=Asceticism%20of%20the%20Six%20Samurai) | Illegal |
-| [Ashen of Albaz](https://db.ygoprodeck.com/card/?search=Ashen%20of%20Albaz) | Illegal |
 | [Assault Armor](https://db.ygoprodeck.com/card/?search=Assault%20Armor) | Illegal |
 | [Assault Blackwing - Chidori the Rain Sprinkling](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Chidori%20the%20Rain%20Sprinkling) | Illegal |
 | [Assault Blackwing - Kunai the Drizzle](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Kunai%20the%20Drizzle) | Illegal |
@@ -286,6 +285,7 @@ title:  "Common Charity"
 | [Avendread Savior](https://db.ygoprodeck.com/card/?search=Avendread%20Savior) | Illegal |
 | [Avida, Rebuilder of Worlds](https://db.ygoprodeck.com/card/?search=Avida,%20Rebuilder%20of%20Worlds) | Illegal |
 | [Awakening of Nephthys](https://db.ygoprodeck.com/card/?search=Awakening%20of%20Nephthys) | Illegal |
+| [Awakening of the Crystal Lord](https://db.ygoprodeck.com/card/?search=Awakening%20of%20the%20Crystal%20Lord) | Illegal |
 | [Awakening of the Possessed - Greater Inari Fire](https://db.ygoprodeck.com/card/?search=Awakening%20of%20the%20Possessed%20-%20Greater%20Inari%20Fire) | Illegal |
 | [Awakening of the Possessed - Nefariouser Archfiend](https://db.ygoprodeck.com/card/?search=Awakening%20of%20the%20Possessed%20-%20Nefariouser%20Archfiend) | Illegal |
 | [Aztekipede, the Worm Warrior](https://db.ygoprodeck.com/card/?search=Aztekipede,%20the%20Worm%20Warrior) | Illegal |
@@ -381,8 +381,11 @@ title:  "Common Charity"
 | [Black Rose Moonlight Dragon](https://db.ygoprodeck.com/card/?search=Black%20Rose%20Moonlight%20Dragon) | Illegal |
 | [Black Shadow Squall](https://db.ygoprodeck.com/card/?search=Black%20Shadow%20Squall) | Illegal |
 | [Black Sonic](https://db.ygoprodeck.com/card/?search=Black%20Sonic) | Illegal |
+| [Black-Winged Assault Dragon](https://db.ygoprodeck.com/card/?search=Black-Winged%20Assault%20Dragon) | Illegal |
 | [Blackbeard, the Plunder Patroll Captain](https://db.ygoprodeck.com/card/?search=Blackbeard,%20the%20Plunder%20Patroll%20Captain) | Illegal |
 | [Blackfeather Darkrage Dragon](https://db.ygoprodeck.com/card/?search=Blackfeather%20Darkrage%20Dragon) | Illegal |
+| [Blackwing - Boreas the Evil Wind](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Boreas%20the%20Evil%20Wind) | Illegal |
+| [Blackwing - Chinook the Snowstrike](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Chinook%20the%20Snowstrike) | Illegal |
 | [Blackwing - Damascus the Polar Night](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Damascus%20the%20Polar%20Night) | Illegal |
 | [Blackwing - Gale the Whirlwind](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Gale%20the%20Whirlwind) | Illegal |
 | [Blackwing - Gladius the Midnight Sun](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Gladius%20the%20Midnight%20Sun) | Illegal |
@@ -391,9 +394,14 @@ title:  "Common Charity"
 | [Blackwing - Jetstream the Blue Sky](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Jetstream%20the%20Blue%20Sky) | Illegal |
 | [Blackwing - Jin the Rain Shadow](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Jin%20the%20Rain%20Shadow) | Illegal |
 | [Blackwing - Kris the Crack of Dawn](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Kris%20the%20Crack%20of%20Dawn) | Illegal |
+| [Blackwing - Shamal the Sandstorm](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Shamal%20the%20Sandstorm) | Illegal |
 | [Blackwing - Silverwind the Ascendant](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Silverwind%20the%20Ascendant) | Illegal |
 | [Blackwing - Simoon the Poison Wind](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Simoon%20the%20Poison%20Wind) | Illegal |
+| [Blackwing - Suthri the Illusory Spark](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Suthri%20the%20Illusory%20Spark) | Illegal |
+| [Blackwing - Twin Shadow](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Twin%20Shadow) | Illegal |
+| [Blackwing - Vata the Knave](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Vata%20the%20Knave) | Illegal |
 | [Blackwing - Vayu the Emblem of Honor](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Vayu%20the%20Emblem%20of%20Honor) | Illegal |
+| [Blackwing - Zonda the Timely Night](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Zonda%20the%20Timely%20Night) | Illegal |
 | [Blackwing Armed Wing](https://db.ygoprodeck.com/card/?search=Blackwing%20Armed%20Wing) | Illegal |
 | [Blackwing Armor Master](https://db.ygoprodeck.com/card/?search=Blackwing%20Armor%20Master) | Illegal |
 | [Blackwing Full Armor Master](https://db.ygoprodeck.com/card/?search=Blackwing%20Full%20Armor%20Master) | Illegal |
@@ -472,6 +480,7 @@ title:  "Common Charity"
 | [Bright Future](https://db.ygoprodeck.com/card/?search=Bright%20Future) | Illegal |
 | [Brilliant Fusion](https://db.ygoprodeck.com/card/?search=Brilliant%20Fusion) | Illegal |
 | [Brilliant Rose](https://db.ygoprodeck.com/card/?search=Brilliant%20Rose) | Illegal |
+| [Brionac, Dragon of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Brionac,%20Dragon%20of%20the%20Ice%20Barrier) | Illegal |
 | [Brohunder](https://db.ygoprodeck.com/card/?search=Brohunder) | Illegal |
 | [Broken Blocker](https://db.ygoprodeck.com/card/?search=Broken%20Blocker) | Illegal |
 | [Broken Line](https://db.ygoprodeck.com/card/?search=Broken%20Line) | Illegal |
@@ -708,6 +717,7 @@ title:  "Common Charity"
 | [Cry Havoc!](https://db.ygoprodeck.com/card/?search=Cry%20Havoc!) | Illegal |
 | [Crystal Beast Rainbow Dragon](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Rainbow%20Dragon) | Illegal |
 | [Crystal Bond](https://db.ygoprodeck.com/card/?search=Crystal%20Bond) | Illegal |
+| [Crystal Brilliance](https://db.ygoprodeck.com/card/?search=Crystal%20Brilliance) | Illegal |
 | [Crystal Clear Wing Synchro Dragon](https://db.ygoprodeck.com/card/?search=Crystal%20Clear%20Wing%20Synchro%20Dragon) | Illegal |
 | [Crystal Girl](https://db.ygoprodeck.com/card/?search=Crystal%20Girl) | Illegal |
 | [Crystal Grace](https://db.ygoprodeck.com/card/?search=Crystal%20Grace) | Illegal |
@@ -737,13 +747,13 @@ title:  "Common Charity"
 | [Curse of Dragonfire](https://db.ygoprodeck.com/card/?search=Curse%20of%20Dragonfire) | Illegal |
 | [Curse of the Circle](https://db.ygoprodeck.com/card/?search=Curse%20of%20the%20Circle) | Illegal |
 | [Cursed Eldland](https://db.ygoprodeck.com/card/?search=Cursed%20Eldland) | Illegal |
-| [CXyz - Naphil Asylum Chaos Knight](https://db.ygoprodeck.com/card/?search=CXyz%20-%20Naphil%20Asylum%20Chaos%20Knight) | Illegal |
 | [CXyz Barian Hope](https://db.ygoprodeck.com/card/?search=CXyz%20Barian%20Hope) | Illegal |
 | [CXyz Battleship Cherry Blossom](https://db.ygoprodeck.com/card/?search=CXyz%20Battleship%20Cherry%20Blossom) | Illegal |
 | [CXyz Coach Lord Ultimatrainer](https://db.ygoprodeck.com/card/?search=CXyz%20Coach%20Lord%20Ultimatrainer) | Illegal |
 | [CXyz Comics Hero Legend Arthur](https://db.ygoprodeck.com/card/?search=CXyz%20Comics%20Hero%20Legend%20Arthur) | Illegal |
 | [CXyz Dark Fairy Cheer Girl](https://db.ygoprodeck.com/card/?search=CXyz%20Dark%20Fairy%20Cheer%20Girl) | Illegal |
 | [CXyz Mechquipped Djinn Angeneral](https://db.ygoprodeck.com/card/?search=CXyz%20Mechquipped%20Djinn%20Angeneral) | Illegal |
+| [CXyz N.As.Ch. Knight](https://db.ygoprodeck.com/card/?search=CXyz%20N.As.Ch.%20Knight) | Illegal |
 | [CXyz Simon the Great Moral Leader](https://db.ygoprodeck.com/card/?search=CXyz%20Simon%20the%20Great%20Moral%20Leader) | Illegal |
 | [CXyz Skypalace Babylon](https://db.ygoprodeck.com/card/?search=CXyz%20Skypalace%20Babylon) | Illegal |
 | [Cyber Angel Natasha](https://db.ygoprodeck.com/card/?search=Cyber%20Angel%20Natasha) | Illegal |
@@ -1128,8 +1138,6 @@ title:  "Common Charity"
 | [Earthbound Geoglyph](https://db.ygoprodeck.com/card/?search=Earthbound%20Geoglyph) | Illegal |
 | [Earthbound Greater Linewalker](https://db.ygoprodeck.com/card/?search=Earthbound%20Greater%20Linewalker) | Illegal |
 | [Earthbound Immortal Aslla piscu](https://db.ygoprodeck.com/card/?search=Earthbound%20Immortal%20Aslla%20piscu) | Illegal |
-| [Earthbound Immortal Ccapac Apu](https://db.ygoprodeck.com/card/?search=Earthbound%20Immortal%20Ccapac%20Apu) | Illegal |
-| [Earthbound Immortal Ccarayhua](https://db.ygoprodeck.com/card/?search=Earthbound%20Immortal%20Ccarayhua) | Illegal |
 | [Earthbound Immortal Chacu Challhua](https://db.ygoprodeck.com/card/?search=Earthbound%20Immortal%20Chacu%20Challhua) | Illegal |
 | [Earthbound Immortal Cusillu](https://db.ygoprodeck.com/card/?search=Earthbound%20Immortal%20Cusillu) | Illegal |
 | [Earthbound Immortal Uru](https://db.ygoprodeck.com/card/?search=Earthbound%20Immortal%20Uru) | Illegal |
@@ -1162,6 +1170,7 @@ title:  "Common Charity"
 | [Eldlixir of Black Awakening](https://db.ygoprodeck.com/card/?search=Eldlixir%20of%20Black%20Awakening) | Illegal |
 | [Eldlixir of Scarlet Sanguine](https://db.ygoprodeck.com/card/?search=Eldlixir%20of%20Scarlet%20Sanguine) | Illegal |
 | [Eldlixir of White Destiny](https://db.ygoprodeck.com/card/?search=Eldlixir%20of%20White%20Destiny) | Illegal |
+| [Electric Jellyfish](https://db.ygoprodeck.com/card/?search=Electric%20Jellyfish) | Illegal |
 | [Electromagnetic Shield](https://db.ygoprodeck.com/card/?search=Electromagnetic%20Shield) | Illegal |
 | [Elemental Grace Doriado](https://db.ygoprodeck.com/card/?search=Elemental%20Grace%20Doriado) | Illegal |
 | [Elemental HERO Air Neos](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Air%20Neos) | Illegal |
@@ -1231,7 +1240,6 @@ title:  "Common Charity"
 | [Eternal Bond](https://db.ygoprodeck.com/card/?search=Eternal%20Bond) | Illegal |
 | [Eternal Chaos](https://db.ygoprodeck.com/card/?search=Eternal%20Chaos) | Illegal |
 | [Eternal Soul](https://db.ygoprodeck.com/card/?search=Eternal%20Soul) | Illegal |
-| [Eternity of the Seven Emperors](https://db.ygoprodeck.com/card/?search=Eternity%20of%20the%20Seven%20Emperors) | Illegal |
 | [Eva](https://db.ygoprodeck.com/card/?search=Eva) | Illegal |
 | [Evening Twilight Knight](https://db.ygoprodeck.com/card/?search=Evening%20Twilight%20Knight) | Illegal |
 | [Evenly Matched](https://db.ygoprodeck.com/card/?search=Evenly%20Matched) | Illegal |
@@ -2039,9 +2047,8 @@ title:  "Common Charity"
 | [Kabuki Dragon](https://db.ygoprodeck.com/card/?search=Kabuki%20Dragon) | Illegal |
 | [Kachi Kochi Dragon](https://db.ygoprodeck.com/card/?search=Kachi%20Kochi%20Dragon) | Illegal |
 | [Kaiki the Unity Star](https://db.ygoprodeck.com/card/?search=Kaiki%20the%20Unity%20Star) | Illegal |
-| [Kairyu-Shin - Leviathan](https://db.ygoprodeck.com/card/?search=Kairyu-Shin%20-%20Leviathan) | Illegal |
-| [Kairyu-Shin of the Reef](https://db.ygoprodeck.com/card/?search=Kairyu-Shin%20of%20the%20Reef) | Illegal |
-| [Kaiser Glider - Golden Burst](https://db.ygoprodeck.com/card/?search=Kaiser%20Glider%20-%20Golden%20Burst) | Illegal |
+| [Kairyu-Shin's Dark Reef](https://db.ygoprodeck.com/card/?search=Kairyu-Shin's%20Dark%20Reef) | Illegal |
+| [Kaiser Glider Golden Burst](https://db.ygoprodeck.com/card/?search=Kaiser%20Glider%20Golden%20Burst) | Illegal |
 | [Kaiser Vorse Raider](https://db.ygoprodeck.com/card/?search=Kaiser%20Vorse%20Raider) | Illegal |
 | [Kamakiriman](https://db.ygoprodeck.com/card/?search=Kamakiriman) | Illegal |
 | [Kamion, the Timelord](https://db.ygoprodeck.com/card/?search=Kamion,%20the%20Timelord) | Illegal |
@@ -2320,7 +2327,6 @@ title:  "Common Charity"
 | [Magician Navigation](https://db.ygoprodeck.com/card/?search=Magician%20Navigation) | Illegal |
 | [Magician of Black Chaos MAX](https://db.ygoprodeck.com/card/?search=Magician%20of%20Black%20Chaos%20MAX) | Illegal |
 | [Magician of Chaos](https://db.ygoprodeck.com/card/?search=Magician%20of%20Chaos) | Illegal |
-| [Magician of Dark Illusion](https://db.ygoprodeck.com/card/?search=Magician%20of%20Dark%20Illusion) | Illegal |
 | [Magician of Hope](https://db.ygoprodeck.com/card/?search=Magician%20of%20Hope) | Illegal |
 | [Magician's Restage](https://db.ygoprodeck.com/card/?search=Magician's%20Restage) | Illegal |
 | [Magician's Salvation](https://db.ygoprodeck.com/card/?search=Magician's%20Salvation) | Illegal |
@@ -2601,7 +2607,7 @@ title:  "Common Charity"
 | [Mystic Mine](https://db.ygoprodeck.com/card/?search=Mystic%20Mine) | Illegal |
 | [Mystic Piper](https://db.ygoprodeck.com/card/?search=Mystic%20Piper) | Illegal |
 | [Mystical Capture Chain](https://db.ygoprodeck.com/card/?search=Mystical%20Capture%20Chain) | Illegal |
-| [Mystical Elf - Mystical Burst Stream](https://db.ygoprodeck.com/card/?search=Mystical%20Elf%20-%20Mystical%20Burst%20Stream) | Illegal |
+| [Mystical Elf White Lightning](https://db.ygoprodeck.com/card/?search=Mystical%20Elf%20White%20Lightning) | Illegal |
 | [Mystical Fairy Elfuria](https://db.ygoprodeck.com/card/?search=Mystical%20Fairy%20Elfuria) | Illegal |
 | [Mystical Knight of Jackal](https://db.ygoprodeck.com/card/?search=Mystical%20Knight%20of%20Jackal) | Illegal |
 | [Mystical Refpanel](https://db.ygoprodeck.com/card/?search=Mystical%20Refpanel) | Illegal |
@@ -2619,9 +2625,9 @@ title:  "Common Charity"
 | [Myutant ST-46](https://db.ygoprodeck.com/card/?search=Myutant%20ST-46) | Illegal |
 | [Myutant Synthesis](https://db.ygoprodeck.com/card/?search=Myutant%20Synthesis) | Illegal |
 | [Myutant Ultimus](https://db.ygoprodeck.com/card/?search=Myutant%20Ultimus) | Illegal |
+| [N.As.H. Knight](https://db.ygoprodeck.com/card/?search=N.As.H.%20Knight) | Illegal |
 | [Nadir Servant](https://db.ygoprodeck.com/card/?search=Nadir%20Servant) | Illegal |
 | [Naelshaddoll Ariel](https://db.ygoprodeck.com/card/?search=Naelshaddoll%20Ariel) | Illegal |
-| [Nafil Asylum Heth Knight](https://db.ygoprodeck.com/card/?search=Nafil%20Asylum%20Heth%20Knight) | Illegal |
 | [Naglfar, Generaider Boss of Fire](https://db.ygoprodeck.com/card/?search=Naglfar,%20Generaider%20Boss%20of%20Fire) | Illegal |
 | [Nanana](https://db.ygoprodeck.com/card/?search=Nanana) | Illegal |
 | [Naturia Bamboo Shoot](https://db.ygoprodeck.com/card/?search=Naturia%20Bamboo%20Shoot) | Illegal |
@@ -2852,6 +2858,7 @@ title:  "Common Charity"
 | [Obese Marmot of Nefariousness](https://db.ygoprodeck.com/card/?search=Obese%20Marmot%20of%20Nefariousness) | Illegal |
 | [Obliterate!!!](https://db.ygoprodeck.com/card/?search=Obliterate!!!) | Illegal |
 | [Oboro-Guruma, the Wheeled Mayakashi](https://db.ygoprodeck.com/card/?search=Oboro-Guruma,%20the%20Wheeled%20Mayakashi) | Illegal |
+| [Ocean Dragon Lord - Kairyu-Shin](https://db.ygoprodeck.com/card/?search=Ocean%20Dragon%20Lord%20-%20Kairyu-Shin) | Illegal |
 | [Ocean Dragon Lord - Neo-Daedalus](https://db.ygoprodeck.com/card/?search=Ocean%20Dragon%20Lord%20-%20Neo-Daedalus) | Illegal |
 | [Ocean's Keeper](https://db.ygoprodeck.com/card/?search=Ocean's%20Keeper) | Illegal |
 | [Odd-Eyes Advance Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Advance%20Dragon) | Illegal |
@@ -2993,7 +3000,6 @@ title:  "Common Charity"
 | [Performapal Odd-Eyes Synchron](https://db.ygoprodeck.com/card/?search=Performapal%20Odd-Eyes%20Synchron) | Illegal |
 | [Performapal Odd-Eyes Valet](https://db.ygoprodeck.com/card/?search=Performapal%20Odd-Eyes%20Valet) | Illegal |
 | [Performapal Parrotrio](https://db.ygoprodeck.com/card/?search=Performapal%20Parrotrio) | Illegal |
-| [Performapal Popperup](https://db.ygoprodeck.com/card/?search=Performapal%20Popperup) | Illegal |
 | [Performapal Sky Magician](https://db.ygoprodeck.com/card/?search=Performapal%20Sky%20Magician) | Illegal |
 | [Performapal Sky Pupil](https://db.ygoprodeck.com/card/?search=Performapal%20Sky%20Pupil) | Illegal |
 | [Performapal Sleight Hand Magician](https://db.ygoprodeck.com/card/?search=Performapal%20Sleight%20Hand%20Magician) | Illegal |
@@ -3028,7 +3034,6 @@ title:  "Common Charity"
 | [Photon Slasher](https://db.ygoprodeck.com/card/?search=Photon%20Slasher) | Illegal |
 | [Photon Stream of Destruction](https://db.ygoprodeck.com/card/?search=Photon%20Stream%20of%20Destruction) | Illegal |
 | [Photon Wyvern](https://db.ygoprodeck.com/card/?search=Photon%20Wyvern) | Illegal |
-| [Physalia](https://db.ygoprodeck.com/card/?search=Physalia) | Illegal |
 | [Piercing Moray](https://db.ygoprodeck.com/card/?search=Piercing%20Moray) | Illegal |
 | [Piercing the Darkness](https://db.ygoprodeck.com/card/?search=Piercing%20the%20Darkness) | Illegal |
 | [Pikari @Ignister](https://db.ygoprodeck.com/card/?search=Pikari%20@Ignister) | Illegal |
@@ -3081,7 +3086,6 @@ title:  "Common Charity"
 | [Prank-Kids Rocket Ride](https://db.ygoprodeck.com/card/?search=Prank-Kids%20Rocket%20Ride) | Illegal |
 | [Prank-Kids Weather Washer](https://db.ygoprodeck.com/card/?search=Prank-Kids%20Weather%20Washer) | Illegal |
 | [Predaplanet](https://db.ygoprodeck.com/card/?search=Predaplanet) | Illegal |
-| [Predaplanning](https://db.ygoprodeck.com/card/?search=Predaplanning) | Illegal |
 | [Predaplant Chimerafflesia](https://db.ygoprodeck.com/card/?search=Predaplant%20Chimerafflesia) | Illegal |
 | [Predaplant Flytrap](https://db.ygoprodeck.com/card/?search=Predaplant%20Flytrap) | Illegal |
 | [Predaplant Heliamphorhynchus](https://db.ygoprodeck.com/card/?search=Predaplant%20Heliamphorhynchus) | Illegal |
@@ -3448,6 +3452,8 @@ title:  "Common Charity"
 | [Servants of the Fallen King](https://db.ygoprodeck.com/card/?search=Servants%20of%20the%20Fallen%20King) | Illegal |
 | [Serziel, Watcher of the Evil Eye](https://db.ygoprodeck.com/card/?search=Serziel,%20Watcher%20of%20the%20Evil%20Eye) | Illegal |
 | [Seven Cities of the Golden Land](https://db.ygoprodeck.com/card/?search=Seven%20Cities%20of%20the%20Golden%20Land) | Illegal |
+| [Seventh Ascension](https://db.ygoprodeck.com/card/?search=Seventh%20Ascension) | Illegal |
+| [Seventh Eternity](https://db.ygoprodeck.com/card/?search=Seventh%20Eternity) | Illegal |
 | [Shaddoll Fusion](https://db.ygoprodeck.com/card/?search=Shaddoll%20Fusion) | Illegal |
 | [Shaddoll Schism](https://db.ygoprodeck.com/card/?search=Shaddoll%20Schism) | Illegal |
 | [Shadow of the Six Samurai - Shien](https://db.ygoprodeck.com/card/?search=Shadow%20of%20the%20Six%20Samurai%20-%20Shien) | Illegal |
@@ -5472,7 +5478,6 @@ title:  "Common Charity"
 | [Brigrand the Glory Dragon](https://db.ygoprodeck.com/card/?search=Brigrand%20the%20Glory%20Dragon) | Unlimited |
 | [Brilliant Spark](https://db.ygoprodeck.com/card/?search=Brilliant%20Spark) | Unlimited |
 | [Brinegir](https://db.ygoprodeck.com/card/?search=Brinegir) | Unlimited |
-| [Brionac, Dragon of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Brionac,%20Dragon%20of%20the%20Ice%20Barrier) | Unlimited |
 | [Broken Bamboo Sword](https://db.ygoprodeck.com/card/?search=Broken%20Bamboo%20Sword) | Unlimited |
 | [Brotherhood of the Fire Fist - Caribou](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Caribou) | Unlimited |
 | [Brotherhood of the Fire Fist - Hawk](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Hawk) | Unlimited |
@@ -6637,6 +6642,8 @@ title:  "Common Charity"
 | [Earth Armor Ninja](https://db.ygoprodeck.com/card/?search=Earth%20Armor%20Ninja) | Unlimited |
 | [Earth Chant](https://db.ygoprodeck.com/card/?search=Earth%20Chant) | Unlimited |
 | [Earth Effigy](https://db.ygoprodeck.com/card/?search=Earth%20Effigy) | Unlimited |
+| [Earthbound Immortal Ccapac Apu](https://db.ygoprodeck.com/card/?search=Earthbound%20Immortal%20Ccapac%20Apu) | Unlimited |
+| [Earthbound Immortal Ccarayhua](https://db.ygoprodeck.com/card/?search=Earthbound%20Immortal%20Ccarayhua) | Unlimited |
 | [Earthbound Immortal Revival](https://db.ygoprodeck.com/card/?search=Earthbound%20Immortal%20Revival) | Unlimited |
 | [Earthbound Immortal Wiraqocha Rasca](https://db.ygoprodeck.com/card/?search=Earthbound%20Immortal%20Wiraqocha%20Rasca) | Unlimited |
 | [Earthbound Spirit](https://db.ygoprodeck.com/card/?search=Earthbound%20Spirit) | Unlimited |
@@ -8519,6 +8526,7 @@ title:  "Common Charity"
 | [Magicalibra](https://db.ygoprodeck.com/card/?search=Magicalibra) | Unlimited |
 | [Magicalized Duston Mop](https://db.ygoprodeck.com/card/?search=Magicalized%20Duston%20Mop) | Unlimited |
 | [Magician of Black Chaos](https://db.ygoprodeck.com/card/?search=Magician%20of%20Black%20Chaos) | Unlimited |
+| [Magician of Dark Illusion](https://db.ygoprodeck.com/card/?search=Magician%20of%20Dark%20Illusion) | Unlimited |
 | [Magician of Faith](https://db.ygoprodeck.com/card/?search=Magician%20of%20Faith) | Unlimited |
 | [Magician's Act](https://db.ygoprodeck.com/card/?search=Magician's%20Act) | Unlimited |
 | [Magician's Circle](https://db.ygoprodeck.com/card/?search=Magician's%20Circle) | Unlimited |
@@ -9402,6 +9410,7 @@ title:  "Common Charity"
 | [Performapal Partnaga](https://db.ygoprodeck.com/card/?search=Performapal%20Partnaga) | Unlimited |
 | [Performapal Pendulum Sorcerer](https://db.ygoprodeck.com/card/?search=Performapal%20Pendulum%20Sorcerer) | Unlimited |
 | [Performapal Pinch Helper](https://db.ygoprodeck.com/card/?search=Performapal%20Pinch%20Helper) | Unlimited |
+| [Performapal Popperup](https://db.ygoprodeck.com/card/?search=Performapal%20Popperup) | Unlimited |
 | [Performapal Radish Horse](https://db.ygoprodeck.com/card/?search=Performapal%20Radish%20Horse) | Unlimited |
 | [Performapal Rain Goat](https://db.ygoprodeck.com/card/?search=Performapal%20Rain%20Goat) | Unlimited |
 | [Performapal Recasting](https://db.ygoprodeck.com/card/?search=Performapal%20Recasting) | Unlimited |
@@ -9559,6 +9568,7 @@ title:  "Common Charity"
 | [Prank-Kids Rocksies](https://db.ygoprodeck.com/card/?search=Prank-Kids%20Rocksies) | Unlimited |
 | [Pre-Preparation of Rites](https://db.ygoprodeck.com/card/?search=Pre-Preparation%20of%20Rites) | Unlimited |
 | [Precious Cards from Beyond](https://db.ygoprodeck.com/card/?search=Precious%20Cards%20from%20Beyond) | Unlimited |
+| [Predaplanning](https://db.ygoprodeck.com/card/?search=Predaplanning) | Unlimited |
 | [Predaplant Ambulomelides](https://db.ygoprodeck.com/card/?search=Predaplant%20Ambulomelides) | Unlimited |
 | [Predaplant Banksiogre](https://db.ygoprodeck.com/card/?search=Predaplant%20Banksiogre) | Unlimited |
 | [Predaplant Bufolicula](https://db.ygoprodeck.com/card/?search=Predaplant%20Bufolicula) | Unlimited |

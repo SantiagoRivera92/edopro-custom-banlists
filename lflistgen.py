@@ -15,7 +15,10 @@ request = urllib.request.Request(url, None, header)
 temporarilyLegalCards = [12744567,25853045,59479050,33252803,46290741,36492575,99885917,67712104,52945066,63193879,91953000,5524387]
 
 #Cards that aren't released yet but are confirmed as commons.
-futureLegalCards = []
+futureLegalCards = [44330098, 1833916, 5560911, 72714461, 60645181, 48009503]
+
+#Cards that are listed as legal in YGOPRODECK but aren't
+notLegalCards = [50321796]
 
 #(C) is common, (SP) is Short Print, (SSP) is Super Short Print, (DNPR) is Duel Terminal common
 legalRarities = ['(C)', '(SP)', '(SSP)', '(DNPR)']
@@ -124,6 +127,7 @@ with urllib.request.urlopen(request) as url:
 					banTcg = 1
 				if (banlistStatus == semi):
 					banTcg = 2
+
 			cardSets = card.get(card_sets)
 			hasCommonPrint = False
 			for printing in cardSets:
@@ -136,6 +140,9 @@ with urllib.request.urlopen(request) as url:
 					hasCommonPrint = True
 
 			if not hasCommonPrint:
+				banTcg = -1
+
+			if card.get(cardId) in notLegalCards:
 				banTcg = -1
 
 			simpleCard = {}
