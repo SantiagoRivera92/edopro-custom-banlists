@@ -12,13 +12,10 @@ url = "https://db.ygoprodeck.com/api/v7/cardinfo.php"
 request = urllib.request.Request(url, None, header)
 
 #Cards that aren't in YGOPRODECK but are legal. 
-temporarilyLegalCards = [12744567,25853045,59479050,33252803,46290741,36492575,99885917,67712104,52945066,63193879,91953000,5524387,44330098, 1833916, 5560911, 72714461, 60645181, 48009503]
-
-#Cards that aren't released yet but are confirmed as commons.
-futureLegalCards = []
+additionalLegalCards = []
 
 #Cards that are listed as legal in YGOPRODECK but aren't
-notLegalCards = [50321796]
+notLegalCards = []
 
 #(C) is common, (SP) is Short Print, (SSP) is Super Short Print, (DNPR) is Duel Terminal common
 legalRarities = ['(C)', '(SP)', '(SSP)', '(DNPR)']
@@ -53,6 +50,9 @@ siteFilename ='site/ccbanlist.md'
 siteCards = []
 simpleCards = [] # List of all TCG legal cards for banlist generation
 ocgCards = [] # List of all OCG exclusive cards for banlist generation.
+
+def printCorrectAdditionalCards():
+	print(additionalLegalCards)
 
 def writeCardToBanlist(card, outfile):
 	try:
@@ -135,8 +135,10 @@ with urllib.request.urlopen(request) as url:
 					hasCommonPrint = True
 
 			#Manually add the cards that don't have legal prints but should be legal
-			if not hasCommonPrint:
-				if card.get(cardId) in temporarilyLegalCards:
+			if card.get(cardId) in additionalLegalCards:
+				if hasCommonPrint: 
+					additionalLegalCards.remove(card.get(cardId))
+				if not hasCommonPrint:
 					hasCommonPrint = True
 
 			if not hasCommonPrint:
@@ -165,7 +167,7 @@ with urllib.request.urlopen(request) as url:
 				variantCardId = variant.get(cardId)
 				simpleCard[cardId] = variantCardId
 				willBeLegal = False
-				if variantCardId in futureLegalCards:
+				if variantCardId in additionalLegalCards:
 					willBeLegal = True
 					simpleCard[status] = 3
 				if not willBeLegal:
@@ -175,3 +177,4 @@ with urllib.request.urlopen(request) as url:
 
 printBanlist()
 printSite()
+printCorrectAdditionalCards()

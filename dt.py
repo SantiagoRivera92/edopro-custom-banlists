@@ -22,7 +22,7 @@ def writeCard(card, outfile):
 	outfile.write("\n| [%s](%s) | %s |"%(card.get(name), cardUrl, card.get('set')))
 
 def writeCards(cards, outfile):
-	for card in sorted(cards, key=operator.itemgetter('set')) :
+	for card in sorted(cards, key=operator.itemgetter('set')):
 		writeCard(card,outfile)
 
 def writeHeader(outfile):
