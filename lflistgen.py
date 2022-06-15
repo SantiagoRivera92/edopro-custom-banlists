@@ -147,23 +147,20 @@ with urllib.request.urlopen(request) as url:
 			if card.get(cardId) in notLegalCards:
 				banTcg = -1
 
-			simpleCard = {}
-			simpleCard[name] = card.get(name)
-			simpleCard[status] = banTcg
-			simpleCard[cardId] = card.get(cardId)
-
+		
 			for variant in images:
 				if (banTcg<3):
+					simpleCard = {}
+					simpleCard[name] = card.get(name)
+					simpleCard[status] = banTcg
 					simpleCard[cardId] = variant.get(cardId)
 					simpleCards.append(simpleCard)
 
-			siteCards.append(simpleCard)
-
 		if (card.get(card_sets)) == None and card.get(cardType) != token:
-			simpleCard = {}
-			simpleCard[name] = card.get(name)
-			simpleCard[status] = -1
 			for variant in card.get(card_images):
+				simpleCard = {}
+				simpleCard[name] = card.get(name)
+				simpleCard[status] = -1
 				variantCardId = variant.get(cardId)
 				simpleCard[cardId] = variantCardId
 				willBeLegal = False
