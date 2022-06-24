@@ -146,13 +146,15 @@ def generateArrays():
 				if card.get(cardId) in notLegalCards:
 					banTcg = -1
 
-			
+				alreadyInSite = False
 				for variant in images:
 					simpleCard = {}
 					simpleCard[name] = card.get(name)
 					simpleCard[status] = banTcg
 					simpleCard[cardId] = variant.get(cardId)
-					siteCards.append(simpleCard)
+					if not alreadyInSite:
+						siteCards.append(simpleCard)
+						alreadyInSite = True
 					if (banTcg<3):
 						simpleCards.append(simpleCard)
 
