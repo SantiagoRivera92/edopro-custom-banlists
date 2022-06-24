@@ -155,6 +155,7 @@ with urllib.request.urlopen(request) as url:
 					simpleCard[status] = banTcg
 					simpleCard[cardId] = variant.get(cardId)
 					simpleCards.append(simpleCard)
+					siteCards.append(simpleCard)
 
 		if (card.get(card_sets)) == None and card.get(cardType) != token:
 			for variant in card.get(card_images):
