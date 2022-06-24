@@ -106,73 +106,72 @@ def printBanlist():
 		for card in simpleCards:
 			writeCardToBanlist(card, outfile)
 
+def generateArrays():
+	with urllib.request.urlopen(request) as url:
+		cards = json.loads(url.read().decode()).get(data)
+		for card in cards:
+			if card.get(card_sets) != None:
+				images = card.get(card_images)
+				banInfo = card.get(banlist_info)
+				banTcg = 3
+				if (banInfo == None):
+					banTcg = 3	
+				if (banInfo != None):
+					banlistStatus = banInfo.get(ban_tcg)
+					if (banlistStatus == None):
+						banTcg = 3
+					if (banlistStatus == banned):
+						banTcg = 0
+					if (banlistStatus == limited):
+						banTcg = 1
+					if (banlistStatus == semi):
+						banTcg = 2
 
+				cardSets = card.get(card_sets)
+				hasCommonPrint = False
+				for printing in cardSets:
+					if printing.get(rarity_code) in legalRarities:
+						hasCommonPrint = True
 
-with urllib.request.urlopen(request) as url:
-	cards = json.loads(url.read().decode()).get(data)
-	for card in cards:
-		if card.get(card_sets) != None:
-			images = card.get(card_images)
-			banInfo = card.get(banlist_info)
-			banTcg = 3
-			if (banInfo == None):
-				banTcg = 3	
-			if (banInfo != None):
-				banlistStatus = banInfo.get(ban_tcg)
-				if (banlistStatus == None):
-					banTcg = 3
-				if (banlistStatus == banned):
-					banTcg = 0
-				if (banlistStatus == limited):
-					banTcg = 1
-				if (banlistStatus == semi):
-					banTcg = 2
+				#Manually add the cards that don't have legal prints but should be legal
+				if card.get(cardId) in additionalLegalCards:
+					if hasCommonPrint: 
+						additionalLegalCards.remove(card.get(cardId))
+					if not hasCommonPrint:
+						hasCommonPrint = True
 
-			cardSets = card.get(card_sets)
-			hasCommonPrint = False
-			for printing in cardSets:
-				if printing.get(rarity_code) in legalRarities:
-					hasCommonPrint = True
-
-			#Manually add the cards that don't have legal prints but should be legal
-			if card.get(cardId) in additionalLegalCards:
-				if hasCommonPrint: 
-					additionalLegalCards.remove(card.get(cardId))
 				if not hasCommonPrint:
-					hasCommonPrint = True
+					banTcg = -1
 
-			if not hasCommonPrint:
-				banTcg = -1
+				if card.get(cardId) in notLegalCards:
+					banTcg = -1
 
-			if card.get(cardId) in notLegalCards:
-				banTcg = -1
-
-		
-			for variant in images:
-				if (banTcg<3):
+			
+				for variant in images:
 					simpleCard = {}
 					simpleCard[name] = card.get(name)
 					simpleCard[status] = banTcg
 					simpleCard[cardId] = variant.get(cardId)
-					simpleCards.append(simpleCard)
 					siteCards.append(simpleCard)
+					if (banTcg<3):
+						simpleCards.append(simpleCard)
 
-		if (card.get(card_sets)) == None and card.get(cardType) != token:
-			for variant in card.get(card_images):
-				simpleCard = {}
-				simpleCard[name] = card.get(name)
-				simpleCard[status] = -1
-				variantCardId = variant.get(cardId)
-				simpleCard[cardId] = variantCardId
-				willBeLegal = False
-				if variantCardId in additionalLegalCards:
-					willBeLegal = True
-					simpleCard[status] = 3
-				if not willBeLegal:
-					ocgCards.append(simpleCard)
+			if (card.get(card_sets)) == None and card.get(cardType) != token:
+				for variant in card.get(card_images):
+					simpleCard = {}
+					simpleCard[name] = card.get(name)
+					simpleCard[status] = -1
+					variantCardId = variant.get(cardId)
+					simpleCard[cardId] = variantCardId
+					willBeLegal = False
+					if variantCardId in additionalLegalCards:
+						willBeLegal = True
+						simpleCard[status] = 3
+					if not willBeLegal:
+						ocgCards.append(simpleCard)
 
-				siteCards.append(simpleCard)
-
+					siteCards.append(simpleCard)
+generateArrays()
 printBanlist()
 printSite()
 printCorrectAdditionalCards()
