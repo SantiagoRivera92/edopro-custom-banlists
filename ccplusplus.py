@@ -384,7 +384,7 @@ def writeCardsToSite(cards, outfile):
 		writeCardToSite(card,outfile)
 
 def writeHeader(outfile):
-	outfile.write("---\ntitle:  \"Common Charity++\"\n---")
+	outfile.write("---\ntitle:  \"Common Charity++\"\ndescription: \"Common Charity but cooler\"---")
 	outfile.write("\n\n## Common Charity++ F&L list\n\n")
 	outfile.write("Please note if a card is not here, it is subject to normal Common Charity legality\n\n")
 	outfile.write("\n\n| Card name | Status |")

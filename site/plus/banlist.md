@@ -1,6 +1,6 @@
 ---
 title:  "Common Charity++"
----
+description: "Common Charity but cooler"---
 
 ## Common Charity++ F&L list
 
