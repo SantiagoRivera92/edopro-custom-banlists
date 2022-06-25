@@ -371,7 +371,7 @@ def generateArrays():
 					variantCardId = variant.get(cardId)
 					simpleCard[cardId] = variantCardId
 					ocgCards.append(simpleCard)
-					siteCards.append(simpleCard)
+					
 generateArrays()
 printBanlist()
 printSite()
