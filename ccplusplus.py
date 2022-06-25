@@ -34,7 +34,6 @@ additionalUnlimited = [
 	"Traptrix Mantis",
 	"Ghostrick Alucard",
 	"Brotherhood of the Fire Fist - Bear",
-	"Predaplant Triphyoverutum",
 	"Predaplant Chimerafflesia",
 	"Shiranui Sunsaga",
 	"Necrovalley Throne",
@@ -371,7 +370,7 @@ def generateArrays():
 					variantCardId = variant.get(cardId)
 					simpleCard[cardId] = variantCardId
 					ocgCards.append(simpleCard)
-					
+
 generateArrays()
 printBanlist()
 printSite()
