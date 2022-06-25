@@ -331,19 +331,23 @@ def generateArrays():
 					banTcg = -1
 
 				cardName = card.get(name)
-
+				pushToSite = False
 				if cardName in additionalForbidden:
 					banTcg = 0
 					additionalForbidden.remove(cardName)
+					pushToSite = True
 				if card.get(name) in additionalLimited:
 					banTcg = 1
 					additionalLimited.remove(cardName)
+					pushToSite = True
 				if card.get(name) in additionalSemiLimited:
 					banTcg = 2
 					additionalSemiLimited.remove(cardName)
+					pushToSite = True
 				if card.get(name) in additionalUnlimited:
 					banTcg = 3
 					additionalUnlimited.remove(cardName)
+					pushToSite = True
 
 				alreadyInSite = False
 				for variant in images:
@@ -352,7 +356,8 @@ def generateArrays():
 					simpleCard[status] = banTcg
 					simpleCard[cardId] = variant.get(cardId)
 					if not alreadyInSite:
-						siteCards.append(simpleCard)
+						if pushToSite:
+							siteCards.append(simpleCard)
 						alreadyInSite = True
 					if (banTcg<3):
 						simpleCards.append(simpleCard)
