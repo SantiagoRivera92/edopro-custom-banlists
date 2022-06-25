@@ -58,5 +58,9 @@ title:  "Common Charity"
 | [Flamvell Commando](https://db.ygoprodeck.com/card/?search=Flamvell%20Commando) | OP18-PT030 |
 | [The Fabled Rubyruda](https://db.ygoprodeck.com/card/?search=The%20Fabled%20Rubyruda) | OP18-PT031 |
 | [Underworld Fighter Balmung](https://db.ygoprodeck.com/card/?search=Underworld%20Fighter%20Balmung) | OP18-PT034 |
+| [Symphonic Warrior Basses](https://db.ygoprodeck.com/card/?search=Symphonic%20Warrior%20Basses) | OP19-PT030 |
+| [Symphonic Warrior Drumss](https://db.ygoprodeck.com/card/?search=Symphonic%20Warrior%20Drumss) | OP19-PT031 |
+| [Symphonic Warrior Piaano](https://db.ygoprodeck.com/card/?search=Symphonic%20Warrior%20Piaano) | OP19-PT032 |
+| [Heroic Challenger - Double Lance](https://db.ygoprodeck.com/card/?search=Heroic%20Challenger%20-%20Double%20Lance) | OP19-PT036 |
 
 ###### [Back home](index)
