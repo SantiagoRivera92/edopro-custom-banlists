@@ -197,7 +197,10 @@ additionalUnlimited = [
 	"Karakuri Barrel mdl 96 \"Shinkuro\"",
 	"Karakuri Shogun mdl 00 \"Burei\"",
 	"Karakuri Super Shogun mdl 00N \"Bureibu\"",
-	"Shiranui Squire"
+	"Shiranui Squire",
+	"Gadarla, the Mystery Dust Kaiju",
+	"Gameciel, the Sea Turtle Kaiju",
+	"Kumongous, the Sticky String Kaiju"
 	]
 
 #(C) is common, (SP) is Short Print, (SSP) is Super Short Print, (DNPR) is Duel Terminal common
