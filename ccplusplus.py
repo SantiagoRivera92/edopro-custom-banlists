@@ -384,9 +384,10 @@ def writeCardsToSite(cards, outfile):
 		writeCardToSite(card,outfile)
 
 def writeHeader(outfile):
-	outfile.write("---\ntitle:  \"Common Charity++\"\ndescription: \"Common Charity but cooler\"---")
+	outfile.write("---\ntitle:  \"Common Charity++\"\n---")
 	outfile.write("\n\n## Common Charity++ F&L list\n\n")
 	outfile.write("Please note if a card is not here, it is subject to normal Common Charity legality\n\n")
+	outfile.write("[You can find the EDOPRO banlist here](https://github.com/diamonddudetcg/edopro-custom-banlists/raw/main/banlist/cc%2B%2B.lflist.conf)\n\n")
 	outfile.write("\n\n| Card name | Status |")
 	outfile.write("\n| :-- | :-- |")
 
