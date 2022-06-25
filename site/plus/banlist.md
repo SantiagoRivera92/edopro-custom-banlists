@@ -177,6 +177,7 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Vampire Fascinator](https://db.ygoprodeck.com/card/?search=Vampire%20Fascinator) | Unlimited |
 | [Vampire Ghost](https://db.ygoprodeck.com/card/?search=Vampire%20Ghost) | Unlimited |
 | [Vampire Sorcerer](https://db.ygoprodeck.com/card/?search=Vampire%20Sorcerer) | Unlimited |
+| [Vampire Sucker](https://db.ygoprodeck.com/card/?search=Vampire%20Sucker) | Unlimited |
 | [Vampire Takeover](https://db.ygoprodeck.com/card/?search=Vampire%20Takeover) | Unlimited |
 | [Vampire Vamp](https://db.ygoprodeck.com/card/?search=Vampire%20Vamp) | Unlimited |
 | [Vampire Voivode](https://db.ygoprodeck.com/card/?search=Vampire%20Voivode) | Unlimited |

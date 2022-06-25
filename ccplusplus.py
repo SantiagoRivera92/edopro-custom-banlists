@@ -166,6 +166,7 @@ additionalUnlimited = [
 	"Crimson Knight Vampire Bram",
 	"Vampire Fascinator",
 	"Vampire Takeover",
+	"Vampire Sucker",
 	"Wattgiraffe",
 	"Watthydra",
 	"Wattchimera",
