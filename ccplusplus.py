@@ -23,6 +23,7 @@ additionalLimited = [
 		"Tidal, Dragon Ruler of Waterfalls",
 		"Blaster, Dragon Ruler of Infernos",
 		"Tempest, Dragon Ruler of Storms",
+		"Astrograph Sorcerer"
 		]
 additionalSemiLimited = []
 additionalUnlimited = [
@@ -607,7 +608,23 @@ additionalUnlimited = [
 	"Noble Knights of the Round Table",
 	"Avalon",
 	"\"Infernoble Arms - Durendal\"",
-	"\"Infernoble Arms - Joyeuse\""
+	"\"Infernoble Arms - Joyeuse\"",
+	"Vector Pendulum, the Dracoverlord",
+	"Reflection of Endymion",
+	"Supreme King Gate Zero",
+	"Supreme King Gate Infinity",
+	"Oafdragon Magician",
+	"Dinomist Rex",
+	"Performapal Dag Daggerman",
+	"Lector Pendulum, the Dracoverlord",
+	"Luster Pendulum, the Dracoslayer",
+	"Dinomist Pteran",
+	"Performapal Gentrude",
+	"Performapal Celestial Magician",
+	"Purple Poison Magician",
+	"Performapal Parrotrio",
+	"Pendulumucho",
+	"Tuning Magician"
 	]
 
 #(C) is common, (SP) is Short Print, (SSP) is Super Short Print, (DNPR) is Duel Terminal common

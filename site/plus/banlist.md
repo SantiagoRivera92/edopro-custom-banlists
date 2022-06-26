@@ -15,6 +15,7 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Artifact Scythe](https://db.ygoprodeck.com/card/?search=Artifact%20Scythe) | Forbidden |
 | [Moulinglacia the Elemental Lord](https://db.ygoprodeck.com/card/?search=Moulinglacia%20the%20Elemental%20Lord) | Forbidden |
 | [There Can Be Only One](https://db.ygoprodeck.com/card/?search=There%20Can%20Be%20Only%20One) | Forbidden |
+| [Astrograph Sorcerer](https://db.ygoprodeck.com/card/?search=Astrograph%20Sorcerer) | Limited |
 | [Blaster, Dragon Ruler of Infernos](https://db.ygoprodeck.com/card/?search=Blaster,%20Dragon%20Ruler%20of%20Infernos) | Limited |
 | [Daigusto Emeral](https://db.ygoprodeck.com/card/?search=Daigusto%20Emeral) | Limited |
 | [Redox, Dragon Ruler of Boulders](https://db.ygoprodeck.com/card/?search=Redox,%20Dragon%20Ruler%20of%20Boulders) | Limited |
@@ -134,6 +135,8 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Decode Talker Extended](https://db.ygoprodeck.com/card/?search=Decode%20Talker%20Extended) | Unlimited |
 | [Diamond Dire Wolf](https://db.ygoprodeck.com/card/?search=Diamond%20Dire%20Wolf) | Unlimited |
 | [Digital Bug Rhinosebus](https://db.ygoprodeck.com/card/?search=Digital%20Bug%20Rhinosebus) | Unlimited |
+| [Dinomist Pteran](https://db.ygoprodeck.com/card/?search=Dinomist%20Pteran) | Unlimited |
+| [Dinomist Rex](https://db.ygoprodeck.com/card/?search=Dinomist%20Rex) | Unlimited |
 | [Divine Dragon Knight Felgrand](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20Knight%20Felgrand) | Unlimited |
 | [Divine Dragon Lord Felgrand](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20Lord%20Felgrand) | Unlimited |
 | [Divine Wind of Mist Valley](https://db.ygoprodeck.com/card/?search=Divine%20Wind%20of%20Mist%20Valley) | Unlimited |
@@ -267,10 +270,12 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Kumongous, the Sticky String Kaiju](https://db.ygoprodeck.com/card/?search=Kumongous,%20the%20Sticky%20String%20Kaiju) | Unlimited |
 | [Lady of the Lake](https://db.ygoprodeck.com/card/?search=Lady%20of%20the%20Lake) | Unlimited |
 | [Last Chapter of the Noble Knights](https://db.ygoprodeck.com/card/?search=Last%20Chapter%20of%20the%20Noble%20Knights) | Unlimited |
+| [Lector Pendulum, the Dracoverlord](https://db.ygoprodeck.com/card/?search=Lector%20Pendulum,%20the%20Dracoverlord) | Unlimited |
 | [Legendary Six Samurai - Kageki](https://db.ygoprodeck.com/card/?search=Legendary%20Six%20Samurai%20-%20Kageki) | Unlimited |
 | [Lightning Chidori](https://db.ygoprodeck.com/card/?search=Lightning%20Chidori) | Unlimited |
 | [Lightpulsar Dragon](https://db.ygoprodeck.com/card/?search=Lightpulsar%20Dragon) | Unlimited |
 | [Linkmail Archfiend](https://db.ygoprodeck.com/card/?search=Linkmail%20Archfiend) | Unlimited |
+| [Luster Pendulum, the Dracoslayer](https://db.ygoprodeck.com/card/?search=Luster%20Pendulum,%20the%20Dracoslayer) | Unlimited |
 | [Lyrilusc - Assembled Nightingale](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Assembled%20Nightingale) | Unlimited |
 | [Lyrilusc - Beryl Canary](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Beryl%20Canary) | Unlimited |
 | [Lyrilusc - Recital Starling](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Recital%20Starling) | Unlimited |
@@ -370,12 +375,18 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Number 64: Ronin Raccoon Sandayu](https://db.ygoprodeck.com/card/?search=Number%2064:%20Ronin%20Raccoon%20Sandayu) | Unlimited |
 | [Number 70: Malevolent Sin](https://db.ygoprodeck.com/card/?search=Number%2070:%20Malevolent%20Sin) | Unlimited |
 | [Number S39: Utopia the Lightning](https://db.ygoprodeck.com/card/?search=Number%20S39:%20Utopia%20the%20Lightning) | Unlimited |
+| [Oafdragon Magician](https://db.ygoprodeck.com/card/?search=Oafdragon%20Magician) | Unlimited |
 | [Oboro-Guruma, the Wheeled Mayakashi](https://db.ygoprodeck.com/card/?search=Oboro-Guruma,%20the%20Wheeled%20Mayakashi) | Unlimited |
 | [Onslaught of the Fire Kings](https://db.ygoprodeck.com/card/?search=Onslaught%20of%20the%20Fire%20Kings) | Unlimited |
 | [Orient Dragon](https://db.ygoprodeck.com/card/?search=Orient%20Dragon) | Unlimited |
 | [Pacifis, the Phantasm City](https://db.ygoprodeck.com/card/?search=Pacifis,%20the%20Phantasm%20City) | Unlimited |
 | [Palace of the Elemental Lords](https://db.ygoprodeck.com/card/?search=Palace%20of%20the%20Elemental%20Lords) | Unlimited |
 | [Pantheism of the Monarchs](https://db.ygoprodeck.com/card/?search=Pantheism%20of%20the%20Monarchs) | Unlimited |
+| [Pendulumucho](https://db.ygoprodeck.com/card/?search=Pendulumucho) | Unlimited |
+| [Performapal Celestial Magician](https://db.ygoprodeck.com/card/?search=Performapal%20Celestial%20Magician) | Unlimited |
+| [Performapal Dag Daggerman](https://db.ygoprodeck.com/card/?search=Performapal%20Dag%20Daggerman) | Unlimited |
+| [Performapal Gentrude](https://db.ygoprodeck.com/card/?search=Performapal%20Gentrude) | Unlimited |
+| [Performapal Parrotrio](https://db.ygoprodeck.com/card/?search=Performapal%20Parrotrio) | Unlimited |
 | [Phantasm Spiral Battle](https://db.ygoprodeck.com/card/?search=Phantasm%20Spiral%20Battle) | Unlimited |
 | [Phantom Skyblaster](https://db.ygoprodeck.com/card/?search=Phantom%20Skyblaster) | Unlimited |
 | [Photon Advancer](https://db.ygoprodeck.com/card/?search=Photon%20Advancer) | Unlimited |
@@ -390,11 +401,13 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Proxy Dragon](https://db.ygoprodeck.com/card/?search=Proxy%20Dragon) | Unlimited |
 | [PSY-Framelord Zeta](https://db.ygoprodeck.com/card/?search=PSY-Framelord%20Zeta) | Unlimited |
 | [Pulao, Wind of the Yang Zing](https://db.ygoprodeck.com/card/?search=Pulao,%20Wind%20of%20the%20Yang%20Zing) | Unlimited |
+| [Purple Poison Magician](https://db.ygoprodeck.com/card/?search=Purple%20Poison%20Magician) | Unlimited |
 | [Pyrorex the Elemental Lord](https://db.ygoprodeck.com/card/?search=Pyrorex%20the%20Elemental%20Lord) | Unlimited |
 | [Queen Dragun Djinn](https://db.ygoprodeck.com/card/?search=Queen%20Dragun%20Djinn) | Unlimited |
 | [Rasterliger](https://db.ygoprodeck.com/card/?search=Rasterliger) | Unlimited |
 | [Red Dragon Ninja](https://db.ygoprodeck.com/card/?search=Red%20Dragon%20Ninja) | Unlimited |
 | [Redbeard, the Plunder Patroll Matey](https://db.ygoprodeck.com/card/?search=Redbeard,%20the%20Plunder%20Patroll%20Matey) | Unlimited |
+| [Reflection of Endymion](https://db.ygoprodeck.com/card/?search=Reflection%20of%20Endymion) | Unlimited |
 | [Reptilianne Melusine](https://db.ygoprodeck.com/card/?search=Reptilianne%20Melusine) | Unlimited |
 | [Reptilianne Ramifications](https://db.ygoprodeck.com/card/?search=Reptilianne%20Ramifications) | Unlimited |
 | [Reptilianne Vaskii](https://db.ygoprodeck.com/card/?search=Reptilianne%20Vaskii) | Unlimited |
@@ -479,6 +492,8 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Stellarknight Triverr](https://db.ygoprodeck.com/card/?search=Stellarknight%20Triverr) | Unlimited |
 | [Stellarnova Alpha](https://db.ygoprodeck.com/card/?search=Stellarnova%20Alpha) | Unlimited |
 | [Suanni, Fire of the Yang Zing](https://db.ygoprodeck.com/card/?search=Suanni,%20Fire%20of%20the%20Yang%20Zing) | Unlimited |
+| [Supreme King Gate Infinity](https://db.ygoprodeck.com/card/?search=Supreme%20King%20Gate%20Infinity) | Unlimited |
+| [Supreme King Gate Zero](https://db.ygoprodeck.com/card/?search=Supreme%20King%20Gate%20Zero) | Unlimited |
 | [Suture Rebirth](https://db.ygoprodeck.com/card/?search=Suture%20Rebirth) | Unlimited |
 | [T.G. Blade Blaster](https://db.ygoprodeck.com/card/?search=T.G.%20Blade%20Blaster) | Unlimited |
 | [T.G. Drill Fish](https://db.ygoprodeck.com/card/?search=T.G.%20Drill%20Fish) | Unlimited |
@@ -528,6 +543,7 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Triamid Sphinx](https://db.ygoprodeck.com/card/?search=Triamid%20Sphinx) | Unlimited |
 | [Tsuchigumo, the Poisonous Mayakashi](https://db.ygoprodeck.com/card/?search=Tsuchigumo,%20the%20Poisonous%20Mayakashi) | Unlimited |
 | [Tsukahagi, the Poisonous Mayakashi](https://db.ygoprodeck.com/card/?search=Tsukahagi,%20the%20Poisonous%20Mayakashi) | Unlimited |
+| [Tuning Magician](https://db.ygoprodeck.com/card/?search=Tuning%20Magician) | Unlimited |
 | [Twilight Ninja Jogen](https://db.ygoprodeck.com/card/?search=Twilight%20Ninja%20Jogen) | Unlimited |
 | [Twilight Ninja Kagen](https://db.ygoprodeck.com/card/?search=Twilight%20Ninja%20Kagen) | Unlimited |
 | [U.A. Blockbacker](https://db.ygoprodeck.com/card/?search=U.A.%20Blockbacker) | Unlimited |
@@ -548,6 +564,7 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Vampire Takeover](https://db.ygoprodeck.com/card/?search=Vampire%20Takeover) | Unlimited |
 | [Vampire Vamp](https://db.ygoprodeck.com/card/?search=Vampire%20Vamp) | Unlimited |
 | [Vampire Voivode](https://db.ygoprodeck.com/card/?search=Vampire%20Voivode) | Unlimited |
+| [Vector Pendulum, the Dracoverlord](https://db.ygoprodeck.com/card/?search=Vector%20Pendulum,%20the%20Dracoverlord) | Unlimited |
 | [Vendread Charge](https://db.ygoprodeck.com/card/?search=Vendread%20Charge) | Unlimited |
 | [Vendread Chimera](https://db.ygoprodeck.com/card/?search=Vendread%20Chimera) | Unlimited |
 | [Vendread Core](https://db.ygoprodeck.com/card/?search=Vendread%20Core) | Unlimited |
