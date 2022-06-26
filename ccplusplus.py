@@ -596,7 +596,7 @@ additionalUnlimited = [
 	"Infernoble Knight - Roland",
 	"Lady of the Lake",
 	"Ignoble Knight of High Laundsallyn",
-	"Sacred Noble Knightof King Artorigus",
+	"Sacred Noble Knight of King Artorigus",
 	"Artorigus, King of the Noble Knights",
 	"Sacred Noble Knight of King Custennin",
 	"Heritage of the Chalice",

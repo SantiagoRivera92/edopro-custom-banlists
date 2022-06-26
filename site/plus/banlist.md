@@ -414,6 +414,7 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Saber Hole](https://db.ygoprodeck.com/card/?search=Saber%20Hole) | Unlimited |
 | [Saber Slash](https://db.ygoprodeck.com/card/?search=Saber%20Slash) | Unlimited |
 | [Saber Vault](https://db.ygoprodeck.com/card/?search=Saber%20Vault) | Unlimited |
+| [Sacred Noble Knight of King Artorigus](https://db.ygoprodeck.com/card/?search=Sacred%20Noble%20Knight%20of%20King%20Artorigus) | Unlimited |
 | [Sacred Noble Knight of King Custennin](https://db.ygoprodeck.com/card/?search=Sacred%20Noble%20Knight%20of%20King%20Custennin) | Unlimited |
 | [Salamangreat Balelynx](https://db.ygoprodeck.com/card/?search=Salamangreat%20Balelynx) | Unlimited |
 | [Salamangreat Circle](https://db.ygoprodeck.com/card/?search=Salamangreat%20Circle) | Unlimited |
