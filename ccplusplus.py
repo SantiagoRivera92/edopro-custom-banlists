@@ -622,7 +622,8 @@ additionalUnlimited = [
 	"Purple Poison Magician",
 	"Performapal Parrotrio",
 	"Pendulumucho",
-	"Tuning Magician"
+	"Tuning Magician",
+	"Koa'ki Meiru Crusader"
 	]
 
 #(C) is common, (SP) is Short Print, (SSP) is Super Short Print, (DNPR) is Duel Terminal common
