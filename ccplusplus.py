@@ -623,7 +623,8 @@ additionalUnlimited = [
 	"Performapal Parrotrio",
 	"Pendulumucho",
 	"Tuning Magician",
-	"Koa'ki Meiru Crusader"
+	"Koa'ki Meiru Crusader",
+	"Mecha Phantom Beast Megaraptor"
 	]
 
 #(C) is common, (SP) is Short Print, (SSP) is Super Short Print, (DNPR) is Duel Terminal common
