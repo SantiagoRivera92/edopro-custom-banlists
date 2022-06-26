@@ -544,6 +544,28 @@ additionalUnlimited = [
 	"The Grand Spellbook Tower",
 	"Shiranui Spectralsword Shade",
 	"Jet Synchron",
+	"Whitebeard, the Plunder Patroll Helm",
+	"Redbeard, the Plundder Patroll Matey",
+	"Plunder Patroll Shiyarrrd",
+	"Plunder Patroll Booty",
+	"Ancient Warriors - Ambitious Cao De",
+	"Ancient Warriors - Rebellious Lu Feng",
+	"Ancient Warriors - valiant Zhang De",
+	"Ancient Warriors - Masterful Sun Mou",
+	"Ancient Warriors - Graceful Zhou Gong",
+	"Ancient Warriors - Virtuous Liu Xuan",
+	"Ancient Warriors - Ingenious Zhuge Kong",
+	"Ancient Warriors - Eccentric Lu Jing",
+	"Ancient Warriors Saga - Three Visits",
+	"Ancient Warriors Saga - Sun-Liu Alliance",
+	"Ancient Warriors Saga - Defense of Changban",
+	"War Rock Bashileos",
+	"War Rock Meteoragon",
+	"War Rock Gactos",
+	"War Rock Wento",
+	"War Rock Fortia",
+	"War Rock Dignity",
+	"War Rock Spirit"
 	]
 
 #(C) is common, (SP) is Short Print, (SSP) is Super Short Print, (DNPR) is Duel Terminal common
