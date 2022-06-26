@@ -25,7 +25,6 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Abyss-sphere](https://db.ygoprodeck.com/card/?search=Abyss-sphere) | Unlimited |
 | [Abyss-squall](https://db.ygoprodeck.com/card/?search=Abyss-squall) | Unlimited |
 | [Adamancipator Analyzer](https://db.ygoprodeck.com/card/?search=Adamancipator%20Analyzer) | Unlimited |
-| [Adamancipator Researcher](https://db.ygoprodeck.com/card/?search=Adamancipator%20Researcher) | Unlimited |
 | [Adamancipator Seeker](https://db.ygoprodeck.com/card/?search=Adamancipator%20Seeker) | Unlimited |
 | [Adreus, Keeper of Armageddon](https://db.ygoprodeck.com/card/?search=Adreus,%20Keeper%20of%20Armageddon) | Unlimited |
 | [Alpha The Electromagnet Warrior](https://db.ygoprodeck.com/card/?search=Alpha%20The%20Electromagnet%20Warrior) | Unlimited |
@@ -134,6 +133,7 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Divine Dragon Knight Felgrand](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20Knight%20Felgrand) | Unlimited |
 | [Divine Dragon Lord Felgrand](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20Lord%20Felgrand) | Unlimited |
 | [Divine Wind of Mist Valley](https://db.ygoprodeck.com/card/?search=Divine%20Wind%20of%20Mist%20Valley) | Unlimited |
+| [Do a Barrel Roll](https://db.ygoprodeck.com/card/?search=Do%20a%20Barrel%20Roll) | Unlimited |
 | [Double Fin Shark](https://db.ygoprodeck.com/card/?search=Double%20Fin%20Shark) | Unlimited |
 | [Downerd Magician](https://db.ygoprodeck.com/card/?search=Downerd%20Magician) | Unlimited |
 | [Draco Face-Off](https://db.ygoprodeck.com/card/?search=Draco%20Face-Off) | Unlimited |
@@ -289,7 +289,15 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Mayakashi Metamorphosis](https://db.ygoprodeck.com/card/?search=Mayakashi%20Metamorphosis) | Unlimited |
 | [Mayakashi Return](https://db.ygoprodeck.com/card/?search=Mayakashi%20Return) | Unlimited |
 | [Mayakashi Winter](https://db.ygoprodeck.com/card/?search=Mayakashi%20Winter) | Unlimited |
+| [Mecha Phantom Beast Aerosguin](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Aerosguin) | Unlimited |
+| [Mecha Phantom Beast Blue Impala](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Blue%20Impala) | Unlimited |
+| [Mecha Phantom Beast Concoruda](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Concoruda) | Unlimited |
 | [Mecha Phantom Beast Dracossack](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Dracossack) | Unlimited |
+| [Mecha Phantom Beast Kalgriffin](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Kalgriffin) | Unlimited |
+| [Mecha Phantom Beast O-Lion](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20O-Lion) | Unlimited |
+| [Mecha Phantom Beast Sabre Hawk](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Sabre%20Hawk) | Unlimited |
+| [Mecha Phantom Beast Turtletracer](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Turtletracer) | Unlimited |
+| [Mecha Phantom Beast Warbluran](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Warbluran) | Unlimited |
 | [Megalith Ophiel](https://db.ygoprodeck.com/card/?search=Megalith%20Ophiel) | Unlimited |
 | [Mermail Abyssalacia](https://db.ygoprodeck.com/card/?search=Mermail%20Abyssalacia) | Unlimited |
 | [Mermail Abyssgaios](https://db.ygoprodeck.com/card/?search=Mermail%20Abyssgaios) | Unlimited |
@@ -384,6 +392,7 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Satellarknight Rigel](https://db.ygoprodeck.com/card/?search=Satellarknight%20Rigel) | Unlimited |
 | [Satellarknight Sirius](https://db.ygoprodeck.com/card/?search=Satellarknight%20Sirius) | Unlimited |
 | [Satellarknight Skybridge](https://db.ygoprodeck.com/card/?search=Satellarknight%20Skybridge) | Unlimited |
+| [Scramble!! Scramble!!](https://db.ygoprodeck.com/card/?search=Scramble!!%20Scramble!!) | Unlimited |
 | [Scrap Twin Dragon](https://db.ygoprodeck.com/card/?search=Scrap%20Twin%20Dragon) | Unlimited |
 | [Seleglare the Luminous Lunar Dragon](https://db.ygoprodeck.com/card/?search=Seleglare%20the%20Luminous%20Lunar%20Dragon) | Unlimited |
 | [Shafu, the Wheeled Mayakashi](https://db.ygoprodeck.com/card/?search=Shafu,%20the%20Wheeled%20Mayakashi) | Unlimited |

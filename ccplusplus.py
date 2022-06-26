@@ -388,7 +388,6 @@ additionalUnlimited = [
 	"Dragunity Knight - Vajrayana",
 	"Dragunity Arma Gram",
 	"Therion Charge",
-	"Adamancipator Researcher",
 	"Adamancipator Analyzer",
 	"Adamancipator Seeker",
 	"Glow-Up Bulb",
@@ -564,7 +563,17 @@ additionalUnlimited = [
 	"War Rock Wento",
 	"War Rock Fortia",
 	"War Rock Dignity",
-	"War Rock Spirit"
+	"War Rock Spirit",
+	"Mecha Phantom Beast Kalgriffin",
+	"Mecha Phantom Beast Sabre Hawk",
+	"Mecha Phantom Beast Aerosguin",
+	"Mecha Phantom Beast Blue Impala",
+	"Mecha Phantom Beast Turtletracer",
+	"Mecha Phantom Beast Warbluran",
+	"Mecha Phantom Beast O-Lion",
+	"Mecha Phantom Beast Concoruda",
+	"Scramble!! Scramble!!",
+	"Do a Barrel Roll"
 	]
 
 #(C) is common, (SP) is Short Print, (SSP) is Super Short Print, (DNPR) is Duel Terminal common
