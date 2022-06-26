@@ -216,7 +216,6 @@ additionalUnlimited = [
 	"Blackwing Armor Master",
 	"Assault Blackwing - Raikiri the Rain Shower",
 	"Blackwing - Silverwind the Ascendant",
-	"Blackwing Full Armor Master",
 	"Assault Blackwing - Onimaru the Divine Thunder",
 	"Orient Dragon",
 	"Stardust Charge Warrior",
