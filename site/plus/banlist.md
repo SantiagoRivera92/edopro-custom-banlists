@@ -179,7 +179,6 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Fluffal Penguin](https://db.ygoprodeck.com/card/?search=Fluffal%20Penguin) | Unlimited |
 | [Folgo, Justice Fur Hire](https://db.ygoprodeck.com/card/?search=Folgo,%20Justice%20Fur%20Hire) | Unlimited |
 | [Fool of Prophecy](https://db.ygoprodeck.com/card/?search=Fool%20of%20Prophecy) | Unlimited |
-| [Formula Synchron](https://db.ygoprodeck.com/card/?search=Formula%20Synchron) | Unlimited |
 | [Frightfur Kraken](https://db.ygoprodeck.com/card/?search=Frightfur%20Kraken) | Unlimited |
 | [Frightfur Sabre-Tooth](https://db.ygoprodeck.com/card/?search=Frightfur%20Sabre-Tooth) | Unlimited |
 | [Frightfur Tiger](https://db.ygoprodeck.com/card/?search=Frightfur%20Tiger) | Unlimited |
@@ -313,7 +312,6 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Mecha Phantom Beast Dracossack](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Dracossack) | Unlimited |
 | [Mecha Phantom Beast Kalgriffin](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Kalgriffin) | Unlimited |
 | [Mecha Phantom Beast O-Lion](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20O-Lion) | Unlimited |
-| [Mecha Phantom Beast Sabre Hawk](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Sabre%20Hawk) | Unlimited |
 | [Mecha Phantom Beast Turtletracer](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Turtletracer) | Unlimited |
 | [Mecha Phantom Beast Warbluran](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Warbluran) | Unlimited |
 | [Megalith Ophiel](https://db.ygoprodeck.com/card/?search=Megalith%20Ophiel) | Unlimited |
