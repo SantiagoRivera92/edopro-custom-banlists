@@ -134,6 +134,8 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Elemental HERO Nova Master](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Nova%20Master) | Unlimited |
 | [Elemental HERO The Shining](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20The%20Shining) | Unlimited |
 | [Elemental Training](https://db.ygoprodeck.com/card/?search=Elemental%20Training) | Unlimited |
+| [Elementsaber Lapauila](https://db.ygoprodeck.com/card/?search=Elementsaber%20Lapauila) | Unlimited |
+| [Elementsaber Lapauila Mana](https://db.ygoprodeck.com/card/?search=Elementsaber%20Lapauila%20Mana) | Unlimited |
 | [Elementsaber Makani](https://db.ygoprodeck.com/card/?search=Elementsaber%20Makani) | Unlimited |
 | [Elementsaber Molehu](https://db.ygoprodeck.com/card/?search=Elementsaber%20Molehu) | Unlimited |
 | [Elementsaber Nalu](https://db.ygoprodeck.com/card/?search=Elementsaber%20Nalu) | Unlimited |
@@ -168,6 +170,7 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Fusion Destiny](https://db.ygoprodeck.com/card/?search=Fusion%20Destiny) | Unlimited |
 | [Gachi Gachi Gantetsu](https://db.ygoprodeck.com/card/?search=Gachi%20Gachi%20Gantetsu) | Unlimited |
 | [Gadarla, the Mystery Dust Kaiju](https://db.ygoprodeck.com/card/?search=Gadarla,%20the%20Mystery%20Dust%20Kaiju) | Unlimited |
+| [Gaia Drake, the Universal Force](https://db.ygoprodeck.com/card/?search=Gaia%20Drake,%20the%20Universal%20Force) | Unlimited |
 | [Galaxy Expedition](https://db.ygoprodeck.com/card/?search=Galaxy%20Expedition) | Unlimited |
 | [Galaxy Knight](https://db.ygoprodeck.com/card/?search=Galaxy%20Knight) | Unlimited |
 | [Galaxy-Eyes Solflare Dragon](https://db.ygoprodeck.com/card/?search=Galaxy-Eyes%20Solflare%20Dragon) | Unlimited |
@@ -212,6 +215,7 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Hip Hoshiningen](https://db.ygoprodeck.com/card/?search=Hip%20Hoshiningen) | Unlimited |
 | [Hot Red Dragon Archfiend](https://db.ygoprodeck.com/card/?search=Hot%20Red%20Dragon%20Archfiend) | Unlimited |
 | [Hot Red Dragon Archfiend Bane](https://db.ygoprodeck.com/card/?search=Hot%20Red%20Dragon%20Archfiend%20Bane) | Unlimited |
+| [HTS Psyhemuth](https://db.ygoprodeck.com/card/?search=HTS%20Psyhemuth) | Unlimited |
 | [Hyper Galaxy](https://db.ygoprodeck.com/card/?search=Hyper%20Galaxy) | Unlimited |
 | [Immortal Dragon](https://db.ygoprodeck.com/card/?search=Immortal%20Dragon) | Unlimited |
 | [Impcantation Candoll](https://db.ygoprodeck.com/card/?search=Impcantation%20Candoll) | Unlimited |
@@ -488,6 +492,7 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Vampire Vamp](https://db.ygoprodeck.com/card/?search=Vampire%20Vamp) | Unlimited |
 | [Vampire Voivode](https://db.ygoprodeck.com/card/?search=Vampire%20Voivode) | Unlimited |
 | [Vendread Charge](https://db.ygoprodeck.com/card/?search=Vendread%20Charge) | Unlimited |
+| [Vendread Chimera](https://db.ygoprodeck.com/card/?search=Vendread%20Chimera) | Unlimited |
 | [Vendread Core](https://db.ygoprodeck.com/card/?search=Vendread%20Core) | Unlimited |
 | [Vendread Houndhorde](https://db.ygoprodeck.com/card/?search=Vendread%20Houndhorde) | Unlimited |
 | [Vendread Nights](https://db.ygoprodeck.com/card/?search=Vendread%20Nights) | Unlimited |
