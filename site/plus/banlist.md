@@ -67,6 +67,7 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Caam, Serenity of Gusto](https://db.ygoprodeck.com/card/?search=Caam,%20Serenity%20of%20Gusto) | Unlimited |
 | [Celestial Observatory](https://db.ygoprodeck.com/card/?search=Celestial%20Observatory) | Unlimited |
 | [Ceruli, Guru of Dark World](https://db.ygoprodeck.com/card/?search=Ceruli,%20Guru%20of%20Dark%20World) | Unlimited |
+| [Chaos Valkyria](https://db.ygoprodeck.com/card/?search=Chaos%20Valkyria) | Unlimited |
 | [Chiwen, Light of the Yang Zing](https://db.ygoprodeck.com/card/?search=Chiwen,%20Light%20of%20the%20Yang%20Zing) | Unlimited |
 | [Chronomaly Aztec Mask Golem](https://db.ygoprodeck.com/card/?search=Chronomaly%20Aztec%20Mask%20Golem) | Unlimited |
 | [Chronomaly Cabrera Trebuchet](https://db.ygoprodeck.com/card/?search=Chronomaly%20Cabrera%20Trebuchet) | Unlimited |
@@ -96,6 +97,7 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Daigusto Laplampilica](https://db.ygoprodeck.com/card/?search=Daigusto%20Laplampilica) | Unlimited |
 | [Daigusto Phoenix](https://db.ygoprodeck.com/card/?search=Daigusto%20Phoenix) | Unlimited |
 | [Daigusto Sphreez](https://db.ygoprodeck.com/card/?search=Daigusto%20Sphreez) | Unlimited |
+| [Dakki, the Graceful Mayakashi](https://db.ygoprodeck.com/card/?search=Dakki,%20the%20Graceful%20Mayakashi) | Unlimited |
 | [Dark Armed, the Dragon of Annihilation](https://db.ygoprodeck.com/card/?search=Dark%20Armed,%20the%20Dragon%20of%20Annihilation) | Unlimited |
 | [Dark Honest](https://db.ygoprodeck.com/card/?search=Dark%20Honest) | Unlimited |
 | [Darkflare Dragon](https://db.ygoprodeck.com/card/?search=Darkflare%20Dragon) | Unlimited |
@@ -109,6 +111,7 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Downerd Magician](https://db.ygoprodeck.com/card/?search=Downerd%20Magician) | Unlimited |
 | [Draco Face-Off](https://db.ygoprodeck.com/card/?search=Draco%20Face-Off) | Unlimited |
 | [Dragunity Arma Gram](https://db.ygoprodeck.com/card/?search=Dragunity%20Arma%20Gram) | Unlimited |
+| [Dragunity Knight - Vajrayana](https://db.ygoprodeck.com/card/?search=Dragunity%20Knight%20-%20Vajrayana) | Unlimited |
 | [Elemental HERO Nova Master](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Nova%20Master) | Unlimited |
 | [Elemental HERO The Shining](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20The%20Shining) | Unlimited |
 | [Evilswarm Bahamut](https://db.ygoprodeck.com/card/?search=Evilswarm%20Bahamut) | Unlimited |
@@ -141,6 +144,7 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Gladiator Beast Augustus](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Augustus) | Unlimited |
 | [Gladiator Beast Domitianus](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Domitianus) | Unlimited |
 | [Gladiator Beast Gyzarus](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Gyzarus) | Unlimited |
+| [Gladiator Beast Nerokius](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Nerokius) | Unlimited |
 | [Gladiator Beast Noxious](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Noxious) | Unlimited |
 | [Gladiator Beast Retiari](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Retiari) | Unlimited |
 | [Gladiator Rejection](https://db.ygoprodeck.com/card/?search=Gladiator%20Rejection) | Unlimited |
@@ -227,6 +231,7 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Mermail Abysstrite](https://db.ygoprodeck.com/card/?search=Mermail%20Abysstrite) | Unlimited |
 | [Mermail Abyssturge](https://db.ygoprodeck.com/card/?search=Mermail%20Abyssturge) | Unlimited |
 | [Metaverse](https://db.ygoprodeck.com/card/?search=Metaverse) | Unlimited |
+| [Missus Radiant](https://db.ygoprodeck.com/card/?search=Missus%20Radiant) | Unlimited |
 | [Mist Wurm](https://db.ygoprodeck.com/card/?search=Mist%20Wurm) | Unlimited |
 | [Myutant Arsenal](https://db.ygoprodeck.com/card/?search=Myutant%20Arsenal) | Unlimited |
 | [Myutant Beast](https://db.ygoprodeck.com/card/?search=Myutant%20Beast) | Unlimited |
@@ -286,6 +291,7 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Satellarknight Sirius](https://db.ygoprodeck.com/card/?search=Satellarknight%20Sirius) | Unlimited |
 | [Satellarknight Skybridge](https://db.ygoprodeck.com/card/?search=Satellarknight%20Skybridge) | Unlimited |
 | [Shafu, the Wheeled Mayakashi](https://db.ygoprodeck.com/card/?search=Shafu,%20the%20Wheeled%20Mayakashi) | Unlimited |
+| [Shien's Smoke Signal](https://db.ygoprodeck.com/card/?search=Shien's%20Smoke%20Signal) | Unlimited |
 | [Shiranui Shogunsaga](https://db.ygoprodeck.com/card/?search=Shiranui%20Shogunsaga) | Unlimited |
 | [Shiranui Spectralsword](https://db.ygoprodeck.com/card/?search=Shiranui%20Spectralsword) | Unlimited |
 | [Shiranui Squire](https://db.ygoprodeck.com/card/?search=Shiranui%20Squire) | Unlimited |
@@ -319,6 +325,7 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Suanni, Fire of the Yang Zing](https://db.ygoprodeck.com/card/?search=Suanni,%20Fire%20of%20the%20Yang%20Zing) | Unlimited |
 | [Suture Rebirth](https://db.ygoprodeck.com/card/?search=Suture%20Rebirth) | Unlimited |
 | [Tellarknight Genesis](https://db.ygoprodeck.com/card/?search=Tellarknight%20Genesis) | Unlimited |
+| [Tempest, Dragon Ruler of Storms](https://db.ygoprodeck.com/card/?search=Tempest,%20Dragon%20Ruler%20of%20Storms) | Unlimited |
 | [Tengu, the Winged Mayakashi](https://db.ygoprodeck.com/card/?search=Tengu,%20the%20Winged%20Mayakashi) | Unlimited |
 | [Test Panther](https://db.ygoprodeck.com/card/?search=Test%20Panther) | Unlimited |
 | [The Agent of Life - Neptune](https://db.ygoprodeck.com/card/?search=The%20Agent%20of%20Life%20-%20Neptune) | Unlimited |
@@ -353,6 +360,7 @@ Please note if a card is not here, it is subject to normal Common Charity legali
 | [Triamid Pulse](https://db.ygoprodeck.com/card/?search=Triamid%20Pulse) | Unlimited |
 | [Triamid Sphinx](https://db.ygoprodeck.com/card/?search=Triamid%20Sphinx) | Unlimited |
 | [Tsuchigumo, the Poisonous Mayakashi](https://db.ygoprodeck.com/card/?search=Tsuchigumo,%20the%20Poisonous%20Mayakashi) | Unlimited |
+| [Tsukahagi, the Poisonous Mayakashi](https://db.ygoprodeck.com/card/?search=Tsukahagi,%20the%20Poisonous%20Mayakashi) | Unlimited |
 | [Twilight Ninja Jogen](https://db.ygoprodeck.com/card/?search=Twilight%20Ninja%20Jogen) | Unlimited |
 | [Twilight Ninja Kagen](https://db.ygoprodeck.com/card/?search=Twilight%20Ninja%20Kagen) | Unlimited |
 | [U.A. Blockbacker](https://db.ygoprodeck.com/card/?search=U.A.%20Blockbacker) | Unlimited |
