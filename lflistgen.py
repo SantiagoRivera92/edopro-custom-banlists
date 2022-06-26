@@ -83,7 +83,7 @@ def writeCardsToSite(cards, outfile):
 def writeHeader(outfile):
 	outfile.write("---\ntitle:  \"Common Charity\"\n---")
 	outfile.write("\n\n## Common Charity F&L list")
-	outfile.write("\n\n[You can find the EDOPRO banlist here](https://github.com/diamonddudetcg/edopro-custom-banlists/raw/main/banlist/charity.lflist.conf), just right click the link and press \"Save as...\"")
+	outfile.write("\n\n[You can find the EDOPRO banlist here](https://drive.google.com/file/d/1-08CCuLSHNzJJ48MO_H9SsMuHLkUD4Wf/view?usp=sharing). Open the link, click on the three dots in the top right and then click Download.")
 	outfile.write("\n\nThe banlist file goes into the lflists folder in your EDOPRO installation folder. Assuming you use Windows, it usually is C:/ProjectIgnis/lflists")
 	outfile.write("\n\nEDOPRO will not recognize a change in banlists while it is open. You will have to restart EDOPRO for the changes to be reflected.")
 	outfile.write("\n\n| Card name | Status |")
