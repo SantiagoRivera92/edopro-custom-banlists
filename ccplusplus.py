@@ -18,7 +18,11 @@ additionalForbidden = [
 		]
 additionalLimited = [
 		"Daigusto Emeral",
-		"Trishula, Dragon of the Ice Barrier"
+		"Trishula, Dragon of the Ice Barrier",
+		"Redox, Dragon Ruler of Boulders",
+		"Tidal, Dragon Ruler of Waterfalls",
+		"Blaster, Dragon Ruler of Infernos",
+		"Tempest, Dragon Ruler of Storms",
 		]
 additionalSemiLimited = []
 additionalUnlimited = [
@@ -384,10 +388,6 @@ additionalUnlimited = [
 	"Darkflare Dragon",
 	"Dragunity Knight - Vajrayana",
 	"Dragunity Arma Gram",
-	"Redox, Dragon Ruler of Boulders",
-	"Tidal, Dragon Ruler of Waterfalls",
-	"Blaster, Dragon Ruler of Infernos",
-	"Tempest, Dragon Ruler of Storms",
 	"Therion Charge",
 	"Adamancipator Researcher",
 	"Adamancipator Analyzer",
