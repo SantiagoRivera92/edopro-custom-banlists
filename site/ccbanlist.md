@@ -4,6 +4,12 @@ title:  "Common Charity"
 
 ## Common Charity F&L list
 
+[You can find the EDOPRO banlist here](https://github.com/diamonddudetcg/edopro-custom-banlists/raw/main/banlist/charity.lflist.conf), just right click the link and press "Save as..."
+
+The banlist file goes into the lflists folder in your EDOPRO installation folder. Assuming you use Windows, it usually is C:/ProjectIgnis/lflists
+
+EDOPRO will not recognize a change in banlists while it is open. You will have to restart EDOPRO for the changes to be reflected.
+
 | Card name | Status |
 | :-- | :-- |
 | ["Infernoble Arms - Durendal"](https://db.ygoprodeck.com/card/?search="Infernoble%20Arms%20-%20Durendal") | Illegal |
