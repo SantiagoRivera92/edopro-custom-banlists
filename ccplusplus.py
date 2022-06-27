@@ -815,7 +815,7 @@ def writeCardToSite(card, outfile):
 	elif (cardStatus == 2):
 		cardStatusAsText = "Semi-Limited"
 
-	if cardname in suspectList:
+	if cardName in suspectList:
 		cardStatusAsText = "%s (!!)"%cardStatusAsText
 
 	cardUrl = "https://db.ygoprodeck.com/card/?search=%s"%card.get(name).replace(" ", "%20").replace("&", "%26")		
