@@ -818,12 +818,8 @@ def writeCardToSite(card, outfile):
 	if cardname in suspectList:
 		cardStatusAsText = "%s (!!)"%cardStatusAsText
 
-	cardUrl = "https://db.ygoprodeck.com/card/?search=%s"%card.get(name).replace(" ", "%20").replace("&", "%26")
-
-	if suspect:
-		
-	else
-		outfile.write("\n| [%s](%s) | %s |"%(card.get(name), cardUrl, cardStatusAsText))
+	cardUrl = "https://db.ygoprodeck.com/card/?search=%s"%card.get(name).replace(" ", "%20").replace("&", "%26")		
+	outfile.write("\n| [%s](%s) | %s |"%(card.get(name), cardUrl, cardStatusAsText))
 
 def writeCardsToSite(cards, outfile):
 	for card in sorted(cards, key=operator.itemgetter('status')):
