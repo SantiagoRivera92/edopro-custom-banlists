@@ -711,6 +711,46 @@ additionalUnlimited = [
 	"Infestation Wave"
 	]
 
+suspectList = [
+	"\"Infernoble Arms - Durendal\"",
+	"Abyss Shark",
+	"Astrograph Sorcerer",
+	"Brionac, Dragon of the Ice Barrier",
+	"Clear Wing Fast Dragon",
+	"Clear Wing Synchro Dragon",
+	"Constellar Ptolemy M7",
+	"Dakki, the Graceful Mayakashi",
+	"Dark Armed the Dragon of Annihilation",
+	"Divine Dragon Knight Felgrand",
+	"Dragunity Arma Gram",
+	"Evilswarm Ophion",
+	"Fire King High Avatar Garunix",
+	"Frightfur Kraken",
+	"Frightfur Sabre-Tooth",
+	"Galaxy-Eyes Solflare Dragon",
+	"Gem-Knight Phantom Quartz",
+	"Glow-Up Bloom",
+	"Grapha, Dragon Lord of Dark World",
+	"Hi-Speedroid Hagoita",
+	"Hieratic Dragon King of Atum",
+	"Karakuri Shogn mdl 00 \"Burei\"",
+	"Mecha Phantom Beast Dracossack",
+	"Mermail Abyssteus",
+	"Noble Knight Borz",
+	"Noble Knight Medraut",
+	"Performapal Celestial Magician",
+	"Purple Poison Magician",
+	"Reflection of Endymion",
+	"Salamangreat Balelynx",
+	"T.G. Trident Launcher",
+	"Vampire Fraulein",
+	"Vision HERO Vyon",
+	"Vylon Cube",
+	"Vylon Sphere",
+	"Wandering King Wildwind",
+	"Zektrike Kou-ou"
+]
+
 #(C) is common, (SP) is Short Print, (SSP) is Super Short Print, (DNPR) is Duel Terminal common
 legalRarities = ['(C)', '(SP)', '(SSP)', '(DNPR)']
 
@@ -763,6 +803,7 @@ def writeCardToBanlist(card, outfile):
 		print(card)
 
 def writeCardToSite(card, outfile):
+	cardName = card.get(name)
 	cardStatus = card.get(status)
 	cardStatusAsText = "Unlimited"
 	if (cardStatus == -1):
@@ -774,9 +815,15 @@ def writeCardToSite(card, outfile):
 	elif (cardStatus == 2):
 		cardStatusAsText = "Semi-Limited"
 
+	if cardname in suspectList:
+		cardStatusAsText = "%s (!!)"%cardStatusAsText
+
 	cardUrl = "https://db.ygoprodeck.com/card/?search=%s"%card.get(name).replace(" ", "%20").replace("&", "%26")
 
-	outfile.write("\n| [%s](%s) | %s |"%(card.get(name), cardUrl, cardStatusAsText))
+	if suspect:
+		
+	else
+		outfile.write("\n| [%s](%s) | %s |"%(card.get(name), cardUrl, cardStatusAsText))
 
 def writeCardsToSite(cards, outfile):
 	for card in sorted(cards, key=operator.itemgetter('status')):
@@ -789,6 +836,7 @@ def writeHeader(outfile):
 	outfile.write("[You can find the EDOPRO banlist here](https://drive.google.com/file/d/1-1HTHnYJyKyyBg94iAwFm-uNayfp0yyT/view?usp=sharing). Open the link, click on the three dots in the top right and then click Download.\n\n")
 	outfile.write("The banlist file goes into the lflists folder in your EDOPRO installation folder. Assuming you use Windows, it usually is C:/ProjectIgnis/lflists\n\n")
 	outfile.write("EDOPRO will not recognize a change in banlists while it is open. You will have to restart EDOPRO for the changes to be reflected.\n\n")
+	outfile.write("Cards with (!!) after their status are considered potentially problematic and might get removed from the format in the future.")
 	outfile.write("\n\n| Card name | Status |")
 	outfile.write("\n| :-- | :-- |")
 
