@@ -751,6 +751,79 @@ suspectList = [
 	"Zektrike Kou-ou"
 ]
 
+considering = [
+	"Paleozoic Opabinia", 
+	"Paleozoic Anomalocaris",
+	"Gladiator Beast Tamer Editor", 
+	"Raidraptor - Tribute Lanius", 
+	"Raidraptor - Strangle Lanius", 
+	"Raider's Wing", 
+	"Raidraptor - Necro Vulture", 
+	"Raidraptor - Fiend Eagle", 
+	"Raidraptor - Blaze Falcon", 
+	"Raidraptor - Stranger Falcon",
+	"Raidraptor - Revolution Falcon - Air Raid",
+	"Raidraptor - Arsenal Falcon",
+	"Raidraptor - Satellite Cannon Falcon",
+	"Raidraptor - Final Fortress Falcon",
+	"Rank-Up-Magic Soul Shave Force",
+	"Rank-Up-Magic Raid Force",
+	"Raidraptor - Call",
+	"Rank-Up-Magic Skip Force",
+	"Rank-Up-Magic Revolution Force",
+	"Rank-Up-Magic Doom Double Force",
+	"Phantom Knights' Rank-Up-Magic Force",
+	"Raidraptor Replica",
+	"Gladiator Beast Essedarii",
+	"Sky Cavalry Centaurea",
+	"Psychic Wheeleder",
+	"SPYRAL Super Agent",
+	"SPYRAL Tough",
+	"SPYRAL Resort",
+	"SPYGAL Misty",
+	"SPYRAL GEAR - Big Red",
+	"SPYRAL MISSION - Assault",
+	"SPYRAL GEAR - Utility Wire",
+	"Reactor Slime",
+	"Obelisk the Tormentor",
+	"Slifer the Sky Dragon",
+	"Egyptian God Slime",
+	"The Winged Dragon of Ra",
+	"Guardian Slime",
+	"Ancient Chant",
+	"Blaze Cannon",
+	"Millennium Revelation",
+	"Thunderforce Attack",
+	"Fist of Fate",
+	"Uria, Lord of Searing Flames",
+	"Armityle the Chaos Phantasm",
+	"Dimension Fusion Destruction",
+	"Cerulean Skyfire",
+	"Hyper Blaze",
+	"Hamon, Lord of Striking Thunder",
+	"Raviel, Lord of Phantasms",
+	"Raviel, Lord of Phantasms - Shimmering Scraper",
+	"Machina Metalcruncher",
+	"Machina Air Raider",
+	"Machina Possesstorage",
+	"Machina Redeployment",
+	"Super Express Bullet Train",
+	"Brotherhood of the Fire Fist - Rooster",
+	"Brotherhood of the Fire Fist - Gorilla",
+	"Brotherhood of the Fire Fist - Dragon",
+	"Brotherhood of the Fire Fist - Kirin",
+	"Brotherhood of the Fire Fist - Cardinal",
+	"Brotherhood of the Fire Fist - Tiger King",
+	"Brotherhood of the Fire Fist - Lion Emperor",
+	"Fire Formation - Gyokkou",
+	"Lyrilusc - Promenade Thrush",
+	"Number F0: Utopic Future Slash",
+	"Totem Bird",
+	"Soul of Silvermountain",
+	"Gunkan Suship Uni-class Super-Dreadnought",
+
+]
+
 #(C) is common, (SP) is Short Print, (SSP) is Super Short Print, (DNPR) is Duel Terminal common
 legalRarities = ['(C)', '(SP)', '(SSP)', '(DNPR)']
 
@@ -798,7 +871,10 @@ def printAdditionalArrays():
 
 def writeCardToBanlist(card, outfile):
 	try:
-		outfile.write("%d %d -- %s\n" % (card.get(cardId), card.get(status), card.get(name)))
+		cardStatus = card.get(status)
+		if cardStatus == -1
+			cardStatus = 0
+		outfile.write("%d %d -- %s\n" % (card.get(cardId), cardStatus, card.get(name)))
 	except TypeError:
 		print(card)
 
@@ -833,6 +909,8 @@ def writeHeader(outfile):
 	outfile.write("The banlist file goes into the lflists folder in your EDOPRO installation folder. Assuming you use Windows, it usually is C:/ProjectIgnis/lflists\n\n")
 	outfile.write("EDOPRO will not recognize a change in banlists while it is open. You will have to restart EDOPRO for the changes to be reflected.\n\n")
 	outfile.write("Cards with (!!) after their status are considered potentially problematic and might get removed from the format in the future.\n\n")
+	outfile.write("Cards marked as Illegal here are also Illegal in regular CC, but we are considering introducing them. Note this does not guarantee it ever makes it into CC++.")
+	outfile.write("The philosophy of this format can be summarized in: No Extra Deck based omninegates and no Link 2 and below extension. Payoffs are kept at a level where you cannot make multiple negations turn 1, so decks are forced to prioritize follow-up and grind game.")
 	outfile.write("\n\n| Card name | Status |")
 	outfile.write("\n| :-- | :-- |")
 
@@ -893,26 +971,30 @@ def generateArrays():
 						banTcg = 0
 						additionalForbidden.remove(cardName)
 						pushToSite = True
-				if card.get(name) in additionalLimited:
+				if cardName in additionalLimited:
 					if (banTcg != 1):
 						banTcg = 1
 						additionalLimited.remove(cardName)
 						pushToSite = True
-				if card.get(name) in additionalSemiLimited:
+				if cardName in additionalSemiLimited:
 					if (banTcg != 2):
 						banTcg = 2
 						additionalSemiLimited.remove(cardName)
 						pushToSite = True
-				if card.get(name) in additionalUnlimited:
+				if cardName in additionalUnlimited:
 					if (banTcg != 3):
 						banTcg = 3
 						additionalUnlimited.remove(cardName)
 						pushToSite = True
 
+				if cardName in considering:
+					banTcg = -1
+					considering.remove(cardName)
+
 				alreadyInSite = False
 				for variant in images:
 					simpleCard = {}
-					simpleCard[name] = card.get(name)
+					simpleCard[name] = cardName
 					simpleCard[status] = banTcg
 					simpleCard[cardId] = variant.get(cardId)
 					if not alreadyInSite:
@@ -925,7 +1007,7 @@ def generateArrays():
 			if (card.get(card_sets)) == None and card.get(cardType) != token:
 				for variant in card.get(card_images):
 					simpleCard = {}
-					simpleCard[name] = card.get(name)
+					simpleCard[name] = cardName
 					simpleCard[status] = -1
 					variantCardId = variant.get(cardId)
 					simpleCard[cardId] = variantCardId
