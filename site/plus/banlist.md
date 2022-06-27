@@ -14,7 +14,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 
 Cards with (!!) after their status are considered potentially problematic and might get removed from the format in the future.
 
-
+Cards marked as Illegal here are also Illegal in regular CC, but we are considering introducing them. Note this does not guarantee it ever makes it into CC++.The philosophy of this format can be summarized in: No Extra Deck based omninegates and no Link 2 and below extension. Payoffs are kept at a level where you cannot make multiple negations turn 1, so decks are forced to prioritize follow-up and grind game.
 
 | Card name | Status |
 | :-- | :-- |

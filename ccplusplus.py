@@ -872,7 +872,7 @@ def printAdditionalArrays():
 def writeCardToBanlist(card, outfile):
 	try:
 		cardStatus = card.get(status)
-		if cardStatus == -1
+		if cardStatus == -1:
 			cardStatus = 0
 		outfile.write("%d %d -- %s\n" % (card.get(cardId), cardStatus, card.get(name)))
 	except TypeError:
