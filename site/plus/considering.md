@@ -78,4 +78,4 @@ None of these cards are legal, but they might be in the future.
 | [Totem Bird](https://db.ygoprodeck.com/card/?search=Totem%20Bird) | Illegal |
 | [Uria, Lord of Searing Flames](https://db.ygoprodeck.com/card/?search=Uria,%20Lord%20of%20Searing%20Flames) | Illegal |
 
-###### [Back home](index)
+###### [Back home](/site/plus/index)
