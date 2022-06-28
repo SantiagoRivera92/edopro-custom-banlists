@@ -900,7 +900,8 @@ def writeCardToSite(card, outfile):
 
 def writeCardsToSite(cards, outfile):
 	for card in sorted(cards, key=operator.itemgetter('status')):
-		writeCardToSite(card,outfile)
+		if card.get(status) > 0:
+			writeCardToSite(card,outfile)
 
 def writeConsideringCards(cards, outfile):
 	for card in cards:
