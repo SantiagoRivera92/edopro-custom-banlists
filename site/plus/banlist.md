@@ -4,7 +4,7 @@ title:  "Common Charity ++"
 
 ## Common Charity++ F&L List
 
-Please note if a card is not here, it is subject to normal Common Charity legality
+Please note if a card is not here, it is subject to normal [Common Charity legality](/edopro-custom-banlists/site/ccbanlist)
 
 [You can find the EDOPRO banlist here](https://drive.google.com/file/d/1-1HTHnYJyKyyBg94iAwFm-uNayfp0yyT/view?usp=sharing). Open the link, click on the three dots in the top right and then click Download.
 
