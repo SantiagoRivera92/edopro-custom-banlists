@@ -852,6 +852,7 @@ status = 'status'
 #Filename for banlist file
 banlistFilename = 'banlist/cc++.lflist.conf'
 siteFilename ='site/plus/banlist.md'
+consideringFilename ='site/plus/considering.md'
 
 #Card arrays
 siteCards = []
@@ -901,16 +902,28 @@ def writeCardsToSite(cards, outfile):
 	for card in sorted(cards, key=operator.itemgetter('status')):
 		writeCardToSite(card,outfile)
 
+def writeConsideringCards(cards, outfile):
+	for card in cards:
+		if card.get(status) == -1:
+			writeCardToSite(card,outfile)
+
 def writeHeader(outfile):
-	outfile.write("---\ntitle:  \"Common Charity++\"\n---")
-	outfile.write("\n\n## Common Charity++ F&L list\n\n")
+	outfile.write("---\ntitle:  \"Common Charity ++\"\n---")
+	outfile.write("\n\n## Common Charity++ F&L List\n\n")
 	outfile.write("Please note if a card is not here, it is subject to normal Common Charity legality\n\n")
 	outfile.write("[You can find the EDOPRO banlist here](https://drive.google.com/file/d/1-1HTHnYJyKyyBg94iAwFm-uNayfp0yyT/view?usp=sharing). Open the link, click on the three dots in the top right and then click Download.\n\n")
 	outfile.write("The banlist file goes into the lflists folder in your EDOPRO installation folder. Assuming you use Windows, it usually is C:/ProjectIgnis/lflists\n\n")
 	outfile.write("EDOPRO will not recognize a change in banlists while it is open. You will have to restart EDOPRO for the changes to be reflected.\n\n")
 	outfile.write("Cards with (!!) after their status are considered potentially problematic and might get removed from the format in the future.\n\n")
-	outfile.write("Cards marked as Illegal here are also Illegal in regular CC, but we are considering introducing them. Note this does not guarantee it ever makes it into CC++.")
+	outfile.write("You can see a list of cards we're considering to introduce to the format [here](/considering). Note this does not guarantee it ever makes it into CC++.\n\n")
 	outfile.write("The philosophy of this format can be summarized in: No Extra Deck based omninegates and no Link 2 and below extension. Payoffs are kept at a level where you cannot make multiple negations turn 1, so decks are forced to prioritize follow-up and grind game.")
+	outfile.write("\n\n| Card name | Status |")
+	outfile.write("\n| :-- | :-- |")
+
+def writeConsideringHeader(outfile):
+	outfile.write("---\ntitle:  \"Common Charity ++\"\n---")
+	outfile.write("\n\n## Common Charity++ Consideration List\n\n")
+	outfile.write("None of these cards are legal, but they might be in the future.")
 	outfile.write("\n\n| Card name | Status |")
 	outfile.write("\n| :-- | :-- |")
 
@@ -918,10 +931,14 @@ def writeFooter(outfile):
 	outfile.write("\n\n###### [Back home](index)")
 
 def printSite():
-	with open(siteFilename, 'w', encoding="'utf-8") as siteFile:
+	with open(siteFilename, 'w', encoding="utf-8") as siteFile:
 		writeHeader(siteFile)
 		writeCardsToSite(siteCards, siteFile)
 		writeFooter(siteFile)
+	with open(consideringFilename, 'w', encoding ="utf-8") as consideringFile:
+		writeConsideringHeader(consideringFile)
+		writeConsideringCards(siteCards, consideringFile)
+		writeFooter(consideringFile)
 
 def printBanlist():
 	with open(banlistFilename, 'w', encoding="utf-8") as outfile:
