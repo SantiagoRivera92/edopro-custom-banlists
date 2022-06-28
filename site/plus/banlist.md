@@ -713,4 +713,4 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Zektrike Kou-ou](https://db.ygoprodeck.com/card/?search=Zektrike%20Kou-ou) | Unlimited (!!) |
 | [Zuijin of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Zuijin%20of%20the%20Ice%20Barrier) | Unlimited |
 
-###### [Back home](edopro-custom-banlists/site/index)
+###### [Back home](/edopro-custom-banlists/site/index)
