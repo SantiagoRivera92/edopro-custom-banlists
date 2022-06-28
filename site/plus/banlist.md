@@ -14,12 +14,15 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 
 Cards with (!!) after their status are considered potentially problematic and might get removed from the format in the future.
 
-You can see a list of cards we're considering to introduce to the format [here](/considering). Note this does not guarantee it ever makes it into CC++.
+You can see a list of cards we're considering to introduce to the format [here](considering). Note this does not guarantee it ever makes it into CC++.
 
 The philosophy of this format can be summarized in: No Extra Deck based omninegates and no Link 2 and below extension. Payoffs are kept at a level where you cannot make multiple negations turn 1, so decks are forced to prioritize follow-up and grind game.
 
 | Card name | Status |
 | :-- | :-- |
+| [Artifact Scythe](https://db.ygoprodeck.com/card/?search=Artifact%20Scythe) | Forbidden |
+| [Moulinglacia the Elemental Lord](https://db.ygoprodeck.com/card/?search=Moulinglacia%20the%20Elemental%20Lord) | Forbidden |
+| [There Can Be Only One](https://db.ygoprodeck.com/card/?search=There%20Can%20Be%20Only%20One) | Forbidden |
 | [Astrograph Sorcerer](https://db.ygoprodeck.com/card/?search=Astrograph%20Sorcerer) | Limited (!!) |
 | [Blaster, Dragon Ruler of Infernos](https://db.ygoprodeck.com/card/?search=Blaster,%20Dragon%20Ruler%20of%20Infernos) | Limited |
 | [Daigusto Emeral](https://db.ygoprodeck.com/card/?search=Daigusto%20Emeral) | Limited |

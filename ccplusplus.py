@@ -900,7 +900,7 @@ def writeCardToSite(card, outfile):
 
 def writeCardsToSite(cards, outfile):
 	for card in sorted(cards, key=operator.itemgetter('status')):
-		if card.get(status) > 0:
+		if card.get(status) > -1:
 			writeCardToSite(card,outfile)
 
 def writeConsideringCards(cards, outfile):
@@ -916,7 +916,7 @@ def writeHeader(outfile):
 	outfile.write("The banlist file goes into the lflists folder in your EDOPRO installation folder. Assuming you use Windows, it usually is C:/ProjectIgnis/lflists\n\n")
 	outfile.write("EDOPRO will not recognize a change in banlists while it is open. You will have to restart EDOPRO for the changes to be reflected.\n\n")
 	outfile.write("Cards with (!!) after their status are considered potentially problematic and might get removed from the format in the future.\n\n")
-	outfile.write("You can see a list of cards we're considering to introduce to the format [here](/considering). Note this does not guarantee it ever makes it into CC++.\n\n")
+	outfile.write("You can see a list of cards we're considering to introduce to the format [here](considering). Note this does not guarantee it ever makes it into CC++.\n\n")
 	outfile.write("The philosophy of this format can be summarized in: No Extra Deck based omninegates and no Link 2 and below extension. Payoffs are kept at a level where you cannot make multiple negations turn 1, so decks are forced to prioritize follow-up and grind game.")
 	outfile.write("\n\n| Card name | Status |")
 	outfile.write("\n| :-- | :-- |")
