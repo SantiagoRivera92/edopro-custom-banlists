@@ -990,6 +990,7 @@ def generateArrays():
 				if cardName in considering:
 					banTcg = -1
 					considering.remove(cardName)
+					pushToSite = True
 
 				alreadyInSite = False
 				for variant in images:
