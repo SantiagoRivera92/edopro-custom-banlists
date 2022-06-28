@@ -743,6 +743,7 @@ suspectList = [
 	"Reflection of Endymion",
 	"Salamangreat Balelynx",
 	"T.G. Trident Launcher",
+	"Time Thief Adjuster",
 	"Vampire Fraulein",
 	"Vision HERO Vyon",
 	"Vylon Cube",

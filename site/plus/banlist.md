@@ -600,7 +600,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Thunder Dragonhawk](https://db.ygoprodeck.com/card/?search=Thunder%20Dragonhawk) | Unlimited |
 | [Thunder Dragonroar](https://db.ygoprodeck.com/card/?search=Thunder%20Dragonroar) | Unlimited |
 | [Time Seal](https://db.ygoprodeck.com/card/?search=Time%20Seal) | Unlimited |
-| [Time Thief Adjuster](https://db.ygoprodeck.com/card/?search=Time%20Thief%20Adjuster) | Unlimited |
+| [Time Thief Adjuster](https://db.ygoprodeck.com/card/?search=Time%20Thief%20Adjuster) | Unlimited (!!) |
 | [Time Thief Double Barrel](https://db.ygoprodeck.com/card/?search=Time%20Thief%20Double%20Barrel) | Unlimited |
 | [Time Thief Perpetua](https://db.ygoprodeck.com/card/?search=Time%20Thief%20Perpetua) | Unlimited |
 | [Time Thief Temporwhal](https://db.ygoprodeck.com/card/?search=Time%20Thief%20Temporwhal) | Unlimited |
