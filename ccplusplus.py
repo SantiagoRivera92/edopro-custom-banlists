@@ -929,7 +929,7 @@ def writeConsideringHeader(outfile):
 	outfile.write("\n| :-- | :-- |")
 
 def writeFooter(outfile):
-	outfile.write("\n\n###### [Back home](/site/plus/index)")
+	outfile.write("\n\n###### [Back home](edopro-custom-banlists/site/index)")
 
 def printSite():
 	with open(siteFilename, 'w', encoding="utf-8") as siteFile:
