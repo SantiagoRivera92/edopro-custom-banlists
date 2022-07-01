@@ -718,6 +718,22 @@ additionalUnlimited = [
 	"SPYRAL GEAR - Big Red",
 	"SPYRAL MISSION - Assault",
 	"SPYRAL GEAR - Utility Wire",
+	"Kozmojo",
+	"Kozmotown",
+	"Kozmo Tincan",
+	"Kozmo Strawman",
+	"Kozmo Scaredy Lion",
+	"Kozmo Soartroopers",
+	"Kozmo Farmgirl",
+	"Kozmo Goodwitch",
+	"Kozmoll Dark Lady",
+	"Kozmo Sliprider",
+	"Kozmo DOG Fighter",
+	"Kozmo Landwalker",
+	"Kozmo Forerunner",
+	"Kozmo Dark Destroyer",
+	"Kozmo Dark Eclipser",
+	"Kozmo Dark Planet"
 	]
 
 suspectList = [
