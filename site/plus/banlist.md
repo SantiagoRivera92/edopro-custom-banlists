@@ -26,7 +26,9 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Astrograph Sorcerer](https://db.ygoprodeck.com/card/?search=Astrograph%20Sorcerer) | Limited (!!) |
 | [Blaster, Dragon Ruler of Infernos](https://db.ygoprodeck.com/card/?search=Blaster,%20Dragon%20Ruler%20of%20Infernos) | Limited |
 | [Daigusto Emeral](https://db.ygoprodeck.com/card/?search=Daigusto%20Emeral) | Limited |
+| [Gladiator Beast Tamer Editor](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Tamer%20Editor) | Limited |
 | [Redox, Dragon Ruler of Boulders](https://db.ygoprodeck.com/card/?search=Redox,%20Dragon%20Ruler%20of%20Boulders) | Limited |
+| [SPYRAL Resort](https://db.ygoprodeck.com/card/?search=SPYRAL%20Resort) | Limited |
 | [Tempest, Dragon Ruler of Storms](https://db.ygoprodeck.com/card/?search=Tempest,%20Dragon%20Ruler%20of%20Storms) | Limited |
 | [Tidal, Dragon Ruler of Waterfalls](https://db.ygoprodeck.com/card/?search=Tidal,%20Dragon%20Ruler%20of%20Waterfalls) | Limited |
 | [Trishula, Dragon of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Trishula,%20Dragon%20of%20the%20Ice%20Barrier) | Limited |
@@ -534,6 +536,12 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Springans Merrymaker](https://db.ygoprodeck.com/card/?search=Springans%20Merrymaker) | Unlimited |
 | [Springans Ship - Exblowrer](https://db.ygoprodeck.com/card/?search=Springans%20Ship%20-%20Exblowrer) | Unlimited |
 | [Springans Watch](https://db.ygoprodeck.com/card/?search=Springans%20Watch) | Unlimited |
+| [SPYGAL Misty](https://db.ygoprodeck.com/card/?search=SPYGAL%20Misty) | Unlimited |
+| [SPYRAL GEAR - Big Red](https://db.ygoprodeck.com/card/?search=SPYRAL%20GEAR%20-%20Big%20Red) | Unlimited |
+| [SPYRAL GEAR - Utility Wire](https://db.ygoprodeck.com/card/?search=SPYRAL%20GEAR%20-%20Utility%20Wire) | Unlimited |
+| [SPYRAL MISSION - Assault](https://db.ygoprodeck.com/card/?search=SPYRAL%20MISSION%20-%20Assault) | Unlimited |
+| [SPYRAL Super Agent](https://db.ygoprodeck.com/card/?search=SPYRAL%20Super%20Agent) | Unlimited |
+| [SPYRAL Tough](https://db.ygoprodeck.com/card/?search=SPYRAL%20Tough) | Unlimited |
 | [Star Eater](https://db.ygoprodeck.com/card/?search=Star%20Eater) | Unlimited |
 | [Star Seraph Scale](https://db.ygoprodeck.com/card/?search=Star%20Seraph%20Scale) | Unlimited |
 | [Star Seraph Scepter](https://db.ygoprodeck.com/card/?search=Star%20Seraph%20Scepter) | Unlimited |
@@ -600,8 +608,6 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Thunder Dragonhawk](https://db.ygoprodeck.com/card/?search=Thunder%20Dragonhawk) | Unlimited |
 | [Thunder Dragonroar](https://db.ygoprodeck.com/card/?search=Thunder%20Dragonroar) | Unlimited |
 | [Time Seal](https://db.ygoprodeck.com/card/?search=Time%20Seal) | Unlimited |
-| [Time Thief Adjuster](https://db.ygoprodeck.com/card/?search=Time%20Thief%20Adjuster) | Unlimited (!!) |
-| [Time Thief Double Barrel](https://db.ygoprodeck.com/card/?search=Time%20Thief%20Double%20Barrel) | Unlimited |
 | [Time Thief Perpetua](https://db.ygoprodeck.com/card/?search=Time%20Thief%20Perpetua) | Unlimited |
 | [Time Thief Temporwhal](https://db.ygoprodeck.com/card/?search=Time%20Thief%20Temporwhal) | Unlimited |
 | [Tindangle Dholes](https://db.ygoprodeck.com/card/?search=Tindangle%20Dholes) | Unlimited |

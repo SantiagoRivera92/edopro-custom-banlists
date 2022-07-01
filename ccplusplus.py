@@ -23,7 +23,9 @@ additionalLimited = [
 		"Tidal, Dragon Ruler of Waterfalls",
 		"Blaster, Dragon Ruler of Infernos",
 		"Tempest, Dragon Ruler of Storms",
-		"Astrograph Sorcerer"
+		"Astrograph Sorcerer",
+		"Gladiator Beast Tamer Editor",
+		"SPYRAL Resort"
 		]
 additionalSemiLimited = []
 additionalUnlimited = [
@@ -153,9 +155,7 @@ additionalUnlimited = [
 	"Tellarknight Genesis",
 	"Stellarnova Alpha",
 	"The Phantom Knights of Break Sword",
-	"Time Thief Adjuster",
 	"Time Thief Temporwhal",
-	"Time Thief Double Barrel",
 	"Time Thief Perpetua",
 	"Thunder Dragonduo",
 	"Thunder Dragondark",
@@ -708,7 +708,13 @@ additionalUnlimited = [
 	"Steelswarm Caller",
 	"Steelswarm Scout",
 	"Steelswarm Origin",
-	"Infestation Wave"
+	"Infestation Wave",
+	"SPYRAL Super Agent",
+	"SPYRAL Tough",
+	"SPYGAL Misty",
+	"SPYRAL GEAR - Big Red",
+	"SPYRAL MISSION - Assault",
+	"SPYRAL GEAR - Utility Wire",
 	]
 
 suspectList = [
@@ -743,7 +749,6 @@ suspectList = [
 	"Reflection of Endymion",
 	"Salamangreat Balelynx",
 	"T.G. Trident Launcher",
-	"Time Thief Adjuster",
 	"Vampire Fraulein",
 	"Vision HERO Vyon",
 	"Vylon Cube",
@@ -755,7 +760,6 @@ suspectList = [
 considering = [
 	"Paleozoic Opabinia", 
 	"Paleozoic Anomalocaris",
-	"Gladiator Beast Tamer Editor", 
 	"Raidraptor - Tribute Lanius", 
 	"Raidraptor - Strangle Lanius", 
 	"Raider's Wing", 
@@ -778,13 +782,6 @@ considering = [
 	"Gladiator Beast Essedarii",
 	"Sky Cavalry Centaurea",
 	"Psychic Wheeleder",
-	"SPYRAL Super Agent",
-	"SPYRAL Tough",
-	"SPYRAL Resort",
-	"SPYGAL Misty",
-	"SPYRAL GEAR - Big Red",
-	"SPYRAL MISSION - Assault",
-	"SPYRAL GEAR - Utility Wire",
 	"Reactor Slime",
 	"Obelisk the Tormentor",
 	"Slifer the Sky Dragon",
