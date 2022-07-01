@@ -68,6 +68,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Batteryman Fuel Cell](https://db.ygoprodeck.com/card/?search=Batteryman%20Fuel%20Cell) | Unlimited |
 | [Batteryman Industrial Strength](https://db.ygoprodeck.com/card/?search=Batteryman%20Industrial%20Strength) | Unlimited |
 | [Battlin' Boxer Lead Yoke](https://db.ygoprodeck.com/card/?search=Battlin'%20Boxer%20Lead%20Yoke) | Unlimited |
+| [Beast Striker](https://db.ygoprodeck.com/card/?search=Beast%20Striker) | Unlimited |
 | [Beat, Bladesman Fur Hire](https://db.ygoprodeck.com/card/?search=Beat,%20Bladesman%20Fur%20Hire) | Unlimited |
 | [Beautunaful Princess](https://db.ygoprodeck.com/card/?search=Beautunaful%20Princess) | Unlimited |
 | [Berserkion the Electromagna Warrior](https://db.ygoprodeck.com/card/?search=Berserkion%20the%20Electromagna%20Warrior) | Unlimited |
@@ -311,6 +312,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Karakuri Ninja mdl 339 "Sazank"](https://db.ygoprodeck.com/card/?search=Karakuri%20Ninja%20mdl%20339%20"Sazank") | Unlimited |
 | [Karakuri Shogun mdl 00 "Burei"](https://db.ygoprodeck.com/card/?search=Karakuri%20Shogun%20mdl%2000%20"Burei") | Unlimited |
 | [Karakuri Super Shogun mdl 00N "Bureibu"](https://db.ygoprodeck.com/card/?search=Karakuri%20Super%20Shogun%20mdl%2000N%20"Bureibu") | Unlimited |
+| [King of the Beasts](https://db.ygoprodeck.com/card/?search=King%20of%20the%20Beasts) | Unlimited |
 | [Koa'ki Meiru Crusader](https://db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Crusader) | Unlimited |
 | [Koa'ki Meiru Maximus](https://db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Maximus) | Unlimited |
 | [Koa'ki Meiru Urnight](https://db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Urnight) | Unlimited |
@@ -394,6 +396,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Micro Coder](https://db.ygoprodeck.com/card/?search=Micro%20Coder) | Unlimited |
 | [Missus Radiant](https://db.ygoprodeck.com/card/?search=Missus%20Radiant) | Unlimited |
 | [Mist Wurm](https://db.ygoprodeck.com/card/?search=Mist%20Wurm) | Unlimited |
+| [Moja](https://db.ygoprodeck.com/card/?search=Moja) | Unlimited |
 | [Myutant Arsenal](https://db.ygoprodeck.com/card/?search=Myutant%20Arsenal) | Unlimited |
 | [Myutant Beast](https://db.ygoprodeck.com/card/?search=Myutant%20Beast) | Unlimited |
 | [Myutant Evolution Lab](https://db.ygoprodeck.com/card/?search=Myutant%20Evolution%20Lab) | Unlimited |

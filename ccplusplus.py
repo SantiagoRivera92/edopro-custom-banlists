@@ -29,6 +29,9 @@ additionalLimited = [
 		]
 additionalSemiLimited = []
 additionalUnlimited = [
+	"Moja",
+	"King of the Beasts",
+	"Beast Striker",
 	"Diamond Dire Wolf",
 	"Number S39: Utopia the Lightning", 
 	"Gladiator Beast Augustus", 
