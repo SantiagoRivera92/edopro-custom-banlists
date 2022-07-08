@@ -32,6 +32,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Tempest, Dragon Ruler of Storms](https://db.ygoprodeck.com/card/?search=Tempest,%20Dragon%20Ruler%20of%20Storms) | Limited |
 | [Tidal, Dragon Ruler of Waterfalls](https://db.ygoprodeck.com/card/?search=Tidal,%20Dragon%20Ruler%20of%20Waterfalls) | Limited |
 | [Trishula, Dragon of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Trishula,%20Dragon%20of%20the%20Ice%20Barrier) | Limited |
+| [Witchcrafter Creation](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Creation) | Limited |
 | ["Infernoble Arms - Durendal"](https://db.ygoprodeck.com/card/?search="Infernoble%20Arms%20-%20Durendal") | Unlimited (!!) |
 | ["Infernoble Arms - Joyeuse"](https://db.ygoprodeck.com/card/?search="Infernoble%20Arms%20-%20Joyeuse") | Unlimited |
 | [Absorb Fusion](https://db.ygoprodeck.com/card/?search=Absorb%20Fusion) | Unlimited |
@@ -41,6 +42,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Adamancipator Analyzer](https://db.ygoprodeck.com/card/?search=Adamancipator%20Analyzer) | Unlimited |
 | [Adamancipator Seeker](https://db.ygoprodeck.com/card/?search=Adamancipator%20Seeker) | Unlimited |
 | [Adreus, Keeper of Armageddon](https://db.ygoprodeck.com/card/?search=Adreus,%20Keeper%20of%20Armageddon) | Unlimited |
+| [Alich, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Alich,%20Malebranche%20of%20the%20Burning%20Abyss) | Unlimited |
 | [Alpha The Electromagnet Warrior](https://db.ygoprodeck.com/card/?search=Alpha%20The%20Electromagnet%20Warrior) | Unlimited |
 | [Altergeist Meluseek](https://db.ygoprodeck.com/card/?search=Altergeist%20Meluseek) | Unlimited |
 | [Ancient Warriors - Ambitious Cao De](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20-%20Ambitious%20Cao%20De) | Unlimited |
@@ -65,6 +67,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Atomic Scrap Dragon](https://db.ygoprodeck.com/card/?search=Atomic%20Scrap%20Dragon) | Unlimited |
 | [Avalon](https://db.ygoprodeck.com/card/?search=Avalon) | Unlimited |
 | [Bahamut Shark](https://db.ygoprodeck.com/card/?search=Bahamut%20Shark) | Unlimited |
+| [Barbar, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Barbar,%20Malebranche%20of%20the%20Burning%20Abyss) | Unlimited |
 | [Batteryman Fuel Cell](https://db.ygoprodeck.com/card/?search=Batteryman%20Fuel%20Cell) | Unlimited |
 | [Batteryman Industrial Strength](https://db.ygoprodeck.com/card/?search=Batteryman%20Industrial%20Strength) | Unlimited |
 | [Battlin' Boxer Lead Yoke](https://db.ygoprodeck.com/card/?search=Battlin'%20Boxer%20Lead%20Yoke) | Unlimited |
@@ -85,6 +88,13 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Blue Dragon Ninja](https://db.ygoprodeck.com/card/?search=Blue%20Dragon%20Ninja) | Unlimited |
 | [Brionac, Dragon of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Brionac,%20Dragon%20of%20the%20Ice%20Barrier) | Unlimited (!!) |
 | [Brotherhood of the Fire Fist - Bear](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Bear) | Unlimited |
+| [Brotherhood of the Fire Fist - Cardinal](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Cardinal) | Unlimited |
+| [Brotherhood of the Fire Fist - Dragon](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Dragon) | Unlimited |
+| [Brotherhood of the Fire Fist - Gorilla](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Gorilla) | Unlimited |
+| [Brotherhood of the Fire Fist - Kirin](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Kirin) | Unlimited |
+| [Brotherhood of the Fire Fist - Lion Emperor](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Lion%20Emperor) | Unlimited |
+| [Brotherhood of the Fire Fist - Rooster](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Rooster) | Unlimited |
+| [Brotherhood of the Fire Fist - Tiger King](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Tiger%20King) | Unlimited |
 | [Bujin Arasuda](https://db.ygoprodeck.com/card/?search=Bujin%20Arasuda) | Unlimited |
 | [Bujin Hiruko](https://db.ygoprodeck.com/card/?search=Bujin%20Hiruko) | Unlimited |
 | [Bujin Hirume](https://db.ygoprodeck.com/card/?search=Bujin%20Hirume) | Unlimited |
@@ -99,10 +109,13 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Bujintei Kagutsuchi](https://db.ygoprodeck.com/card/?search=Bujintei%20Kagutsuchi) | Unlimited |
 | [Bujintei Susanowo](https://db.ygoprodeck.com/card/?search=Bujintei%20Susanowo) | Unlimited |
 | [Caam, Serenity of Gusto](https://db.ygoprodeck.com/card/?search=Caam,%20Serenity%20of%20Gusto) | Unlimited |
+| [Cagna, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Cagna,%20Malebranche%20of%20the%20Burning%20Abyss) | Unlimited |
+| [Calcab, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Calcab,%20Malebranche%20of%20the%20Burning%20Abyss) | Unlimited |
 | [Celestial Observatory](https://db.ygoprodeck.com/card/?search=Celestial%20Observatory) | Unlimited |
 | [Ceruli, Guru of Dark World](https://db.ygoprodeck.com/card/?search=Ceruli,%20Guru%20of%20Dark%20World) | Unlimited |
 | [Chaos Valkyria](https://db.ygoprodeck.com/card/?search=Chaos%20Valkyria) | Unlimited |
 | [Chiwen, Light of the Yang Zing](https://db.ygoprodeck.com/card/?search=Chiwen,%20Light%20of%20the%20Yang%20Zing) | Unlimited |
+| [Chow Sai the Ghost Stopper](https://db.ygoprodeck.com/card/?search=Chow%20Sai%20the%20Ghost%20Stopper) | Unlimited |
 | [Chronomaly Aztec Mask Golem](https://db.ygoprodeck.com/card/?search=Chronomaly%20Aztec%20Mask%20Golem) | Unlimited |
 | [Chronomaly Cabrera Trebuchet](https://db.ygoprodeck.com/card/?search=Chronomaly%20Cabrera%20Trebuchet) | Unlimited |
 | [Chronomaly City Babylon](https://db.ygoprodeck.com/card/?search=Chronomaly%20City%20Babylon) | Unlimited |
@@ -141,6 +154,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Daigusto Phoenix](https://db.ygoprodeck.com/card/?search=Daigusto%20Phoenix) | Unlimited |
 | [Daigusto Sphreez](https://db.ygoprodeck.com/card/?search=Daigusto%20Sphreez) | Unlimited |
 | [Dakki, the Graceful Mayakashi](https://db.ygoprodeck.com/card/?search=Dakki,%20the%20Graceful%20Mayakashi) | Unlimited (!!) |
+| [Dante, Pilgrim of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Dante,%20Pilgrim%20of%20the%20Burning%20Abyss) | Unlimited |
 | [Dark Armed, the Dragon of Annihilation](https://db.ygoprodeck.com/card/?search=Dark%20Armed,%20the%20Dragon%20of%20Annihilation) | Unlimited |
 | [Dark Honest](https://db.ygoprodeck.com/card/?search=Dark%20Honest) | Unlimited |
 | [Darkflare Dragon](https://db.ygoprodeck.com/card/?search=Darkflare%20Dragon) | Unlimited |
@@ -158,11 +172,13 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Double Fin Shark](https://db.ygoprodeck.com/card/?search=Double%20Fin%20Shark) | Unlimited |
 | [Downerd Magician](https://db.ygoprodeck.com/card/?search=Downerd%20Magician) | Unlimited |
 | [Draco Face-Off](https://db.ygoprodeck.com/card/?search=Draco%20Face-Off) | Unlimited |
+| [Draghig, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Draghig,%20Malebranche%20of%20the%20Burning%20Abyss) | Unlimited |
 | [Dragunity Arma Gram](https://db.ygoprodeck.com/card/?search=Dragunity%20Arma%20Gram) | Unlimited (!!) |
 | [Dragunity Knight - Vajrayana](https://db.ygoprodeck.com/card/?search=Dragunity%20Knight%20-%20Vajrayana) | Unlimited |
 | [Edea the Heavenly Squire](https://db.ygoprodeck.com/card/?search=Edea%20the%20Heavenly%20Squire) | Unlimited |
 | [Eidos the Underworld Squire](https://db.ygoprodeck.com/card/?search=Eidos%20the%20Underworld%20Squire) | Unlimited |
 | [Elemental HERO Nova Master](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Nova%20Master) | Unlimited |
+| [Elemental HERO Sunrise](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Sunrise) | Unlimited |
 | [Elemental HERO The Shining](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20The%20Shining) | Unlimited |
 | [Elemental Training](https://db.ygoprodeck.com/card/?search=Elemental%20Training) | Unlimited |
 | [Elementsaber Lapauila](https://db.ygoprodeck.com/card/?search=Elementsaber%20Lapauila) | Unlimited |
@@ -188,6 +204,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Fire King Avatar Arvata](https://db.ygoprodeck.com/card/?search=Fire%20King%20Avatar%20Arvata) | Unlimited |
 | [Fire King Avatar Yaksha](https://db.ygoprodeck.com/card/?search=Fire%20King%20Avatar%20Yaksha) | Unlimited |
 | [Fire King High Avatar Garunix](https://db.ygoprodeck.com/card/?search=Fire%20King%20High%20Avatar%20Garunix) | Unlimited (!!) |
+| [Fire Lake of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Fire%20Lake%20of%20the%20Burning%20Abyss) | Unlimited |
 | [Fluffal Dog](https://db.ygoprodeck.com/card/?search=Fluffal%20Dog) | Unlimited |
 | [Fluffal Owl](https://db.ygoprodeck.com/card/?search=Fluffal%20Owl) | Unlimited |
 | [Fluffal Penguin](https://db.ygoprodeck.com/card/?search=Fluffal%20Penguin) | Unlimited |
@@ -241,6 +258,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Gladiator Beast Andabata](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Andabata) | Unlimited |
 | [Gladiator Beast Augustus](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Augustus) | Unlimited |
 | [Gladiator Beast Domitianus](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Domitianus) | Unlimited |
+| [Gladiator Beast Essedarii](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Essedarii) | Unlimited |
 | [Gladiator Beast Gyzarus](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Gyzarus) | Unlimited |
 | [Gladiator Beast Nerokius](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Nerokius) | Unlimited |
 | [Gladiator Beast Noxious](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Noxious) | Unlimited |
@@ -250,6 +268,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Glow-Up Bloom](https://db.ygoprodeck.com/card/?search=Glow-Up%20Bloom) | Unlimited (!!) |
 | [Glow-Up Bulb](https://db.ygoprodeck.com/card/?search=Glow-Up%20Bulb) | Unlimited |
 | [Gold Gadget](https://db.ygoprodeck.com/card/?search=Gold%20Gadget) | Unlimited |
+| [Good & Evil in the Burning Abyss](https://db.ygoprodeck.com/card/?search=Good%20%26%20Evil%20in%20the%20Burning%20Abyss) | Unlimited |
 | [Gottoms' Second Call](https://db.ygoprodeck.com/card/?search=Gottoms'%20Second%20Call) | Unlimited |
 | [Grandsoil the Elemental Lord](https://db.ygoprodeck.com/card/?search=Grandsoil%20the%20Elemental%20Lord) | Unlimited |
 | [Granmarg the Mega Monarch](https://db.ygoprodeck.com/card/?search=Granmarg%20the%20Mega%20Monarch) | Unlimited |
@@ -349,6 +368,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Lavalval Salamander](https://db.ygoprodeck.com/card/?search=Lavalval%20Salamander) | Unlimited |
 | [Lector Pendulum, the Dracoverlord](https://db.ygoprodeck.com/card/?search=Lector%20Pendulum,%20the%20Dracoverlord) | Unlimited |
 | [Legendary Six Samurai - Kageki](https://db.ygoprodeck.com/card/?search=Legendary%20Six%20Samurai%20-%20Kageki) | Unlimited |
+| [Libic, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Libic,%20Malebranche%20of%20the%20Burning%20Abyss) | Unlimited |
 | [Lightning Chidori](https://db.ygoprodeck.com/card/?search=Lightning%20Chidori) | Unlimited |
 | [Lightpulsar Dragon](https://db.ygoprodeck.com/card/?search=Lightpulsar%20Dragon) | Unlimited |
 | [Linkmail Archfiend](https://db.ygoprodeck.com/card/?search=Linkmail%20Archfiend) | Unlimited |
@@ -370,6 +390,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Magical Musketeer Starfire](https://db.ygoprodeck.com/card/?search=Magical%20Musketeer%20Starfire) | Unlimited |
 | [Magical Musketeer Wild](https://db.ygoprodeck.com/card/?search=Magical%20Musketeer%20Wild) | Unlimited |
 | [Magician of Hope](https://db.ygoprodeck.com/card/?search=Magician%20of%20Hope) | Unlimited |
+| [Magician's Restage](https://db.ygoprodeck.com/card/?search=Magician's%20Restage) | Unlimited |
 | [Magnet Induction](https://db.ygoprodeck.com/card/?search=Magnet%20Induction) | Unlimited |
 | [Majespecter Cat - Nekomata](https://db.ygoprodeck.com/card/?search=Majespecter%20Cat%20-%20Nekomata) | Unlimited |
 | [Majespecter Cyclone](https://db.ygoprodeck.com/card/?search=Majespecter%20Cyclone) | Unlimited |
@@ -378,6 +399,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Majespecter Toad - Ogama](https://db.ygoprodeck.com/card/?search=Majespecter%20Toad%20-%20Ogama) | Unlimited |
 | [Majespecter Tornado](https://db.ygoprodeck.com/card/?search=Majespecter%20Tornado) | Unlimited |
 | [Majesty's Pegasus](https://db.ygoprodeck.com/card/?search=Majesty's%20Pegasus) | Unlimited |
+| [Malacoda, Netherlord of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Malacoda,%20Netherlord%20of%20the%20Burning%20Abyss) | Unlimited |
 | [Marincess Blue Slug](https://db.ygoprodeck.com/card/?search=Marincess%20Blue%20Slug) | Unlimited |
 | [Marincess Coral Anemone](https://db.ygoprodeck.com/card/?search=Marincess%20Coral%20Anemone) | Unlimited |
 | [Master Hyperion](https://db.ygoprodeck.com/card/?search=Master%20Hyperion) | Unlimited |
@@ -479,6 +501,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Pilica, Descendant of Gusto](https://db.ygoprodeck.com/card/?search=Pilica,%20Descendant%20of%20Gusto) | Unlimited |
 | [Plunder Patroll Booty](https://db.ygoprodeck.com/card/?search=Plunder%20Patroll%20Booty) | Unlimited |
 | [Plunder Patroll Shipyarrrd](https://db.ygoprodeck.com/card/?search=Plunder%20Patroll%20Shipyarrrd) | Unlimited |
+| [Possessed Partnerships](https://db.ygoprodeck.com/card/?search=Possessed%20Partnerships) | Unlimited |
 | [Powercode Talker](https://db.ygoprodeck.com/card/?search=Powercode%20Talker) | Unlimited |
 | [Protector of The Agents - Moon](https://db.ygoprodeck.com/card/?search=Protector%20of%20The%20Agents%20-%20Moon) | Unlimited |
 | [Proxy Dragon](https://db.ygoprodeck.com/card/?search=Proxy%20Dragon) | Unlimited |
@@ -492,6 +515,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Rasterliger](https://db.ygoprodeck.com/card/?search=Rasterliger) | Unlimited |
 | [Red Dragon Ninja](https://db.ygoprodeck.com/card/?search=Red%20Dragon%20Ninja) | Unlimited |
 | [Redbeard, the Plunder Patroll Matey](https://db.ygoprodeck.com/card/?search=Redbeard,%20the%20Plunder%20Patroll%20Matey) | Unlimited |
+| [Reeshaddoll Wendi](https://db.ygoprodeck.com/card/?search=Reeshaddoll%20Wendi) | Unlimited |
 | [Reflection of Endymion](https://db.ygoprodeck.com/card/?search=Reflection%20of%20Endymion) | Unlimited (!!) |
 | [Reptilianne Melusine](https://db.ygoprodeck.com/card/?search=Reptilianne%20Melusine) | Unlimited |
 | [Reptilianne Ramifications](https://db.ygoprodeck.com/card/?search=Reptilianne%20Ramifications) | Unlimited |
@@ -500,6 +524,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Revendread Slayer](https://db.ygoprodeck.com/card/?search=Revendread%20Slayer) | Unlimited |
 | [Revived King Ha Des](https://db.ygoprodeck.com/card/?search=Revived%20King%20Ha%20Des) | Unlimited |
 | [Rookie Warrior Lady](https://db.ygoprodeck.com/card/?search=Rookie%20Warrior%20Lady) | Unlimited |
+| [Rubic, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Rubic,%20Malebranche%20of%20the%20Burning%20Abyss) | Unlimited |
 | [S-Force Bridgehead](https://db.ygoprodeck.com/card/?search=S-Force%20Bridgehead) | Unlimited |
 | [S-Force Chase](https://db.ygoprodeck.com/card/?search=S-Force%20Chase) | Unlimited |
 | [S-Force Edge Razor](https://db.ygoprodeck.com/card/?search=S-Force%20Edge%20Razor) | Unlimited |
@@ -524,6 +549,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Satellarknight Rigel](https://db.ygoprodeck.com/card/?search=Satellarknight%20Rigel) | Unlimited |
 | [Satellarknight Sirius](https://db.ygoprodeck.com/card/?search=Satellarknight%20Sirius) | Unlimited |
 | [Satellarknight Skybridge](https://db.ygoprodeck.com/card/?search=Satellarknight%20Skybridge) | Unlimited |
+| [Scarm, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Scarm,%20Malebranche%20of%20the%20Burning%20Abyss) | Unlimited |
 | [Scramble!! Scramble!!](https://db.ygoprodeck.com/card/?search=Scramble!!%20Scramble!!) | Unlimited |
 | [Scrap Twin Dragon](https://db.ygoprodeck.com/card/?search=Scrap%20Twin%20Dragon) | Unlimited |
 | [Seleglare the Luminous Lunar Dragon](https://db.ygoprodeck.com/card/?search=Seleglare%20the%20Luminous%20Lunar%20Dragon) | Unlimited |
@@ -552,6 +578,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Spellbook of Life](https://db.ygoprodeck.com/card/?search=Spellbook%20of%20Life) | Unlimited |
 | [Spellbook of the Master](https://db.ygoprodeck.com/card/?search=Spellbook%20of%20the%20Master) | Unlimited |
 | [Spellbook Star Hall](https://db.ygoprodeck.com/card/?search=Spellbook%20Star%20Hall) | Unlimited |
+| [Spirit Charmers](https://db.ygoprodeck.com/card/?search=Spirit%20Charmers) | Unlimited |
 | [Springans Merrymaker](https://db.ygoprodeck.com/card/?search=Springans%20Merrymaker) | Unlimited |
 | [Springans Ship - Exblowrer](https://db.ygoprodeck.com/card/?search=Springans%20Ship%20-%20Exblowrer) | Unlimited |
 | [Springans Watch](https://db.ygoprodeck.com/card/?search=Springans%20Watch) | Unlimited |
@@ -605,6 +632,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [T.G. Star Guardian](https://db.ygoprodeck.com/card/?search=T.G.%20Star%20Guardian) | Unlimited |
 | [T.G. Trident Launcher](https://db.ygoprodeck.com/card/?search=T.G.%20Trident%20Launcher) | Unlimited (!!) |
 | [Talkback Lancer](https://db.ygoprodeck.com/card/?search=Talkback%20Lancer) | Unlimited |
+| [Taotie, Shadow of the Yang Zing](https://db.ygoprodeck.com/card/?search=Taotie,%20Shadow%20of%20the%20Yang%20Zing) | Unlimited |
 | [Tellarknight Genesis](https://db.ygoprodeck.com/card/?search=Tellarknight%20Genesis) | Unlimited |
 | [Temperance of Prophecy](https://db.ygoprodeck.com/card/?search=Temperance%20of%20Prophecy) | Unlimited |
 | [Tengu, the Winged Mayakashi](https://db.ygoprodeck.com/card/?search=Tengu,%20the%20Winged%20Mayakashi) | Unlimited |
@@ -617,6 +645,8 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [The Grand Spellbook Tower](https://db.ygoprodeck.com/card/?search=The%20Grand%20Spellbook%20Tower) | Unlimited |
 | [The Phantom Knights of Break Sword](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Break%20Sword) | Unlimited |
 | [The Sacred Waters in the Sky](https://db.ygoprodeck.com/card/?search=The%20Sacred%20Waters%20in%20the%20Sky) | Unlimited |
+| [The Terminus of the Burning Abyss](https://db.ygoprodeck.com/card/?search=The%20Terminus%20of%20the%20Burning%20Abyss) | Unlimited |
+| [The Traveler and the Burning Abyss](https://db.ygoprodeck.com/card/?search=The%20Traveler%20and%20the%20Burning%20Abyss) | Unlimited |
 | [Therion Charge](https://db.ygoprodeck.com/card/?search=Therion%20Charge) | Unlimited |
 | [Thermal Genex](https://db.ygoprodeck.com/card/?search=Thermal%20Genex) | Unlimited |
 | [Thestalos the Mega Monarch](https://db.ygoprodeck.com/card/?search=Thestalos%20the%20Mega%20Monarch) | Unlimited |
@@ -721,8 +751,19 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Windwitch - Freeze Bell](https://db.ygoprodeck.com/card/?search=Windwitch%20-%20Freeze%20Bell) | Unlimited |
 | [Windwitch - Winter Bell](https://db.ygoprodeck.com/card/?search=Windwitch%20-%20Winter%20Bell) | Unlimited |
 | [Windwitch Chimes](https://db.ygoprodeck.com/card/?search=Windwitch%20Chimes) | Unlimited |
+| [Witchcrafter Bystreet](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Bystreet) | Unlimited |
+| [Witchcrafter Collaboration](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Collaboration) | Unlimited |
+| [Witchcrafter Edel](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Edel) | Unlimited |
+| [Witchcrafter Haine](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Haine) | Unlimited |
+| [Witchcrafter Holiday](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Holiday) | Unlimited |
+| [Witchcrafter Masterpiece](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Masterpiece) | Unlimited |
+| [Witchcrafter Pittore](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Pittore) | Unlimited |
+| [Witchcrafter Potterie](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Potterie) | Unlimited |
+| [Witchcrafter Scroll](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Scroll) | Unlimited |
 | [Worm King](https://db.ygoprodeck.com/card/?search=Worm%20King) | Unlimited |
 | [Worm Zero](https://db.ygoprodeck.com/card/?search=Worm%20Zero) | Unlimited |
+| [Xtra HERO Dread Decimator](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Dread%20Decimator) | Unlimited |
+| [Xtra HERO Infernal Devicer](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Infernal%20Devicer) | Unlimited |
 | [XX-Saber Darksoul](https://db.ygoprodeck.com/card/?search=XX-Saber%20Darksoul) | Unlimited |
 | [XX-Saber Emmersblade](https://db.ygoprodeck.com/card/?search=XX-Saber%20Emmersblade) | Unlimited |
 | [XX-Saber Gardestrike](https://db.ygoprodeck.com/card/?search=XX-Saber%20Gardestrike) | Unlimited |
