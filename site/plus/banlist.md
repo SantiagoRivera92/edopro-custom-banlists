@@ -759,6 +759,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Witchcrafter Masterpiece](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Masterpiece) | Unlimited |
 | [Witchcrafter Pittore](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Pittore) | Unlimited |
 | [Witchcrafter Potterie](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Potterie) | Unlimited |
+| [Witchcrafter Schmietta](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Schmietta) | Unlimited |
 | [Witchcrafter Scroll](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Scroll) | Unlimited |
 | [Worm King](https://db.ygoprodeck.com/card/?search=Worm%20King) | Unlimited |
 | [Worm Zero](https://db.ygoprodeck.com/card/?search=Worm%20Zero) | Unlimited |
