@@ -299,7 +299,6 @@ additionalUnlimited = [
 	"Ignoble Knight of High Laundsallyn",
 	"Immortal Dragon",
 	"Impcantation Candoll",
-	"Impcantation Chalislime",
 	"Infernal Flame Vixen",
 	"Infernoble Knight - Roland",
 	"Infestation Wave",
