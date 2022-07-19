@@ -14,7 +14,8 @@ request = urllib.request.Request(url, None, header)
 additionalForbidden = [
 		"There Can Be Only One",
 		"Artifact Scythe",
-		"Moulinglacia the Elemental Lord"
+		"Moulinglacia the Elemental Lord",
+		"Harpie's Feather Storm"
 		]
 additionalLimited = [
 		"Daigusto Emeral",
@@ -83,6 +84,9 @@ additionalUnlimited = [
 	"Blackwing Armor Master",
 	"Blade Armor Ninja",
 	"Blue Dragon Ninja",
+	"Boot-Up Admiral - Destroyer Dynamo",
+	"Boot-Up Corporal - Command Dynamo",
+	"Boot-Up Order - Gear Charge",
 	"Brionac, Dragon of the Ice Barrier",
 	"Brotherhood of the Fire Fist - Bear",
 	"Brotherhood of the Fire Fist - Cardinal",

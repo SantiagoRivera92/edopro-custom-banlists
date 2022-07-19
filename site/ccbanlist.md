@@ -84,6 +84,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Aleirtt, the Ogdoadic Dark](https://db.ygoprodeck.com/card/?search=Aleirtt,%20the%20Ogdoadic%20Dark) | Illegal |
 | [Aleister the Invoker](https://db.ygoprodeck.com/card/?search=Aleister%20the%20Invoker) | Illegal |
 | [Aleister the Invoker of Madness](https://db.ygoprodeck.com/card/?search=Aleister%20the%20Invoker%20of%20Madness) | Illegal |
+| [ALERT!](https://db.ygoprodeck.com/card/?search=ALERT!) | Illegal |
 | [Alice, Lady of Lament](https://db.ygoprodeck.com/card/?search=Alice,%20Lady%20of%20Lament) | Illegal |
 | [Alich, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Alich,%20Malebranche%20of%20the%20Burning%20Abyss) | Illegal |
 | [Alien Ammonite](https://db.ygoprodeck.com/card/?search=Alien%20Ammonite) | Illegal |
@@ -206,6 +207,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Aqua Snake](https://db.ygoprodeck.com/card/?search=Aqua%20Snake) | Illegal |
 | [Aquamirror Meditation](https://db.ygoprodeck.com/card/?search=Aquamirror%20Meditation) | Illegal |
 | [Aquarian Alessa](https://db.ygoprodeck.com/card/?search=Aquarian%20Alessa) | Illegal |
+| [Arametir, the Forbidden Spell](https://db.ygoprodeck.com/card/?search=Arametir,%20the%20Forbidden%20Spell) | Illegal |
 | [Aratama](https://db.ygoprodeck.com/card/?search=Aratama) | Illegal |
 | [Arc Rebellion Xyz Dragon](https://db.ygoprodeck.com/card/?search=Arc%20Rebellion%20Xyz%20Dragon) | Illegal |
 | [Arcana Extra Joker](https://db.ygoprodeck.com/card/?search=Arcana%20Extra%20Joker) | Illegal |
@@ -575,6 +577,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Cactus Bouncer](https://db.ygoprodeck.com/card/?search=Cactus%20Bouncer) | Illegal |
 | [Cactus Fighter](https://db.ygoprodeck.com/card/?search=Cactus%20Fighter) | Illegal |
 | [Cagna, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Cagna,%20Malebranche%20of%20the%20Burning%20Abyss) | Illegal |
+| [Calamity Upon the Hidden City](https://db.ygoprodeck.com/card/?search=Calamity%20Upon%20the%20Hidden%20City) | Illegal |
 | [Calcab, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Calcab,%20Malebranche%20of%20the%20Burning%20Abyss) | Illegal |
 | [Calendar Rotation of the Vernalizer Fairy](https://db.ygoprodeck.com/card/?search=Calendar%20Rotation%20of%20the%20Vernalizer%20Fairy) | Illegal |
 | [Call of Darkness](https://db.ygoprodeck.com/card/?search=Call%20of%20Darkness) | Illegal |
@@ -702,6 +705,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Constellar Zubeneschamali](https://db.ygoprodeck.com/card/?search=Constellar%20Zubeneschamali) | Illegal |
 | [Consumed By Darkness](https://db.ygoprodeck.com/card/?search=Consumed%20By%20Darkness) | Illegal |
 | [Contact with Gusto](https://db.ygoprodeck.com/card/?search=Contact%20with%20Gusto) | Illegal |
+| [CONTAIN!](https://db.ygoprodeck.com/card/?search=CONTAIN!) | Illegal |
 | [Contract with Don Thousand](https://db.ygoprodeck.com/card/?search=Contract%20with%20Don%20Thousand) | Illegal |
 | [Contract with the Void](https://db.ygoprodeck.com/card/?search=Contract%20with%20the%20Void) | Illegal |
 | [Contrast HERO Chaos](https://db.ygoprodeck.com/card/?search=Contrast%20HERO%20Chaos) | Illegal |
@@ -913,6 +917,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Dark Spell Regeneration](https://db.ygoprodeck.com/card/?search=Dark%20Spell%20Regeneration) | Illegal |
 | [Dark Spirit Art - Greed](https://db.ygoprodeck.com/card/?search=Dark%20Spirit%20Art%20-%20Greed) | Illegal |
 | [Dark Voltanis](https://db.ygoprodeck.com/card/?search=Dark%20Voltanis) | Illegal |
+| [Dark World Library](https://db.ygoprodeck.com/card/?search=Dark%20World%20Library) | Illegal |
 | [Dark World Puppet](https://db.ygoprodeck.com/card/?search=Dark%20World%20Puppet) | Illegal |
 | [Dark-Eyes Illusionist](https://db.ygoprodeck.com/card/?search=Dark-Eyes%20Illusionist) | Illegal |
 | [Darkest Diabolos, Lord of the Lair](https://db.ygoprodeck.com/card/?search=Darkest%20Diabolos,%20Lord%20of%20the%20Lair) | Illegal |
@@ -1350,6 +1355,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Exosisters Magnifica](https://db.ygoprodeck.com/card/?search=Exosisters%20Magnifica) | Illegal |
 | [Expendable Dai](https://db.ygoprodeck.com/card/?search=Expendable%20Dai) | Illegal |
 | [Exploder Dragonwing](https://db.ygoprodeck.com/card/?search=Exploder%20Dragonwing) | Illegal |
+| [EXTINGUISH!](https://db.ygoprodeck.com/card/?search=EXTINGUISH!) | Illegal |
 | [Extra Gate](https://db.ygoprodeck.com/card/?search=Extra%20Gate) | Illegal |
 | [Extra Pendulum](https://db.ygoprodeck.com/card/?search=Extra%20Pendulum) | Illegal |
 | [Extra-Foolish Burial](https://db.ygoprodeck.com/card/?search=Extra-Foolish%20Burial) | Illegal |
@@ -1390,6 +1396,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Fiendish Portrait](https://db.ygoprodeck.com/card/?search=Fiendish%20Portrait) | Illegal |
 | [Fifth Hope](https://db.ygoprodeck.com/card/?search=Fifth%20Hope) | Illegal |
 | [Filo, Messenger Fur Hire](https://db.ygoprodeck.com/card/?search=Filo,%20Messenger%20Fur%20Hire) | Illegal |
+| [Final Battle at Golgonda](https://db.ygoprodeck.com/card/?search=Final%20Battle%20at%20Golgonda) | Illegal |
 | [Final Geas](https://db.ygoprodeck.com/card/?search=Final%20Geas) | Illegal |
 | [Final Inzektion](https://db.ygoprodeck.com/card/?search=Final%20Inzektion) | Illegal |
 | [Final Light](https://db.ygoprodeck.com/card/?search=Final%20Light) | Illegal |
@@ -1484,6 +1491,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Fossil Warrior Skull Bone](https://db.ygoprodeck.com/card/?search=Fossil%20Warrior%20Skull%20Bone) | Illegal |
 | [Fossil Warrior Skull King](https://db.ygoprodeck.com/card/?search=Fossil%20Warrior%20Skull%20King) | Illegal |
 | [Fossil Warrior Skull Knight](https://db.ygoprodeck.com/card/?search=Fossil%20Warrior%20Skull%20Knight) | Illegal |
+| [Freki the Runick Fangs](https://db.ygoprodeck.com/card/?search=Freki%20the%20Runick%20Fangs) | Illegal |
 | [Frightfur Daredevil](https://db.ygoprodeck.com/card/?search=Frightfur%20Daredevil) | Illegal |
 | [Frightfur Kraken](https://db.ygoprodeck.com/card/?search=Frightfur%20Kraken) | Illegal |
 | [Frightfur Meister](https://db.ygoprodeck.com/card/?search=Frightfur%20Meister) | Illegal |
@@ -1619,6 +1627,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Genex Turbine](https://db.ygoprodeck.com/card/?search=Genex%20Turbine) | Illegal |
 | [Genin](https://db.ygoprodeck.com/card/?search=Genin) | Illegal |
 | [Genomix Fighter](https://db.ygoprodeck.com/card/?search=Genomix%20Fighter) | Illegal |
+| [Genta, Gateman of Dark World](https://db.ygoprodeck.com/card/?search=Genta,%20Gateman%20of%20Dark%20World) | Illegal |
 | [Geo Genex](https://db.ygoprodeck.com/card/?search=Geo%20Genex) | Illegal |
 | [Geomathmech Final Sigma](https://db.ygoprodeck.com/card/?search=Geomathmech%20Final%20Sigma) | Illegal |
 | [Geomathmech Magma](https://db.ygoprodeck.com/card/?search=Geomathmech%20Magma) | Illegal |
@@ -1795,6 +1804,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Hallowed Life Barrier](https://db.ygoprodeck.com/card/?search=Hallowed%20Life%20Barrier) | Illegal |
 | [Hammer Bounzer](https://db.ygoprodeck.com/card/?search=Hammer%20Bounzer) | Illegal |
 | [Hamon, Lord of Striking Thunder](https://db.ygoprodeck.com/card/?search=Hamon,%20Lord%20of%20Striking%20Thunder) | Illegal |
+| [Han-Shi Kyudo Spirit](https://db.ygoprodeck.com/card/?search=Han-Shi%20Kyudo%20Spirit) | Illegal |
 | [Harpie Channeler](https://db.ygoprodeck.com/card/?search=Harpie%20Channeler) | Illegal |
 | [Harpie Oracle](https://db.ygoprodeck.com/card/?search=Harpie%20Oracle) | Illegal |
 | [Harpie Perfumer](https://db.ygoprodeck.com/card/?search=Harpie%20Perfumer) | Illegal |
@@ -2182,6 +2192,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Labrynth Setting](https://db.ygoprodeck.com/card/?search=Labrynth%20Setting) | Illegal |
 | [Labrynth Stovee](https://db.ygoprodeck.com/card/?search=Labrynth%20Stovee) | Illegal |
 | [Lady Debug](https://db.ygoprodeck.com/card/?search=Lady%20Debug) | Illegal |
+| [Lady of the Labrynth](https://db.ygoprodeck.com/card/?search=Lady%20of%20the%20Labrynth) | Illegal |
 | [Lady of the Lake](https://db.ygoprodeck.com/card/?search=Lady%20of%20the%20Lake) | Illegal |
 | [LaLa Li-oon](https://db.ygoprodeck.com/card/?search=LaLa%20Li-oon) | Illegal |
 | [Lamia](https://db.ygoprodeck.com/card/?search=Lamia) | Illegal |
@@ -2196,6 +2207,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Latency](https://db.ygoprodeck.com/card/?search=Latency) | Illegal |
 | [Latinum, Exarch of Dark World](https://db.ygoprodeck.com/card/?search=Latinum,%20Exarch%20of%20Dark%20World) | Illegal |
 | [Laughing Flower](https://db.ygoprodeck.com/card/?search=Laughing%20Flower) | Illegal |
+| [Laughing Puffin the Jester Bird](https://db.ygoprodeck.com/card/?search=Laughing%20Puffin%20the%20Jester%20Bird) | Illegal |
 | [Laundry Dragonmaid](https://db.ygoprodeck.com/card/?search=Laundry%20Dragonmaid) | Illegal |
 | [Laval Archer](https://db.ygoprodeck.com/card/?search=Laval%20Archer) | Illegal |
 | [Laval Coatl](https://db.ygoprodeck.com/card/?search=Laval%20Coatl) | Illegal |
@@ -2515,6 +2527,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Memories of Hope](https://db.ygoprodeck.com/card/?search=Memories%20of%20Hope) | Illegal |
 | [Memory of an Adversary](https://db.ygoprodeck.com/card/?search=Memory%20of%20an%20Adversary) | Illegal |
 | [Meowseclick](https://db.ygoprodeck.com/card/?search=Meowseclick) | Illegal |
+| [Mereologic Aggregator](https://db.ygoprodeck.com/card/?search=Mereologic%20Aggregator) | Illegal |
 | [Merlin](https://db.ygoprodeck.com/card/?search=Merlin) | Illegal |
 | [Mermaid Shark](https://db.ygoprodeck.com/card/?search=Mermaid%20Shark) | Illegal |
 | [Mermail Abyssalacia](https://db.ygoprodeck.com/card/?search=Mermail%20Abyssalacia) | Illegal |
@@ -2591,6 +2604,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Mist Wurm](https://db.ygoprodeck.com/card/?search=Mist%20Wurm) | Illegal |
 | [Mistaken Arrest](https://db.ygoprodeck.com/card/?search=Mistaken%20Arrest) | Illegal |
 | [Moja](https://db.ygoprodeck.com/card/?search=Moja) | Illegal |
+| [Mokey Mokey Adrift](https://db.ygoprodeck.com/card/?search=Mokey%20Mokey%20Adrift) | Illegal |
 | [Mon Larvas](https://db.ygoprodeck.com/card/?search=Mon%20Larvas) | Illegal |
 | [Mono Synchron](https://db.ygoprodeck.com/card/?search=Mono%20Synchron) | Illegal |
 | [Monster Express](https://db.ygoprodeck.com/card/?search=Monster%20Express) | Illegal |
@@ -2716,6 +2730,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Nether Prediction Princess Tarotreith](https://db.ygoprodeck.com/card/?search=Nether%20Prediction%20Princess%20Tarotreith) | Illegal |
 | [Nether Prediction Ritual](https://db.ygoprodeck.com/card/?search=Nether%20Prediction%20Ritual) | Illegal |
 | [Network Trap Hole](https://db.ygoprodeck.com/card/?search=Network%20Trap%20Hole) | Illegal |
+| [News Reporter from the Underworld](https://db.ygoprodeck.com/card/?search=News%20Reporter%20from%20the%20Underworld) | Illegal |
 | [NEXT](https://db.ygoprodeck.com/card/?search=NEXT) | Illegal |
 | [Nibiru, the Primal Being](https://db.ygoprodeck.com/card/?search=Nibiru,%20the%20Primal%20Being) | Illegal |
 | [Nidhogg, Generaider Boss of Ice](https://db.ygoprodeck.com/card/?search=Nidhogg,%20Generaider%20Boss%20of%20Ice) | Illegal |
@@ -2931,6 +2946,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Old Entity Cthugua](https://db.ygoprodeck.com/card/?search=Old%20Entity%20Cthugua) | Illegal |
 | [Old Entity Hastorr](https://db.ygoprodeck.com/card/?search=Old%20Entity%20Hastorr) | Illegal |
 | [Omega Summon](https://db.ygoprodeck.com/card/?search=Omega%20Summon) | Illegal |
+| [Omerta - Calupoh](https://db.ygoprodeck.com/card/?search=Omerta%20-%20Calupoh) | Illegal |
 | [One Who Hunts Souls](https://db.ygoprodeck.com/card/?search=One%20Who%20Hunts%20Souls) | Illegal |
 | [One-Eyed Skill Gainer](https://db.ygoprodeck.com/card/?search=One-Eyed%20Skill%20Gainer) | Illegal |
 | [Oneiros, the Dream Mirror Erlking](https://db.ygoprodeck.com/card/?search=Oneiros,%20the%20Dream%20Mirror%20Erlking) | Illegal |
@@ -3047,6 +3063,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Performapal Splashmammoth](https://db.ygoprodeck.com/card/?search=Performapal%20Splashmammoth) | Illegal |
 | [Performapal Turn Toad](https://db.ygoprodeck.com/card/?search=Performapal%20Turn%20Toad) | Illegal |
 | [Performapal Whim Witch](https://db.ygoprodeck.com/card/?search=Performapal%20Whim%20Witch) | Illegal |
+| [Perl, Hermit of Dark World](https://db.ygoprodeck.com/card/?search=Perl,%20Hermit%20of%20Dark%20World) | Illegal |
 | [Petiteranodon](https://db.ygoprodeck.com/card/?search=Petiteranodon) | Illegal |
 | [Phalanx Pike](https://db.ygoprodeck.com/card/?search=Phalanx%20Pike) | Illegal |
 | [Phantasm Spiral Battle](https://db.ygoprodeck.com/card/?search=Phantasm%20Spiral%20Battle) | Illegal |
@@ -3180,6 +3197,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Psychic Lifetrancer](https://db.ygoprodeck.com/card/?search=Psychic%20Lifetrancer) | Illegal |
 | [Psychic Megacyber](https://db.ygoprodeck.com/card/?search=Psychic%20Megacyber) | Illegal |
 | [Psychic Nightmare](https://db.ygoprodeck.com/card/?search=Psychic%20Nightmare) | Illegal |
+| [Psychic Rover](https://db.ygoprodeck.com/card/?search=Psychic%20Rover) | Illegal |
 | [Psychic Trigger](https://db.ygoprodeck.com/card/?search=Psychic%20Trigger) | Illegal |
 | [Psychic Tuning](https://db.ygoprodeck.com/card/?search=Psychic%20Tuning) | Illegal |
 | [Psychic Wave](https://db.ygoprodeck.com/card/?search=Psychic%20Wave) | Illegal |
@@ -3306,6 +3324,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Reeshaddoll Wendi](https://db.ygoprodeck.com/card/?search=Reeshaddoll%20Wendi) | Illegal |
 | [Reflection of Endymion](https://db.ygoprodeck.com/card/?search=Reflection%20of%20Endymion) | Illegal |
 | [Reign-Beaux, Supreme Overlord of Dark World](https://db.ygoprodeck.com/card/?search=Reign-Beaux,%20Supreme%20Overlord%20of%20Dark%20World) | Illegal |
+| [Reincarnating Shamisen Calico](https://db.ygoprodeck.com/card/?search=Reincarnating%20Shamisen%20Calico) | Illegal |
 | [Reincarnation of the Seven Emperors](https://db.ygoprodeck.com/card/?search=Reincarnation%20of%20the%20Seven%20Emperors) | Illegal |
 | [Reinforced Human Psychic Borg](https://db.ygoprodeck.com/card/?search=Reinforced%20Human%20Psychic%20Borg) | Illegal |
 | [Relinquished Anima](https://db.ygoprodeck.com/card/?search=Relinquished%20Anima) | Illegal |
@@ -3318,6 +3337,14 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Reptilianne Ramifications](https://db.ygoprodeck.com/card/?search=Reptilianne%20Ramifications) | Illegal |
 | [Reptilianne Vaskii](https://db.ygoprodeck.com/card/?search=Reptilianne%20Vaskii) | Illegal |
 | [Rescue Hamster](https://db.ygoprodeck.com/card/?search=Rescue%20Hamster) | Illegal |
+| [RESCUE!](https://db.ygoprodeck.com/card/?search=RESCUE!) | Illegal |
+| [Rescue-ACE Air Hoister](https://db.ygoprodeck.com/card/?search=Rescue-ACE%20Air%20Hoister) | Illegal |
+| [Rescue-ACE Fire Attacker](https://db.ygoprodeck.com/card/?search=Rescue-ACE%20Fire%20Attacker) | Illegal |
+| [Rescue-ACE Fire Engine](https://db.ygoprodeck.com/card/?search=Rescue-ACE%20Fire%20Engine) | Illegal |
+| [Rescue-ACE Headquarters](https://db.ygoprodeck.com/card/?search=Rescue-ACE%20Headquarters) | Illegal |
+| [Rescue-ACE Hydrant](https://db.ygoprodeck.com/card/?search=Rescue-ACE%20Hydrant) | Illegal |
+| [Rescue-ACE Impulse](https://db.ygoprodeck.com/card/?search=Rescue-ACE%20Impulse) | Illegal |
+| [Rescue-ACE Turbulance](https://db.ygoprodeck.com/card/?search=Rescue-ACE%20Turbulance) | Illegal |
 | [Resh Shaddoll Incarnation](https://db.ygoprodeck.com/card/?search=Resh%20Shaddoll%20Incarnation) | Illegal |
 | [Reshef the Dark Being](https://db.ygoprodeck.com/card/?search=Reshef%20the%20Dark%20Being) | Illegal |
 | [ReSolfachord Dreamia](https://db.ygoprodeck.com/card/?search=ReSolfachord%20Dreamia) | Illegal |
@@ -3402,6 +3429,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Sacred Noble Knight of King Artorigus](https://db.ygoprodeck.com/card/?search=Sacred%20Noble%20Knight%20of%20King%20Artorigus) | Illegal |
 | [Sacred Noble Knight of King Custennin](https://db.ygoprodeck.com/card/?search=Sacred%20Noble%20Knight%20of%20King%20Custennin) | Illegal |
 | [Sacred Scrolls of the Gizmek Legend](https://db.ygoprodeck.com/card/?search=Sacred%20Scrolls%20of%20the%20Gizmek%20Legend) | Illegal |
+| [Sacred Spirit Vessel Thesea](https://db.ygoprodeck.com/card/?search=Sacred%20Spirit%20Vessel%20Thesea) | Illegal |
 | [Sacred Tree Beast, Hyperyton](https://db.ygoprodeck.com/card/?search=Sacred%20Tree%20Beast,%20Hyperyton) | Illegal |
 | [Sadion, the Timelord](https://db.ygoprodeck.com/card/?search=Sadion,%20the%20Timelord) | Illegal |
 | [Saffira, Queen of Dragons](https://db.ygoprodeck.com/card/?search=Saffira,%20Queen%20of%20Dragons) | Illegal |
@@ -3549,6 +3577,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Simorgh, Bird of Divinity](https://db.ygoprodeck.com/card/?search=Simorgh,%20Bird%20of%20Divinity) | Illegal |
 | [Simorgh, Bird of Sovereignty](https://db.ygoprodeck.com/card/?search=Simorgh,%20Bird%20of%20Sovereignty) | Illegal |
 | [Simorgh, Lord of the Storm](https://db.ygoprodeck.com/card/?search=Simorgh,%20Lord%20of%20the%20Storm) | Illegal |
+| [Simult Archfiends](https://db.ygoprodeck.com/card/?search=Simult%20Archfiends) | Illegal |
 | [Sinister Sprocket](https://db.ygoprodeck.com/card/?search=Sinister%20Sprocket) | Illegal |
 | [Sishunder](https://db.ygoprodeck.com/card/?search=Sishunder) | Illegal |
 | [Skeletal Dragon Felgrand](https://db.ygoprodeck.com/card/?search=Skeletal%20Dragon%20Felgrand) | Illegal |
@@ -3657,6 +3686,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Spin Turn](https://db.ygoprodeck.com/card/?search=Spin%20Turn) | Illegal |
 | [Spirit Charmers](https://db.ygoprodeck.com/card/?search=Spirit%20Charmers) | Illegal |
 | [Spirit Converter](https://db.ygoprodeck.com/card/?search=Spirit%20Converter) | Illegal |
+| [Spirit Cucomeback Horse](https://db.ygoprodeck.com/card/?search=Spirit%20Cucomeback%20Horse) | Illegal |
 | [Spirit of the Fall Wind](https://db.ygoprodeck.com/card/?search=Spirit%20of%20the%20Fall%20Wind) | Illegal |
 | [Spirit of the Mountain](https://db.ygoprodeck.com/card/?search=Spirit%20of%20the%20Mountain) | Illegal |
 | [Spirit of the Pharaoh](https://db.ygoprodeck.com/card/?search=Spirit%20of%20the%20Pharaoh) | Illegal |
@@ -3671,12 +3701,14 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Spiritual Whisper](https://db.ygoprodeck.com/card/?search=Spiritual%20Whisper) | Illegal |
 | [Splight Blue](https://db.ygoprodeck.com/card/?search=Splight%20Blue) | Illegal |
 | [Splight Carrot](https://db.ygoprodeck.com/card/?search=Splight%20Carrot) | Illegal |
+| [Splight Double Cross](https://db.ygoprodeck.com/card/?search=Splight%20Double%20Cross) | Illegal |
 | [Splight Elf](https://db.ygoprodeck.com/card/?search=Splight%20Elf) | Illegal |
 | [Splight Gamma Burst](https://db.ygoprodeck.com/card/?search=Splight%20Gamma%20Burst) | Illegal |
 | [Splight Jet](https://db.ygoprodeck.com/card/?search=Splight%20Jet) | Illegal |
 | [Splight Pixies](https://db.ygoprodeck.com/card/?search=Splight%20Pixies) | Illegal |
 | [Splight Red](https://db.ygoprodeck.com/card/?search=Splight%20Red) | Illegal |
 | [Splight Smashers](https://db.ygoprodeck.com/card/?search=Splight%20Smashers) | Illegal |
+| [Splight Sprind](https://db.ygoprodeck.com/card/?search=Splight%20Sprind) | Illegal |
 | [Splight Starter](https://db.ygoprodeck.com/card/?search=Splight%20Starter) | Illegal |
 | [Spool Code](https://db.ygoprodeck.com/card/?search=Spool%20Code) | Illegal |
 | [Spring of the Mysterune](https://db.ygoprodeck.com/card/?search=Spring%20of%20the%20Mysterune) | Illegal |
@@ -3708,6 +3740,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Star Seraph Scepter](https://db.ygoprodeck.com/card/?search=Star%20Seraph%20Scepter) | Illegal |
 | [Star Seraph Sovereignty](https://db.ygoprodeck.com/card/?search=Star%20Seraph%20Sovereignty) | Illegal |
 | [Star Staring Starling](https://db.ygoprodeck.com/card/?search=Star%20Staring%20Starling) | Illegal |
+| [Star-Crossed Meeting](https://db.ygoprodeck.com/card/?search=Star-Crossed%20Meeting) | Illegal |
 | [Stardust Charge Warrior](https://db.ygoprodeck.com/card/?search=Stardust%20Charge%20Warrior) | Illegal |
 | [Stardust Chronicle Spark Dragon](https://db.ygoprodeck.com/card/?search=Stardust%20Chronicle%20Spark%20Dragon) | Illegal |
 | [Stardust Illumination](https://db.ygoprodeck.com/card/?search=Stardust%20Illumination) | Illegal |
@@ -3767,7 +3800,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Storm Shooter](https://db.ygoprodeck.com/card/?search=Storm%20Shooter) | Illegal |
 | [Straight to the Grave](https://db.ygoprodeck.com/card/?search=Straight%20to%20the%20Grave) | Illegal |
 | [Strategic Striker - H.A.M.P.](https://db.ygoprodeck.com/card/?search=Strategic%20Striker%20-%20H.A.M.P.) | Illegal |
-| [Stray Mokey Mokey](https://db.ygoprodeck.com/card/?search=Stray%20Mokey%20Mokey) | Illegal |
 | [Strength in Unity](https://db.ygoprodeck.com/card/?search=Strength%20in%20Unity) | Illegal |
 | [Striker Dragon](https://db.ygoprodeck.com/card/?search=Striker%20Dragon) | Illegal |
 | [Strong Wind Dragon](https://db.ygoprodeck.com/card/?search=Strong%20Wind%20Dragon) | Illegal |
@@ -4129,6 +4161,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Tri-Brigade Fraktall](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Fraktall) | Illegal |
 | [Tri-Brigade Kerass](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Kerass) | Illegal |
 | [Tri-Brigade Kitt](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Kitt) | Illegal |
+| [Tri-Brigade Last Stand](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Last%20Stand) | Illegal |
 | [Tri-Brigade Mercourier](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Mercourier) | Illegal |
 | [Tri-Brigade Shuraig the Ominous Omen](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Shuraig%20the%20Ominous%20Omen) | Illegal |
 | [Tri-Edge Levia](https://db.ygoprodeck.com/card/?search=Tri-Edge%20Levia) | Illegal |
@@ -4166,6 +4199,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Trismagistus](https://db.ygoprodeck.com/card/?search=Trismagistus) | Illegal |
 | [Trojan Blast](https://db.ygoprodeck.com/card/?search=Trojan%20Blast) | Illegal |
 | [Troposphere](https://db.ygoprodeck.com/card/?search=Troposphere) | Illegal |
+| [True Bamboo Sword](https://db.ygoprodeck.com/card/?search=True%20Bamboo%20Sword) | Illegal |
 | [True Exodia](https://db.ygoprodeck.com/card/?search=True%20Exodia) | Illegal |
 | [True King Bahrastos, the Fathomer](https://db.ygoprodeck.com/card/?search=True%20King%20Bahrastos,%20the%20Fathomer) | Illegal |
 | [True King Lithosagym, the Disaster](https://db.ygoprodeck.com/card/?search=True%20King%20Lithosagym,%20the%20Disaster) | Illegal |
@@ -4243,6 +4277,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Unlimited Free Radio Jamming](https://db.ygoprodeck.com/card/?search=Unlimited%20Free%20Radio%20Jamming) | Illegal |
 | [Unwavering Bond](https://db.ygoprodeck.com/card/?search=Unwavering%20Bond) | Illegal |
 | [Updraft](https://db.ygoprodeck.com/card/?search=Updraft) | Illegal |
+| [Upside Down](https://db.ygoprodeck.com/card/?search=Upside%20Down) | Illegal |
 | [Urgent Ritual Art](https://db.ygoprodeck.com/card/?search=Urgent%20Ritual%20Art) | Illegal |
 | [Urgent Schedule](https://db.ygoprodeck.com/card/?search=Urgent%20Schedule) | Illegal |
 | [Uria, Lord of Searing Flames](https://db.ygoprodeck.com/card/?search=Uria,%20Lord%20of%20Searing%20Flames) | Illegal |
@@ -4291,6 +4326,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Vaylantz Dominator - Duke](https://db.ygoprodeck.com/card/?search=Vaylantz%20Dominator%20-%20Duke) | Illegal |
 | [Vaylantz Genesis Grand Duke](https://db.ygoprodeck.com/card/?search=Vaylantz%20Genesis%20Grand%20Duke) | Illegal |
 | [Vaylantz Mad - Marquis](https://db.ygoprodeck.com/card/?search=Vaylantz%20Mad%20-%20Marquis) | Illegal |
+| [Vaylantz Vakening - Solo Activation](https://db.ygoprodeck.com/card/?search=Vaylantz%20Vakening%20-%20Solo%20Activation) | Illegal |
 | [Vaylantz Var - The Land of Beginning](https://db.ygoprodeck.com/card/?search=Vaylantz%20Var%20-%20The%20Land%20of%20Beginning) | Illegal |
 | [Vaylantz Voltage - Viscount](https://db.ygoprodeck.com/card/?search=Vaylantz%20Voltage%20-%20Viscount) | Illegal |
 | [Vaylantz Vorld - Koenig Wissen](https://db.ygoprodeck.com/card/?search=Vaylantz%20Vorld%20-%20Koenig%20Wissen) | Illegal |
@@ -4365,6 +4401,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Volcanic Cannon](https://db.ygoprodeck.com/card/?search=Volcanic%20Cannon) | Illegal |
 | [Volcanic Doomfire](https://db.ygoprodeck.com/card/?search=Volcanic%20Doomfire) | Illegal |
 | [Volcanic Slicer](https://db.ygoprodeck.com/card/?search=Volcanic%20Slicer) | Illegal |
+| [Volo, the Doom-Originator Vassal Dragon](https://db.ygoprodeck.com/card/?search=Volo,%20the%20Doom-Originator%20Vassal%20Dragon) | Illegal |
 | [Voloferniges, the Darkest Dragon Doomrider](https://db.ygoprodeck.com/card/?search=Voloferniges,%20the%20Darkest%20Dragon%20Doomrider) | Illegal |
 | [Voltanis the Adjudicator](https://db.ygoprodeck.com/card/?search=Voltanis%20the%20Adjudicator) | Illegal |
 | [Voltic Bicorn](https://db.ygoprodeck.com/card/?search=Voltic%20Bicorn) | Illegal |

@@ -21,6 +21,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | Card name | Status |
 | :-- | :-- |
 | [Artifact Scythe](https://db.ygoprodeck.com/card/?search=Artifact%20Scythe) | Forbidden |
+| [Harpie's Feather Storm](https://db.ygoprodeck.com/card/?search=Harpie's%20Feather%20Storm) | Forbidden |
 | [Moulinglacia the Elemental Lord](https://db.ygoprodeck.com/card/?search=Moulinglacia%20the%20Elemental%20Lord) | Forbidden |
 | [There Can Be Only One](https://db.ygoprodeck.com/card/?search=There%20Can%20Be%20Only%20One) | Forbidden |
 | [Astrograph Sorcerer](https://db.ygoprodeck.com/card/?search=Astrograph%20Sorcerer) | Limited (!!) |
@@ -86,6 +87,9 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Blackwing Armor Master](https://db.ygoprodeck.com/card/?search=Blackwing%20Armor%20Master) | Unlimited |
 | [Blade Armor Ninja](https://db.ygoprodeck.com/card/?search=Blade%20Armor%20Ninja) | Unlimited |
 | [Blue Dragon Ninja](https://db.ygoprodeck.com/card/?search=Blue%20Dragon%20Ninja) | Unlimited |
+| [Boot-Up Admiral - Destroyer Dynamo](https://db.ygoprodeck.com/card/?search=Boot-Up%20Admiral%20-%20Destroyer%20Dynamo) | Unlimited |
+| [Boot-Up Corporal - Command Dynamo](https://db.ygoprodeck.com/card/?search=Boot-Up%20Corporal%20-%20Command%20Dynamo) | Unlimited |
+| [Boot-Up Order - Gear Charge](https://db.ygoprodeck.com/card/?search=Boot-Up%20Order%20-%20Gear%20Charge) | Unlimited |
 | [Brionac, Dragon of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Brionac,%20Dragon%20of%20the%20Ice%20Barrier) | Unlimited (!!) |
 | [Brotherhood of the Fire Fist - Bear](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Bear) | Unlimited |
 | [Brotherhood of the Fire Fist - Cardinal](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Cardinal) | Unlimited |
