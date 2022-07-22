@@ -6,7 +6,7 @@ title:  "Common Charity ++"
 
 Please note if a card is not here, it is subject to normal [Common Charity legality](/edopro-custom-banlists/site/ccbanlist)
 
-[You can find the EDOPRO banlist here](https://drive.google.com/file/d/1-1HTHnYJyKyyBg94iAwFm-uNayfp0yyT/view?usp=sharing). Open the link, click on the three dots in the top right and then click Download.
+[You can find the EDOPRO banlist here](https://drive.google.com/file/d/1-08CCuLSHNzJJ48MO_H9SsMuHLkUD4Wf/view?usp=sharing). Open the link, click on the three dots in the top right and then click Download.
 
 The banlist file goes into the lflists folder in your EDOPRO installation folder. Assuming you use Windows, it usually is C:/ProjectIgnis/lflists
 

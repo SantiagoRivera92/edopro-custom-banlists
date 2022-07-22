@@ -965,7 +965,7 @@ def writeHeader(outfile):
 	outfile.write("---\ntitle:  \"Common Charity ++\"\n---")
 	outfile.write("\n\n## Common Charity++ F&L List\n\n")
 	outfile.write("Please note if a card is not here, it is subject to normal [Common Charity legality](/edopro-custom-banlists/site/ccbanlist)\n\n")
-	outfile.write("[You can find the EDOPRO banlist here](https://drive.google.com/file/d/1-1HTHnYJyKyyBg94iAwFm-uNayfp0yyT/view?usp=sharing). Open the link, click on the three dots in the top right and then click Download.\n\n")
+	outfile.write("[You can find the EDOPRO banlist here](https://drive.google.com/file/d/1-08CCuLSHNzJJ48MO_H9SsMuHLkUD4Wf/view?usp=sharing). Open the link, click on the three dots in the top right and then click Download.\n\n")
 	outfile.write("The banlist file goes into the lflists folder in your EDOPRO installation folder. Assuming you use Windows, it usually is C:/ProjectIgnis/lflists\n\n")
 	outfile.write("EDOPRO will not recognize a change in banlists while it is open. You will have to restart EDOPRO for the changes to be reflected.\n\n")
 	outfile.write("Cards with (!!) after their status are considered potentially problematic and might get removed from the format in the future.\n\n")
