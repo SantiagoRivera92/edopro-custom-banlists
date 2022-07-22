@@ -12,7 +12,7 @@ url = "https://db.ygoprodeck.com/api/v7/cardinfo.php"
 request = urllib.request.Request(url, None, header)
 
 #Cards that aren't in YGOPRODECK but are legal. 
-additionalLegalCards = [68933343,94331452,31826057,89774530]
+additionalLegalCards = [40740224,49928686,75922381,2311090,1295442,	74078255,37961969,62133026,9238125,61011438,98416533,34800281,1855886,63748694,132308,63526052,99910751,61681816,66569334,93953933,81019803,52553471,42431833,88836438,14220547,13386407,49658464,1041278,38436986,74920585,37313338,63708033,36591747,63086455,35479109,9416697,38082437,64487132,1876841,37260946,90659259,36148308]
 
 #Cards that are listed as legal in YGOPRODECK but aren't
 notLegalCards = []
@@ -52,7 +52,11 @@ simpleCards = [] # List of all TCG legal cards for banlist generation
 ocgCards = [] # List of all OCG exclusive cards for banlist generation.
 
 def printCorrectAdditionalCards():
-	print(additionalLegalCards)
+	if len(additionalLegalCards) == 0:
+		print("You can remove the entire Additional array safely\n")
+	else:
+		print("Still missing from YGOPRODECK:\n")
+		print(additionalLegalCards)
 
 def writeCardToBanlist(card, outfile):
 	try:
