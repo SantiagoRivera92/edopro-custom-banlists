@@ -6,6 +6,8 @@ title:  "Common Charity"
 
 [Banlist](ccbanlist)
 
+[Traditional banlist](tradccbanlist)
+
 [CC++ Community Banlist](plus/banlist)
 
 [Duel Terminal exclusives](dt_exclusives)

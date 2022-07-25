@@ -42,9 +42,13 @@ name = 'name'
 cardId = 'id'
 status = 'status'
 
-#Filename for banlist file
+#Filenames for banlist file
 banlistFilename = 'banlist/charity.lflist.conf'
 siteFilename ='site/ccbanlist.md'
+
+#Filenames for traditional banlist file
+tradFilename = 'banlist/charity_traditional.lflist.conf'
+tradSiteFilename = 'site/tradccbanlist.md'
 
 #Card arrays
 siteCards = []
@@ -53,9 +57,9 @@ ocgCards = [] # List of all OCG exclusive cards for banlist generation.
 
 def printCorrectAdditionalCards():
 	if len(additionalLegalCards) == 0:
-		print("You can remove the entire Additional array safely\n")
+		print("You can remove the entire Additional array safely\n", flush=True)
 	else:
-		print("Still missing from YGOPRODECK:\n")
+		print("Still missing from YGOPRODECK:\n", flush=True)
 		print(additionalLegalCards)
 
 def writeCardToBanlist(card, outfile):
@@ -84,6 +88,12 @@ def writeCardsToSite(cards, outfile):
 	for card in sorted(cards, key=operator.itemgetter('status')):
 		writeCardToSite(card,outfile)
 
+def writeCardsToTradSite(cards, outfile):
+	for card in cards:
+		if card.get(status) == 0:
+			card[status] = 1
+	writeCardsToSite(cards, outfile)
+
 def writeHeader(outfile):
 	outfile.write("---\ntitle:  \"Common Charity\"\n---")
 	outfile.write("\n\n## Common Charity F&L list")
@@ -93,16 +103,32 @@ def writeHeader(outfile):
 	outfile.write("\n\n| Card name | Status |")
 	outfile.write("\n| :-- | :-- |")
 
+def writeTradHeader(outfile):
+	outfile.write("---\ntitle:  \"Common Charity Traditional\"\n---")
+	outfile.write("\n\n## Common Charity Traditional F&L list")
+	outfile.write("\n\n[You can find the EDOPRO banlist here](https://drive.google.com/file/d/1-3lOtJxeXHMrY5zpUorZCOpVCi4aO1lU/view?usp=sharing). Open the link, click on the three dots in the top right and then click Download.")
+	outfile.write("\n\nThe banlist file goes into the lflists folder in your EDOPRO installation folder. Assuming you use Windows, it usually is C:/ProjectIgnis/lflists")
+	outfile.write("\n\nEDOPRO will not recognize a change in banlists while it is open. You will have to restart EDOPRO for the changes to be reflected.")
+	outfile.write("\n\n| Card name | Status |")
+	outfile.write("\n| :-- | :-- |")
+
 def writeFooter(outfile):
 	outfile.write("\n\n###### [Back home](index)")
 
 def printSite():
+	print("Writing default site", flush=True)
 	with open(siteFilename, 'w', encoding="'utf-8") as siteFile:
 		writeHeader(siteFile)
 		writeCardsToSite(siteCards, siteFile)
 		writeFooter(siteFile)
+	print("Writing traditional site", flush=True)
+	with open(tradSiteFilename, 'w', encoding="utf-8") as siteFile:
+		writeTradHeader(siteFile)
+		writeCardsToTradSite(siteCards, siteFile)
+		writeFooter(siteFile)
 
 def printBanlist():
+	print("Writing default EDOPRO banlist", flush=True)
 	with open(banlistFilename, 'w', encoding="utf-8") as outfile:
 		outfile.write("#[Common Charity Format]\n")
 		outfile.write("!Common Charity %s.%s\n\n" % (datetime.now().month, datetime.now().year))
@@ -112,6 +138,22 @@ def printBanlist():
 		outfile.write("\n#Regular Banlist\n\n")
 		for card in simpleCards:
 			writeCardToBanlist(card, outfile)
+	print("Writing traditional EDOPRO banlist", flush=True)
+	with open(tradFilename, 'w', encoding="utf-8") as outfile:
+		outfile.write("#[Common Charity Traditional Format]\n")
+		outfile.write("!Common Charity Traditional %s.%s\n\n" % (datetime.now().month, datetime.now().year))
+		outfile.write("\n#OCG Cards\n\n")
+		for card in ocgCards:
+			writeCardToBanlist(card, outfile)
+		outfile.write("\n#Regular Banlist\n\n")
+		for card in simpleCards:
+			newCard = {}
+			newCard[cardId] = card.get(cardId)
+			newCard[name] = card.get(name)
+			newCard[status] = card.get(status)
+			if (newCard.get(status) == 0):
+				newCard[status] = 1
+			writeCardToBanlist(newCard, outfile)
 
 def generateArrays():
 	with urllib.request.urlopen(request) as url:
