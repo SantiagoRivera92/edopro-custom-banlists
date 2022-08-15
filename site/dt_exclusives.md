@@ -51,13 +51,16 @@ title:  "Common Charity"
 | [Discord](https://db.ygoprodeck.com/card/?search=Discord) | DT04-EN047 |
 | [Genex Ally Chemistrer](https://db.ygoprodeck.com/card/?search=Genex%20Ally%20Chemistrer) | DT04-EN066 |
 | [Genex Ally Crusher](https://db.ygoprodeck.com/card/?search=Genex%20Ally%20Crusher) | DT04-EN069 |
+| [Elemental HERO Terra Firma](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Terra%20Firma) | DT04-EN087 |
 | [Gem-Knight Sapphire](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Sapphire) | DT05-EN017 |
 | [Gem-Merchant](https://db.ygoprodeck.com/card/?search=Gem-Merchant) | DT05-EN021 |
+| [Laval Warrior](https://db.ygoprodeck.com/card/?search=Laval%20Warrior) | DT05-EN024 |
 | [Prominence, Molten Swordsman](https://db.ygoprodeck.com/card/?search=Prominence,%20Molten%20Swordsman) | DT05-EN025 |
 | [Laval Forest Sprite](https://db.ygoprodeck.com/card/?search=Laval%20Forest%20Sprite) | DT05-EN026 |
 | [Kayenn, the Master Magma Blacksmith](https://db.ygoprodeck.com/card/?search=Kayenn,%20the%20Master%20Magma%20Blacksmith) | DT05-EN027 |
 | [Laval Burner](https://db.ygoprodeck.com/card/?search=Laval%20Burner) | DT05-EN028 |
 | [Vylon Vanguard](https://db.ygoprodeck.com/card/?search=Vylon%20Vanguard) | DT05-EN031 |
+| [Vylon Charger](https://db.ygoprodeck.com/card/?search=Vylon%20Charger) | DT05-EN032 |
 | [Searing Fire Wall](https://db.ygoprodeck.com/card/?search=Searing%20Fire%20Wall) | DT05-EN044 |
 | [Molten Whirlwind Wall](https://db.ygoprodeck.com/card/?search=Molten%20Whirlwind%20Wall) | DT05-EN050 |
 | [Emperor Sem](https://db.ygoprodeck.com/card/?search=Emperor%20Sem) | DT05-EN061 |
