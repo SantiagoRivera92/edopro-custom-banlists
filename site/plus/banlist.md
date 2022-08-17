@@ -365,6 +365,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Laval Miller](https://db.ygoprodeck.com/card/?search=Laval%20Miller) | Unlimited |
 | [Laval Stennon](https://db.ygoprodeck.com/card/?search=Laval%20Stennon) | Unlimited |
 | [Laval the Greater](https://db.ygoprodeck.com/card/?search=Laval%20the%20Greater) | Unlimited |
+| [Laval Warrior](https://db.ygoprodeck.com/card/?search=Laval%20Warrior) | Unlimited |
 | [Lavalval Dragon](https://db.ygoprodeck.com/card/?search=Lavalval%20Dragon) | Unlimited |
 | [Lavalval Ignis](https://db.ygoprodeck.com/card/?search=Lavalval%20Ignis) | Unlimited |
 | [Lavalval Salamander](https://db.ygoprodeck.com/card/?search=Lavalval%20Salamander) | Unlimited |
@@ -711,6 +712,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Vision HERO Vyon](https://db.ygoprodeck.com/card/?search=Vision%20HERO%20Vyon) | Unlimited (!!) |
 | [Vortex the Whirlwind](https://db.ygoprodeck.com/card/?search=Vortex%20the%20Whirlwind) | Unlimited |
 | [Vylon Alpha](https://db.ygoprodeck.com/card/?search=Vylon%20Alpha) | Unlimited |
+| [Vylon Charger](https://db.ygoprodeck.com/card/?search=Vylon%20Charger) | Unlimited |
 | [Vylon Cube](https://db.ygoprodeck.com/card/?search=Vylon%20Cube) | Unlimited (!!) |
 | [Vylon Delta](https://db.ygoprodeck.com/card/?search=Vylon%20Delta) | Unlimited |
 | [Vylon Disigma](https://db.ygoprodeck.com/card/?search=Vylon%20Disigma) | Unlimited |

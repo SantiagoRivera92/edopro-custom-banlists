@@ -37,11 +37,20 @@ status = 'status'
 #Filenames for banlist file
 banlistFilename = 'banlist/wmy/wmy.lflist.conf'
 
+formatName = "LC02"
+
 #Arrays for sets
-unlimitedSets = ["BLAR-"]
-semiLimitedSets = ["ETCO-", "ROTD-", "SR10-", "SDSH-"]
-limitedSets = ["IGAS-", "PHRA-", "DUOV-", "SESL-", "TOCH-", "MP20-", "DLCS-", "LED7-", "OP14-"]
-additionalLimitedCards = ["Solemn Judgment", "Edge Imp Sabres", "Go! D/D/D Divine Zero King Rage", "Harpie Channeler"]
+unlimitedSets = ["LC02-", "LCGX-"]
+semiLimitedSets = ["GENF-", "PHSW-", "SDLS-", "YS11-", "SDGU-"]
+limitedSets = ["EXVC-", "ORCS-", "DT05-", "DP11-", "DL12-", "GLD4-", "WP11-", "TU06-", "DL13-", "HA05-", "TU07-"]
+additionalLimitedCards = [
+	"Dark Highlander", "XX-Saber Emmersblade", "Naturia Pineapple", 
+	"Blood Mefist", "Blizzard Princess", "Pot of Duality", "Beast King Barbaros",
+	"Dark Simorgh", "Stygian Street Patrol", "Neo-Parshath, the Sky Paladin", "Archlord Kristya",
+	"Elemental HERO Gaia", "Fossil Dyna Pachycephalo", "Guardian Eatos", "Malefic Stardust Dragon",
+	"Ehren, Lightsworn Monk", "XX-Saber Darksoul", "The Tyrant Neptune", "Elder of the Six Samurai",
+	"Barbaroid, the Ultimate Battle Machine"
+	]
 
 
 simpleCards = [] # List of all TCG legal cards for banlist generation
@@ -72,8 +81,9 @@ def writeCardToSite(card, outfile):
 def printBanlist():
 	print("Writing default EDOPRO banlist", flush=True)
 	with open(banlistFilename, 'w', encoding="utf-8") as outfile:
-		outfile.write("#[Wave Motion Yugioh %s]\n" % unlimitedSets[0])
-		outfile.write("!Wave Motion Yugioh %s\n\n" % unlimitedSets[0])
+		outfile.write("#[Wave Motion Yugioh %s]\n" % formatName)
+		outfile.write("!Wave Motion Yugioh %s\n\n" % formatName)
+		outfile.write("#whitelist\n\n")
 		for card in simpleCards:
 			writeCardToBanlist(card, outfile)
 

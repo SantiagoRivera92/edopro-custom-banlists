@@ -5,8 +5,6 @@ today = date.today()
 formatted = today.strftime("%d/%m/%Y")
 commitName = 'git commit -m \"%s\"'%formatted
 
-print('Generating Duel Terminal exclusives', flush=True)
-os.system('python dt.py')
 print('Generating Portuguese OTS pack exclusives', flush=True)
 os.system('python pt.py')
 print('Generating the actual banlist', flush=True)

@@ -818,7 +818,8 @@ suspectList = [
 	"Vylon Cube",
 	"Vylon Sphere",
 	"Wandering King Wildwind",
-	"Zektrike Kou-ou"
+	"Zektrike Kou-ou",
+	"XX-Saber Faultroll"
 ]
 
 considering = [
@@ -878,7 +879,7 @@ considering = [
 ]
 
 #(C) is common, (SP) is Short Print, (SSP) is Super Short Print, (DNPR) is Duel Terminal common
-legalRarities = ['(C)', '(SP)', '(SSP)', '(DNPR)']
+legalRarities = ['(C)', '(SP)', '(SSP)']
 
 #Banlist status
 banned = 'Banned'

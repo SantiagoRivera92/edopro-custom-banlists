@@ -17,8 +17,8 @@ additionalLegalCards = [40740224,49928686,75922381,2311090,1295442,	74078255,379
 #Cards that are listed as legal in YGOPRODECK but aren't
 notLegalCards = []
 
-#(C) is common, (SP) is Short Print, (SSP) is Super Short Print, (DNPR) is Duel Terminal common
-legalRarities = ['(C)', '(SP)', '(SSP)', '(DNPR)']
+#(C) is common, (SP) is Short Print, (SSP) is Super Short Print
+legalRarities = ['(C)', '(SP)', '(SSP)']
 
 #Banlist status
 banned = 'Banned'

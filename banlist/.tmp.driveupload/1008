@@ -39,6 +39,7 @@
 595626 -1 -- Ankuriboh
 85888377 -1 -- Apophis the Swamp Deity
 12436646 -1 -- Aqua Snake
+100419032 -1 -- Arabesque of the Mikanko
 34690953 -1 -- Arametir, the Forbidden Spell
 15150371 -1 -- Archfiend Mirror
 14708569 -1 -- Arlownay
@@ -147,6 +148,7 @@
 78217065 -1 -- Evolution Result Burst
 25209168 -1 -- Exchange of the Heart
 100419017 -1 -- Expurery Happiness
+100419018 -1 -- Expurery Noir
 100419012 -1 -- EXTINGUISH!
 64511793 -1 -- Eyearmor
 81563416 -1 -- Fairy of the Fountain
@@ -170,6 +172,10 @@
 98875863 -1 -- G Golem Rock Hammer
 97053215 -1 -- G Golem Stubborn Menhir
 8025950 -1 -- Gadget Box
+101111003 -1 -- Galakuriboh
+101111051 -1 -- Galaxy Hundred
+101111044 -1 -- Galaxy Photon Dragon
+101111002 -1 -- Galaxy Summoner
 34536276 -1 -- Ganigumo
 69780745 -1 -- Garvas
 49258578 -1 -- Gate Deeg
@@ -290,7 +296,9 @@
 95545183 -1 -- Novel Ninjitsu Art Book
 32453837 -1 -- Number 2: Ninja Shadow Mosquito
 93777634 -1 -- Number 39: Utopia Rising
+101111043 -1 -- Number C62: Neo Galaxy-Eyes Prime Photon Dragon
 20994205 -1 -- Numbers Eveil
+101111052 -1 -- Numeron Creation
 79663524 -1 -- Oily Cicada
 100000101 -1 -- Ojamandala
 15947754 -1 -- Omerta - Calupoh
@@ -307,6 +315,8 @@
 77603950 -1 -- Phantom Dewan
 61201220 -1 -- Phantom Ghost
 23099524 -1 -- Pharaonic Advent
+101111071 -1 -- Photon Deceleration
+101111001 -1 -- Photon Emperor
 55567161 -1 -- Pot the Trick
 54112932 -1 -- Potato & Chips
 49858495 -1 -- Power Pro Lady Sisters
@@ -476,6 +486,7 @@
 97697447 -1 -- Abyss-strom
 86066372 -1 -- Accesscode Talker
 15808381 -1 -- Achichi @Ignister
+21323861 -1 -- Acid Rain
 33656832 -1 -- Acrobatic Magician
 81555617 -1 -- Ad Libitum of Despia
 11302671 -1 -- Adamancipator Analyzer
@@ -606,6 +617,7 @@
 66380357 -1 -- Appliancer Test
 30118200 -1 -- Appliancer Vacculephant
 30603688 -1 -- Apprentice Illusion Magician
+64437633 -1 -- Aquamirror Illusion
 46337945 -1 -- Aquamirror Meditation
 22377815 -1 -- Aquarian Alessa
 16889337 -1 -- Aratama
@@ -741,6 +753,7 @@
 19028307 -1 -- Beast Machine King Barbaros Ür
 21362970 -1 -- Beast Striker
 72378329 -1 -- Beast-Eyes Pendulum Dragon
+16796157 -1 -- Beast-Warrior Puma
 81933259 -1 -- Beastly Mirror Ritual
 99011763 -1 -- Beat Cop from the Underworld
 93850652 -1 -- Beat, Bladesman Fur Hire
@@ -807,6 +820,7 @@
 4059313 -1 -- Blaze Cannon
 6602300 -1 -- Blaze Fenix, the Burning Bombardment Bird
 15177750 -1 -- Blessed Winds
+82422049 -1 -- Blessings for Gusto
 22802010 -1 -- Blind Obliteration
 28348537 -1 -- Blizzard Princess
 94689206 -1 -- Block Dragon
@@ -930,6 +944,7 @@
 50243722 -1 -- Burst Rebirth
 27191436 -1 -- Burst Return
 42429678 -1 -- Bururu @Ignister
+63676256 -1 -- Buster Blaster
 11790356 -1 -- Buster Dragon
 4998619 -1 -- Buster Gundil the Cubic Behemoth
 49823708 -1 -- Buster Whelp of the Destruction Swordsman
@@ -1056,14 +1071,24 @@
 17375316 1 -- Confiscation
 15721123 -1 -- Confronting the "C"
 20590515 -1 -- Conquistador of the Golden Land
+43513897 -1 -- Constellar Acubens
+15871676 -1 -- Constellar Aldebaran
+16906241 -1 -- Constellar Alrescha
 42391240 -1 -- Constellar Antares
 82913020 -1 -- Constellar Caduceus
 47579719 -1 -- Constellar Hyades
+17129783 -1 -- Constellar Leonis
+63545861 -1 -- Constellar Meteor
 26329679 -1 -- Constellar Omega
 78364470 -1 -- Constellar Pollux
 2091298 -1 -- Constellar Praesepe
 38495396 -1 -- Constellar Ptolemy M7
+70624184 -1 -- Constellar Rasalhague
+78486968 -1 -- Constellar Sheratan
+44635489 -1 -- Constellar Siat
 78358521 -1 -- Constellar Sombre
+35631584 -1 -- Constellar Star Chart
+90156158 -1 -- Constellar Star Cradle
 4820694 -1 -- Constellar Tempest
 40143123 -1 -- Constellar Virgo
 14759024 -1 -- Constellar Zubeneschamali
@@ -1335,6 +1360,7 @@
 19980975 -1 -- Diamond-Dust Cyclone
 88482761 -1 -- Dice Roll Battle
 66961194 -1 -- Dictator of D.
+50939127 -1 -- Different Dimension Dragon
 31849106 -1 -- Different Dimension Ground
 81782376 -1 -- Dig of Destiny
 85004150 -1 -- Digital Bug Rhinosebus
@@ -1365,6 +1391,7 @@
 82385847 1 -- Dinowrestler Pankratops
 40971261 -1 -- Dirge of the Lost Dragon
 98999181 -1 -- Disciple of Nephthys
+46480475 -1 -- Discord
 41113025 -1 -- Diskblade Rider
 90448279 -1 -- Divine Arsenal AA-ZEUS - Sky Thunder
 10032958 -1 -- Divine Dragon - Excelion
@@ -1498,6 +1525,8 @@
 65952776 -1 -- Dunnell, the Noble Arms of Light
 43017476 -1 -- Duoterion
 35195612 -1 -- Dust Knight
+8414337 -1 -- Dust Storm of Gusto
+38049934 -1 -- Dustflame Blast
 20137754 -1 -- Duza the Meteor Cubic Vessel
 24721709 -1 -- Dwimmered Path
 7409792 -1 -- Dynatherium
@@ -1546,6 +1575,9 @@
 95486586 -1 -- Elemental HERO Core
 90050480 -1 -- Elemental HERO Cosmo Neos
 28677304 -1 -- Elemental HERO Dark Neos
+41517968 -1 -- Elemental HERO Darkbright
+35809262 -1 -- Elemental HERO Flame Wingman
+16304628 -1 -- Elemental HERO Gaia
 85507811 -1 -- Elemental HERO Glow Neos
 48996569 -1 -- Elemental HERO Grand Neos
 36841733 -1 -- Elemental HERO Grandmerge
@@ -1568,6 +1600,7 @@
 81197327 -1 -- Elemental HERO Steam Healer
 22908820 -1 -- Elemental HERO Sunrise
 83121692 -1 -- Elemental HERO Tempest
+74711057 -1 -- Elemental HERO Terra Firma
 22061412 -1 -- Elemental HERO The Shining
 99414168 -1 -- Elemental Mistress Doriado
 11167052 -1 -- Elemental Training
@@ -1583,6 +1616,7 @@
 43580269 -1 -- Emes the Infinity
 501000007 -1 -- Emperor of Lightning
 53136004 -1 -- Emperor of Prophecy
+21672573 -1 -- Emperor Sem
 20560620 -1 -- Emperor Tanuki's Critter Count
 9409625 -1 -- Empty Machine
 80170678 -1 -- EN - Engage Neo Space
@@ -1628,6 +1662,7 @@
 86165817 -1 -- Evil HERO Malicious Bane
 45659520 -1 -- Evil HERO Sinister Necrom
 13293158 -1 -- Evil HERO Wild Cyclone
+42679662 -1 -- Evilswarm Azzathoth
 36757171 -1 -- Evilswarm Bahamut
 79785958 -1 -- Evilswarm Castor
 77841719 -1 -- Evilswarm Coppelia
@@ -1741,6 +1776,7 @@
 68934651 -1 -- Firewall Dragon Darkfluid
 21065189 -1 -- Firewall eXceed Dragon
 27054370 -1 -- Firewing Pegasus
+19932396 -1 -- First Step Towards Infestation
 21507589 -1 -- Fish and Swaps
 22819092 -1 -- Fish Sonar
 93369354 1 -- Fishborg Blaster
@@ -1783,6 +1819,7 @@
 81439173 1 -- Foolish Burial
 81439174 1 -- Foolish Burial
 88369727 -1 -- Foolish Return
+28429121 -1 -- Forbidden Arts of the Gishki
 24299458 -1 -- Forbidden Droplet
 49033797 -1 -- Forbidden Trapezohedron
 43340443 -1 -- Forced Back
@@ -1812,6 +1849,8 @@
 86520461 -1 -- Fossil Warrior Skull Bone
 96897184 -1 -- Fossil Warrior Skull King
 59531356 -1 -- Fossil Warrior Skull Knight
+72029628 -1 -- Fragment Fusion
+16556849 -1 -- Freed the Brave Wanderer
 91034681 -1 -- Frightfur Daredevil
 40636712 -1 -- Frightfur Kraken
 77522571 -1 -- Frightfur Meister
@@ -1896,25 +1935,33 @@
 19891310 -1 -- Geargiagear Gigant XG
 45286019 -1 -- Geargiano Mk-III
 72370114 -1 -- Geargiattacker
+45458027 -1 -- Gearspring Spirit
 40392714 -1 -- Geira Guile the Cubic King
 27004302 -1 -- Gem-Armadillo
 41777 -1 -- Gem-Enhancement
 90019393 -1 -- Gem-Knight Alexandrite
+72056560 -1 -- Gem-Knight Amber
 71616908 -1 -- Gem-Knight Amethyst
 13108445 -1 -- Gem-Knight Aquamarine
 67985943 -1 -- Gem-Knight Citrine
 76908448 -1 -- Gem-Knight Crystal
 69243722 -1 -- Gem-Knight Emerald
+45662855 -1 -- Gem-Knight Iolite
 19355597 -1 -- Gem-Knight Lady Brilliant Diamond
 47611119 -1 -- Gem-Knight Lady Lapis Lazuli
 55610199 -1 -- Gem-Knight Lady Rose Diamond
+81846636 -1 -- Gem-Knight Lazuli
 39512984 1 -- Gem-Knight Master Diamond
 24484270 -1 -- Gem-Knight Phantom Quartz
 93379652 -1 -- Gem-Knight Prismaura
 35622739 -1 -- Gem-Knight Quartz
 76614340 -1 -- Gem-Knight Ruby
+27126980 -1 -- Gem-Knight Sapphire
+43114901 -1 -- Gem-Knight Sardonyx
 49597193 -1 -- Gem-Knight Topaz
 8692301 -1 -- Gem-Knight Zirconia
+53408006 -1 -- Gem-Merchant
+64734090 -1 -- Gem-Turtle
 80758812 -1 -- Gemini Ablation
 91798373 -1 -- Gemini Scorpion
 720147 -1 -- Generaider Boss Bite
@@ -1926,15 +1973,26 @@
 66165755 -1 -- Genex Ally Axel
 91438994 -1 -- Genex Ally Bellflame
 64034255 1 -- Genex Ally Birdman
+20127343 -1 -- Genex Ally Changer
+38049541 -1 -- Genex Ally Chemistrer
+27827903 -1 -- Genex Ally Crusher
 68450517 -1 -- Genex Ally Duradark
 94622638 -1 -- Genex Ally Powercell
 63211608 -1 -- Genex Ally Reliever
 57238939 -1 -- Genex Ally Remote
+83500096 -1 -- Genex Ally Solid
 17760003 -1 -- Genex Ally Triarm
 52709508 -1 -- Genex Ally Triforce
+56511382 -1 -- Genex Ally Volcannon
 93211836 -1 -- Genex Army
+24432029 -1 -- Genex Blastfan
+89211486 -1 -- Genex Doctor
 53944920 -1 -- Genex Furnace
+89333528 -1 -- Genex Gaia
+51827737 -1 -- Genex Recycled
+67483216 -1 -- Genex Searcher
 15605085 -1 -- Genex Solar
+16828633 -1 -- Genex Spare
 52222372 -1 -- Genex Turbine
 42155488 -1 -- Genomix Fighter
 33972299 -1 -- Geo Genex
@@ -1984,13 +2042,24 @@
 92821268 -1 -- Gimmick Puppet Twilight Joker
 79922118 -1 -- Gingerbread House
 69811710 -1 -- Girsu, the Orcust Mekk-Knight
+67111213 -1 -- Gishki Abyss
+46159582 -1 -- Gishki Aquamirror
+92784374 -1 -- Gishki Ariel
+16693254 -1 -- Gishki Avance
+36227804 -1 -- Gishki Beast
 66399675 -1 -- Gishki Chain
 72403299 -1 -- Gishki Diviner
 73551138 -1 -- Gishki Emilia
 39905966 -1 -- Gishki Marker
+19959742 -1 -- Gishki Mollusk
 17241370 -1 -- Gishki Natalia
 63942761 -1 -- Gishki Noellia
+9236985 -1 -- Gishki Photomirror
 30334522 -1 -- Gishki Psychelone
+37557626 -1 -- Gishki Reliever
+29888389 -1 -- Gishki Shadow
+93506862 -1 -- Gishki Vanity
+47106439 -1 -- Gishki Vision
 66729231 -1 -- Gishki Zielgigas
 55465441 -1 -- Give and Take
 59789370 -1 -- Gizmek Arakami, the Hailbringer Hog
@@ -2100,7 +2169,12 @@
 65749035 -1 -- Gungnir, Dragon of the Ice Barrier
 94798725 -1 -- Gunkan Suship Uni-class Super-Dreadnought
 55321970 -1 -- Gust Fan
+91662792 -1 -- Gusto Egul
+46044841 -1 -- Gusto Falco
+42082363 -1 -- Gusto Griffin
+65277087 -1 -- Gusto Gulldo
 336369 -1 -- Gusto Squirro
+28066831 -1 -- Gusto Thunbolt
 33970665 -1 -- Guts of Steel
 19748583 -1 -- Gwenhwyfar, Queen of Noble Arms
 34137269 -1 -- Hailon, the Timelord
@@ -2109,6 +2183,7 @@
 88789641 -1 -- Hallowed Life Barrier
 44790889 -1 -- Hammer Bounzer
 32491822 -1 -- Hamon, Lord of Striking Thunder
+97904474 -1 -- Handcuffs Dragon
 90238142 -1 -- Harpie Channeler
 66386380 -1 -- Harpie Oracle
 39392286 -1 -- Harpie Perfumer
@@ -2278,6 +2353,11 @@
 89423971 -1 -- Infernoid Patrulea
 60551528 -1 -- Infernoid Pirmais
 82734805 -1 -- Infernoid Tierra
+35419032 -1 -- Infestation Infection
+27541267 -1 -- Infestation Pandemic
+81218874 -1 -- Infestation Ripples
+90934570 -1 -- Infestation Terminus
+27207573 -1 -- Infestation Tool
 18816758 -1 -- Infestation Wave
 10045474 -1 -- Infinite Impermanence
 72883039 -1 -- Infinite Light
@@ -2327,6 +2407,7 @@
 41916534 -1 -- Iron Hans
 73405179 -1 -- Iron Knight
 662857 -1 -- Iron Knight of Revolution
+79185500 -1 -- Ironhammer the Giant
 59934749 -1 -- Isolde, Two Tales of the Noble Knights
 300102004 -1 -- It's My Lucky Day!
 6544078 -1 -- Izanagi
@@ -2334,6 +2415,7 @@
 26932788 -1 -- Javelin Beetle
 41182875 -1 -- Javelin Beetle Pact
 50532786 -1 -- Jawsman
+72992744 -1 -- Jester Lord
 9742784 1 -- Jet Synchron
 286392 -1 -- Jet Warrior
 25935625 -1 -- Jiaotu, Darkness of the Yang Zing
@@ -2363,10 +2445,17 @@
 77075360 -1 -- Junk Speeder
 38491199 -1 -- Junkuriboh
 65430834 -1 -- Jurassic Impact
+80727721 -1 -- Jurrac Aeolo
+8594079 -1 -- Jurrac Brachis
+17948378 -1 -- Jurrac Dino
 80032567 -1 -- Jurrac Giganoto
+11012887 -1 -- Jurrac Guaiba
 16111820 -1 -- Jurrac Herra
 71106375 -1 -- Jurrac Iguanon
 17548456 -1 -- Jurrac Meteor
+36717258 -1 -- Jurrac Monoloph
+45711266 -1 -- Jurrac Ptera
+48411996 -1 -- Jurrac Stauriko
 85028288 -1 -- Jurrac Titano
 59312550 -1 -- Jurrac Velo
 65961683 -1 -- Jurrac Velphito
@@ -2379,6 +2468,7 @@
 41002238 -1 -- Kaiser Glider - Golden Burst
 93927067 -1 -- Kaiser Vorse Raider
 91712985 -1 -- Kamion, the Timelord
+72439556 -1 -- Kamui, Hope of Gusto
 12829151 -1 -- Kanan the Swordmistress
 6284176 -1 -- Kanzashi the Rikka Queen
 92300891 -1 -- Karakuri Barrel mdl 96 "Shinkuro"
@@ -2391,6 +2481,7 @@
 23874409 -1 -- Karakuri Shogun mdl 00 "Burei"
 22751868 -1 -- Karakuri Showdown Castle
 25904894 -1 -- Karakuri Super Shogun mdl 00N "Bureibu"
+51554871 -1 -- Kayenn, the Master Magma Blacksmith
 62383431 -1 -- Keurse, the Ogdoadic Light
 20541432 -1 -- Key Mace #2
 11501629 -1 -- Kickfire
@@ -2456,6 +2547,7 @@
 71036835 -1 -- Kuribee
 34419588 -1 -- Kuribeh
 40703223 -1 -- Kuriboh Token
+47432275 -1 -- Kuribon
 7021574 -1 -- Kuriboo
 35405755 -1 -- Kurikara Divincarnate
 95144193 -1 -- Kwagar Hercules
@@ -2481,11 +2573,18 @@
 15667446 -1 -- Latinum, Exarch of Dark World
 13171876 -1 -- Laundry Dragonmaid
 30303854 -1 -- Laval Archer
+11834972 -1 -- Laval Blaster
+88958576 -1 -- Laval Burner
 45439263 -1 -- Laval Coatl
+15169262 -1 -- Laval Forest Sprite
 14047624 -1 -- Laval Judgment Lord
+8041569 -1 -- Laval Lakeside Lady
 89893715 -1 -- Laval Miller
+89609515 -1 -- Laval Phlogis
 20374351 -1 -- Laval Stennon
 12986807 -1 -- Laval the Greater
+2407147 -1 -- Laval Volcano Handmaiden
+52786469 -1 -- Laval Warrior
 34086406 -1 -- Lavalval Chain
 75991898 -1 -- Lavalval Dragon
 12018201 -1 -- Lavalval Exlord
@@ -2609,6 +2708,7 @@
 75833426 -1 -- Madolche Tea Break
 23681456 -1 -- Madolchepalooza
 49941059 -1 -- Magic Gate of Miracles
+43385557 -1 -- Magical Android
 23220863 -1 -- Magical Cavalry of Cxulub
 18809562 -1 -- Magical Contract Door
 32723153 1 -- Magical Explosion
@@ -2832,6 +2932,7 @@
 30086349 -1 -- Meteor Black Comet Dragon
 17871506 -1 -- Meteor Dragon Red-Eyes Impact
 7733560 -1 -- Michion, the Timelord
+37580756 -1 -- Michizure
 2347477 -1 -- Micro Coder
 75487237 -1 -- Mid Shield Gardna
 38277918 -1 -- Mikazukinoyaiba
@@ -2862,6 +2963,8 @@
 27315304 -1 -- Mist Wurm
 4227096 -1 -- Mistaken Arrest
 94878265 -1 -- Moja
+72142276 -1 -- Molten Conduction Field
+37436476 -1 -- Molten Whirlwind Wall
 56897896 -1 -- Mono Synchron
 637216 -1 -- Monster Express
 84133008 -1 -- Monster Eye
@@ -2878,6 +2981,7 @@
 1872843 -1 -- Morpheus, the Dream Mirror White Knight
 33508719 1 -- Morphing Jar
 44424095 -1 -- Morphtronic Accelerator
+92720564 -1 -- Morphtronic Boomboxen
 55119278 -1 -- Morphtronic Radion
 57108202 -1 -- Morphtronic Remoten
 8483333 -1 -- Mosaic Manticore
@@ -2892,6 +2996,7 @@
 14057297 -1 -- Multiple Destruction
 71628381 -1 -- Multiple Piece Golem
 92385016 -1 -- Munin the Runick Wings
+9837195 -1 -- Musto, Oracle of Gusto
 11508758 -1 -- Mutant Mindmaster
 13735899 -1 -- Mysterion the Dragon Crown
 76375976 -1 -- Mystic Mine
@@ -3232,6 +3337,7 @@
 79707116 -1 -- Paralyzing Chain
 37491810 -1 -- Parametalfoes Azortless
 88453933 -1 -- Parlor Dragonmaid
+39261576 -1 -- Particle Fusion
 26435595 -1 -- Patissciel Couverture
 76775123 -1 -- Patrol Robo
 14055212 -1 -- Peaceful Burial
@@ -3297,6 +3403,7 @@
 95113856 -1 -- Phantom Fortress Enterblathnir
 88504133 -1 -- Phantom Knights' Rank-Up-Magic Force
 12958919 1 -- Phantom Skyblaster
+43791861 -1 -- Phoenix Beast Gairuda
 23558733 -1 -- Phoenixian Cluster Amaryllis
 67556500 -1 -- Phonon Pulse Dragon
 8192327 -1 -- Phosphorage the Elemental Lord
@@ -3385,6 +3492,7 @@
 78527720 -1 -- Prinzessin
 52615248 -1 -- Progleo
 39732186 -1 -- Prohibit Snake
+89770167 -1 -- Prominence, Molten Swordsman
 85847157 -1 -- Proof of Pruflas
 56174248 -1 -- Prophecy Destroyer
 84339249 -1 -- Protecting Spirit Loagaeth
@@ -3425,6 +3533,7 @@
 37038993 -1 -- Puralis, the Purple Pyrotile
 48461764 -1 -- Purple Poison Magician
 35842855 -1 -- Pyrorex the Elemental Lord
+55824220 -1 -- Pyroxene Fusion
 24635329 -1 -- Qadshaddoll Keios
 20447641 -1 -- Qlife's End
 91907707 -1 -- Qliphort Carrier
@@ -3444,7 +3553,12 @@
 11287364 -1 -- Quick-Span Knight
 31980955 -1 -- Quiet Life
 84433295 -1 -- Quintet Magician
+73783043 -1 -- R-Genex Accelerator
+65149697 -1 -- R-Genex Crusher
+1533292 -1 -- R-Genex Magma
+10178757 -1 -- R-Genex Oracle
 32744558 -1 -- R-Genex Overseer
+6256844 -1 -- R-Genex Turbo
 46572756 -1 -- R-Genex Ultimum
 21481146 -1 -- Radiant Mirror Force
 31440542 -1 -- Rafflesia Seduction
@@ -3523,6 +3637,7 @@
 68769900 -1 -- Redbeard, the Plunder Patroll Matey
 90411554 -1 -- Redox, Dragon Ruler of Boulders
 51023024 -1 -- Reeshaddoll Wendi
+36331074 -1 -- Reeze, Whirlwind of Gusto
 39000945 -1 -- Reflection of Endymion
 80102359 -1 -- Reinforced Human Psychic Borg
 32807846 1 -- Reinforcement of the Army
@@ -3692,6 +3807,7 @@
 97809599 -1 -- Seal of the Ancients
 17874674 -1 -- Seal of Wickedness
 80885324 -1 -- Search Striker
+47658964 -1 -- Searing Fire Wall
 52534264 -1 -- Second Expedition into Danger!
 61976639 -1 -- Secret Password
 25407643 -1 -- Secret Sanctuary of the Spellcasters
@@ -3959,13 +4075,18 @@
 2370081 -1 -- Steel Shell
 53116300 -1 -- Steelswarm Caller
 84488827 -1 -- Steelswarm Caucastag
+54338958 -1 -- Steelswarm Cell
+26722601 -1 -- Steelswarm Gatekeeper
+62729173 -1 -- Steelswarm Genome
 58494728 -1 -- Steelswarm Girastag
 94092230 -1 -- Steelswarm Hercules
 62007535 -1 -- Steelswarm Longhorn
+85505315 -1 -- Steelswarm Mantis
 22009013 -1 -- Steelswarm Moth
 61888819 -1 -- Steelswarm Origin
 37926346 -1 -- Steelswarm Roach
 90727556 -1 -- Steelswarm Scout
+99214782 -1 -- Steelswarm Sentinel
 35618486 -1 -- Steelswarm Sting
 3322931 -1 -- Stellar Wind Wolfrayet
 9272381 -1 -- Stellarknight Constellar Diamond
@@ -4546,17 +4667,24 @@
 77387463 -1 -- Vulcan Dragni the Cubic King
 98012938 -1 -- Vulcan the Divine
 56768355 -1 -- Vylon Alpha
+13220032 -1 -- Vylon Charger
+55046718 -1 -- Vylon Component
 41431329 -1 -- Vylon Cube
 45215453 -1 -- Vylon Delta
 39987164 -1 -- Vylon Disigma
+92035412 -1 -- Vylon Element
 75779210 -1 -- Vylon Epsilon
 168917 -1 -- Vylon Hept
 74657662 -1 -- Vylon Material
 93157004 -1 -- Vylon Omega
+47228077 -1 -- Vylon Pentachloro
 65659181 -1 -- Vylon Polytope
+1644289 -1 -- Vylon Segment
 48370501 -1 -- Vylon Sigma
 75886890 -1 -- Vylon Sphere
 10712320 -1 -- Vylon Stigma
+84313685 -1 -- Vylon Tesseract
+87836938 -1 -- Vylon Vanguard
 54807656 -1 -- Wailing of the Unchained Souls
 17078030 2 -- Wall of Revealing Light
 2779999 -1 -- Wall of Thorns
@@ -4589,6 +4717,7 @@
 42548470 -1 -- Weights & Zenmaisures
 5380979 -1 -- Welcome Labrynth
 65961085 -1 -- Wheel of Prophecy
+91822647 -1 -- Whirlwind of Gusto
 89907227 -1 -- White Aura Bihamut
 78229193 -1 -- White Aura Dolphin
 63731062 -1 -- White Aura Monoceros
@@ -4624,6 +4753,7 @@
 78156759 -1 -- Wind-Up Zenmaines
 1735088 -1 -- Wind-Up Zenmaintenance
 68597372 -1 -- Wind-Up Zenmaister
+54455435 -1 -- Winda, Priestess of Gusto
 27944249 -1 -- Windaar, Sage of Gusto
 43925870 -1 -- Windmill Genex
 53027855 -1 -- Windrose the Elemental Lord
@@ -4669,24 +4799,37 @@
 98935722 -1 -- World Legacy's Secret
 85763457 -1 -- World Legacy's Sorrow
 29146185 -1 -- World of Prophecy
+51043243 -1 -- Worm Cartaros
+88438982 -1 -- Worm Dimikles
 14936691 -1 -- Worm Erokin
 10026986 -1 -- Worm King
+44811425 -1 -- Worm Linx
+71315423 -1 -- Worm Millidith
 7700132 -1 -- Worm Noble
 28465301 -1 -- Worm Opera
+54860010 -1 -- Worm Prince
 81254059 -1 -- Worm Queen
+17649753 -1 -- Worm Rakuyeh
 3204467 -1 -- Worm Solid
+30299166 -1 -- Worm Tentacles
+76683171 -1 -- Worm Ugly
 2088870 -1 -- Worm Victory
 35638627 -1 -- Worm Warlord
+11722335 -1 -- Worm Xex
+47111934 -1 -- Worm Yagan
 74506079 -1 -- Worm Zero
 86395581 -1 -- Wynn the Wind Channeler
 30674956 -1 -- Wynn the Wind Charmer, Verdant
 92781606 -1 -- X-Krawler Qualiark
+53100061 -1 -- X-Saber Axel
+26993374 -1 -- X-Saber Uruz
 83810690 -1 -- X-Saber Wayne
 63813056 -1 -- Xtra HERO Dread Decimator
 19324993 -1 -- Xtra HERO Infernal Devicer
 1948619 -1 -- Xtra HERO Wonder Driver
 31383545 -1 -- XX-Saber Darksoul
 42737833 -1 -- XX-Saber Emmersblade
+51808422 -1 -- XX-Saber Faultroll
 42024143 -1 -- XX-Saber Gardestrike
 77330185 -1 -- XX-Saber Garsem
 52352005 -1 -- XX-Saber Gottoms
