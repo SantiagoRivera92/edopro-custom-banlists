@@ -37,19 +37,14 @@ status = 'status'
 #Filenames for banlist file
 banlistFilename = 'banlist/wmy/wmy.lflist.conf'
 
-formatName = "LC02"
+formatName = "LODT"
 
 #Arrays for sets
-unlimitedSets = ["LC02-", "LCGX-"]
-semiLimitedSets = ["GENF-", "PHSW-", "SDLS-", "YS11-", "SDGU-"]
-limitedSets = ["EXVC-", "ORCS-", "DT05-", "DP11-", "DL12-", "GLD4-", "WP11-", "TU06-", "DL13-", "HA05-", "TU07-"]
+unlimitedSets = ["LODT-"]
+semiLimitedSets = ["PTDN-", "TDGS-", "SDDE-", "5DS1-", "SDZW-"]
+limitedSets = ["GLAS-", "CSOC-", "DR04-", "CP05-", "DP06-", "DP07-", "CP06-", "CP07-", "PP02-", "DTP1-", "RP01-"]
 additionalLimitedCards = [
-	"Dark Highlander", "XX-Saber Emmersblade", "Naturia Pineapple", 
-	"Blood Mefist", "Blizzard Princess", "Pot of Duality", "Beast King Barbaros",
-	"Dark Simorgh", "Stygian Street Patrol", "Neo-Parshath, the Sky Paladin", "Archlord Kristya",
-	"Elemental HERO Gaia", "Fossil Dyna Pachycephalo", "Guardian Eatos", "Malefic Stardust Dragon",
-	"Ehren, Lightsworn Monk", "XX-Saber Darksoul", "The Tyrant Neptune", "Elder of the Six Samurai",
-	"Barbaroid, the Ultimate Battle Machine"
+		"Light and Darkness Dragon", "Crystal Beast Sapphire Pegasus", "Elemental HERO Grand Neos", "Rainbow Dragon", "Destiny HERO - Plasma", "Volcanic Doomfire", "Elemental HERO Plasma Vice", "Scapegoat", "Phantom of Chaos", "Vortex Trooper", "Nobleman of Crossout", "Blast Sphere", "Copycat", "Relieve Monster", "Cloning", "Limiter Removal", "Van'Dalgyon the Dark Dragon Lord", "D.D. Warrior Lady", "Doomcaliber Knight", "Card Ejector", "Mutant Mindmaster", "Hannibal Necromancer", "Elemental HERO Prisma", "Reinforcement of the Army", "Call of the Haunted", "Kuraz the Light Monarch", "Soul Rope", "Red Gadget", "Eradicator Epidemic Virus", "Card of Safe Return", "Thunder King Rai-Oh", "Arcana Force EX - The Light Ruler"
 	]
 
 
