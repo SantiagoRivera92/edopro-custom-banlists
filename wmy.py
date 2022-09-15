@@ -34,18 +34,60 @@ name = 'name'
 cardId = 'id'
 status = 'status'
 
-#Filenames for banlist file
-banlistFilename = 'banlist/wmy/wmy.lflist.conf'
+formatName = "DREV"
 
-formatName = "LODT"
+#Filenames for banlist file
+banlistFilename = 'banlist/wmy/wmy_%s.lflist.conf'%formatName
+
 
 #Arrays for sets
-unlimitedSets = ["LODT-"]
-semiLimitedSets = ["PTDN-", "TDGS-", "SDDE-", "5DS1-", "SDZW-"]
-limitedSets = ["GLAS-", "CSOC-", "DR04-", "CP05-", "DP06-", "DP07-", "CP06-", "CP07-", "PP02-", "DTP1-", "RP01-"]
+unlimitedSets = ["DREV-"]
+semiLimitedSets = ["TSHD-", "STBL-", "SDMM-", "5DS3-", "SDMA-"]
+limitedSets = ["ABPF-", "STOR-", "DPKB-", "DT02-", "GLD3-", "TU03-", "HA02-", "WCPP-", "DT03-", "TU04-", "DL11-", "HA03", "DP10", "DT04"]
 additionalLimitedCards = [
-		"Light and Darkness Dragon", "Crystal Beast Sapphire Pegasus", "Elemental HERO Grand Neos", "Rainbow Dragon", "Destiny HERO - Plasma", "Volcanic Doomfire", "Elemental HERO Plasma Vice", "Scapegoat", "Phantom of Chaos", "Vortex Trooper", "Nobleman of Crossout", "Blast Sphere", "Copycat", "Relieve Monster", "Cloning", "Limiter Removal", "Van'Dalgyon the Dark Dragon Lord", "D.D. Warrior Lady", "Doomcaliber Knight", "Card Ejector", "Mutant Mindmaster", "Hannibal Necromancer", "Elemental HERO Prisma", "Reinforcement of the Army", "Call of the Haunted", "Kuraz the Light Monarch", "Soul Rope", "Red Gadget", "Eradicator Epidemic Virus", "Card of Safe Return", "Thunder King Rai-Oh", "Arcana Force EX - The Light Ruler"
-	]
+	"Cyber Eltanin",
+	"Synchro Blast Wave",
+	"Speed Warrior",
+	"Advance Draw",
+	"Scrap-Iron Scarecrow",
+	"Level Eater",
+	"One for One",
+	"Dandylion",
+	"Angel 07",
+	"Hundred Eyes Dragon",
+	"Darklord Asmodeus",
+	"Darklord Superbia",
+	"Darklord Edeh Arae",
+	"Alector, Sovereign of Birds",
+	"Golem Dragon",
+	"Van'Dalgyon the Dark Dragon Lord",
+	"Cyber Dinosaur",
+	"Green Baboon, Defender of the Forest",
+	"The Wicked Eraser",
+	"Blackwing - Vayu the Emblem of Honor",
+	"Chimeratech Fortress Dragon",
+	"Archfiend of Gilfer",
+	"The Wicked Dreadroot",
+	"Dark Armed Dragon",
+	"Dragonic Knight",
+	"Malefic Stardust Dragon",
+	"Gold Sarcophagus",
+	"Blue-Eyes White Dragon",
+	"Dark Magician",
+	"Red-Eyes Black Dragon",
+	"Darklord Desire",
+	"Dark End Dragon",
+	"Elemental HERO Ocean",
+	"Dreadscythe Harvester",
+	"Gandora the Dragon of Destruction",
+	"Magician's Valkyria",
+	"The Wicked Avatar",
+	"Exodius the Ultimate Forbidden Lord",
+	"Red Dragon Archfiend",
+	"XX-Saber Fullhelmknight",
+	"The Winged Dragon of Ra"
+	
+]
 
 
 simpleCards = [] # List of all TCG legal cards for banlist generation

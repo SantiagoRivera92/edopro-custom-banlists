@@ -127,7 +127,6 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Chronomaly Crystal Chrononaut](https://db.ygoprodeck.com/card/?search=Chronomaly%20Crystal%20Chrononaut) | Unlimited |
 | [Chronomaly Crystal Skull](https://db.ygoprodeck.com/card/?search=Chronomaly%20Crystal%20Skull) | Unlimited |
 | [Chronomaly Gordian Knot](https://db.ygoprodeck.com/card/?search=Chronomaly%20Gordian%20Knot) | Unlimited |
-| [Chronomaly Magella Globe](https://db.ygoprodeck.com/card/?search=Chronomaly%20Magella%20Globe) | Unlimited |
 | [Chronomaly Mud Golem](https://db.ygoprodeck.com/card/?search=Chronomaly%20Mud%20Golem) | Unlimited |
 | [Chronomaly Nebra Disk](https://db.ygoprodeck.com/card/?search=Chronomaly%20Nebra%20Disk) | Unlimited |
 | [Chronomaly Sol Monolith](https://db.ygoprodeck.com/card/?search=Chronomaly%20Sol%20Monolith) | Unlimited |
@@ -137,7 +136,6 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Code Generator](https://db.ygoprodeck.com/card/?search=Code%20Generator) | Unlimited |
 | [Code Talker](https://db.ygoprodeck.com/card/?search=Code%20Talker) | Unlimited |
 | [Comics Hero King Arthur](https://db.ygoprodeck.com/card/?search=Comics%20Hero%20King%20Arthur) | Unlimited |
-| [Constellar Caduceus](https://db.ygoprodeck.com/card/?search=Constellar%20Caduceus) | Unlimited |
 | [Constellar Omega](https://db.ygoprodeck.com/card/?search=Constellar%20Omega) | Unlimited |
 | [Constellar Pollux](https://db.ygoprodeck.com/card/?search=Constellar%20Pollux) | Unlimited |
 | [Constellar Ptolemy M7](https://db.ygoprodeck.com/card/?search=Constellar%20Ptolemy%20M7) | Unlimited (!!) |
@@ -203,7 +201,6 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Evilswarm Ouroboros](https://db.ygoprodeck.com/card/?search=Evilswarm%20Ouroboros) | Unlimited |
 | [Evolzar Dolkka](https://db.ygoprodeck.com/card/?search=Evolzar%20Dolkka) | Unlimited |
 | [Excode Talker](https://db.ygoprodeck.com/card/?search=Excode%20Talker) | Unlimited |
-| [Fabled Andwraith](https://db.ygoprodeck.com/card/?search=Fabled%20Andwraith) | Unlimited |
 | [Filo, Messenger Fur Hire](https://db.ygoprodeck.com/card/?search=Filo,%20Messenger%20Fur%20Hire) | Unlimited |
 | [Fire King Avatar Arvata](https://db.ygoprodeck.com/card/?search=Fire%20King%20Avatar%20Arvata) | Unlimited |
 | [Fire King Avatar Yaksha](https://db.ygoprodeck.com/card/?search=Fire%20King%20Avatar%20Yaksha) | Unlimited |
@@ -751,9 +748,7 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Winds Over the Ice Barrier](https://db.ygoprodeck.com/card/?search=Winds%20Over%20the%20Ice%20Barrier) | Unlimited |
 | [Windwitch - Crystal Bell](https://db.ygoprodeck.com/card/?search=Windwitch%20-%20Crystal%20Bell) | Unlimited |
 | [Windwitch - Diamond Bell](https://db.ygoprodeck.com/card/?search=Windwitch%20-%20Diamond%20Bell) | Unlimited |
-| [Windwitch - Freeze Bell](https://db.ygoprodeck.com/card/?search=Windwitch%20-%20Freeze%20Bell) | Unlimited |
 | [Windwitch - Winter Bell](https://db.ygoprodeck.com/card/?search=Windwitch%20-%20Winter%20Bell) | Unlimited |
-| [Windwitch Chimes](https://db.ygoprodeck.com/card/?search=Windwitch%20Chimes) | Unlimited |
 | [Witchcrafter Bystreet](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Bystreet) | Unlimited |
 | [Witchcrafter Collaboration](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Collaboration) | Unlimited |
 | [Witchcrafter Edel](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Edel) | Unlimited |
