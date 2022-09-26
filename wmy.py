@@ -34,59 +34,36 @@ name = 'name'
 cardId = 'id'
 status = 'status'
 
-formatName = "DREV"
+formatName = "IGAS"
 
 #Filenames for banlist file
 banlistFilename = 'banlist/wmy/wmy_%s.lflist.conf'%formatName
 
 
 #Arrays for sets
-unlimitedSets = ["DREV-"]
-semiLimitedSets = ["TSHD-", "STBL-", "SDMM-", "5DS3-", "SDMA-"]
-limitedSets = ["ABPF-", "STOR-", "DPKB-", "DT02-", "GLD3-", "TU03-", "HA02-", "WCPP-", "DT03-", "TU04-", "DL11-", "HA03", "DP10", "DT04"]
+unlimitedSets = ["IGAS-"]
+semiLimitedSets = ["CHIM-", "ETCO-", "SDRR-", "SDSH-", "SR10-", "SDSA-"]
+limitedSets = ["RIRA-", "ROTD-", "OP11-", "FIGA-", "MP19-", "AC19-", "LED5-", "DUDE-", "MYFI-", "OP12-", "LED6-", "MPV1-", "DUOV-", "SESL-", "OP13-", "TOCH-", "LDS1-", "BLAR-"]
 additionalLimitedCards = [
-	"Cyber Eltanin",
-	"Synchro Blast Wave",
-	"Speed Warrior",
-	"Advance Draw",
-	"Scrap-Iron Scarecrow",
-	"Level Eater",
-	"One for One",
-	"Dandylion",
-	"Angel 07",
-	"Hundred Eyes Dragon",
-	"Darklord Asmodeus",
-	"Darklord Superbia",
-	"Darklord Edeh Arae",
-	"Alector, Sovereign of Birds",
-	"Golem Dragon",
-	"Van'Dalgyon the Dark Dragon Lord",
-	"Cyber Dinosaur",
-	"Green Baboon, Defender of the Forest",
-	"The Wicked Eraser",
-	"Blackwing - Vayu the Emblem of Honor",
-	"Chimeratech Fortress Dragon",
-	"Archfiend of Gilfer",
-	"The Wicked Dreadroot",
-	"Dark Armed Dragon",
-	"Dragonic Knight",
-	"Malefic Stardust Dragon",
-	"Gold Sarcophagus",
-	"Blue-Eyes White Dragon",
-	"Dark Magician",
-	"Red-Eyes Black Dragon",
-	"Darklord Desire",
-	"Dark End Dragon",
-	"Elemental HERO Ocean",
-	"Dreadscythe Harvester",
-	"Gandora the Dragon of Destruction",
-	"Magician's Valkyria",
-	"The Wicked Avatar",
-	"Exodius the Ultimate Forbidden Lord",
-	"Red Dragon Archfiend",
-	"XX-Saber Fullhelmknight",
-	"The Winged Dragon of Ra"
-	
+	"Destiny Draw",
+	"Skill Drain",
+	"Progleo",
+	"Micro Coder", 
+	"Cynet Codec", 
+	"Timelord Progenitor Vorpgate", 
+	"Salamangreat Coyote", 
+	"Marincess Battle Ocean", 
+	"Marincess Wonder Heart", 
+	"Marincess Sea Angel",
+	"Super Rejuvenation", 
+	"Floodgate Trap Hole",
+	"Solemn Judgment",
+	"Edge Imp Sabres", 
+	"Cyberse Accelerator", 
+	"Gouki Destroy Ogre", 
+	"Gouki Guts", 
+	"Unchained Twins - Sarama", 
+	"Go! - D/D/D Divine Zero King Rage"
 ]
 
 
