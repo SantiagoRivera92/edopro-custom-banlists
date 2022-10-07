@@ -34,36 +34,42 @@ name = 'name'
 cardId = 'id'
 status = 'status'
 
-formatName = "IGAS"
+formatName = "HA06"
 
 #Filenames for banlist file
 banlistFilename = 'banlist/wmy/wmy_%s.lflist.conf'%formatName
 
 
 #Arrays for sets
-unlimitedSets = ["IGAS-"]
-semiLimitedSets = ["CHIM-", "ETCO-", "SDRR-", "SDSH-", "SR10-", "SDSA-"]
-limitedSets = ["RIRA-", "ROTD-", "OP11-", "FIGA-", "MP19-", "AC19-", "LED5-", "DUDE-", "MYFI-", "OP12-", "LED6-", "MPV1-", "DUOV-", "SESL-", "OP13-", "TOCH-", "LDS1-", "BLAR-"]
+unlimitedSets = ["HA06-"]
+semiLimitedSets = ["GAOV-", "REDU-", "SDDC-", "YS12-", "SDWA-", "SDRE-"]
+limitedSets = ["ORCS-", "ABYR-", "DT06-", "RYMP-", "PRC1-", "BP01-", "BATT-", "TU08-", "DL14-", "GLD5-", "DT07", "LC03", "LCYW"]
 additionalLimitedCards = [
-	"Destiny Draw",
-	"Skill Drain",
-	"Progleo",
-	"Micro Coder", 
-	"Cynet Codec", 
-	"Timelord Progenitor Vorpgate", 
-	"Salamangreat Coyote", 
-	"Marincess Battle Ocean", 
-	"Marincess Wonder Heart", 
-	"Marincess Sea Angel",
-	"Super Rejuvenation", 
-	"Floodgate Trap Hole",
-	"Solemn Judgment",
-	"Edge Imp Sabres", 
-	"Cyberse Accelerator", 
-	"Gouki Destroy Ogre", 
-	"Gouki Guts", 
-	"Unchained Twins - Sarama", 
-	"Go! - D/D/D Divine Zero King Rage"
+	"Catapult Warrior",
+	"Effect Veiler",
+	"The Winged Dragon of Ra",
+	"Number 16: Shock Master",
+	"Kachi Kochi Dragon",
+	"Elemental HERO Escuridao",
+	"Evolzar Dolkka",
+	"Genex Neutron",
+	"Scrap Dragon",
+	"Dark Highlander",
+	"Wind-Up rabbit",
+	"Evolzar Laggia",
+	"Wind-Up Zenmaines",
+	"Slifer the Sky Dragon",
+	"Digvorzhak, King of Heavy Industry",
+	"T.G. Hyper Librarian",
+	"Number 30: Acid Golem of Destruction",
+	"Infernity General",
+	"Superdreadnought Rail Cannon Gustav Max",
+	"Rescue Rabbit",
+	"Maxx \"C\"",
+	"Tour Guide from the Underworld",
+	"Malefic Truth Dragon",
+	"X-Saber Souza",
+	"Leviair the Sea Dragon"
 ]
 
 
