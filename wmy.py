@@ -103,7 +103,7 @@ def printBanlist():
 	with open(banlistFilename, 'w', encoding="utf-8") as outfile:
 		outfile.write("#[Wave Motion Yugioh %s]\n" % formatName)
 		outfile.write("!Wave Motion Yugioh %s\n\n" % formatName)
-		outfile.write("#whitelist\n\n")
+		outfile.write("$whitelist\n\n")
 		for card in simpleCards:
 			writeCardToBanlist(card, outfile)
 

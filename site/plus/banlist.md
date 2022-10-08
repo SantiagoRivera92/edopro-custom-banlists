@@ -286,7 +286,6 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Heroic Challenger - Assault Halberd](https://db.ygoprodeck.com/card/?search=Heroic%20Challenger%20-%20Assault%20Halberd) | Unlimited |
 | [Hi-Speedroid Hagoita](https://db.ygoprodeck.com/card/?search=Hi-Speedroid%20Hagoita) | Unlimited (!!) |
 | [Hi-Speedroid Kitedrake](https://db.ygoprodeck.com/card/?search=Hi-Speedroid%20Kitedrake) | Unlimited |
-| [Hidden Village of Ninjitsu Arts](https://db.ygoprodeck.com/card/?search=Hidden%20Village%20of%20Ninjitsu%20Arts) | Unlimited |
 | [Hieratic Dragon King of Atum](https://db.ygoprodeck.com/card/?search=Hieratic%20Dragon%20King%20of%20Atum) | Unlimited (!!) |
 | [Hieratic Seal of Convocation](https://db.ygoprodeck.com/card/?search=Hieratic%20Seal%20of%20Convocation) | Unlimited |
 | [Hieratic Sun Dragon Overlord of Heliopolis](https://db.ygoprodeck.com/card/?search=Hieratic%20Sun%20Dragon%20Overlord%20of%20Heliopolis) | Unlimited |
@@ -445,11 +444,8 @@ The philosophy of this format can be summarized in: No Extra Deck based omninega
 | [Naturia Cherries](https://db.ygoprodeck.com/card/?search=Naturia%20Cherries) | Unlimited |
 | [Naturia Eggplant](https://db.ygoprodeck.com/card/?search=Naturia%20Eggplant) | Unlimited |
 | [Naturia Gaiastrio](https://db.ygoprodeck.com/card/?search=Naturia%20Gaiastrio) | Unlimited |
-| [Naturia Sacred Tree](https://db.ygoprodeck.com/card/?search=Naturia%20Sacred%20Tree) | Unlimited |
 | [Necrovalley Throne](https://db.ygoprodeck.com/card/?search=Necrovalley%20Throne) | Unlimited |
-| [Ninja Grandmaster Hanzo](https://db.ygoprodeck.com/card/?search=Ninja%20Grandmaster%20Hanzo) | Unlimited |
 | [Ninja Grandmaster Saizo](https://db.ygoprodeck.com/card/?search=Ninja%20Grandmaster%20Saizo) | Unlimited |
-| [Ninjitsu Art of Duplication](https://db.ygoprodeck.com/card/?search=Ninjitsu%20Art%20of%20Duplication) | Unlimited |
 | [Ninjitsu Art of Mirage-Transformation](https://db.ygoprodeck.com/card/?search=Ninjitsu%20Art%20of%20Mirage-Transformation) | Unlimited |
 | [Noble Arms - Excaliburn](https://db.ygoprodeck.com/card/?search=Noble%20Arms%20-%20Excaliburn) | Unlimited |
 | [Noble Arms of Destiny](https://db.ygoprodeck.com/card/?search=Noble%20Arms%20of%20Destiny) | Unlimited |

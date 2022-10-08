@@ -12,7 +12,20 @@ url = "https://db.ygoprodeck.com/api/v7/cardinfo.php"
 request = urllib.request.Request(url, None, header)
 
 #Cards that aren't in YGOPRODECK but are legal. 
-additionalLegalCards = [95027497, 76913983, 73445448, 21044178, 26232916, 6459419, 50766506, 3734202,3072808,14568951,40279770]
+additionalLegalCards = [
+	95027497, 76913983,73445448,21044178,26232916, 
+	6459419, 50766506, 3734202,3072808,14568951,40279770,
+	7459919,94392192,31887806,20065259,66069967,93454062,
+	29942771,54092240,12061457,27882993,53270092,80275707,
+	16769305,53154400,89552119,15947754,47219274,70485614,
+	7889323,33878367,60362066,6767771,32152870,32939238,
+	8428836,34813545,71817640,7206349,34690953,33578406,
+	69973414,96367119,95245571,21639276,68038375,20417688,
+	67906797,4472318,40460013,77855162,57511992,97692972,
+	24087580,50486289,97870394,23965033,59353647,86758746,
+	101110106,101110101
+]
+newAdditionalLegalcards = []
 
 #Cards that are listed as legal in YGOPRODECK but aren't
 notLegalCards = []
@@ -56,11 +69,11 @@ simpleCards = [] # List of all TCG legal cards for banlist generation
 ocgCards = [] # List of all OCG exclusive cards for banlist generation.
 
 def printCorrectAdditionalCards():
-	if len(additionalLegalCards) == 0:
+	if len(newAdditionalLegalcards) == 0:
 		print("You can remove the entire Additional array safely\n", flush=True)
 	else:
 		print("Still missing from YGOPRODECK:\n", flush=True)
-		print(additionalLegalCards)
+		print(newAdditionalLegalcards)
 
 def writeCardToBanlist(card, outfile):
 	try:
@@ -138,7 +151,10 @@ def printBanlist():
 		outfile.write("\n#Regular Banlist\n\n")
 		for card in simpleCards:
 			writeCardToBanlist(card, outfile)
+		for card in additionalLegalCards:
+			outfile.write("%d 3 -- New card\n"%(card))
 	print("Writing traditional EDOPRO banlist", flush=True)
+
 	with open(tradFilename, 'w', encoding="utf-8") as outfile:
 		outfile.write("#[Common Charity Traditional Format]\n")
 		outfile.write("!Common Charity Traditional %s.%s\n\n" % (datetime.now().month, datetime.now().year))
@@ -184,8 +200,9 @@ def generateArrays():
 
 				#Manually add the cards that don't have legal prints but should be legal
 				if card.get(cardId) in additionalLegalCards:
+					additionalLegalCards.remove(card.get(cardId))
 					if hasCommonPrint: 
-						additionalLegalCards.remove(card.get(cardId))
+						newAdditionalLegalcards.append(card.get(cardId))
 					if not hasCommonPrint:
 						hasCommonPrint = True
 
