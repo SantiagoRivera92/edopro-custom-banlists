@@ -16,7 +16,8 @@ additionalLegalCards = []
 newAdditionalLegalcards = []
 
 #Cards that are listed as legal in YGOPRODECK but aren't
-notLegalCards = []
+notLegalCards = [94670654, 34976176, 8571567, 71187462, 60242223]
+stillWrong = []
 
 #(C) is common, (SP) is Short Print, (SSP) is Super Short Print
 legalRarities = ['(C)', '(SP)', '(SSP)']
@@ -47,10 +48,6 @@ status = 'status'
 banlistFilename = 'banlist/charity.lflist.conf'
 siteFilename ='site/ccbanlist.md'
 
-#Filenames for traditional banlist file
-tradFilename = 'banlist/charity_traditional.lflist.conf'
-tradSiteFilename = 'site/tradccbanlist.md'
-
 #Card arrays
 siteCards = []
 simpleCards = [] # List of all TCG legal cards for banlist generation
@@ -61,7 +58,12 @@ def printCorrectAdditionalCards():
 		print("You can remove the entire Additional array safely\n", flush=True)
 	else:
 		print("Still missing from YGOPRODECK:\n", flush=True)
-		print(newAdditionalLegalcards)
+		print(newAdditionalLegalcards, flush=True)
+	if len(stillWrong) == 0:
+		print("You can remove the entire notlegalcards array safely\n", flush=True)
+	else:
+		print("Still wrong:\n", flush=True)
+		print(stillWrong)
 
 def writeCardToBanlist(card, outfile):
 	try:
@@ -89,25 +91,10 @@ def writeCardsToSite(cards, outfile):
 	for card in sorted(cards, key=operator.itemgetter('status')):
 		writeCardToSite(card,outfile)
 
-def writeCardsToTradSite(cards, outfile):
-	for card in cards:
-		if card.get(status) == 0:
-			card[status] = 1
-	writeCardsToSite(cards, outfile)
-
 def writeHeader(outfile):
 	outfile.write("---\ntitle:  \"Common Charity\"\n---")
 	outfile.write("\n\n## Common Charity F&L list")
 	outfile.write("\n\n[You can find the EDOPRO banlist here](https://drive.google.com/file/d/1-1HTHnYJyKyyBg94iAwFm-uNayfp0yyT/view?usp=sharing). Open the link, click on the three dots in the top right and then click Download.")
-	outfile.write("\n\nThe banlist file goes into the lflists folder in your EDOPRO installation folder. Assuming you use Windows, it usually is C:/ProjectIgnis/lflists")
-	outfile.write("\n\nEDOPRO will not recognize a change in banlists while it is open. You will have to restart EDOPRO for the changes to be reflected.")
-	outfile.write("\n\n| Card name | Status |")
-	outfile.write("\n| :-- | :-- |")
-
-def writeTradHeader(outfile):
-	outfile.write("---\ntitle:  \"Common Charity Traditional\"\n---")
-	outfile.write("\n\n## Common Charity Traditional F&L list")
-	outfile.write("\n\n[You can find the EDOPRO banlist here](https://drive.google.com/file/d/1-3lOtJxeXHMrY5zpUorZCOpVCi4aO1lU/view?usp=sharing). Open the link, click on the three dots in the top right and then click Download.")
 	outfile.write("\n\nThe banlist file goes into the lflists folder in your EDOPRO installation folder. Assuming you use Windows, it usually is C:/ProjectIgnis/lflists")
 	outfile.write("\n\nEDOPRO will not recognize a change in banlists while it is open. You will have to restart EDOPRO for the changes to be reflected.")
 	outfile.write("\n\n| Card name | Status |")
@@ -121,11 +108,6 @@ def printSite():
 	with open(siteFilename, 'w', encoding="'utf-8") as siteFile:
 		writeHeader(siteFile)
 		writeCardsToSite(siteCards, siteFile)
-		writeFooter(siteFile)
-	print("Writing traditional site", flush=True)
-	with open(tradSiteFilename, 'w', encoding="utf-8") as siteFile:
-		writeTradHeader(siteFile)
-		writeCardsToTradSite(siteCards, siteFile)
 		writeFooter(siteFile)
 
 def printBanlist():
@@ -141,23 +123,7 @@ def printBanlist():
 			writeCardToBanlist(card, outfile)
 		for card in additionalLegalCards:
 			outfile.write("%d 3 -- New card\n"%(card))
-	print("Writing traditional EDOPRO banlist", flush=True)
-
-	with open(tradFilename, 'w', encoding="utf-8") as outfile:
-		outfile.write("#[Common Charity Traditional Format]\n")
-		outfile.write("!Common Charity Traditional %s.%s\n\n" % (datetime.now().month, datetime.now().year))
-		outfile.write("\n#OCG Cards\n\n")
-		for card in ocgCards:
-			writeCardToBanlist(card, outfile)
-		outfile.write("\n#Regular Banlist\n\n")
-		for card in simpleCards:
-			newCard = {}
-			newCard[cardId] = card.get(cardId)
-			newCard[name] = card.get(name)
-			newCard[status] = card.get(status)
-			if (newCard.get(status) == 0):
-				newCard[status] = 1
-			writeCardToBanlist(newCard, outfile)
+	
 
 def generateArrays():
 	with urllib.request.urlopen(request) as url:
@@ -194,11 +160,15 @@ def generateArrays():
 					if not hasCommonPrint:
 						hasCommonPrint = True
 
+				if card.get(cardId) in notLegalCards:
+					if hasCommonPrint:
+						stillWrong.append(card.get(cardId))
+					hasCommonPrint = False
+				
 				if not hasCommonPrint:
 					banTcg = -1
 
-				if card.get(cardId) in notLegalCards:
-					banTcg = -1
+
 
 				alreadyInSite = False
 				for variant in images:
