@@ -179,8 +179,7 @@ def generateArrays():
 					if not alreadyInSite:
 						siteCards.append(simpleCard)
 						alreadyInSite = True
-					if (banTcg<3):
-						simpleCards.append(simpleCard)
+					simpleCards.append(simpleCard)
 
 			if (card.get(card_sets)) == None and card.get(cardType) != token:
 				for variant in card.get(card_images):
