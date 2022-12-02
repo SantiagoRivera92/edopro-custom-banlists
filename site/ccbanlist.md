@@ -926,6 +926,10 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Dark Spell Regeneration](https://db.ygoprodeck.com/card/?search=Dark%20Spell%20Regeneration) | Illegal |
 | [Dark Spirit Art - Greed](https://db.ygoprodeck.com/card/?search=Dark%20Spirit%20Art%20-%20Greed) | Illegal |
 | [Dark Voltanis](https://db.ygoprodeck.com/card/?search=Dark%20Voltanis) | Illegal |
+| [Dark World Accession](https://db.ygoprodeck.com/card/?search=Dark%20World%20Accession) | Illegal |
+| [Dark World Archives](https://db.ygoprodeck.com/card/?search=Dark%20World%20Archives) | Illegal |
+| [Dark World Punishment](https://db.ygoprodeck.com/card/?search=Dark%20World%20Punishment) | Illegal |
+| [Dark World Puppetry](https://db.ygoprodeck.com/card/?search=Dark%20World%20Puppetry) | Illegal |
 | [Dark-Eyes Illusionist](https://db.ygoprodeck.com/card/?search=Dark-Eyes%20Illusionist) | Illegal |
 | [Darkest Diabolos, Lord of the Lair](https://db.ygoprodeck.com/card/?search=Darkest%20Diabolos,%20Lord%20of%20the%20Lair) | Illegal |
 | [Darkflare Dragon](https://db.ygoprodeck.com/card/?search=Darkflare%20Dragon) | Illegal |
@@ -1670,6 +1674,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Genex Turbine](https://db.ygoprodeck.com/card/?search=Genex%20Turbine) | Illegal |
 | [Genin](https://db.ygoprodeck.com/card/?search=Genin) | Illegal |
 | [Genomix Fighter](https://db.ygoprodeck.com/card/?search=Genomix%20Fighter) | Illegal |
+| [Genta, Gateman of Dark World](https://db.ygoprodeck.com/card/?search=Genta,%20Gateman%20of%20Dark%20World) | Illegal |
 | [Geo Genex](https://db.ygoprodeck.com/card/?search=Geo%20Genex) | Illegal |
 | [Geomathmech Final Sigma](https://db.ygoprodeck.com/card/?search=Geomathmech%20Final%20Sigma) | Illegal |
 | [Geomathmech Magma](https://db.ygoprodeck.com/card/?search=Geomathmech%20Magma) | Illegal |
@@ -3077,6 +3082,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Parallel Selection](https://db.ygoprodeck.com/card/?search=Parallel%20Selection) | Illegal |
 | [Parallel Twister](https://db.ygoprodeck.com/card/?search=Parallel%20Twister) | Illegal |
 | [Paralyzing Chain](https://db.ygoprodeck.com/card/?search=Paralyzing%20Chain) | Illegal |
+| [Parl, Hermit of Dark World](https://db.ygoprodeck.com/card/?search=Parl,%20Hermit%20of%20Dark%20World) | Illegal |
 | [Parlor Dragonmaid](https://db.ygoprodeck.com/card/?search=Parlor%20Dragonmaid) | Illegal |
 | [Particle Fusion](https://db.ygoprodeck.com/card/?search=Particle%20Fusion) | Illegal |
 | [Patissciel Couverture](https://db.ygoprodeck.com/card/?search=Patissciel%20Couverture) | Illegal |
@@ -3414,6 +3420,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Reeshaddoll Wendi](https://db.ygoprodeck.com/card/?search=Reeshaddoll%20Wendi) | Illegal |
 | [Reeze, Whirlwind of Gusto](https://db.ygoprodeck.com/card/?search=Reeze,%20Whirlwind%20of%20Gusto) | Illegal |
 | [Reflection of Endymion](https://db.ygoprodeck.com/card/?search=Reflection%20of%20Endymion) | Illegal |
+| [Reign-Beaux, Overking of Dark World](https://db.ygoprodeck.com/card/?search=Reign-Beaux,%20Overking%20of%20Dark%20World) | Illegal |
 | [Reincarnation of the Seventh Emperors](https://db.ygoprodeck.com/card/?search=Reincarnation%20of%20the%20Seventh%20Emperors) | Illegal |
 | [Reinforced Human Psychic Borg](https://db.ygoprodeck.com/card/?search=Reinforced%20Human%20Psychic%20Borg) | Illegal |
 | [Relinquished Anima](https://db.ygoprodeck.com/card/?search=Relinquished%20Anima) | Illegal |
@@ -4247,12 +4254,14 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Traptrix Allure](https://db.ygoprodeck.com/card/?search=Traptrix%20Allure) | Illegal |
 | [Traptrix Arachnocampa](https://db.ygoprodeck.com/card/?search=Traptrix%20Arachnocampa) | Illegal |
 | [Traptrix Atrax](https://db.ygoprodeck.com/card/?search=Traptrix%20Atrax) | Illegal |
+| [Traptrix Atypus](https://db.ygoprodeck.com/card/?search=Traptrix%20Atypus) | Illegal |
 | [Traptrix Cularia](https://db.ygoprodeck.com/card/?search=Traptrix%20Cularia) | Illegal |
 | [Traptrix Dionaea](https://db.ygoprodeck.com/card/?search=Traptrix%20Dionaea) | Illegal |
 | [Traptrix Genlisea](https://db.ygoprodeck.com/card/?search=Traptrix%20Genlisea) | Illegal |
 | [Traptrix Mantis](https://db.ygoprodeck.com/card/?search=Traptrix%20Mantis) | Illegal |
 | [Traptrix Myrmeleo](https://db.ygoprodeck.com/card/?search=Traptrix%20Myrmeleo) | Illegal |
 | [Traptrix Orchard](https://db.ygoprodeck.com/card/?search=Traptrix%20Orchard) | Illegal |
+| [Traptrix Pinguicula](https://db.ygoprodeck.com/card/?search=Traptrix%20Pinguicula) | Illegal |
 | [Traptrix Pudica](https://db.ygoprodeck.com/card/?search=Traptrix%20Pudica) | Illegal |
 | [Traptrix Rafflesia](https://db.ygoprodeck.com/card/?search=Traptrix%20Rafflesia) | Illegal |
 | [Traptrix Sera](https://db.ygoprodeck.com/card/?search=Traptrix%20Sera) | Illegal |
@@ -6437,14 +6446,10 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Dark Valkyria](https://db.ygoprodeck.com/card/?search=Dark%20Valkyria) | Unlimited |
 | [Dark Verger](https://db.ygoprodeck.com/card/?search=Dark%20Verger) | Unlimited |
 | [Dark Witch](https://db.ygoprodeck.com/card/?search=Dark%20Witch) | Unlimited |
-| [Dark World Accession](https://db.ygoprodeck.com/card/?search=Dark%20World%20Accession) | Unlimited |
-| [Dark World Archives](https://db.ygoprodeck.com/card/?search=Dark%20World%20Archives) | Unlimited |
 | [Dark World Brainwashing](https://db.ygoprodeck.com/card/?search=Dark%20World%20Brainwashing) | Unlimited |
 | [Dark World Dealings](https://db.ygoprodeck.com/card/?search=Dark%20World%20Dealings) | Unlimited |
 | [Dark World Grimoire](https://db.ygoprodeck.com/card/?search=Dark%20World%20Grimoire) | Unlimited |
 | [Dark World Lightning](https://db.ygoprodeck.com/card/?search=Dark%20World%20Lightning) | Unlimited |
-| [Dark World Punishment](https://db.ygoprodeck.com/card/?search=Dark%20World%20Punishment) | Unlimited |
-| [Dark World Puppetry](https://db.ygoprodeck.com/card/?search=Dark%20World%20Puppetry) | Unlimited |
 | [Dark Zebra](https://db.ygoprodeck.com/card/?search=Dark%20Zebra) | Unlimited |
 | [Dark-Piercing Light](https://db.ygoprodeck.com/card/?search=Dark-Piercing%20Light) | Unlimited |
 | [Darkbishop Archfiend](https://db.ygoprodeck.com/card/?search=Darkbishop%20Archfiend) | Unlimited |
@@ -7571,7 +7576,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Genex Power Planner](https://db.ygoprodeck.com/card/?search=Genex%20Power%20Planner) | Unlimited |
 | [Genex Undine](https://db.ygoprodeck.com/card/?search=Genex%20Undine) | Unlimited |
 | [Genex Worker](https://db.ygoprodeck.com/card/?search=Genex%20Worker) | Unlimited |
-| [Genta, Gateman of Dark World](https://db.ygoprodeck.com/card/?search=Genta,%20Gateman%20of%20Dark%20World) | Unlimited |
 | [Gentlemander](https://db.ygoprodeck.com/card/?search=Gentlemander) | Unlimited |
 | [Geomancer of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Geomancer%20of%20the%20Ice%20Barrier) | Unlimited |
 | [Geonator Transverser](https://db.ygoprodeck.com/card/?search=Geonator%20Transverser) | Unlimited |
@@ -9620,7 +9624,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Parasite Paranoid](https://db.ygoprodeck.com/card/?search=Parasite%20Paranoid) | Unlimited |
 | [Parasitic Ticky](https://db.ygoprodeck.com/card/?search=Parasitic%20Ticky) | Unlimited |
 | [Parasomnia Pillow](https://db.ygoprodeck.com/card/?search=Parasomnia%20Pillow) | Unlimited |
-| [Parl, Hermit of Dark World](https://db.ygoprodeck.com/card/?search=Parl,%20Hermit%20of%20Dark%20World) | Unlimited |
 | [Parrot Dragon](https://db.ygoprodeck.com/card/?search=Parrot%20Dragon) | Unlimited |
 | [Parry](https://db.ygoprodeck.com/card/?search=Parry) | Unlimited |
 | [Parry Knights](https://db.ygoprodeck.com/card/?search=Parry%20Knights) | Unlimited |
@@ -10147,7 +10150,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Regenerating Rose](https://db.ygoprodeck.com/card/?search=Regenerating%20Rose) | Unlimited |
 | [Regretful Rebirth](https://db.ygoprodeck.com/card/?search=Regretful%20Rebirth) | Unlimited |
 | [Regulus](https://db.ygoprodeck.com/card/?search=Regulus) | Unlimited |
-| [Reign-Beaux, Overking of Dark World](https://db.ygoprodeck.com/card/?search=Reign-Beaux,%20Overking%20of%20Dark%20World) | Unlimited |
 | [Reign-Beaux, Overlord of Dark World](https://db.ygoprodeck.com/card/?search=Reign-Beaux,%20Overlord%20of%20Dark%20World) | Unlimited |
 | [Reinforce Truth](https://db.ygoprodeck.com/card/?search=Reinforce%20Truth) | Unlimited |
 | [Reinforced Space](https://db.ygoprodeck.com/card/?search=Reinforced%20Space) | Unlimited |

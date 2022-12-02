@@ -12,11 +12,11 @@ url = "https://db.ygoprodeck.com/api/v7/cardinfo.php"
 request = urllib.request.Request(url, None, header)
 
 #Cards that aren't in YGOPRODECK but are legal. 
-additionalLegalCards = []
+additionalLegalCards = [34968834]
 newAdditionalLegalcards = []
 
 #Cards that are listed as legal in YGOPRODECK but aren't
-notLegalCards = [94670654, 34976176, 8571567, 71187462, 60242223]
+notLegalCards = [94670654, 34976176, 8571567, 71187462, 60242223, 77895328, 41406613, 3289027, 65956182, 30284022, 3167439, 76672730]
 stillWrong = []
 
 #(C) is common, (SP) is Short Print, (SSP) is Super Short Print
