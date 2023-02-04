@@ -32,7 +32,6 @@ title:  "Common Charity"
 | [Malefic Stardust Dragon](https://db.ygoprodeck.com/card/?search=Malefic%20Stardust%20Dragon) | OP13-PT031 |
 | [Malefic Cyber End Dragon](https://db.ygoprodeck.com/card/?search=Malefic%20Cyber%20End%20Dragon) | OP13-PT032 |
 | [Malefic Parallel Gear](https://db.ygoprodeck.com/card/?search=Malefic%20Parallel%20Gear) | OP13-PT033 |
-| [Ojama Country](https://db.ygoprodeck.com/card/?search=Ojama%20Country) | OP13-PT035 |
 | [Malefic World](https://db.ygoprodeck.com/card/?search=Malefic%20World) | OP13-PT036 |
 | [Arcana Force XXI - The World](https://db.ygoprodeck.com/card/?search=Arcana%20Force%20XXI%20-%20The%20World) | OP14-PT029 |
 | [Light Barrier](https://db.ygoprodeck.com/card/?search=Light%20Barrier) | OP14-PT030 |

@@ -46,6 +46,7 @@ status = 'status'
 
 #Filenames for banlist file
 banlistFilename = 'banlist/charity.lflist.conf'
+tradFilename = "banlist/charity_trad.lflist.conf"
 siteFilename ='site/ccbanlist.md'
 
 #Card arrays
@@ -123,7 +124,27 @@ def printBanlist():
 			writeCardToBanlist(card, outfile)
 		for card in additionalLegalCards:
 			outfile.write("%d 3 -- New card\n"%(card))
-	
+
+def printTradBanlist():
+	print("Writing trad EDOPRO banlist", flush=True)
+	with open(tradFilename, 'w', encoding="utf-8") as outfile:
+		outfile.write("#[Common Charity Traditional Format]\n")
+		outfile.write("!Common Charity %s.%s (Traditional)\n\n" % (datetime.now().month, datetime.now().year))
+		outfile.write("\n#OCG Cards\n\n")
+		for card in ocgCards:
+			writeCardToBanlist(card, outfile)
+		outfile.write("\n#Trad Banlist\n\n")
+		for card in simpleCards:
+			if card.get(status) != 0:
+				writeCardToBanlist(card, outfile)
+			if card.get(status) == 0:
+				newCard = {}
+				newCard[status] = 1
+				newCard[cardId] = card.get(cardId)
+				newCard[name] = card.get(name)
+				writeCardToBanlist(newCard, outfile)
+		for card in additionalLegalCards:
+			outfile.write("%d 3 -- New card\n"%(card))
 
 def generateArrays():
 	with urllib.request.urlopen(request) as url:
@@ -168,8 +189,6 @@ def generateArrays():
 				if not hasCommonPrint:
 					banTcg = -1
 
-
-
 				alreadyInSite = False
 				for variant in images:
 					simpleCard = {}
@@ -198,5 +217,6 @@ def generateArrays():
 					siteCards.append(simpleCard)
 generateArrays()
 printBanlist()
+printTradBanlist()
 printSite()
 printCorrectAdditionalCards()
