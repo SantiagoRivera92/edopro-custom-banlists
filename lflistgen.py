@@ -238,6 +238,7 @@ def generateArrays():
 						simpleCards.append(simpleCard)
 
 				else:
+					cardTypeAsInt = getCardTypeAsInteger(card)
 					for variant in card.get(card_images):
 						simpleCard = {}
 						simpleCard[name] = card.get(name)
