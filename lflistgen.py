@@ -12,12 +12,11 @@ url = "https://db.ygoprodeck.com/api/v7/cardinfo.php"
 request = urllib.request.Request(url, None, header)
 
 #Cards that aren't in YGOPRODECK but are legal. 
-additionalLegalCards = [34968834,44179224,54757758,46159582,60222582,84640866,2055403,75902998,67111213
-,93506862,39905966,	92784374,37557626,36227804,11877465,57272170,45222299,21496848,28429121,46337945]
+additionalLegalCards = [44179224, 60222582, 46159582, 34968834, 54757758, 84640866, 2055403, 75902998, 3072808 ]
 newAdditionalLegalcards = []
 
 #Cards that are listed as legal in YGOPRODECK but aren't
-notLegalCards = []
+notLegalCards = [88926295, 1011091, 51522296, 35569555, 85969517]
 stillWrong = []
 
 #(C) is common, (SP) is Short Print, (SSP) is Super Short Print
@@ -27,6 +26,32 @@ legalRarities = ['(C)', '(SP)', '(SSP)']
 banned = 'Banned'
 limited = 'Limited'
 semi = 'Semi-Limited'
+
+#References for the redesign
+
+VANILLA_REF = "<img src=\"assets/vanilla.png\" alt=\"Normal Monster\" width=\"12\" height=\"12\"/>"
+EFFECT_REF = "<img src=\"assets/effect.png\" alt=\"Effect Monster\" width=\"12\" height=\"12\"/>"
+RITUAL_REF = "<img src=\"assets/ritual.png\" alt=\"Ritual Monster\" width=\"12\" height=\"12\"/>"
+FUSION_REF = "<img src=\"assets/fusion.png\" alt=\"XYZ Fusion\" width=\"12\" height=\"12\"/>"
+LINK_REF = "<img src=\"assets/link.png\" alt=\"Link Monster\" width=\"12\" height=\"12\"/>"
+SYNCHRO_REF = "<img src=\"assets/synchro.png\" alt=\"Synchro Monster\" width=\"12\" height=\"12\"/>"
+XYZ_REF = "<img src=\"assets/xyz.png\" alt=\"XYZ Monster\" width=\"12\" height=\"12\"/>"
+SPELL_REF = "<img src=\"assets/spell.png\" alt=\"Spell\" width=\"12\" height=\"12\"/>"
+TRAP_REF = "<img src=\"assets/trap.png\" alt=\"Trap\" width=\"12\" height=\"12\"/>"
+OTHER_REF = "<img src=\"assets/other.png\" alt=\"Trap\" width=\"12\" height=\"12\"/>"
+
+CARD_TYPE_NORMAL_MONSTER = 1
+CARD_TYPE_EFFECT_MONSTER = 2
+CARD_TYPE_RITUAL_MONSTER = 3
+CARD_TYPE_FUSION_MONSTER = 4
+CARD_TYPE_LINK_MONSTER = 5
+CARD_TYPE_SYNCHRO_MONSTER = 6
+CARD_TYPE_XYZ_MONSTER = 7
+CARD_TYPE_SPELL = 98
+CARD_TYPE_TRAP = 99
+CARD_TYPE_OTHER = 0
+
+CARD_TYPE_KEY = "internal_card_type"
 
 #YGOPRODECK API keys
 data = 'data'
@@ -39,6 +64,7 @@ cardType = 'type'
 
 #Token stuff
 token = 'Token'
+skill = 'Skill Card'
 
 #My keys
 name = 'name'
@@ -85,13 +111,19 @@ def writeCardToSite(card, outfile):
 	elif (cardStatus == 2):
 		cardStatusAsText = "Semi-Limited"
 
+	img = getImageRefStringFromInteger(card[CARD_TYPE_KEY])
+
 	cardUrl = "https://db.ygoprodeck.com/card/?search=%s"%card.get(name).replace(" ", "%20").replace("&", "%26")
 
-	outfile.write("\n| [%s](%s) | %s |"%(card.get(name), cardUrl, cardStatusAsText))
+	outfile.write("\n|%s [%s](%s) | %s |"%(img, card.get(name), cardUrl, cardStatusAsText))
 
 def writeCardsToSite(cards, outfile):
-	for card in sorted(cards, key=operator.itemgetter('status')):
+	for card in cards:
+		if card[CARD_TYPE_KEY] == None:
+			print(card['name'])
+	for card in sorted(cards, key=operator.itemgetter('status', CARD_TYPE_KEY)):
 		writeCardToSite(card,outfile)
+
 
 def writeHeader(outfile):
 	outfile.write("---\ntitle:  \"Common Charity\"\n---")
@@ -151,71 +183,122 @@ def generateArrays():
 	with urllib.request.urlopen(request) as url:
 		cards = json.loads(url.read().decode()).get(data)
 		for card in cards:
-			if card.get(card_sets) != None:
-				images = card.get(card_images)
-				banInfo = card.get(banlist_info)
-				banTcg = 3
-				if (banInfo == None):
-					banTcg = 3	
-				if (banInfo != None):
-					banlistStatus = banInfo.get(ban_tcg)
-					if (banlistStatus == None):
-						banTcg = 3
-					if (banlistStatus == banned):
-						banTcg = 0
-					if (banlistStatus == limited):
-						banTcg = 1
-					if (banlistStatus == semi):
-						banTcg = 2
+			if card.get('type') != token and card.get('type') != skill:
+				if card.get(card_sets) != None:
+					images = card.get(card_images)
+					banInfo = card.get(banlist_info)
+					banTcg = 3
+					if (banInfo == None):
+						banTcg = 3	
+					if (banInfo != None):
+						banlistStatus = banInfo.get(ban_tcg)
+						if (banlistStatus == None):
+							banTcg = 3
+						if (banlistStatus == banned):
+							banTcg = 0
+						if (banlistStatus == limited):
+							banTcg = 1
+						if (banlistStatus == semi):
+							banTcg = 2
 
-				cardSets = card.get(card_sets)
-				hasCommonPrint = False
-				for printing in cardSets:
-					if printing.get(rarity_code) in legalRarities:
-						hasCommonPrint = True
+					cardTypeAsInt = getCardTypeAsInteger(card)
 
-				#Manually add the cards that don't have legal prints but should be legal
-				if card.get(cardId) in additionalLegalCards:
-					additionalLegalCards.remove(card.get(cardId))
-					if hasCommonPrint: 
-						newAdditionalLegalcards.append(card.get(cardId))
-					if not hasCommonPrint:
-						hasCommonPrint = True
-
-				if card.get(cardId) in notLegalCards:
-					if hasCommonPrint:
-						stillWrong.append(card.get(cardId))
+					cardSets = card.get(card_sets)
 					hasCommonPrint = False
-				
-				if not hasCommonPrint:
-					banTcg = -1
+					for printing in cardSets:
+						if printing.get(rarity_code) in legalRarities:
+							hasCommonPrint = True
 
-				alreadyInSite = False
-				for variant in images:
-					simpleCard = {}
-					simpleCard[name] = card.get(name)
-					simpleCard[status] = banTcg
-					simpleCard[cardId] = variant.get(cardId)
-					if not alreadyInSite:
+					#Manually add the cards that don't have legal prints but should be legal
+					if card.get(cardId) in additionalLegalCards:
+						additionalLegalCards.remove(card.get(cardId))
+						if hasCommonPrint: 
+							newAdditionalLegalcards.append(card.get(cardId))
+						if not hasCommonPrint:
+							hasCommonPrint = True
+
+					if card.get(cardId) in notLegalCards:
+						if hasCommonPrint:
+							stillWrong.append(card.get(cardId))
+						hasCommonPrint = False
+					
+					if not hasCommonPrint:
+						banTcg = -1
+
+					alreadyInSite = False
+					for variant in images:
+						simpleCard = {}
+						simpleCard[name] = card.get(name)
+						simpleCard[status] = banTcg
+						simpleCard[cardId] = variant.get(cardId)
+						simpleCard[CARD_TYPE_KEY] = cardTypeAsInt
+						if not alreadyInSite:
+							siteCards.append(simpleCard)
+							alreadyInSite = True
+						simpleCards.append(simpleCard)
+
+				else:
+					for variant in card.get(card_images):
+						simpleCard = {}
+						simpleCard[name] = card.get(name)
+						simpleCard[status] = -1
+						variantCardId = variant.get(cardId)
+						simpleCard[cardId] = variantCardId
+						simpleCard[CARD_TYPE_KEY] = cardTypeAsInt
+						willBeLegal = False
+						if variantCardId in additionalLegalCards:
+							willBeLegal = True
+							simpleCard[status] = 3
+						if not willBeLegal:
+							ocgCards.append(simpleCard)
+
 						siteCards.append(simpleCard)
-						alreadyInSite = True
-					simpleCards.append(simpleCard)
 
-			if (card.get(card_sets)) == None and card.get(cardType) != token:
-				for variant in card.get(card_images):
-					simpleCard = {}
-					simpleCard[name] = card.get(name)
-					simpleCard[status] = -1
-					variantCardId = variant.get(cardId)
-					simpleCard[cardId] = variantCardId
-					willBeLegal = False
-					if variantCardId in additionalLegalCards:
-						willBeLegal = True
-						simpleCard[status] = 3
-					if not willBeLegal:
-						ocgCards.append(simpleCard)
+def getImageRefStringFromInteger(cType):
+	if cType == CARD_TYPE_NORMAL_MONSTER:
+		return VANILLA_REF
+	if cType == CARD_TYPE_EFFECT_MONSTER:
+		return EFFECT_REF
+	if cType == CARD_TYPE_RITUAL_MONSTER:
+		return RITUAL_REF
+	if cType == CARD_TYPE_FUSION_MONSTER:
+		return FUSION_REF
+	if cType == CARD_TYPE_LINK_MONSTER:
+		return LINK_REF
+	if cType == CARD_TYPE_SYNCHRO_MONSTER:
+		return SYNCHRO_REF
+	if cType == CARD_TYPE_XYZ_MONSTER:
+		return XYZ_REF
+	if cType == CARD_TYPE_SPELL:
+		return SPELL_REF
+	if cType == CARD_TYPE_TRAP:
+		return TRAP_REF
+	if cType == CARD_TYPE_OTHER:
+		return OTHER_REF
 
-					siteCards.append(simpleCard)
+def getCardTypeAsInteger(card):
+	cType = card.get('type')
+	if ("Monster" in cType):
+		if "XYZ" in cType:
+			return CARD_TYPE_XYZ_MONSTER
+		elif "Synchro" in cType:
+			return CARD_TYPE_SYNCHRO_MONSTER
+		elif "Fusion" in cType:
+			return CARD_TYPE_FUSION_MONSTER
+		elif "Normal" in cType:
+			return CARD_TYPE_NORMAL_MONSTER
+		elif "Link" in cType:
+			return CARD_TYPE_LINK_MONSTER
+		elif "Ritual" in cType:
+			return CARD_TYPE_RITUAL_MONSTER
+		else:
+			return CARD_TYPE_EFFECT_MONSTER
+	elif ("Spell" in cType):
+		return CARD_TYPE_SPELL
+	elif ("Trap" in cType):
+		return CARD_TYPE_TRAP
+	return CARD_TYPE_OTHER
+
 generateArrays()
 printBanlist()
 printTradBanlist()
