@@ -12,8 +12,8 @@ url = "https://db.ygoprodeck.com/api/v7/cardinfo.php"
 request = urllib.request.Request(url, None, header)
 
 #Cards that aren't in YGOPRODECK but are legal. 
-additionalLegalCards = [44179224, 60222582, 46159582, 34968834, 54757758, 84640866, 2055403, 75902998, 3072808,67111213,93506862,39905966,92784374,37557626,36227804
-,11877465, 57272170, 21496848, 45222299, 28429121, 46337945]
+additionalLegalCards = [46337945, 3072808, 45222299, 11877465, 57272170, 21496848, 28429121, 67111213, 92784374, 36227804, 39905966, 37557626, 93506862]
+
 newAdditionalLegalcards = []
 
 #Cards that are listed as legal in YGOPRODECK but aren't
@@ -186,6 +186,7 @@ def generateArrays():
 		for card in cards:
 			if card.get('type') != token and card.get('type') != skill:
 				if card.get(card_sets) != None:
+
 					images = card.get(card_images)
 					banInfo = card.get(banlist_info)
 					banTcg = 3
@@ -210,13 +211,14 @@ def generateArrays():
 						if printing.get(rarity_code) in legalRarities:
 							hasCommonPrint = True
 
+
 					#Manually add the cards that don't have legal prints but should be legal
 					if card.get(cardId) in additionalLegalCards:
 						additionalLegalCards.remove(card.get(cardId))
-						if hasCommonPrint: 
-							newAdditionalLegalcards.append(card.get(cardId))
 						if not hasCommonPrint:
 							hasCommonPrint = True
+							newAdditionalLegalcards.append(card.get(cardId))
+
 
 					if card.get(cardId) in notLegalCards:
 						if hasCommonPrint:
