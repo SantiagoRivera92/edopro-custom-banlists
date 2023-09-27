@@ -17,7 +17,7 @@ additionalLegalCards = [46337945, 3072808, 45222299, 11877465, 57272170, 2149684
 newAdditionalLegalcards = []
 
 #Cards that are listed as legal in YGOPRODECK but aren't
-notLegalCards = [88926295, 1011091, 51522296, 35569555, 85969517]
+notLegalCards = [88926295, 1011091, 51522296, 35569555, 85969517, 99916754]
 stillWrong = []
 
 #(C) is common, (SP) is Short Print, (SSP) is Super Short Print
@@ -229,16 +229,13 @@ def generateArrays():
 						banTcg = -1
 
 					alreadyInSite = False
-					for variant in images:
-						simpleCard = {}
-						simpleCard[name] = card.get(name)
-						simpleCard[status] = banTcg
-						simpleCard[cardId] = variant.get(cardId)
-						simpleCard[CARD_TYPE_KEY] = cardTypeAsInt
-						if not alreadyInSite:
-							siteCards.append(simpleCard)
-							alreadyInSite = True
-						simpleCards.append(simpleCard)
+					simpleCard = {}
+					simpleCard[name] = card.get(name)
+					simpleCard[status] = banTcg
+					simpleCard[cardId] = card.get(cardId)
+					simpleCard[CARD_TYPE_KEY] = cardTypeAsInt
+					siteCards.append(simpleCard)
+					simpleCards.append(simpleCard)
 
 				else:
 					cardTypeAsInt = getCardTypeAsInteger(card)

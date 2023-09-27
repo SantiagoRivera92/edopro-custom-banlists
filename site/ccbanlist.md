@@ -147,7 +147,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Odd-Eyes Arc Pendulum Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Arc%20Pendulum%20Dragon) | Illegal |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [One Who Hunts Souls](https://db.ygoprodeck.com/card/?search=One%20Who%20Hunts%20Souls) | Illegal |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Orion the Battle King](https://db.ygoprodeck.com/card/?search=Orion%20the%20Battle%20King) | Illegal |
-|<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Pendulumoon](https://db.ygoprodeck.com/card/?search=Pendulumoon) | Illegal |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Phantasm Spiral Dragon](https://db.ygoprodeck.com/card/?search=Phantasm%20Spiral%20Dragon) | Illegal |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Phantom Dewan](https://db.ygoprodeck.com/card/?search=Phantom%20Dewan) | Illegal |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Phantom Ghost](https://db.ygoprodeck.com/card/?search=Phantom%20Ghost) | Illegal |
@@ -234,6 +233,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Advanced Crystal Beast Topaz Tiger](https://db.ygoprodeck.com/card/?search=Advanced%20Crystal%20Beast%20Topaz%20Tiger) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Aether, the Evil Empowering Dragon](https://db.ygoprodeck.com/card/?search=Aether,%20the%20Evil%20Empowering%20Dragon) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Agido the Ancient Sentinel](https://db.ygoprodeck.com/card/?search=Agido%20the%20Ancient%20Sentinel) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Agnimal Candle](https://db.ygoprodeck.com/card/?search=Agnimal%20Candle) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Aileron](https://db.ygoprodeck.com/card/?search=Aileron) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Akz, the Pumer](https://db.ygoprodeck.com/card/?search=Akz,%20the%20Pumer) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Albaz the Ashen](https://db.ygoprodeck.com/card/?search=Albaz%20the%20Ashen) | Illegal |
@@ -254,8 +254,10 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Alpha The Electromagnet Warrior](https://db.ygoprodeck.com/card/?search=Alpha%20The%20Electromagnet%20Warrior) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Alpha, the Master of Beasts](https://db.ygoprodeck.com/card/?search=Alpha,%20the%20Master%20of%20Beasts) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Altergeist Fijialert](https://db.ygoprodeck.com/card/?search=Altergeist%20Fijialert) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Altergeist Malwisp](https://db.ygoprodeck.com/card/?search=Altergeist%20Malwisp) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Altergeist Meluseek](https://db.ygoprodeck.com/card/?search=Altergeist%20Meluseek) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Altergeist Multifaker](https://db.ygoprodeck.com/card/?search=Altergeist%20Multifaker) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Altergeist Perinetrator](https://db.ygoprodeck.com/card/?search=Altergeist%20Perinetrator) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Altergeist Pookuery](https://db.ygoprodeck.com/card/?search=Altergeist%20Pookuery) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Altitude Knight](https://db.ygoprodeck.com/card/?search=Altitude%20Knight) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Aluber the Jester of Despia](https://db.ygoprodeck.com/card/?search=Aluber%20the%20Jester%20of%20Despia) | Illegal |
@@ -263,7 +265,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazement Administrator Arlekino](https://db.ygoprodeck.com/card/?search=Amazement%20Administrator%20Arlekino) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazement Assistant Delia](https://db.ygoprodeck.com/card/?search=Amazement%20Assistant%20Delia) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazement Attendant Comica](https://db.ygoprodeck.com/card/?search=Amazement%20Attendant%20Comica) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazement Dominator Arlekino](https://db.ygoprodeck.com/card/?search=Amazement%20Dominator%20Arlekino) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Baby Tiger](https://db.ygoprodeck.com/card/?search=Amazoness%20Baby%20Tiger) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amorphage Envy](https://db.ygoprodeck.com/card/?search=Amorphage%20Envy) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amorphage Gluttony](https://db.ygoprodeck.com/card/?search=Amorphage%20Gluttony) | Illegal |
@@ -287,7 +288,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Angraecum Umbrella](https://db.ygoprodeck.com/card/?search=Angraecum%20Umbrella) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Animadorned Archosaur](https://db.ygoprodeck.com/card/?search=Animadorned%20Archosaur) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ankuriboh](https://db.ygoprodeck.com/card/?search=Ankuriboh) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Annihilator Archfiend](https://db.ygoprodeck.com/card/?search=Annihilator%20Archfiend) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Antihuman Intelligence ME-PSY-YA](https://db.ygoprodeck.com/card/?search=Antihuman%20Intelligence%20ME-PSY-YA) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Apoqliphort Skybase](https://db.ygoprodeck.com/card/?search=Apoqliphort%20Skybase) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Apoqliphort Towers](https://db.ygoprodeck.com/card/?search=Apoqliphort%20Towers) | Illegal |
@@ -301,7 +301,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Arcana Triumph Joker](https://db.ygoprodeck.com/card/?search=Arcana%20Triumph%20Joker) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Archfiend Commander](https://db.ygoprodeck.com/card/?search=Archfiend%20Commander) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Archfiend Empress](https://db.ygoprodeck.com/card/?search=Archfiend%20Empress) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Archfiend General](https://db.ygoprodeck.com/card/?search=Archfiend%20General) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Archfiend Giant](https://db.ygoprodeck.com/card/?search=Archfiend%20Giant) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Archfiend Heiress](https://db.ygoprodeck.com/card/?search=Archfiend%20Heiress) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Archlord Zerato](https://db.ygoprodeck.com/card/?search=Archlord%20Zerato) | Illegal |
@@ -327,6 +326,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Artifact Caduceus](https://db.ygoprodeck.com/card/?search=Artifact%20Caduceus) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Artillery Catapult Turtle](https://db.ygoprodeck.com/card/?search=Artillery%20Catapult%20Turtle) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ascator, Dawnwalker](https://db.ygoprodeck.com/card/?search=Ascator,%20Dawnwalker) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ashoka Pillar](https://db.ygoprodeck.com/card/?search=Ashoka%20Pillar) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Assault Blackwing - Kunai the Drizzle](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Kunai%20the%20Drizzle) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Assault Synchron](https://db.ygoprodeck.com/card/?search=Assault%20Synchron) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Assault Wyvern](https://db.ygoprodeck.com/card/?search=Assault%20Wyvern) | Illegal |
@@ -355,7 +355,10 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Battlewasp - Pin the Bullseye](https://db.ygoprodeck.com/card/?search=Battlewasp%20-%20Pin%20the%20Bullseye) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Battlewasp - Sting the Poison](https://db.ygoprodeck.com/card/?search=Battlewasp%20-%20Sting%20the%20Poison) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Battlewasp - Twinbow the Attacker](https://db.ygoprodeck.com/card/?search=Battlewasp%20-%20Twinbow%20the%20Attacker) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Battlin' Boxer Chief Second](https://db.ygoprodeck.com/card/?search=Battlin'%20Boxer%20Chief%20Second) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Battlin' Boxer Promoter](https://db.ygoprodeck.com/card/?search=Battlin'%20Boxer%20Promoter) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Battlin' Boxer Shadow](https://db.ygoprodeck.com/card/?search=Battlin'%20Boxer%20Shadow) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Battlin' Boxer Uppercutter](https://db.ygoprodeck.com/card/?search=Battlin'%20Boxer%20Uppercutter) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Beargram, Shelled Emperor of the Forest Crown](https://db.ygoprodeck.com/card/?search=Beargram,%20Shelled%20Emperor%20of%20the%20Forest%20Crown) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Beast Machine King Barbaros Ür](https://db.ygoprodeck.com/card/?search=Beast%20Machine%20King%20Barbaros%20Ür) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Beast Striker](https://db.ygoprodeck.com/card/?search=Beast%20Striker) | Illegal |
@@ -364,6 +367,8 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Beautunaful Princess](https://db.ygoprodeck.com/card/?search=Beautunaful%20Princess) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Beetrooper Scout Buggy](https://db.ygoprodeck.com/card/?search=Beetrooper%20Scout%20Buggy) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Beginning Knight](https://db.ygoprodeck.com/card/?search=Beginning%20Knight) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Behemoth the King of All Wars](https://db.ygoprodeck.com/card/?search=Behemoth%20the%20King%20of%20All%20Wars) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Berfomet the Great Wings](https://db.ygoprodeck.com/card/?search=Berfomet%20the%20Great%20Wings) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Berry Magician Girl](https://db.ygoprodeck.com/card/?search=Berry%20Magician%20Girl) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Berserkion the Electromagna Warrior](https://db.ygoprodeck.com/card/?search=Berserkion%20the%20Electromagna%20Warrior) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Beta The Electromagnet Warrior](https://db.ygoprodeck.com/card/?search=Beta%20The%20Electromagnet%20Warrior) | Illegal |
@@ -441,7 +446,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bujingi Quilin](https://db.ygoprodeck.com/card/?search=Bujingi%20Quilin) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bujingi Raven](https://db.ygoprodeck.com/card/?search=Bujingi%20Raven) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bujingi Sinyou](https://db.ygoprodeck.com/card/?search=Bujingi%20Sinyou) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bunny Instruct-ear](https://db.ygoprodeck.com/card/?search=Bunny%20Instruct-ear) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Burning Dragon](https://db.ygoprodeck.com/card/?search=Burning%20Dragon) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Burning Skull Head](https://db.ygoprodeck.com/card/?search=Burning%20Skull%20Head) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bururu @Ignister](https://db.ygoprodeck.com/card/?search=Bururu%20@Ignister) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Buster Blaster](https://db.ygoprodeck.com/card/?search=Buster%20Blaster) | Illegal |
@@ -452,6 +457,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bystial Saronir](https://db.ygoprodeck.com/card/?search=Bystial%20Saronir) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [C-Crush Wyvern](https://db.ygoprodeck.com/card/?search=C-Crush%20Wyvern) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Caam, Serenity of Gusto](https://db.ygoprodeck.com/card/?search=Caam,%20Serenity%20of%20Gusto) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cabrera Stone](https://db.ygoprodeck.com/card/?search=Cabrera%20Stone) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cactus Bouncer](https://db.ygoprodeck.com/card/?search=Cactus%20Bouncer) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cactus Fighter](https://db.ygoprodeck.com/card/?search=Cactus%20Fighter) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cagna, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Cagna,%20Malebranche%20of%20the%20Burning%20Abyss) | Illegal |
@@ -500,11 +506,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Clear Effector](https://db.ygoprodeck.com/card/?search=Clear%20Effector) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Clear Kuriboh](https://db.ygoprodeck.com/card/?search=Clear%20Kuriboh) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Clear Vice Dragon](https://db.ygoprodeck.com/card/?search=Clear%20Vice%20Dragon) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cloudian - Acid Cloud](https://db.ygoprodeck.com/card/?search=Cloudian%20-%20Acid%20Cloud) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cloudian - Altus](https://db.ygoprodeck.com/card/?search=Cloudian%20-%20Altus) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cloudian - Cirrostratus](https://db.ygoprodeck.com/card/?search=Cloudian%20-%20Cirrostratus) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cloudian - Eye of the Typhoon](https://db.ygoprodeck.com/card/?search=Cloudian%20-%20Eye%20of%20the%20Typhoon) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cloudian - Sheep Cloud](https://db.ygoprodeck.com/card/?search=Cloudian%20-%20Sheep%20Cloud) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Click & Echo](https://db.ygoprodeck.com/card/?search=Click%20%26%20Echo) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Coach Soldier Wolfbark](https://db.ygoprodeck.com/card/?search=Coach%20Soldier%20Wolfbark) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cocatorium the Heavy Metal Avian](https://db.ygoprodeck.com/card/?search=Cocatorium%20the%20Heavy%20Metal%20Avian) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Code Exporter](https://db.ygoprodeck.com/card/?search=Code%20Exporter) | Illegal |
@@ -525,6 +527,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Constellar Sombre](https://db.ygoprodeck.com/card/?search=Constellar%20Sombre) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Constellar Virgo](https://db.ygoprodeck.com/card/?search=Constellar%20Virgo) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Constellar Zubeneschamali](https://db.ygoprodeck.com/card/?search=Constellar%20Zubeneschamali) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cornfield Koator](https://db.ygoprodeck.com/card/?search=Cornfield%20Koator) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cosmic Horror Gangi'el](https://db.ygoprodeck.com/card/?search=Cosmic%20Horror%20Gangi'el) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Counselor Lily](https://db.ygoprodeck.com/card/?search=Counselor%20Lily) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cranium Fish](https://db.ygoprodeck.com/card/?search=Cranium%20Fish) | Illegal |
@@ -550,8 +553,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyberse Synchron](https://db.ygoprodeck.com/card/?search=Cyberse%20Synchron) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyberse White Hat](https://db.ygoprodeck.com/card/?search=Cyberse%20White%20Hat) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyclamen the Rikka Fairy](https://db.ygoprodeck.com/card/?search=Cyclamen%20the%20Rikka%20Fairy) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D-Boyz](https://db.ygoprodeck.com/card/?search=D-Boyz) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Destroyer](https://db.ygoprodeck.com/card/?search=D.D.%20Destroyer) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Jet Iron](https://db.ygoprodeck.com/card/?search=D.D.%20Jet%20Iron) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Telepon](https://db.ygoprodeck.com/card/?search=D.D.%20Telepon) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Unicorn Knight](https://db.ygoprodeck.com/card/?search=D.D.%20Unicorn%20Knight) | Illegal |
@@ -606,7 +607,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Delg the Dark Monarch](https://db.ygoprodeck.com/card/?search=Delg%20the%20Dark%20Monarch) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Delta Flyer](https://db.ygoprodeck.com/card/?search=Delta%20Flyer) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Depth Shark](https://db.ygoprodeck.com/card/?search=Depth%20Shark) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Desert Twister](https://db.ygoprodeck.com/card/?search=Desert%20Twister) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Desmanian Devil](https://db.ygoprodeck.com/card/?search=Desmanian%20Devil) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Desperado Barrel Dragon](https://db.ygoprodeck.com/card/?search=Desperado%20Barrel%20Dragon) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Destiny HERO - Disk Commander](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Disk%20Commander) | Illegal |
@@ -623,7 +623,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dinomist Rex](https://db.ygoprodeck.com/card/?search=Dinomist%20Rex) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dinomorphia Therizia](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Therizia) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Disciple of Nephthys](https://db.ygoprodeck.com/card/?search=Disciple%20of%20Nephthys) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Diskblade Rider](https://db.ygoprodeck.com/card/?search=Diskblade%20Rider) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Divine Dragon - Excelion](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20-%20Excelion) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Divine Dragon Lord Felgrand](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20Lord%20Felgrand) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Diviner of the Herald](https://db.ygoprodeck.com/card/?search=Diviner%20of%20the%20Herald) | Illegal |
@@ -671,7 +670,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dreadscythe Harvester](https://db.ygoprodeck.com/card/?search=Dreadscythe%20Harvester) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dream Cicada](https://db.ygoprodeck.com/card/?search=Dream%20Cicada) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dream Shark](https://db.ygoprodeck.com/card/?search=Dream%20Shark) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dreaming Nemurelia](https://db.ygoprodeck.com/card/?search=Dreaming%20Nemurelia) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dreaming Nemleria](https://db.ygoprodeck.com/card/?search=Dreaming%20Nemleria) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dreiath III, the True Dracocavalry General](https://db.ygoprodeck.com/card/?search=Dreiath%20III,%20the%20True%20Dracocavalry%20General) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Drytron Alpha Thuban](https://db.ygoprodeck.com/card/?search=Drytron%20Alpha%20Thuban) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Drytron Beta Rastaban](https://db.ygoprodeck.com/card/?search=Drytron%20Beta%20Rastaban) | Illegal |
@@ -756,7 +755,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fairy King Truesdale](https://db.ygoprodeck.com/card/?search=Fairy%20King%20Truesdale) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fairy Tail - Rochka](https://db.ygoprodeck.com/card/?search=Fairy%20Tail%20-%20Rochka) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fairyant the Circular Sorcerer](https://db.ygoprodeck.com/card/?search=Fairyant%20the%20Circular%20Sorcerer) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fallen of Argyros](https://db.ygoprodeck.com/card/?search=Fallen%20of%20Argyros) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fantastic Striborg](https://db.ygoprodeck.com/card/?search=Fantastic%20Striborg) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fantastical Dragon Phantazmay](https://db.ygoprodeck.com/card/?search=Fantastical%20Dragon%20Phantazmay) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [FaSolfachord Fancia](https://db.ygoprodeck.com/card/?search=FaSolfachord%20Fancia) | Illegal |
@@ -770,7 +768,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fire King High Avatar Garunix](https://db.ygoprodeck.com/card/?search=Fire%20King%20High%20Avatar%20Garunix) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Firebrand Hymnist](https://db.ygoprodeck.com/card/?search=Firebrand%20Hymnist) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Firewall Defenser](https://db.ygoprodeck.com/card/?search=Firewall%20Defenser) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Firewall Phantom](https://db.ygoprodeck.com/card/?search=Firewall%20Phantom) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fissioning Mother Spider](https://db.ygoprodeck.com/card/?search=Fissioning%20Mother%20Spider) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flame Spirit Ignis](https://db.ygoprodeck.com/card/?search=Flame%20Spirit%20Ignis) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flint Cragger](https://db.ygoprodeck.com/card/?search=Flint%20Cragger) | Illegal |
@@ -804,8 +801,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Frightfur Meister](https://db.ygoprodeck.com/card/?search=Frightfur%20Meister) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Frodi, Generaider Boss of Swords](https://db.ygoprodeck.com/card/?search=Frodi,%20Generaider%20Boss%20of%20Swords) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Frontline Observer](https://db.ygoprodeck.com/card/?search=Frontline%20Observer) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fu-Ri the Orb Mikanko](https://db.ygoprodeck.com/card/?search=Fu-Ri%20the%20Orb%20Mikanko) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Full-Active Duprex](https://db.ygoprodeck.com/card/?search=Full-Active%20Duprex) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fushioh Richie](https://db.ygoprodeck.com/card/?search=Fushioh%20Richie) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fusion Devourer](https://db.ygoprodeck.com/card/?search=Fusion%20Devourer) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fusion Parasite](https://db.ygoprodeck.com/card/?search=Fusion%20Parasite) | Illegal |
@@ -830,6 +825,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gamma The Electromagnet Warrior](https://db.ygoprodeck.com/card/?search=Gamma%20The%20Electromagnet%20Warrior) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gandora-X the Dragon of Demolition](https://db.ygoprodeck.com/card/?search=Gandora-X%20the%20Dragon%20of%20Demolition) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gash the Dust Lord](https://db.ygoprodeck.com/card/?search=Gash%20the%20Dust%20Lord) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gazelle the King of Mythical Claws](https://db.ygoprodeck.com/card/?search=Gazelle%20the%20King%20of%20Mythical%20Claws) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gearfried the Red-Eyes Iron Knight](https://db.ygoprodeck.com/card/?search=Gearfried%20the%20Red-Eyes%20Iron%20Knight) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Geargiano Mk-III](https://db.ygoprodeck.com/card/?search=Geargiano%20Mk-III) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Geargiattacker](https://db.ygoprodeck.com/card/?search=Geargiattacker) | Illegal |
@@ -970,10 +966,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hazy Flame Mantikor](https://db.ygoprodeck.com/card/?search=Hazy%20Flame%20Mantikor) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hazy Flame Peryton](https://db.ygoprodeck.com/card/?search=Hazy%20Flame%20Peryton) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heavenly Zephyr - Miradora](https://db.ygoprodeck.com/card/?search=Heavenly%20Zephyr%20-%20Miradora) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heavy Knight of the Flame](https://db.ygoprodeck.com/card/?search=Heavy%20Knight%20of%20the%20Flame) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hela, Generaider Boss of Doom](https://db.ygoprodeck.com/card/?search=Hela,%20Generaider%20Boss%20of%20Doom) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Helios Duo Megistus](https://db.ygoprodeck.com/card/?search=Helios%20Duo%20Megistus) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Helios Trice Megistus](https://db.ygoprodeck.com/card/?search=Helios%20Trice%20Megistus) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hellebore the Rikka Fairy](https://db.ygoprodeck.com/card/?search=Hellebore%20the%20Rikka%20Fairy) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Helshaddoll Hollow](https://db.ygoprodeck.com/card/?search=Helshaddoll%20Hollow) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heraldic Beast Amphisbaena](https://db.ygoprodeck.com/card/?search=Heraldic%20Beast%20Amphisbaena) | Illegal |
@@ -987,6 +980,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hieratic Dragon of Asar](https://db.ygoprodeck.com/card/?search=Hieratic%20Dragon%20of%20Asar) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hieratic Dragon of Sutekh](https://db.ygoprodeck.com/card/?search=Hieratic%20Dragon%20of%20Sutekh) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [High Priestess of Prophecy](https://db.ygoprodeck.com/card/?search=High%20Priestess%20of%20Prophecy) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hiita the Fire Channeler](https://db.ygoprodeck.com/card/?search=Hiita%20the%20Fire%20Channeler) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hino-Kagu-Tsuchi](https://db.ygoprodeck.com/card/?search=Hino-Kagu-Tsuchi) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hojo the Vaylantz Warrior](https://db.ygoprodeck.com/card/?search=Hojo%20the%20Vaylantz%20Warrior) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Holactie the Creator of Light](https://db.ygoprodeck.com/card/?search=Holactie%20the%20Creator%20of%20Light) | Illegal |
@@ -1000,9 +994,9 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ice Knight](https://db.ygoprodeck.com/card/?search=Ice%20Knight) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ice Queen](https://db.ygoprodeck.com/card/?search=Ice%20Queen) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Icejade Aegirine](https://db.ygoprodeck.com/card/?search=Icejade%20Aegirine) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Icejade Aegirine Rahn](https://db.ygoprodeck.com/card/?search=Icejade%20Aegirine%20Rahn) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Icejade Creation Kingfisher](https://db.ygoprodeck.com/card/?search=Icejade%20Creation%20Kingfisher) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Icejade Kosmochlor](https://db.ygoprodeck.com/card/?search=Icejade%20Kosmochlor) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Icejade Ran Aegirine](https://db.ygoprodeck.com/card/?search=Icejade%20Ran%20Aegirine) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Icejade Tremora](https://db.ygoprodeck.com/card/?search=Icejade%20Tremora) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ido the Supreme Magical Force](https://db.ygoprodeck.com/card/?search=Ido%20the%20Supreme%20Magical%20Force) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Igknight Champion](https://db.ygoprodeck.com/card/?search=Igknight%20Champion) | Illegal |
@@ -1082,6 +1076,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Kaiki the Unity Star](https://db.ygoprodeck.com/card/?search=Kaiki%20the%20Unity%20Star) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Kaiser Glider - Golden Burst](https://db.ygoprodeck.com/card/?search=Kaiser%20Glider%20-%20Golden%20Burst) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Kaiser Vorse Raider](https://db.ygoprodeck.com/card/?search=Kaiser%20Vorse%20Raider) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Kaitoptera](https://db.ygoprodeck.com/card/?search=Kaitoptera) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Kamion, the Timelord](https://db.ygoprodeck.com/card/?search=Kamion,%20the%20Timelord) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Kamui, Hope of Gusto](https://db.ygoprodeck.com/card/?search=Kamui,%20Hope%20of%20Gusto) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Karakuri Barrel mdl 96 "Shinkuro"](https://db.ygoprodeck.com/card/?search=Karakuri%20Barrel%20mdl%2096%20"Shinkuro") | Illegal |
@@ -1224,6 +1219,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Magical Musketeer Starfire](https://db.ygoprodeck.com/card/?search=Magical%20Musketeer%20Starfire) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Magical Musketeer Wild](https://db.ygoprodeck.com/card/?search=Magical%20Musketeer%20Wild) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Magicat](https://db.ygoprodeck.com/card/?search=Magicat) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Magicians of Bonds and Unity](https://db.ygoprodeck.com/card/?search=Magicians%20of%20Bonds%20and%20Unity) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Magicians' Souls](https://db.ygoprodeck.com/card/?search=Magicians'%20Souls) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Magicore Warrior of the Relics](https://db.ygoprodeck.com/card/?search=Magicore%20Warrior%20of%20the%20Relics) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Magidog](https://db.ygoprodeck.com/card/?search=Magidog) | Illegal |
@@ -1244,10 +1240,11 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Malefic Rainbow Dragon](https://db.ygoprodeck.com/card/?search=Malefic%20Rainbow%20Dragon) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Malice, Lady of Lament](https://db.ygoprodeck.com/card/?search=Malice,%20Lady%20of%20Lament) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mana Dragon Zirnitron](https://db.ygoprodeck.com/card/?search=Mana%20Dragon%20Zirnitron) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Manadome Hearless](https://db.ygoprodeck.com/card/?search=Manadome%20Hearless) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Manadome Meek](https://db.ygoprodeck.com/card/?search=Manadome%20Meek) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Manadome Riumheart](https://db.ygoprodeck.com/card/?search=Manadome%20Riumheart) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Maniacal Servant](https://db.ygoprodeck.com/card/?search=Maniacal%20Servant) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mannadium Fearless](https://db.ygoprodeck.com/card/?search=Mannadium%20Fearless) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mannadium Meek](https://db.ygoprodeck.com/card/?search=Mannadium%20Meek) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mannadium Riumheart](https://db.ygoprodeck.com/card/?search=Mannadium%20Riumheart) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mannadium Trid](https://db.ygoprodeck.com/card/?search=Mannadium%20Trid) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mardel, Generaider Boss of Light](https://db.ygoprodeck.com/card/?search=Mardel,%20Generaider%20Boss%20of%20Light) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Marina, Princess of Sunflowers](https://db.ygoprodeck.com/card/?search=Marina,%20Princess%20of%20Sunflowers) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Marincess Sleepy Maiden](https://db.ygoprodeck.com/card/?search=Marincess%20Sleepy%20Maiden) | Illegal |
@@ -1319,6 +1316,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mind Master](https://db.ygoprodeck.com/card/?search=Mind%20Master) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mind on Air](https://db.ygoprodeck.com/card/?search=Mind%20on%20Air) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Minerva, Lightsworn Maiden](https://db.ygoprodeck.com/card/?search=Minerva,%20Lightsworn%20Maiden) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mirror Swordsman](https://db.ygoprodeck.com/card/?search=Mirror%20Swordsman) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [MiSolfachord Eliteia](https://db.ygoprodeck.com/card/?search=MiSolfachord%20Eliteia) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mist Valley Apex Avian](https://db.ygoprodeck.com/card/?search=Mist%20Valley%20Apex%20Avian) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mitsu the Insect Ninja](https://db.ygoprodeck.com/card/?search=Mitsu%20the%20Insect%20Ninja) | Illegal |
@@ -1343,6 +1341,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Musto, Oracle of Gusto](https://db.ygoprodeck.com/card/?search=Musto,%20Oracle%20of%20Gusto) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mutant Mindmaster](https://db.ygoprodeck.com/card/?search=Mutant%20Mindmaster) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mystic Piper](https://db.ygoprodeck.com/card/?search=Mystic%20Piper) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mystic Potato](https://db.ygoprodeck.com/card/?search=Mystic%20Potato) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mystical Elf - White Lightning](https://db.ygoprodeck.com/card/?search=Mystical%20Elf%20-%20White%20Lightning) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mystical Fairy Elfuria](https://db.ygoprodeck.com/card/?search=Mystical%20Fairy%20Elfuria) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mystical Knight of Jackal](https://db.ygoprodeck.com/card/?search=Mystical%20Knight%20of%20Jackal) | Illegal |
@@ -1372,8 +1371,10 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nemeses Flag](https://db.ygoprodeck.com/card/?search=Nemeses%20Flag) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nemeses Keystone](https://db.ygoprodeck.com/card/?search=Nemeses%20Keystone) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nemeses Umbrella](https://db.ygoprodeck.com/card/?search=Nemeses%20Umbrella) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nemurelia's Dream Defender - Couette](https://db.ygoprodeck.com/card/?search=Nemurelia's%20Dream%20Defender%20-%20Couette) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nemurelia's Dream Defender - Oreiller](https://db.ygoprodeck.com/card/?search=Nemurelia's%20Dream%20Defender%20-%20Oreiller) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nemleria Réaliser, the Dreamaterializer Sleeping Princess](https://db.ygoprodeck.com/card/?search=Nemleria%20Réaliser,%20the%20Dreamaterializer%20Sleeping%20Princess) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nemleria's Dreameater - Réveil](https://db.ygoprodeck.com/card/?search=Nemleria's%20Dreameater%20-%20Réveil) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nemurelia Réaliser, the Dreamaterializer Sleeping Princess](https://db.ygoprodeck.com/card/?search=Nemurelia%20Réaliser,%20the%20Dreamaterializer%20Sleeping%20Princess) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nemurelia's Dreameater - Réveil](https://db.ygoprodeck.com/card/?search=Nemurelia's%20Dreameater%20-%20Réveil) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neo Kaiser Glider](https://db.ygoprodeck.com/card/?search=Neo%20Kaiser%20Glider) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neo Space Pathfinder](https://db.ygoprodeck.com/card/?search=Neo%20Space%20Pathfinder) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neos Wiseman](https://db.ygoprodeck.com/card/?search=Neos%20Wiseman) | Illegal |
@@ -1382,6 +1383,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nibiru, the Primal Being](https://db.ygoprodeck.com/card/?search=Nibiru,%20the%20Primal%20Being) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nidhogg, Generaider Boss of Ice](https://db.ygoprodeck.com/card/?search=Nidhogg,%20Generaider%20Boss%20of%20Ice) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Night Dragolich](https://db.ygoprodeck.com/card/?search=Night%20Dragolich) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nightmare Magician](https://db.ygoprodeck.com/card/?search=Nightmare%20Magician) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nikitama](https://db.ygoprodeck.com/card/?search=Nikitama) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nimble Musasabi](https://db.ygoprodeck.com/card/?search=Nimble%20Musasabi) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nimble Sunfish](https://db.ygoprodeck.com/card/?search=Nimble%20Sunfish) | Illegal |
@@ -1504,6 +1506,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Pikari @Ignister](https://db.ygoprodeck.com/card/?search=Pikari%20@Ignister) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Pile Armed Dragon](https://db.ygoprodeck.com/card/?search=Pile%20Armed%20Dragon) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Pilica, Descendant of Gusto](https://db.ygoprodeck.com/card/?search=Pilica,%20Descendant%20of%20Gusto) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Pod of Greed](https://db.ygoprodeck.com/card/?search=Pod%20of%20Greed) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Poly-Chemicritter Dioxogre](https://db.ygoprodeck.com/card/?search=Poly-Chemicritter%20Dioxogre) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Poseidra, the Atlantean Dragon](https://db.ygoprodeck.com/card/?search=Poseidra,%20the%20Atlantean%20Dragon) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Power Angel Valkyria](https://db.ygoprodeck.com/card/?search=Power%20Angel%20Valkyria) | Illegal |
@@ -1548,7 +1551,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Puppet Rook](https://db.ygoprodeck.com/card/?search=Puppet%20Rook) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Purple Poison Magician](https://db.ygoprodeck.com/card/?search=Purple%20Poison%20Magician) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Purrely](https://db.ygoprodeck.com/card/?search=Purrely) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Purrely Lily](https://db.ygoprodeck.com/card/?search=Purrely%20Lily) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Pyrorex the Elemental Lord](https://db.ygoprodeck.com/card/?search=Pyrorex%20the%20Elemental%20Lord) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Qadshaddoll Keios](https://db.ygoprodeck.com/card/?search=Qadshaddoll%20Keios) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Qardan the Clear-Sighted](https://db.ygoprodeck.com/card/?search=Qardan%20the%20Clear-Sighted) | Illegal |
@@ -1580,7 +1582,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rampaging Rhynos](https://db.ygoprodeck.com/card/?search=Rampaging%20Rhynos) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Raphion, the Timelord](https://db.ygoprodeck.com/card/?search=Raphion,%20the%20Timelord) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rapid Warrior](https://db.ygoprodeck.com/card/?search=Rapid%20Warrior) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Raviel, Lord of Phantasms](https://db.ygoprodeck.com/card/?search=Raviel,%20Lord%20of%20Phantasms) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Raviel, Lord of Phantasms - Shimmering Scraper](https://db.ygoprodeck.com/card/?search=Raviel,%20Lord%20of%20Phantasms%20-%20Shimmering%20Scraper) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Re: EX](https://db.ygoprodeck.com/card/?search=Re:%20EX) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Reactor Slime](https://db.ygoprodeck.com/card/?search=Reactor%20Slime) | Illegal |
@@ -1608,15 +1609,17 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rescue-ACE Hydrant](https://db.ygoprodeck.com/card/?search=Rescue-ACE%20Hydrant) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rescue-ACE Impulse](https://db.ygoprodeck.com/card/?search=Rescue-ACE%20Impulse) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rescue-ACE Monitor](https://db.ygoprodeck.com/card/?search=Rescue-ACE%20Monitor) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rescue-ACE Preventer](https://db.ygoprodeck.com/card/?search=Rescue-ACE%20Preventer) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rescue-ACE Turbulence](https://db.ygoprodeck.com/card/?search=Rescue-ACE%20Turbulence) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [ReSolfachord Dreamia](https://db.ygoprodeck.com/card/?search=ReSolfachord%20Dreamia) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Revealer of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Revealer%20of%20the%20Ice%20Barrier) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Revival Golem](https://db.ygoprodeck.com/card/?search=Revival%20Golem) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Revolution Synchron](https://db.ygoprodeck.com/card/?search=Revolution%20Synchron) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rex, Freight Fur Hire](https://db.ygoprodeck.com/card/?search=Rex,%20Freight%20Fur%20Hire) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Right-Hand Shark](https://db.ygoprodeck.com/card/?search=Right-Hand%20Shark) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rikka Petal](https://db.ygoprodeck.com/card/?search=Rikka%20Petal) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rilliona, the Magistus of Verre](https://db.ygoprodeck.com/card/?search=Rilliona,%20the%20Magistus%20of%20Verre) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ringowurm the Hundred Apple Dragon](https://db.ygoprodeck.com/card/?search=Ringowurm%20the%20Hundred%20Apple%20Dragon) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ringowurm, the Dragon Guarding the Hundred Apples](https://db.ygoprodeck.com/card/?search=Ringowurm,%20the%20Dragon%20Guarding%20the%20Hundred%20Apples) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ritual Beast Tamer Elder](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Tamer%20Elder) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ritual Beast Tamer Lara](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Tamer%20Lara) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ritual Beast Tamer Wen](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Tamer%20Wen) | Illegal |
@@ -1626,6 +1629,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rokket Tracer](https://db.ygoprodeck.com/card/?search=Rokket%20Tracer) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rookie Warrior Lady](https://db.ygoprodeck.com/card/?search=Rookie%20Warrior%20Lady) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rosaria, the Stately Fallen Angel](https://db.ygoprodeck.com/card/?search=Rosaria,%20the%20Stately%20Fallen%20Angel) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rose Papillon](https://db.ygoprodeck.com/card/?search=Rose%20Papillon) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rose Princess](https://db.ygoprodeck.com/card/?search=Rose%20Princess) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rose Shaman](https://db.ygoprodeck.com/card/?search=Rose%20Shaman) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rose, Warrior of Revenge](https://db.ygoprodeck.com/card/?search=Rose,%20Warrior%20of%20Revenge) | Illegal |
@@ -1647,7 +1651,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sage with Eyes of Blue](https://db.ygoprodeck.com/card/?search=Sage%20with%20Eyes%20of%20Blue) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Saincred Magician](https://db.ygoprodeck.com/card/?search=Saincred%20Magician) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Saion the Vaylantz Archer](https://db.ygoprodeck.com/card/?search=Saion%20the%20Vaylantz%20Archer) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sakitama](https://db.ygoprodeck.com/card/?search=Sakitama) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Salamangreat Coyote](https://db.ygoprodeck.com/card/?search=Salamangreat%20Coyote) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Salamangreat Gazelle](https://db.ygoprodeck.com/card/?search=Salamangreat%20Gazelle) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Salamangreat Spinny](https://db.ygoprodeck.com/card/?search=Salamangreat%20Spinny) | Illegal |
@@ -1708,6 +1711,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Simorgh, Bird of Bringing](https://db.ygoprodeck.com/card/?search=Simorgh,%20Bird%20of%20Bringing) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Simorgh, Bird of Divinity](https://db.ygoprodeck.com/card/?search=Simorgh,%20Bird%20of%20Divinity) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Simorgh, Lord of the Storm](https://db.ygoprodeck.com/card/?search=Simorgh,%20Lord%20of%20the%20Storm) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Singing Cuckoo](https://db.ygoprodeck.com/card/?search=Singing%20Cuckoo) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sinister Sprocket](https://db.ygoprodeck.com/card/?search=Sinister%20Sprocket) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sishunder](https://db.ygoprodeck.com/card/?search=Sishunder) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Skull Flame](https://db.ygoprodeck.com/card/?search=Skull%20Flame) | Illegal |
@@ -1741,7 +1745,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sphere of Chaos](https://db.ygoprodeck.com/card/?search=Sphere%20of%20Chaos) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sphinx Teleia](https://db.ygoprodeck.com/card/?search=Sphinx%20Teleia) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spirit of the Fall Wind](https://db.ygoprodeck.com/card/?search=Spirit%20of%20the%20Fall%20Wind) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spirit of the Pharaoh](https://db.ygoprodeck.com/card/?search=Spirit%20of%20the%20Pharaoh) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spirit Sculptor](https://db.ygoprodeck.com/card/?search=Spirit%20Sculptor) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spiritual Beast Apelio](https://db.ygoprodeck.com/card/?search=Spiritual%20Beast%20Apelio) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spiritual Beast Cannahawk](https://db.ygoprodeck.com/card/?search=Spiritual%20Beast%20Cannahawk) | Illegal |
@@ -1812,17 +1815,13 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Super Quantum Green Layer](https://db.ygoprodeck.com/card/?search=Super%20Quantum%20Green%20Layer) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Super Quantum White Layer](https://db.ygoprodeck.com/card/?search=Super%20Quantum%20White%20Layer) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Super-Electromagnetic Voltech Dragon](https://db.ygoprodeck.com/card/?search=Super-Electromagnetic%20Voltech%20Dragon) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Bike](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Bike) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Constable](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Constable) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Fist](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Fist) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Flutist](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Flutist) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Helper](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Helper) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Monk Warrior Big Benkei](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Monk%20Warrior%20Big%20Benkei) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Prodigy Wakaushi](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Prodigy%20Wakaushi) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Scales](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Scales) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Soulgaia Booster](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulgaia%20Booster) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Soulpeacemaker](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulpeacemaker) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Spy](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Spy) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Supersonic Skull Flame](https://db.ygoprodeck.com/card/?search=Supersonic%20Skull%20Flame) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Supreme King Gate Infinity](https://db.ygoprodeck.com/card/?search=Supreme%20King%20Gate%20Infinity) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Supreme King Gate Zero](https://db.ygoprodeck.com/card/?search=Supreme%20King%20Gate%20Zero) | Illegal |
@@ -1831,7 +1830,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Susa Soldier](https://db.ygoprodeck.com/card/?search=Susa%20Soldier) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swap Cleric](https://db.ygoprodeck.com/card/?search=Swap%20Cleric) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swarm of Crows](https://db.ygoprodeck.com/card/?search=Swarm%20of%20Crows) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sword Emperor - Tsumuhakutsunagi](https://db.ygoprodeck.com/card/?search=Sword%20Emperor%20-%20Tsumuhakutsunagi) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swordsman of Revealing Light](https://db.ygoprodeck.com/card/?search=Swordsman%20of%20Revealing%20Light) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swordsoul Auspice Chunjun](https://db.ygoprodeck.com/card/?search=Swordsoul%20Auspice%20Chunjun) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swordsoul of Mo Ye](https://db.ygoprodeck.com/card/?search=Swordsoul%20of%20Mo%20Ye) | Illegal |
@@ -1859,15 +1857,14 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tearlaments Kashtira](https://db.ygoprodeck.com/card/?search=Tearlaments%20Kashtira) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tearlaments Reinoheart](https://db.ygoprodeck.com/card/?search=Tearlaments%20Reinoheart) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tearlaments Scheiren](https://db.ygoprodeck.com/card/?search=Tearlaments%20Scheiren) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tellarknight Altea](https://db.ygoprodeck.com/card/?search=Tellarknight%20Altea) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tellarknight Lyra](https://db.ygoprodeck.com/card/?search=Tellarknight%20Lyra) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tellarknight Altairan](https://db.ygoprodeck.com/card/?search=Tellarknight%20Altairan) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tellarknight Lyran](https://db.ygoprodeck.com/card/?search=Tellarknight%20Lyran) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tellus the Little Angel](https://db.ygoprodeck.com/card/?search=Tellus%20the%20Little%20Angel) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Temperance of Prophecy](https://db.ygoprodeck.com/card/?search=Temperance%20of%20Prophecy) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tempest, Dragon Ruler of Storms](https://db.ygoprodeck.com/card/?search=Tempest,%20Dragon%20Ruler%20of%20Storms) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ten Thousand Dragon](https://db.ygoprodeck.com/card/?search=Ten%20Thousand%20Dragon) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tenma the Sky Star](https://db.ygoprodeck.com/card/?search=Tenma%20the%20Sky%20Star) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tenmataitei](https://db.ygoprodeck.com/card/?search=Tenmataitei) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Terrorking Archfiend](https://db.ygoprodeck.com/card/?search=Terrorking%20Archfiend) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Testament of the Arcane Lords](https://db.ygoprodeck.com/card/?search=Testament%20of%20the%20Arcane%20Lords) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Teva](https://db.ygoprodeck.com/card/?search=Teva) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Abyss Dragon Swordsoul](https://db.ygoprodeck.com/card/?search=The%20Abyss%20Dragon%20Swordsoul) | Illegal |
@@ -1905,7 +1902,9 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Therion "Lily" Borea](https://db.ygoprodeck.com/card/?search=Therion%20"Lily"%20Borea) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Therion Irregular](https://db.ygoprodeck.com/card/?search=Therion%20Irregular) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Thestalos the Mega Monarch](https://db.ygoprodeck.com/card/?search=Thestalos%20the%20Mega%20Monarch) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Thestalos the Shadow Firestorm Monarch](https://db.ygoprodeck.com/card/?search=Thestalos%20the%20Shadow%20Firestorm%20Monarch) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Thousand-Eyes Jellyfish](https://db.ygoprodeck.com/card/?search=Thousand-Eyes%20Jellyfish) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Three-Eyed Ghost](https://db.ygoprodeck.com/card/?search=Three-Eyed%20Ghost) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Thron the Disciplined Angel](https://db.ygoprodeck.com/card/?search=Thron%20the%20Disciplined%20Angel) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Thunder Ball](https://db.ygoprodeck.com/card/?search=Thunder%20Ball) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Thunder Dragondark](https://db.ygoprodeck.com/card/?search=Thunder%20Dragondark) | Illegal |
@@ -1931,7 +1930,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Toon Black Luster Soldier](https://db.ygoprodeck.com/card/?search=Toon%20Black%20Luster%20Soldier) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Toon Harpie Lady](https://db.ygoprodeck.com/card/?search=Toon%20Harpie%20Lady) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Torapart](https://db.ygoprodeck.com/card/?search=Torapart) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Totem Dragon](https://db.ygoprodeck.com/card/?search=Totem%20Dragon) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tour Bus To Forbidden Realms](https://db.ygoprodeck.com/card/?search=Tour%20Bus%20To%20Forbidden%20Realms) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Toy Magician](https://db.ygoprodeck.com/card/?search=Toy%20Magician) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tradetoad](https://db.ygoprodeck.com/card/?search=Tradetoad) | Illegal |
@@ -1945,7 +1943,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Triamid Hunter](https://db.ygoprodeck.com/card/?search=Triamid%20Hunter) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Triamid Master](https://db.ygoprodeck.com/card/?search=Triamid%20Master) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Triamid Sphinx](https://db.ygoprodeck.com/card/?search=Triamid%20Sphinx) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tribe-Shocking Virus](https://db.ygoprodeck.com/card/?search=Tribe-Shocking%20Virus) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Trickstar Corobane](https://db.ygoprodeck.com/card/?search=Trickstar%20Corobane) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Trickstar Rhodode](https://db.ygoprodeck.com/card/?search=Trickstar%20Rhodode) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Triggering Wurm](https://db.ygoprodeck.com/card/?search=Triggering%20Wurm) | Illegal |
@@ -1956,6 +1953,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [True King Lithosagym, the Disaster](https://db.ygoprodeck.com/card/?search=True%20King%20Lithosagym,%20the%20Disaster) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Trust Guardian](https://db.ygoprodeck.com/card/?search=Trust%20Guardian) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tsukahagi, the Poisonous Mayakashi](https://db.ygoprodeck.com/card/?search=Tsukahagi,%20the%20Poisonous%20Mayakashi) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tsumuha-Kutsunagi the Lord of Swords](https://db.ygoprodeck.com/card/?search=Tsumuha-Kutsunagi%20the%20Lord%20of%20Swords) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tualatin](https://db.ygoprodeck.com/card/?search=Tualatin) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tuning Gum](https://db.ygoprodeck.com/card/?search=Tuning%20Gum) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tuning Magician](https://db.ygoprodeck.com/card/?search=Tuning%20Magician) | Illegal |
@@ -1977,11 +1975,13 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ultimate Insect LV3](https://db.ygoprodeck.com/card/?search=Ultimate%20Insect%20LV3) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ultimate Insect LV5](https://db.ygoprodeck.com/card/?search=Ultimate%20Insect%20LV5) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ultimate Insect LV7](https://db.ygoprodeck.com/card/?search=Ultimate%20Insect%20LV7) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ultimate Knight Alpha Ursatron](https://db.ygoprodeck.com/card/?search=Ultimate%20Knight%20Alpha%20Ursatron) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Umbramirage the Elemental Lord](https://db.ygoprodeck.com/card/?search=Umbramirage%20the%20Elemental%20Lord) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Unchained Soul of Disaster](https://db.ygoprodeck.com/card/?search=Unchained%20Soul%20of%20Disaster) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Unchained Soul Sharvara](https://db.ygoprodeck.com/card/?search=Unchained%20Soul%20Sharvara) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Unchained Soul Shyama](https://db.ygoprodeck.com/card/?search=Unchained%20Soul%20Shyama) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Unibird](https://db.ygoprodeck.com/card/?search=Unibird) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Union Driver](https://db.ygoprodeck.com/card/?search=Union%20Driver) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Uria, Lord of Searing Flames](https://db.ygoprodeck.com/card/?search=Uria,%20Lord%20of%20Searing%20Flames) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ursarctic Megabilis](https://db.ygoprodeck.com/card/?search=Ursarctic%20Megabilis) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ursarctic Megapolar](https://db.ygoprodeck.com/card/?search=Ursarctic%20Megapolar) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ursarctic Megatanus](https://db.ygoprodeck.com/card/?search=Ursarctic%20Megatanus) | Illegal |
@@ -1989,6 +1989,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ursarctic Mikpolar](https://db.ygoprodeck.com/card/?search=Ursarctic%20Mikpolar) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ursarctic Miktanus](https://db.ygoprodeck.com/card/?search=Ursarctic%20Miktanus) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Urubonus, the Avatar of Malice](https://db.ygoprodeck.com/card/?search=Urubonus,%20the%20Avatar%20of%20Malice) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Uruka the Magic Star](https://db.ygoprodeck.com/card/?search=Uruka%20the%20Magic%20Star) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Utgarda, Generaider Boss of Delusion](https://db.ygoprodeck.com/card/?search=Utgarda,%20Generaider%20Boss%20of%20Delusion) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Utopic Onomatopoeia](https://db.ygoprodeck.com/card/?search=Utopic%20Onomatopoeia) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [V Salamander](https://db.ygoprodeck.com/card/?search=V%20Salamander) | Illegal |
@@ -2003,19 +2004,24 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Duke](https://db.ygoprodeck.com/card/?search=Vampire%20Duke) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Fraulein](https://db.ygoprodeck.com/card/?search=Vampire%20Fraulein) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Ghost](https://db.ygoprodeck.com/card/?search=Vampire%20Ghost) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Sorcerer](https://db.ygoprodeck.com/card/?search=Vampire%20Sorcerer) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Vamp](https://db.ygoprodeck.com/card/?search=Vampire%20Vamp) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Voivode](https://db.ygoprodeck.com/card/?search=Vampire%20Voivode) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanquish Soul - Dr. Madlove](https://db.ygoprodeck.com/card/?search=Vanquish%20Soul%20-%20Dr.%20Madlove) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanquish Soul - Heavy Borger](https://db.ygoprodeck.com/card/?search=Vanquish%20Soul%20-%20Heavy%20Borger) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanquish Soul - Kaiser Varius](https://db.ygoprodeck.com/card/?search=Vanquish%20Soul%20-%20Kaiser%20Varius) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanquish Soul - Panthera](https://db.ygoprodeck.com/card/?search=Vanquish%20Soul%20-%20Panthera) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanquish Soul - Pluton HG](https://db.ygoprodeck.com/card/?search=Vanquish%20Soul%20-%20Pluton%20HG) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanquish Soul - Razen](https://db.ygoprodeck.com/card/?search=Vanquish%20Soul%20-%20Razen) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanquish Soul Dr. Madlove](https://db.ygoprodeck.com/card/?search=Vanquish%20Soul%20Dr.%20Madlove) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanquish Soul Heavy Borger](https://db.ygoprodeck.com/card/?search=Vanquish%20Soul%20Heavy%20Borger) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanquish Soul Kaiser Varius](https://db.ygoprodeck.com/card/?search=Vanquish%20Soul%20Kaiser%20Varius) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanquish Soul Panthera](https://db.ygoprodeck.com/card/?search=Vanquish%20Soul%20Panthera) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanquish Soul Pluton HG](https://db.ygoprodeck.com/card/?search=Vanquish%20Soul%20Pluton%20HG) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanquish Soul Razen](https://db.ygoprodeck.com/card/?search=Vanquish%20Soul%20Razen) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vaylantz Buster Baron](https://db.ygoprodeck.com/card/?search=Vaylantz%20Buster%20Baron) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vaylantz Dominator Duke](https://db.ygoprodeck.com/card/?search=Vaylantz%20Dominator%20Duke) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vaylantz Mad Marquess](https://db.ygoprodeck.com/card/?search=Vaylantz%20Mad%20Marquess) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vaylantz Voltage Viscount](https://db.ygoprodeck.com/card/?search=Vaylantz%20Voltage%20Viscount) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Veda Karantha](https://db.ygoprodeck.com/card/?search=Veda%20Karantha) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vendread Core](https://db.ygoprodeck.com/card/?search=Vendread%20Core) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vendread Houndhorde](https://db.ygoprodeck.com/card/?search=Vendread%20Houndhorde) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vennominaga the Deity of Poisonous Snakes](https://db.ygoprodeck.com/card/?search=Vennominaga%20the%20Deity%20of%20Poisonous%20Snakes) | Illegal |
@@ -2042,7 +2048,10 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vision HERO Vyon](https://db.ygoprodeck.com/card/?search=Vision%20HERO%20Vyon) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vision HERO Witch Raider](https://db.ygoprodeck.com/card/?search=Vision%20HERO%20Witch%20Raider) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vivid Knight](https://db.ygoprodeck.com/card/?search=Vivid%20Knight) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Volcanic Emperor](https://db.ygoprodeck.com/card/?search=Volcanic%20Emperor) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Volcanic Rimfire](https://db.ygoprodeck.com/card/?search=Volcanic%20Rimfire) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Volcanic Slicer](https://db.ygoprodeck.com/card/?search=Volcanic%20Slicer) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Volcanic Trooper](https://db.ygoprodeck.com/card/?search=Volcanic%20Trooper) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Voltanis the Adjudicator](https://db.ygoprodeck.com/card/?search=Voltanis%20the%20Adjudicator) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Votis](https://db.ygoprodeck.com/card/?search=Votis) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vulcan Dragni the Cubic King](https://db.ygoprodeck.com/card/?search=Vulcan%20Dragni%20the%20Cubic%20King) | Illegal |
@@ -2071,6 +2080,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Wattsychic Fighter](https://db.ygoprodeck.com/card/?search=Wattsychic%20Fighter) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Weathering Soldier](https://db.ygoprodeck.com/card/?search=Weathering%20Soldier) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Wheel of Prophecy](https://db.ygoprodeck.com/card/?search=Wheel%20of%20Prophecy) | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Wheel Synchron](https://db.ygoprodeck.com/card/?search=Wheel%20Synchron) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Dragon Ninja](https://db.ygoprodeck.com/card/?search=White%20Dragon%20Ninja) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Moray](https://db.ygoprodeck.com/card/?search=White%20Moray) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Rose Dragon](https://db.ygoprodeck.com/card/?search=White%20Rose%20Dragon) | Illegal |
@@ -2147,7 +2157,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yubel](https://db.ygoprodeck.com/card/?search=Yubel) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yubel - Terror Incarnate](https://db.ygoprodeck.com/card/?search=Yubel%20-%20Terror%20Incarnate) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yubel - The Ultimate Nightmare](https://db.ygoprodeck.com/card/?search=Yubel%20-%20The%20Ultimate%20Nightmare) | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yukai na Rin no Kitsunebi Yurara](https://db.ygoprodeck.com/card/?search=Yukai%20na%20Rin%20no%20Kitsunebi%20Yurara) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Zaborg the Mega Monarch](https://db.ygoprodeck.com/card/?search=Zaborg%20the%20Mega%20Monarch) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Zaphion, the Timelord](https://db.ygoprodeck.com/card/?search=Zaphion,%20the%20Timelord) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Zefraath](https://db.ygoprodeck.com/card/?search=Zefraath) | Illegal |
@@ -2170,6 +2179,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [ZW - Phoenix Bow](https://db.ygoprodeck.com/card/?search=ZW%20-%20Phoenix%20Bow) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [ZW - Sylphid Wing](https://db.ygoprodeck.com/card/?search=ZW%20-%20Sylphid%20Wing) | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [ZW - Tornado Bringer](https://db.ygoprodeck.com/card/?search=ZW%20-%20Tornado%20Bringer) | Illegal |
+|<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Arahime the Manifested Mikanko](https://db.ygoprodeck.com/card/?search=Arahime%20the%20Manifested%20Mikanko) | Illegal |
 |<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Archfiend's Awakening](https://db.ygoprodeck.com/card/?search=Archfiend's%20Awakening) | Illegal |
 |<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Baegriller de Nouvellez](https://db.ygoprodeck.com/card/?search=Baegriller%20de%20Nouvellez) | Illegal |
 |<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Balameuniere de Nouvellez](https://db.ygoprodeck.com/card/?search=Balameuniere%20de%20Nouvellez) | Illegal |
@@ -2186,7 +2196,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Confitras de Nouvellez](https://db.ygoprodeck.com/card/?search=Confitras%20de%20Nouvellez) | Illegal |
 |<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Cyber Angel Natasha](https://db.ygoprodeck.com/card/?search=Cyber%20Angel%20Natasha) | Illegal |
 |<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Cyberse Magician](https://db.ygoprodeck.com/card/?search=Cyberse%20Magician) | Illegal |
-|<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Cyberse Sage](https://db.ygoprodeck.com/card/?search=Cyberse%20Sage) | Illegal |
 |<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Demise, Supreme King of Armageddon](https://db.ygoprodeck.com/card/?search=Demise,%20Supreme%20King%20of%20Armageddon) | Illegal |
 |<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Devotee of Nephthys](https://db.ygoprodeck.com/card/?search=Devotee%20of%20Nephthys) | Illegal |
 |<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Divine Grace - Northwemko](https://db.ygoprodeck.com/card/?search=Divine%20Grace%20-%20Northwemko) | Illegal |
@@ -2254,7 +2263,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [ABC-Dragon Buster](https://db.ygoprodeck.com/card/?search=ABC-Dragon%20Buster) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Aiwass, the Magistus Spell Spirit](https://db.ygoprodeck.com/card/?search=Aiwass,%20the%20Magistus%20Spell%20Spirit) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Alba-Lenatus the Abyss Dragon](https://db.ygoprodeck.com/card/?search=Alba-Lenatus%20the%20Abyss%20Dragon) | Illegal |
-|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Albion the Incandescent Dragon](https://db.ygoprodeck.com/card/?search=Albion%20the%20Incandescent%20Dragon) | Illegal |
+|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Albion the Sanctifire Dragon](https://db.ygoprodeck.com/card/?search=Albion%20the%20Sanctifire%20Dragon) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Ancient Gear Megaton Golem](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Megaton%20Golem) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Archfiend's Manifestation](https://db.ygoprodeck.com/card/?search=Archfiend's%20Manifestation) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Arktos XII - Chronochasm Vaylantz](https://db.ygoprodeck.com/card/?search=Arktos%20XII%20-%20Chronochasm%20Vaylantz) | Illegal |
@@ -2263,7 +2272,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Armityle the Chaos Phantasm](https://db.ygoprodeck.com/card/?search=Armityle%20the%20Chaos%20Phantasm) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Armityle the Chaos Phantasm - Phantom of Fury](https://db.ygoprodeck.com/card/?search=Armityle%20the%20Chaos%20Phantasm%20-%20Phantom%20of%20Fury) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Beast-Eyes Pendulum Dragon](https://db.ygoprodeck.com/card/?search=Beast-Eyes%20Pendulum%20Dragon) | Illegal |
-|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Beetrooper Cruel Saturn](https://db.ygoprodeck.com/card/?search=Beetrooper%20Cruel%20Saturn) | Illegal |
+|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Beetrooper Cruel Saturnas](https://db.ygoprodeck.com/card/?search=Beetrooper%20Cruel%20Saturnas) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Blaze Fenix, the Burning Bombardment Bird](https://db.ygoprodeck.com/card/?search=Blaze%20Fenix,%20the%20Burning%20Bombardment%20Bird) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Blue-Eyes Alternative Ultimate Dragon](https://db.ygoprodeck.com/card/?search=Blue-Eyes%20Alternative%20Ultimate%20Dragon) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Blue-Eyes Twin Burst Dragon](https://db.ygoprodeck.com/card/?search=Blue-Eyes%20Twin%20Burst%20Dragon) | Illegal |
@@ -2275,7 +2284,10 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Centaur Mina](https://db.ygoprodeck.com/card/?search=Centaur%20Mina) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Chaos Ancient Gear Giant](https://db.ygoprodeck.com/card/?search=Chaos%20Ancient%20Gear%20Giant) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Charubin the Fire Knight](https://db.ygoprodeck.com/card/?search=Charubin%20the%20Fire%20Knight) | Illegal |
+|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Chimera the Illusion Magical Beast](https://db.ygoprodeck.com/card/?search=Chimera%20the%20Illusion%20Magical%20Beast) | Illegal |
+|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Chimera the Phantom Beast King](https://db.ygoprodeck.com/card/?search=Chimera%20the%20Phantom%20Beast%20King) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Chimeratech Megafleet Dragon](https://db.ygoprodeck.com/card/?search=Chimeratech%20Megafleet%20Dragon) | Illegal |
+|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Colorless, Chaos King of Dark World](https://db.ygoprodeck.com/card/?search=Colorless,%20Chaos%20King%20of%20Dark%20World) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Contrast HERO Chaos](https://db.ygoprodeck.com/card/?search=Contrast%20HERO%20Chaos) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Crimson Nova Trinity the Dark Cubic Lord](https://db.ygoprodeck.com/card/?search=Crimson%20Nova%20Trinity%20the%20Dark%20Cubic%20Lord) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Curse of Dragon, the Magical Knight Dragon](https://db.ygoprodeck.com/card/?search=Curse%20of%20Dragon,%20the%20Magical%20Knight%20Dragon) | Illegal |
@@ -2283,7 +2295,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Cyber Ogre 2](https://db.ygoprodeck.com/card/?search=Cyber%20Ogre%202) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Cyberdark End Dragon](https://db.ygoprodeck.com/card/?search=Cyberdark%20End%20Dragon) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Cyberse Clock Dragon](https://db.ygoprodeck.com/card/?search=Cyberse%20Clock%20Dragon) | Illegal |
-|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Cyberse Disabwurm](https://db.ygoprodeck.com/card/?search=Cyberse%20Disabwurm) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [D/D/D Dragonbane King Beowulf](https://db.ygoprodeck.com/card/?search=D/D/D%20Dragonbane%20King%20Beowulf) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [D/D/D Flame King Genghis](https://db.ygoprodeck.com/card/?search=D/D/D%20Flame%20King%20Genghis) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [D/D/D Wave Oblivion King Caesar Ragnarok](https://db.ygoprodeck.com/card/?search=D/D/D%20Wave%20Oblivion%20King%20Caesar%20Ragnarok) | Illegal |
@@ -2310,7 +2321,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Dual Avatar - Empowered Mitsu-Jaku](https://db.ygoprodeck.com/card/?search=Dual%20Avatar%20-%20Empowered%20Mitsu-Jaku) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Dual Avatar Feet - Armored Un-Gyo](https://db.ygoprodeck.com/card/?search=Dual%20Avatar%20Feet%20-%20Armored%20Un-Gyo) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Dual Avatar Fists - Armored Ah-Gyo](https://db.ygoprodeck.com/card/?search=Dual%20Avatar%20Fists%20-%20Armored%20Ah-Gyo) | Illegal |
-|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Dual Avatar Lion Envoys - Ah-Un](https://db.ygoprodeck.com/card/?search=Dual%20Avatar%20Lion%20Envoys%20-%20Ah-Un) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Dyna Tank](https://db.ygoprodeck.com/card/?search=Dyna%20Tank) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Earth Golem @Ignister](https://db.ygoprodeck.com/card/?search=Earth%20Golem%20@Ignister) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Egyptian God Slime](https://db.ygoprodeck.com/card/?search=Egyptian%20God%20Slime) | Illegal |
@@ -2345,10 +2355,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Elemental HERO Sunrise](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Sunrise) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Elemental HERO Terra Firma](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Terra%20Firma) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Elemental HERO The Shining](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20The%20Shining) | Illegal |
-|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Evil HERO Inferno Wing](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Inferno%20Wing) | Illegal |
-|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Evil HERO Lightning Golem](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Lightning%20Golem) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Evil HERO Malicious Bane](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Malicious%20Bane) | Illegal |
-|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Evil HERO Wild Cyclone](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Wild%20Cyclone) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Extox Hydra](https://db.ygoprodeck.com/card/?search=Extox%20Hydra) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Flame Ghost](https://db.ygoprodeck.com/card/?search=Flame%20Ghost) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Flower Wolf](https://db.ygoprodeck.com/card/?search=Flower%20Wolf) | Illegal |
@@ -2397,6 +2404,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Grapha, Dragon Overlord of Dark World](https://db.ygoprodeck.com/card/?search=Grapha,%20Dragon%20Overlord%20of%20Dark%20World) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Greedy Venom Fusion Dragon](https://db.ygoprodeck.com/card/?search=Greedy%20Venom%20Fusion%20Dragon) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Guardian Chimera](https://db.ygoprodeck.com/card/?search=Guardian%20Chimera) | Illegal |
+|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Horned Saurus](https://db.ygoprodeck.com/card/?search=Horned%20Saurus) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [House Dragonmaid](https://db.ygoprodeck.com/card/?search=House%20Dragonmaid) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Hugin the Runick Wings](https://db.ygoprodeck.com/card/?search=Hugin%20the%20Runick%20Wings) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Idaten the Conqueror Star](https://db.ygoprodeck.com/card/?search=Idaten%20the%20Conqueror%20Star) | Illegal |
@@ -2414,6 +2422,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Kwagar Hercules](https://db.ygoprodeck.com/card/?search=Kwagar%20Hercules) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Lubellion the Searing Dragon](https://db.ygoprodeck.com/card/?search=Lubellion%20the%20Searing%20Dragon) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Lyrilusc - Independent Nightingale](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Independent%20Nightingale) | Illegal |
+|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Magnum the Reliever](https://db.ygoprodeck.com/card/?search=Magnum%20the%20Reliever) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Mamonaka the Vaylantz United](https://db.ygoprodeck.com/card/?search=Mamonaka%20the%20Vaylantz%20United) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Masked HERO Acid](https://db.ygoprodeck.com/card/?search=Masked%20HERO%20Acid) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Masked HERO Blast](https://db.ygoprodeck.com/card/?search=Masked%20HERO%20Blast) | Illegal |
@@ -2436,6 +2445,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Mysterion the Dragon Crown](https://db.ygoprodeck.com/card/?search=Mysterion%20the%20Dragon%20Crown) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Myutant Synthesis](https://db.ygoprodeck.com/card/?search=Myutant%20Synthesis) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Myutant Ultimus](https://db.ygoprodeck.com/card/?search=Myutant%20Ultimus) | Illegal |
+|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Naturia Exterio](https://db.ygoprodeck.com/card/?search=Naturia%20Exterio) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Naturia Gaiastrio](https://db.ygoprodeck.com/card/?search=Naturia%20Gaiastrio) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Neo Blue-Eyes Ultimate Dragon](https://db.ygoprodeck.com/card/?search=Neo%20Blue-Eyes%20Ultimate%20Dragon) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Odd-Eyes Venom Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Venom%20Dragon) | Illegal |
@@ -2463,6 +2473,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Secret Six Samurai - Rihan](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Rihan) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Shura the Combat Star](https://db.ygoprodeck.com/card/?search=Shura%20the%20Combat%20Star) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Sky Galloping Gaia the Dragon Champion](https://db.ygoprodeck.com/card/?search=Sky%20Galloping%20Gaia%20the%20Dragon%20Champion) | Illegal |
+|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Sleipnir the Runick Mane](https://db.ygoprodeck.com/card/?search=Sleipnir%20the%20Runick%20Mane) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Starving Venemy Dragon](https://db.ygoprodeck.com/card/?search=Starving%20Venemy%20Dragon) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Starving Venemy Lethal Dose Dragon](https://db.ygoprodeck.com/card/?search=Starving%20Venemy%20Lethal%20Dose%20Dragon) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Starving Venom Predapower Fusion Dragon](https://db.ygoprodeck.com/card/?search=Starving%20Venom%20Predapower%20Fusion%20Dragon) | Illegal |
@@ -2486,7 +2497,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Ultimate Flagship Ursatron](https://db.ygoprodeck.com/card/?search=Ultimate%20Flagship%20Ursatron) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Ultimate Great Insect](https://db.ygoprodeck.com/card/?search=Ultimate%20Great%20Insect) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Vaylantz Genesis Grand Duke](https://db.ygoprodeck.com/card/?search=Vaylantz%20Genesis%20Grand%20Duke) | Illegal |
-|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Vicious Astroud](https://db.ygoprodeck.com/card/?search=Vicious%20Astroud) | Illegal |
+|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Vicious Astraloud](https://db.ygoprodeck.com/card/?search=Vicious%20Astraloud) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Vision HERO Adoration](https://db.ygoprodeck.com/card/?search=Vision%20HERO%20Adoration) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Vision HERO Trinity](https://db.ygoprodeck.com/card/?search=Vision%20HERO%20Trinity) | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Wake Up Your Elemental HERO](https://db.ygoprodeck.com/card/?search=Wake%20Up%20Your%20Elemental%20HERO) | Illegal |
@@ -2499,6 +2510,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Akashic Magician](https://db.ygoprodeck.com/card/?search=Akashic%20Magician) | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Aleister the Invoker of Madness](https://db.ygoprodeck.com/card/?search=Aleister%20the%20Invoker%20of%20Madness) | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Alien Shocktrooper M-Frame](https://db.ygoprodeck.com/card/?search=Alien%20Shocktrooper%20M-Frame) | Illegal |
+|<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Altergeist Adminia](https://db.ygoprodeck.com/card/?search=Altergeist%20Adminia) | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Altergeist Hexstia](https://db.ygoprodeck.com/card/?search=Altergeist%20Hexstia) | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Altergeist Memorygant](https://db.ygoprodeck.com/card/?search=Altergeist%20Memorygant) | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Amatsu-Okami of the Divine Peaks](https://db.ygoprodeck.com/card/?search=Amatsu-Okami%20of%20the%20Divine%20Peaks) | Illegal |
@@ -2738,6 +2750,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Trickstar Foxglove Witch](https://db.ygoprodeck.com/card/?search=Trickstar%20Foxglove%20Witch) | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Trickstar Holly Angel](https://db.ygoprodeck.com/card/?search=Trickstar%20Holly%20Angel) | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Unchained Abomination](https://db.ygoprodeck.com/card/?search=Unchained%20Abomination) | Illegal |
+|<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Unchained Soul King Yama](https://db.ygoprodeck.com/card/?search=Unchained%20Soul%20King%20Yama) | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Unchained Soul of Anguish](https://db.ygoprodeck.com/card/?search=Unchained%20Soul%20of%20Anguish) | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Unchained Soul of Rage](https://db.ygoprodeck.com/card/?search=Unchained%20Soul%20of%20Rage) | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Underworld Goddess of the Closed World](https://db.ygoprodeck.com/card/?search=Underworld%20Goddess%20of%20the%20Closed%20World) | Illegal |
@@ -2816,6 +2829,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Chevalier de Fleur](https://db.ygoprodeck.com/card/?search=Chevalier%20de%20Fleur) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Clear Wing Fast Dragon](https://db.ygoprodeck.com/card/?search=Clear%20Wing%20Fast%20Dragon) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Clear Wing Synchro Dragon](https://db.ygoprodeck.com/card/?search=Clear%20Wing%20Synchro%20Dragon) | Illegal |
+|<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Combat Wheel](https://db.ygoprodeck.com/card/?search=Combat%20Wheel) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Coral Dragon](https://db.ygoprodeck.com/card/?search=Coral%20Dragon) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Cosmic Fortress Gol'gar](https://db.ygoprodeck.com/card/?search=Cosmic%20Fortress%20Gol'gar) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Cosmic Quasar Dragon](https://db.ygoprodeck.com/card/?search=Cosmic%20Quasar%20Dragon) | Illegal |
@@ -2862,6 +2876,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Flower Cardian Lightshower](https://db.ygoprodeck.com/card/?search=Flower%20Cardian%20Lightshower) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Fortune Lady Every](https://db.ygoprodeck.com/card/?search=Fortune%20Lady%20Every) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Frozen Fitzgerald](https://db.ygoprodeck.com/card/?search=Frozen%20Fitzgerald) | Illegal |
+|<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Gaia Blaze, the Force of Blazing Sun](https://db.ygoprodeck.com/card/?search=Gaia%20Blaze,%20the%20Force%20of%20Blazing%20Sun) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Garden Rose Flora](https://db.ygoprodeck.com/card/?search=Garden%20Rose%20Flora) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Garden Rose Maiden](https://db.ygoprodeck.com/card/?search=Garden%20Rose%20Maiden) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Gashadokuro, the Skeletal Mayakashi](https://db.ygoprodeck.com/card/?search=Gashadokuro,%20the%20Skeletal%20Mayakashi) | Illegal |
@@ -2930,7 +2945,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Majestic Red Dragon](https://db.ygoprodeck.com/card/?search=Majestic%20Red%20Dragon) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Majestic Star Dragon](https://db.ygoprodeck.com/card/?search=Majestic%20Star%20Dragon) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Malefic Paradox Dragon](https://db.ygoprodeck.com/card/?search=Malefic%20Paradox%20Dragon) | Illegal |
-|<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Manadome Prime-Heart](https://db.ygoprodeck.com/card/?search=Manadome%20Prime-Heart) | Illegal |
+|<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Mannadium Prime-Heart](https://db.ygoprodeck.com/card/?search=Mannadium%20Prime-Heart) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Martial Metal Marcher](https://db.ygoprodeck.com/card/?search=Martial%20Metal%20Marcher) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Masterflare Hyperion](https://db.ygoprodeck.com/card/?search=Masterflare%20Hyperion) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Mecha Phantom Beast Concoruda](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Concoruda) | Illegal |
@@ -2994,9 +3009,9 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Stardust Spark Dragon](https://db.ygoprodeck.com/card/?search=Stardust%20Spark%20Dragon) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Stygian Sergeants](https://db.ygoprodeck.com/card/?search=Stygian%20Sergeants) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Superheavy Samurai Beast Kyubi](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Beast%20Kyubi) | Illegal |
-|<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Superheavy Samurai General Shanao](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20General%20Shanao) | Illegal |
+|<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Superheavy Samurai Brave Masurawo](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Brave%20Masurawo) | Illegal |
+|<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Superheavy Samurai Commander Shanawo](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Commander%20Shanawo) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Superheavy Samurai Ninja Sarutobi](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Ninja%20Sarutobi) | Illegal |
-|<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Superheavy Samurai Overlord Masurao](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Overlord%20Masurao) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Superheavy Samurai Stealth Ninja](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Stealth%20Ninja) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Superheavy Samurai Steam Train King](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Steam%20Train%20King) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Swordsoul Grandmaster - Chixiao](https://db.ygoprodeck.com/card/?search=Swordsoul%20Grandmaster%20-%20Chixiao) | Illegal |
@@ -3025,6 +3040,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Ukiyoe-P.U.N.K. Amazing Dragon](https://db.ygoprodeck.com/card/?search=Ukiyoe-P.U.N.K.%20Amazing%20Dragon) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Underground Arachnid](https://db.ygoprodeck.com/card/?search=Underground%20Arachnid) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Ursarctic Grand Chariot](https://db.ygoprodeck.com/card/?search=Ursarctic%20Grand%20Chariot) | Illegal |
+|<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Ursarctic Polar Star](https://db.ygoprodeck.com/card/?search=Ursarctic%20Polar%20Star) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Ursarctic Polari](https://db.ygoprodeck.com/card/?search=Ursarctic%20Polari) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Ursarctic Septentrion](https://db.ygoprodeck.com/card/?search=Ursarctic%20Septentrion) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Vahram, the Magistus Divinity Dragon](https://db.ygoprodeck.com/card/?search=Vahram,%20the%20Magistus%20Divinity%20Dragon) | Illegal |
@@ -3033,6 +3049,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Virgil, Rock Star of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Virgil,%20Rock%20Star%20of%20the%20Burning%20Abyss) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Virtual World Beast - Jiujiu](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Beast%20-%20Jiujiu) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Virtual World Kyubi - Shenshen](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Kyubi%20-%20Shenshen) | Illegal |
+|<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Visas Amritara](https://db.ygoprodeck.com/card/?search=Visas%20Amritara) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Voltic Bicorn](https://db.ygoprodeck.com/card/?search=Voltic%20Bicorn) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Vortex the Whirlwind](https://db.ygoprodeck.com/card/?search=Vortex%20the%20Whirlwind) | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Vulcan the Divine](https://db.ygoprodeck.com/card/?search=Vulcan%20the%20Divine) | Illegal |
@@ -3065,8 +3082,10 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Artorigus, King of the Noble Knights](https://db.ygoprodeck.com/card/?search=Artorigus,%20King%20of%20the%20Noble%20Knights) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Ashura King](https://db.ygoprodeck.com/card/?search=Ashura%20King) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Bahamut Shark](https://db.ygoprodeck.com/card/?search=Bahamut%20Shark) | Illegal |
+|<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Baromet the Sacred Sheep Shrub](https://db.ygoprodeck.com/card/?search=Baromet%20the%20Sacred%20Sheep%20Shrub) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Battlecruiser Dianthus](https://db.ygoprodeck.com/card/?search=Battlecruiser%20Dianthus) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Battlin' Boxer Cheat Commissioner](https://db.ygoprodeck.com/card/?search=Battlin'%20Boxer%20Cheat%20Commissioner) | Illegal |
+|<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Battlin' Boxer King Dempsey](https://db.ygoprodeck.com/card/?search=Battlin'%20Boxer%20King%20Dempsey) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Battlin' Boxer Lead Yoke](https://db.ygoprodeck.com/card/?search=Battlin'%20Boxer%20Lead%20Yoke) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Beatrice, Lady of the Eternal](https://db.ygoprodeck.com/card/?search=Beatrice,%20Lady%20of%20the%20Eternal) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Blade Armor Ninja](https://db.ygoprodeck.com/card/?search=Blade%20Armor%20Ninja) | Illegal |
@@ -3119,6 +3138,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Ebon Illusion Magician](https://db.ygoprodeck.com/card/?search=Ebon%20Illusion%20Magician) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Epurrely Beauty](https://db.ygoprodeck.com/card/?search=Epurrely%20Beauty) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Epurrely Happiness](https://db.ygoprodeck.com/card/?search=Epurrely%20Happiness) | Illegal |
+|<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Epurrely Noir](https://db.ygoprodeck.com/card/?search=Epurrely%20Noir) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Epurrely Plump](https://db.ygoprodeck.com/card/?search=Epurrely%20Plump) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Evigishki Merrowgeist](https://db.ygoprodeck.com/card/?search=Evigishki%20Merrowgeist) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Evilswarm Bahamut](https://db.ygoprodeck.com/card/?search=Evilswarm%20Bahamut) | Illegal |
@@ -3312,6 +3332,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number C65: King Overfiend](https://db.ygoprodeck.com/card/?search=Number%20C65:%20King%20Overfiend) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number C69: Heraldry Crest of Horror](https://db.ygoprodeck.com/card/?search=Number%20C69:%20Heraldry%20Crest%20of%20Horror) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number C6: Chronomaly Chaos Atlandis](https://db.ygoprodeck.com/card/?search=Number%20C6:%20Chronomaly%20Chaos%20Atlandis) | Illegal |
+|<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number C79: Battlin' Boxer Commander Caesar](https://db.ygoprodeck.com/card/?search=Number%20C79:%20Battlin'%20Boxer%20Commander%20Caesar) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number C80: Requiem in Berserk](https://db.ygoprodeck.com/card/?search=Number%20C80:%20Requiem%20in%20Berserk) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number C92: Heart-eartH Chaos Dragon](https://db.ygoprodeck.com/card/?search=Number%20C92:%20Heart-eartH%20Chaos%20Dragon) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number C96: Dark Storm](https://db.ygoprodeck.com/card/?search=Number%20C96:%20Dark%20Storm) | Illegal |
@@ -3356,7 +3377,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Rilliona, the Wondrous Magistus Witch Wardrobe](https://db.ygoprodeck.com/card/?search=Rilliona,%20the%20Wondrous%20Magistus%20Witch%20Wardrobe) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Sacred Noble Knight of King Artorigus](https://db.ygoprodeck.com/card/?search=Sacred%20Noble%20Knight%20of%20King%20Artorigus) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Sacred Noble Knight of King Custennin](https://db.ygoprodeck.com/card/?search=Sacred%20Noble%20Knight%20of%20King%20Custennin) | Illegal |
-|<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Sacred Sheep Tree, Baromet](https://db.ygoprodeck.com/card/?search=Sacred%20Sheep%20Tree,%20Baromet) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Salamangreat Blaze Dragon](https://db.ygoprodeck.com/card/?search=Salamangreat%20Blaze%20Dragon) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Salamangreat Miragestallio](https://db.ygoprodeck.com/card/?search=Salamangreat%20Miragestallio) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Shadow of the Six Samurai - Shien](https://db.ygoprodeck.com/card/?search=Shadow%20of%20the%20Six%20Samurai%20-%20Shien) | Illegal |
@@ -3389,6 +3409,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Tellarknight Ptolemaeus](https://db.ygoprodeck.com/card/?search=Tellarknight%20Ptolemaeus) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [The Phantom Knights of Break Sword](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Break%20Sword) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [The Zombie Vampire](https://db.ygoprodeck.com/card/?search=The%20Zombie%20Vampire) | Illegal |
+|<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Thelematech Cratis](https://db.ygoprodeck.com/card/?search=Thelematech%20Cratis) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Time Thief Double Barrel](https://db.ygoprodeck.com/card/?search=Time%20Thief%20Double%20Barrel) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Time Thief Perpetua](https://db.ygoprodeck.com/card/?search=Time%20Thief%20Perpetua) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Timestar Magician](https://db.ygoprodeck.com/card/?search=Timestar%20Magician) | Illegal |
@@ -3406,7 +3427,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Valiant Shark Lancer](https://db.ygoprodeck.com/card/?search=Valiant%20Shark%20Lancer) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Virtual World Dragon - Longlong](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Dragon%20-%20Longlong) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Virtual World Phoenix - Fanfan](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Phoenix%20-%20Fanfan) | Illegal |
-|<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Virtual World Tiger - Huhu](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Tiger%20-%20Huhu) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Vola-Chemicritter Methydraco](https://db.ygoprodeck.com/card/?search=Vola-Chemicritter%20Methydraco) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Voloferniges, the Darkest Dragon Doomrider](https://db.ygoprodeck.com/card/?search=Voloferniges,%20the%20Darkest%20Dragon%20Doomrider) | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Vylon Disigma](https://db.ygoprodeck.com/card/?search=Vylon%20Disigma) | Illegal |
@@ -3458,6 +3478,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Appliancer Electrilyrical World](https://db.ygoprodeck.com/card/?search=Appliancer%20Electrilyrical%20World) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Appliancer Reuse](https://db.ygoprodeck.com/card/?search=Appliancer%20Reuse) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Appliancer Test](https://db.ygoprodeck.com/card/?search=Appliancer%20Test) | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Aqua Round](https://db.ygoprodeck.com/card/?search=Aqua%20Round) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Archfiend Palabyrinth](https://db.ygoprodeck.com/card/?search=Archfiend%20Palabyrinth) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Armed Dragon Flash](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20Flash) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Armor Blast](https://db.ygoprodeck.com/card/?search=Armor%20Blast) | Illegal |
@@ -3509,10 +3530,10 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Castle Link](https://db.ygoprodeck.com/card/?search=Castle%20Link) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Catalyst Field](https://db.ygoprodeck.com/card/?search=Catalyst%20Field) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Celestial Observatory](https://db.ygoprodeck.com/card/?search=Celestial%20Observatory) | Illegal |
-|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Cerulean Skyfire](https://db.ygoprodeck.com/card/?search=Cerulean%20Skyfire) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Chain Summon](https://db.ygoprodeck.com/card/?search=Chain%20Summon) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Chaos Scepter Blast](https://db.ygoprodeck.com/card/?search=Chaos%20Scepter%20Blast) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Chaos Space](https://db.ygoprodeck.com/card/?search=Chaos%20Space) | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Chimera Fusion](https://db.ygoprodeck.com/card/?search=Chimera%20Fusion) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Chronomaly City Babylon](https://db.ygoprodeck.com/card/?search=Chronomaly%20City%20Babylon) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Cipher Interference](https://db.ygoprodeck.com/card/?search=Cipher%20Interference) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Clashing Souls](https://db.ygoprodeck.com/card/?search=Clashing%20Souls) | Illegal |
@@ -3524,6 +3545,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Comic Hand](https://db.ygoprodeck.com/card/?search=Comic%20Hand) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Constellar Star Chart](https://db.ygoprodeck.com/card/?search=Constellar%20Star%20Chart) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Constellar Star Cradle](https://db.ygoprodeck.com/card/?search=Constellar%20Star%20Cradle) | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Constellar Tellarknights](https://db.ygoprodeck.com/card/?search=Constellar%20Tellarknights) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Constellar Tempest](https://db.ygoprodeck.com/card/?search=Constellar%20Tempest) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Contact with Gusto](https://db.ygoprodeck.com/card/?search=Contact%20with%20Gusto) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Contract with Don Thousand](https://db.ygoprodeck.com/card/?search=Contract%20with%20Don%20Thousand) | Illegal |
@@ -3531,6 +3553,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Core Compression](https://db.ygoprodeck.com/card/?search=Core%20Compression) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Core Overclock](https://db.ygoprodeck.com/card/?search=Core%20Overclock) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Core Transport Unit](https://db.ygoprodeck.com/card/?search=Core%20Transport%20Unit) | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Corrupted Gem of Rebellion - Snake Eye](https://db.ygoprodeck.com/card/?search=Corrupted%20Gem%20of%20Rebellion%20-%20Snake%20Eye) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Cosmos Channelling](https://db.ygoprodeck.com/card/?search=Cosmos%20Channelling) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Court of Justice](https://db.ygoprodeck.com/card/?search=Court%20of%20Justice) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Cross Breed](https://db.ygoprodeck.com/card/?search=Cross%20Breed) | Illegal |
@@ -3555,13 +3578,13 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Cynet Rollback](https://db.ygoprodeck.com/card/?search=Cynet%20Rollback) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [D - Force](https://db.ygoprodeck.com/card/?search=D%20-%20Force) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [D.D. Designator](https://db.ygoprodeck.com/card/?search=D.D.%20Designator) | Illegal |
-|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dance of the Mikanko - Fascinating Bird](https://db.ygoprodeck.com/card/?search=Dance%20of%20the%20Mikanko%20-%20Fascinating%20Bird) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Danger! Excitement! Mystery!](https://db.ygoprodeck.com/card/?search=Danger!%20Excitement!%20Mystery!) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Danger! Response Team](https://db.ygoprodeck.com/card/?search=Danger!%20Response%20Team) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Burning Attack](https://db.ygoprodeck.com/card/?search=Dark%20Burning%20Attack) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Burning Magic](https://db.ygoprodeck.com/card/?search=Dark%20Burning%20Magic) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Contract with Patent License](https://db.ygoprodeck.com/card/?search=Dark%20Contract%20with%20Patent%20License) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Contract with the Entities](https://db.ygoprodeck.com/card/?search=Dark%20Contract%20with%20the%20Entities) | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Corridor](https://db.ygoprodeck.com/card/?search=Dark%20Corridor) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Magic Twin Burst](https://db.ygoprodeck.com/card/?search=Dark%20Magic%20Twin%20Burst) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Magic Veil](https://db.ygoprodeck.com/card/?search=Dark%20Magic%20Veil) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark World Accession](https://db.ygoprodeck.com/card/?search=Dark%20World%20Accession) | Illegal |
@@ -3572,7 +3595,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Deep Sea Aria](https://db.ygoprodeck.com/card/?search=Deep%20Sea%20Aria) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Degenerate Circuit](https://db.ygoprodeck.com/card/?search=Degenerate%20Circuit) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Delinquent Duo](https://db.ygoprodeck.com/card/?search=Delinquent%20Duo) | Illegal |
-|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Diamond-Dust Cyclone](https://db.ygoprodeck.com/card/?search=Diamond-Dust%20Cyclone) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dice Dungeon](https://db.ygoprodeck.com/card/?search=Dice%20Dungeon) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dimension Dice](https://db.ygoprodeck.com/card/?search=Dimension%20Dice) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dimension Fusion Destruction](https://db.ygoprodeck.com/card/?search=Dimension%20Fusion%20Destruction) | Illegal |
@@ -3602,6 +3624,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragunity Draft](https://db.ygoprodeck.com/card/?search=Dragunity%20Draft) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragunity Glow](https://db.ygoprodeck.com/card/?search=Dragunity%20Glow) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragunity Whirlwind](https://db.ygoprodeck.com/card/?search=Dragunity%20Whirlwind) | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Drastic Draw](https://db.ygoprodeck.com/card/?search=Drastic%20Draw) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dream Mirror of Joy](https://db.ygoprodeck.com/card/?search=Dream%20Mirror%20of%20Joy) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dream Mirror of Terror](https://db.ygoprodeck.com/card/?search=Dream%20Mirror%20of%20Terror) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dream Mirror Phantasms](https://db.ygoprodeck.com/card/?search=Dream%20Mirror%20Phantasms) | Illegal |
@@ -3614,21 +3637,25 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Duality](https://db.ygoprodeck.com/card/?search=Duality) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Duel Academy](https://db.ygoprodeck.com/card/?search=Duel%20Academy) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Duel Tower](https://db.ygoprodeck.com/card/?search=Duel%20Tower) | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Duelist Genesis](https://db.ygoprodeck.com/card/?search=Duelist%20Genesis) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dueltaining](https://db.ygoprodeck.com/card/?search=Dueltaining) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dunnell, the Noble Arms of Light](https://db.ygoprodeck.com/card/?search=Dunnell,%20the%20Noble%20Arms%20of%20Light) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dwimmered Path](https://db.ygoprodeck.com/card/?search=Dwimmered%20Path) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Earthshattering Event](https://db.ygoprodeck.com/card/?search=Earthshattering%20Event) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ecole de Zone](https://db.ygoprodeck.com/card/?search=Ecole%20de%20Zone) | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Egomorph](https://db.ygoprodeck.com/card/?search=Egomorph) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Eldlixir of Black Awakening](https://db.ygoprodeck.com/card/?search=Eldlixir%20of%20Black%20Awakening) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Eldlixir of White Destiny](https://db.ygoprodeck.com/card/?search=Eldlixir%20of%20White%20Destiny) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Electromagnetic Shield](https://db.ygoprodeck.com/card/?search=Electromagnetic%20Shield) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Elf's Light](https://db.ygoprodeck.com/card/?search=Elf's%20Light) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Emblem of the Plunder Patroll](https://db.ygoprodeck.com/card/?search=Emblem%20of%20the%20Plunder%20Patroll) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Emergency Teleport](https://db.ygoprodeck.com/card/?search=Emergency%20Teleport) | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [EMERGENCY!](https://db.ygoprodeck.com/card/?search=EMERGENCY!) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [EN - Engage Neo Space](https://db.ygoprodeck.com/card/?search=EN%20-%20Engage%20Neo%20Space) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [EN Shuffle](https://db.ygoprodeck.com/card/?search=EN%20Shuffle) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [EN Wave](https://db.ygoprodeck.com/card/?search=EN%20Wave) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Endless Engine Argyro System](https://db.ygoprodeck.com/card/?search=Endless%20Engine%20Argyro%20System) | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Eternal Ice Grave](https://db.ygoprodeck.com/card/?search=Eternal%20Ice%20Grave) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Everlasting Alloy](https://db.ygoprodeck.com/card/?search=Everlasting%20Alloy) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Evil Eye Awakening](https://db.ygoprodeck.com/card/?search=Evil%20Eye%20Awakening) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Evil Eye Domain - Pareidolia](https://db.ygoprodeck.com/card/?search=Evil%20Eye%20Domain%20-%20Pareidolia) | Illegal |
@@ -3651,6 +3678,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Final Cross](https://db.ygoprodeck.com/card/?search=Final%20Cross) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Final Inzektion](https://db.ygoprodeck.com/card/?search=Final%20Inzektion) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Final Light](https://db.ygoprodeck.com/card/?search=Final%20Light) | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fire Ejection](https://db.ygoprodeck.com/card/?search=Fire%20Ejection) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fire Formation - Domei](https://db.ygoprodeck.com/card/?search=Fire%20Formation%20-%20Domei) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fire Formation - Gyokkou](https://db.ygoprodeck.com/card/?search=Fire%20Formation%20-%20Gyokkou) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fire Formation - Ingen](https://db.ygoprodeck.com/card/?search=Fire%20Formation%20-%20Ingen) | Illegal |
@@ -3661,7 +3689,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fish Sonar](https://db.ygoprodeck.com/card/?search=Fish%20Sonar) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fist of Fate](https://db.ygoprodeck.com/card/?search=Fist%20of%20Fate) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Five Star Twilight](https://db.ygoprodeck.com/card/?search=Five%20Star%20Twilight) | Illegal |
-|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Flash of the Forbidden Spell](https://db.ygoprodeck.com/card/?search=Flash%20of%20the%20Forbidden%20Spell) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fleuret de Fleur](https://db.ygoprodeck.com/card/?search=Fleuret%20de%20Fleur) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Floowandereeze and the Advent of Adventure](https://db.ygoprodeck.com/card/?search=Floowandereeze%20and%20the%20Advent%20of%20Adventure) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Floowandereeze and the Magnificent Map](https://db.ygoprodeck.com/card/?search=Floowandereeze%20and%20the%20Magnificent%20Map) | Illegal |
@@ -3682,6 +3709,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fusion Conscription](https://db.ygoprodeck.com/card/?search=Fusion%20Conscription) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fusion Deployment](https://db.ygoprodeck.com/card/?search=Fusion%20Deployment) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fusion Destiny](https://db.ygoprodeck.com/card/?search=Fusion%20Destiny) | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fusion Reinforcement](https://db.ygoprodeck.com/card/?search=Fusion%20Reinforcement) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gadget Box](https://db.ygoprodeck.com/card/?search=Gadget%20Box) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gagaga Academy Emergency Network](https://db.ygoprodeck.com/card/?search=Gagaga%20Academy%20Emergency%20Network) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gagagaback](https://db.ygoprodeck.com/card/?search=Gagagaback) | Illegal |
@@ -3722,7 +3750,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Greater Polymerization](https://db.ygoprodeck.com/card/?search=Greater%20Polymerization) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Greed Grado](https://db.ygoprodeck.com/card/?search=Greed%20Grado) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ground Xeno](https://db.ygoprodeck.com/card/?search=Ground%20Xeno) | Illegal |
-|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gunkan Suship Chef's Choice](https://db.ygoprodeck.com/card/?search=Gunkan%20Suship%20Chef's%20Choice) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gust Fan](https://db.ygoprodeck.com/card/?search=Gust%20Fan) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Guts of Steel](https://db.ygoprodeck.com/card/?search=Guts%20of%20Steel) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Heavenly Gate of the Mikanko](https://db.ygoprodeck.com/card/?search=Heavenly%20Gate%20of%20the%20Mikanko) | Illegal |
@@ -3762,7 +3789,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Jurassic Power](https://db.ygoprodeck.com/card/?search=Jurassic%20Power) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Kahyoreigetsu](https://db.ygoprodeck.com/card/?search=Kahyoreigetsu) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Karakuri Showdown Castle](https://db.ygoprodeck.com/card/?search=Karakuri%20Showdown%20Castle) | Illegal |
-|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Kashtira Axtra](https://db.ygoprodeck.com/card/?search=Kashtira%20Axtra) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Kashtira Birth](https://db.ygoprodeck.com/card/?search=Kashtira%20Birth) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Kashtiratheosis](https://db.ygoprodeck.com/card/?search=Kashtiratheosis) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Kozmotown](https://db.ygoprodeck.com/card/?search=Kozmotown) | Illegal |
@@ -3780,7 +3806,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Legendary Black Belt](https://db.ygoprodeck.com/card/?search=Legendary%20Black%20Belt) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Libromancer Bonded](https://db.ygoprodeck.com/card/?search=Libromancer%20Bonded) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Libromancer First Appearance](https://db.ygoprodeck.com/card/?search=Libromancer%20First%20Appearance) | Illegal |
-|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Libromancer Origin](https://db.ygoprodeck.com/card/?search=Libromancer%20Origin) | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Libromancer Origin Story](https://db.ygoprodeck.com/card/?search=Libromancer%20Origin%20Story) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Libromancer Realized](https://db.ygoprodeck.com/card/?search=Libromancer%20Realized) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Light Laser](https://db.ygoprodeck.com/card/?search=Light%20Laser) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Light Wing Shield](https://db.ygoprodeck.com/card/?search=Light%20Wing%20Shield) | Illegal |
@@ -3819,8 +3845,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Malefic Divide](https://db.ygoprodeck.com/card/?search=Malefic%20Divide) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Malefic Selector](https://db.ygoprodeck.com/card/?search=Malefic%20Selector) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Malefic Territory](https://db.ygoprodeck.com/card/?search=Malefic%20Territory) | Illegal |
-|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Manadome Abscission](https://db.ygoprodeck.com/card/?search=Manadome%20Abscission) | Illegal |
-|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Manadome Imagining](https://db.ygoprodeck.com/card/?search=Manadome%20Imagining) | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mannadium Abscission](https://db.ygoprodeck.com/card/?search=Mannadium%20Abscission) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [March of the Dark Brigade](https://db.ygoprodeck.com/card/?search=March%20of%20the%20Dark%20Brigade) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Marincess Dive](https://db.ygoprodeck.com/card/?search=Marincess%20Dive) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mathmech Billionblade Nayuta](https://db.ygoprodeck.com/card/?search=Mathmech%20Billionblade%20Nayuta) | Illegal |
@@ -3846,6 +3871,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Miracle Contact](https://db.ygoprodeck.com/card/?search=Miracle%20Contact) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Miracle Rupture](https://db.ygoprodeck.com/card/?search=Miracle%20Rupture) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Miracle Stone](https://db.ygoprodeck.com/card/?search=Miracle%20Stone) | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mirror Formation of the Ten Sacred Treasures](https://db.ygoprodeck.com/card/?search=Mirror%20Formation%20of%20the%20Ten%20Sacred%20Treasures) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mischief of the Time Goddess](https://db.ygoprodeck.com/card/?search=Mischief%20of%20the%20Time%20Goddess) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mistaken Arrest](https://db.ygoprodeck.com/card/?search=Mistaken%20Arrest) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Molten Conduction Field](https://db.ygoprodeck.com/card/?search=Molten%20Conduction%20Field) | Illegal |
@@ -3902,6 +3928,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Parallel Twister](https://db.ygoprodeck.com/card/?search=Parallel%20Twister) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Paralyzing Chain](https://db.ygoprodeck.com/card/?search=Paralyzing%20Chain) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Particle Fusion](https://db.ygoprodeck.com/card/?search=Particle%20Fusion) | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Peaceful Planet Calarium](https://db.ygoprodeck.com/card/?search=Peaceful%20Planet%20Calarium) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pendulum Fusion](https://db.ygoprodeck.com/card/?search=Pendulum%20Fusion) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pendulum Halt](https://db.ygoprodeck.com/card/?search=Pendulum%20Halt) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pendulum Paradox](https://db.ygoprodeck.com/card/?search=Pendulum%20Paradox) | Illegal |
@@ -3930,9 +3957,9 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Predapruning](https://db.ygoprodeck.com/card/?search=Predapruning) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Preparation of Rites](https://db.ygoprodeck.com/card/?search=Preparation%20of%20Rites) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pressured Planet Wraitsoth](https://db.ygoprodeck.com/card/?search=Pressured%20Planet%20Wraitsoth) | Illegal |
-|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Primal Planet Kalarium](https://db.ygoprodeck.com/card/?search=Primal%20Planet%20Kalarium) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Primeval Planet Perlereino](https://db.ygoprodeck.com/card/?search=Primeval%20Planet%20Perlereino) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Primitive Planet Reichphobia](https://db.ygoprodeck.com/card/?search=Primitive%20Planet%20Reichphobia) | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pristine Planets Amritara](https://db.ygoprodeck.com/card/?search=Pristine%20Planets%20Amritara) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Promotion](https://db.ygoprodeck.com/card/?search=Promotion) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [PSY-Frame Circuit](https://db.ygoprodeck.com/card/?search=PSY-Frame%20Circuit) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Psychic Feel Zone](https://db.ygoprodeck.com/card/?search=Psychic%20Feel%20Zone) | Illegal |
@@ -3941,7 +3968,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Purrely Delicious Memory](https://db.ygoprodeck.com/card/?search=Purrely%20Delicious%20Memory) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Purrely Happy Memory](https://db.ygoprodeck.com/card/?search=Purrely%20Happy%20Memory) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Purrely Pretty Memory](https://db.ygoprodeck.com/card/?search=Purrely%20Pretty%20Memory) | Illegal |
-|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Purrely Sleepy Memory](https://db.ygoprodeck.com/card/?search=Purrely%20Sleepy%20Memory) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Question](https://db.ygoprodeck.com/card/?search=Question) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Quick Booster](https://db.ygoprodeck.com/card/?search=Quick%20Booster) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Quiet Life](https://db.ygoprodeck.com/card/?search=Quiet%20Life) | Illegal |
@@ -4046,7 +4072,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Solfachord Elegance](https://db.ygoprodeck.com/card/?search=Solfachord%20Elegance) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Solfachord Harmonia](https://db.ygoprodeck.com/card/?search=Solfachord%20Harmonia) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Solfachord Scale](https://db.ygoprodeck.com/card/?search=Solfachord%20Scale) | Illegal |
-|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Solfachord Symphonia](https://db.ygoprodeck.com/card/?search=Solfachord%20Symphonia) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Soul Binding Gate](https://db.ygoprodeck.com/card/?search=Soul%20Binding%20Gate) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Soul Crossing](https://db.ygoprodeck.com/card/?search=Soul%20Crossing) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Soul of Fire](https://db.ygoprodeck.com/card/?search=Soul%20of%20Fire) | Illegal |
@@ -4077,6 +4102,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [SPYRAL GEAR - Fully Armed](https://db.ygoprodeck.com/card/?search=SPYRAL%20GEAR%20-%20Fully%20Armed) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [SPYRAL MISSION - Assault](https://db.ygoprodeck.com/card/?search=SPYRAL%20MISSION%20-%20Assault) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [SPYRAL Resort](https://db.ygoprodeck.com/card/?search=SPYRAL%20Resort) | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Stake Your Soul!](https://db.ygoprodeck.com/card/?search=Stake%20Your%20Soul!) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Star Pendulumgraph](https://db.ygoprodeck.com/card/?search=Star%20Pendulumgraph) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Star Power!!](https://db.ygoprodeck.com/card/?search=Star%20Power!!) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Stardust Illumination](https://db.ygoprodeck.com/card/?search=Stardust%20Illumination) | Illegal |
@@ -4101,12 +4127,9 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Super Soldier Ritual](https://db.ygoprodeck.com/card/?search=Super%20Soldier%20Ritual) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Supermagic Sword of Raptinus](https://db.ygoprodeck.com/card/?search=Supermagic%20Sword%20of%20Raptinus) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Suture Rebirth](https://db.ygoprodeck.com/card/?search=Suture%20Rebirth) | Illegal |
-|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sweet Dreams, Nemurelia](https://db.ygoprodeck.com/card/?search=Sweet%20Dreams,%20Nemurelia) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sweet Room-Maid](https://db.ygoprodeck.com/card/?search=Sweet%20Room-Maid) | Illegal |
-|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sword of Dragon's Soul](https://db.ygoprodeck.com/card/?search=Sword%20of%20Dragon's%20Soul) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Swords at Dawn](https://db.ygoprodeck.com/card/?search=Swords%20at%20Dawn) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Swordsoul Emergence](https://db.ygoprodeck.com/card/?search=Swordsoul%20Emergence) | Illegal |
-|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Swordsoul of Blazing Awakening](https://db.ygoprodeck.com/card/?search=Swordsoul%20of%20Blazing%20Awakening) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Swordsoul Sacred Summit](https://db.ygoprodeck.com/card/?search=Swordsoul%20Sacred%20Summit) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sylvan Charity](https://db.ygoprodeck.com/card/?search=Sylvan%20Charity) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Symbol of Friendship](https://db.ygoprodeck.com/card/?search=Symbol%20of%20Friendship) | Illegal |
@@ -4114,17 +4137,16 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Synchro Control](https://db.ygoprodeck.com/card/?search=Synchro%20Control) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Synchro Dilemma](https://db.ygoprodeck.com/card/?search=Synchro%20Dilemma) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Synchro Gift](https://db.ygoprodeck.com/card/?search=Synchro%20Gift) | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Synchro Over Top](https://db.ygoprodeck.com/card/?search=Synchro%20Over%20Top) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Synchro Overtake](https://db.ygoprodeck.com/card/?search=Synchro%20Overtake) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Synchro Transcend](https://db.ygoprodeck.com/card/?search=Synchro%20Transcend) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Synchro World](https://db.ygoprodeck.com/card/?search=Synchro%20World) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Tannhauser Gate](https://db.ygoprodeck.com/card/?search=Tannhauser%20Gate) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Telekinetic Charging Cell](https://db.ygoprodeck.com/card/?search=Telekinetic%20Charging%20Cell) | Illegal |
-|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Tellarknight Constellar](https://db.ygoprodeck.com/card/?search=Tellarknight%20Constellar) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Tellarknight Genesis](https://db.ygoprodeck.com/card/?search=Tellarknight%20Genesis) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Terrors in the Hidden City](https://db.ygoprodeck.com/card/?search=Terrors%20in%20the%20Hidden%20City) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [That Grass Looks Greener](https://db.ygoprodeck.com/card/?search=That%20Grass%20Looks%20Greener) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Book of the Law](https://db.ygoprodeck.com/card/?search=The%20Book%20of%20the%20Law) | Illegal |
-|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Boundless Open Land](https://db.ygoprodeck.com/card/?search=The%20Boundless%20Open%20Land) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Breaking Ruin God](https://db.ygoprodeck.com/card/?search=The%20Breaking%20Ruin%20God) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Chorus in the Sky](https://db.ygoprodeck.com/card/?search=The%20Chorus%20in%20the%20Sky) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Forceful Sentry](https://db.ygoprodeck.com/card/?search=The%20Forceful%20Sentry) | Illegal |
@@ -4135,7 +4157,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Sacred Waters in the Sky](https://db.ygoprodeck.com/card/?search=The%20Sacred%20Waters%20in%20the%20Sky) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Sanctum of Parshath](https://db.ygoprodeck.com/card/?search=The%20Sanctum%20of%20Parshath) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Seal of Orichalcos](https://db.ygoprodeck.com/card/?search=The%20Seal%20of%20Orichalcos) | Illegal |
-|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Sleeping Beauty Tower of Nemurelia](https://db.ygoprodeck.com/card/?search=The%20Sleeping%20Beauty%20Tower%20of%20Nemurelia) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Terminus of the Burning Abyss](https://db.ygoprodeck.com/card/?search=The%20Terminus%20of%20the%20Burning%20Abyss) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The True Sun God](https://db.ygoprodeck.com/card/?search=The%20True%20Sun%20God) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Weather Cloudy Canvas](https://db.ygoprodeck.com/card/?search=The%20Weather%20Cloudy%20Canvas) | Illegal |
@@ -4144,6 +4165,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Weather Snowy Canvas](https://db.ygoprodeck.com/card/?search=The%20Weather%20Snowy%20Canvas) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Weather Sunny Canvas](https://db.ygoprodeck.com/card/?search=The%20Weather%20Sunny%20Canvas) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The World Tree](https://db.ygoprodeck.com/card/?search=The%20World%20Tree) | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Worlds as One](https://db.ygoprodeck.com/card/?search=The%20Worlds%20as%20One) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Therion Charge](https://db.ygoprodeck.com/card/?search=Therion%20Charge) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Therion Discolosseum](https://db.ygoprodeck.com/card/?search=Therion%20Discolosseum) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [This Creepy Little Punk](https://db.ygoprodeck.com/card/?search=This%20Creepy%20Little%20Punk) | Illegal |
@@ -4151,9 +4173,8 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Thunderforce Attack](https://db.ygoprodeck.com/card/?search=Thunderforce%20Attack) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Thunderspeed Summon](https://db.ygoprodeck.com/card/?search=Thunderspeed%20Summon) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Time Stream](https://db.ygoprodeck.com/card/?search=Time%20Stream) | Illegal |
-|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Time-Rending Morganite](https://db.ygoprodeck.com/card/?search=Time-Rending%20Morganite) | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Time-Tearing Morganite](https://db.ygoprodeck.com/card/?search=Time-Tearing%20Morganite) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Tokkosho of Ghost Destroying](https://db.ygoprodeck.com/card/?search=Tokkosho%20of%20Ghost%20Destroying) | Illegal |
-|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ton-Ton](https://db.ygoprodeck.com/card/?search=Ton-Ton) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Tool Box](https://db.ygoprodeck.com/card/?search=Tool%20Box) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Toon Bookmark](https://db.ygoprodeck.com/card/?search=Toon%20Bookmark) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Toon Kingdom](https://db.ygoprodeck.com/card/?search=Toon%20Kingdom) | Illegal |
@@ -4167,6 +4188,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Trial and Tribulation](https://db.ygoprodeck.com/card/?search=Trial%20and%20Tribulation) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Triamid Cruiser](https://db.ygoprodeck.com/card/?search=Triamid%20Cruiser) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Triamid Kingolem](https://db.ygoprodeck.com/card/?search=Triamid%20Kingolem) | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Triangle O](https://db.ygoprodeck.com/card/?search=Triangle%20O) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Tribute Burial](https://db.ygoprodeck.com/card/?search=Tribute%20Burial) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Trickstar Live Stage](https://db.ygoprodeck.com/card/?search=Trickstar%20Live%20Stage) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Trickstar Magical Laurel](https://db.ygoprodeck.com/card/?search=Trickstar%20Magical%20Laurel) | Illegal |
@@ -4210,6 +4232,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Void Imagination](https://db.ygoprodeck.com/card/?search=Void%20Imagination) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Void Seer](https://db.ygoprodeck.com/card/?search=Void%20Seer) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Void Vanishment](https://db.ygoprodeck.com/card/?search=Void%20Vanishment) | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Volcanic Blaze Accelerator](https://db.ygoprodeck.com/card/?search=Volcanic%20Blaze%20Accelerator) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Vylon Component](https://db.ygoprodeck.com/card/?search=Vylon%20Component) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Vylon Element](https://db.ygoprodeck.com/card/?search=Vylon%20Element) | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Vylon Material](https://db.ygoprodeck.com/card/?search=Vylon%20Material) | Illegal |
@@ -4272,12 +4295,12 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Alpha Summon](https://db.ygoprodeck.com/card/?search=Alpha%20Summon) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Altergeist Failover](https://db.ygoprodeck.com/card/?search=Altergeist%20Failover) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Altergeist Manifestation](https://db.ygoprodeck.com/card/?search=Altergeist%20Manifestation) | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Altergeist Revitalization](https://db.ygoprodeck.com/card/?search=Altergeist%20Revitalization) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amaze Attraction Cyclo-Coaster](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Cyclo-Coaster) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amaze Attraction Horror House](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Horror%20House) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amazement Family Faces](https://db.ygoprodeck.com/card/?search=Amazement%20Family%20Faces) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amazoness Hall](https://db.ygoprodeck.com/card/?search=Amazoness%20Hall) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amazoness Hot Spring](https://db.ygoprodeck.com/card/?search=Amazoness%20Hot%20Spring) | Illegal |
-|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amazoness Willpower](https://db.ygoprodeck.com/card/?search=Amazoness%20Willpower) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amorphage Lysis](https://db.ygoprodeck.com/card/?search=Amorphage%20Lysis) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ancient Gear Reborn](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Reborn) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ancient Warriors Saga - Defense of Changban](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20Saga%20-%20Defense%20of%20Changban) | Illegal |
@@ -4293,6 +4316,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Awakening of Nephthys](https://db.ygoprodeck.com/card/?search=Awakening%20of%20Nephthys) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Battle Mania](https://db.ygoprodeck.com/card/?search=Battle%20Mania) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Battlewasp - Nest](https://db.ygoprodeck.com/card/?search=Battlewasp%20-%20Nest) | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Battlin' Boxing Cross Counter](https://db.ygoprodeck.com/card/?search=Battlin'%20Boxing%20Cross%20Counter) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Berserking](https://db.ygoprodeck.com/card/?search=Berserking) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Big Burn](https://db.ygoprodeck.com/card/?search=Big%20Burn) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Big Welcome Labrynth](https://db.ygoprodeck.com/card/?search=Big%20Welcome%20Labrynth) | Illegal |
@@ -4301,7 +4325,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Black Sonic](https://db.ygoprodeck.com/card/?search=Black%20Sonic) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Blast Held by Destiny](https://db.ygoprodeck.com/card/?search=Blast%20Held%20by%20Destiny) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Blasting Fuse](https://db.ygoprodeck.com/card/?search=Blasting%20Fuse) | Illegal |
-|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Blazing Branded King](https://db.ygoprodeck.com/card/?search=Blazing%20Branded%20King) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Blessed Winds](https://db.ygoprodeck.com/card/?search=Blessed%20Winds) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Blessings for Gusto](https://db.ygoprodeck.com/card/?search=Blessings%20for%20Gusto) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Blind Obliteration](https://db.ygoprodeck.com/card/?search=Blind%20Obliteration) | Illegal |
@@ -4311,7 +4334,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Brain Hazard](https://db.ygoprodeck.com/card/?search=Brain%20Hazard) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Branded Banishment](https://db.ygoprodeck.com/card/?search=Branded%20Banishment) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Branded Beast](https://db.ygoprodeck.com/card/?search=Branded%20Beast) | Illegal |
-|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Branded Etude](https://db.ygoprodeck.com/card/?search=Branded%20Etude) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Branded Retribution](https://db.ygoprodeck.com/card/?search=Branded%20Retribution) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Branded Sword](https://db.ygoprodeck.com/card/?search=Branded%20Sword) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Breath of Resurrection](https://db.ygoprodeck.com/card/?search=Breath%20of%20Resurrection) | Illegal |
@@ -4329,6 +4351,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Chain Burst](https://db.ygoprodeck.com/card/?search=Chain%20Burst) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Chain Hole](https://db.ygoprodeck.com/card/?search=Chain%20Hole) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Chivalry](https://db.ygoprodeck.com/card/?search=Chivalry) | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Code Hack](https://db.ygoprodeck.com/card/?search=Code%20Hack) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Conquistador of the Golden Land](https://db.ygoprodeck.com/card/?search=Conquistador%20of%20the%20Golden%20Land) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Constellar Meteor](https://db.ygoprodeck.com/card/?search=Constellar%20Meteor) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [CONTAIN!](https://db.ygoprodeck.com/card/?search=CONTAIN!) | Illegal |
@@ -4345,7 +4368,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Cubic Mandala](https://db.ygoprodeck.com/card/?search=Cubic%20Mandala) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Cubic Rebirth](https://db.ygoprodeck.com/card/?search=Cubic%20Rebirth) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Curse of the Circle](https://db.ygoprodeck.com/card/?search=Curse%20of%20the%20Circle) | Illegal |
-|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Cynet Circuit](https://db.ygoprodeck.com/card/?search=Cynet%20Circuit) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Cynet Conflict](https://db.ygoprodeck.com/card/?search=Cynet%20Conflict) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [D - Tactics](https://db.ygoprodeck.com/card/?search=D%20-%20Tactics) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [D2 Shield](https://db.ygoprodeck.com/card/?search=D2%20Shield) | Illegal |
@@ -4380,12 +4402,10 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dimension Sphinx](https://db.ygoprodeck.com/card/?search=Dimension%20Sphinx) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dinomorphia Domain](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Domain) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dinomorphia Frenzy](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Frenzy) | Illegal |
-|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dinomorphia Intact](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Intact) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dinomorphia Reversion](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Reversion) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Discord](https://db.ygoprodeck.com/card/?search=Discord) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Do a Barrel Roll](https://db.ygoprodeck.com/card/?search=Do%20a%20Barrel%20Roll) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Doodlebook - Uh uh uh!](https://db.ygoprodeck.com/card/?search=Doodlebook%20-%20Uh%20uh%20uh!) | Illegal |
-|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Double Hooking](https://db.ygoprodeck.com/card/?search=Double%20Hooking) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Draco-Utopian Aura](https://db.ygoprodeck.com/card/?search=Draco-Utopian%20Aura) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dragonmaid Downtime](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Downtime) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dragonmaid Tidying](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Tidying) | Illegal |
@@ -4429,7 +4449,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fiendish Portrait](https://db.ygoprodeck.com/card/?search=Fiendish%20Portrait) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Final Geas](https://db.ygoprodeck.com/card/?search=Final%20Geas) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fire Lake of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Fire%20Lake%20of%20the%20Burning%20Abyss) | Illegal |
-|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [First Purchase of the Year](https://db.ygoprodeck.com/card/?search=First%20Purchase%20of%20the%20Year) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Forced Back](https://db.ygoprodeck.com/card/?search=Forced%20Back) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Forced Ceasefire](https://db.ygoprodeck.com/card/?search=Forced%20Ceasefire) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Forge a New Future](https://db.ygoprodeck.com/card/?search=Forge%20a%20New%20Future) | Illegal |
@@ -4439,7 +4458,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Full House](https://db.ygoprodeck.com/card/?search=Full%20House) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fuse Line](https://db.ygoprodeck.com/card/?search=Fuse%20Line) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fusion Guard](https://db.ygoprodeck.com/card/?search=Fusion%20Guard) | Illegal |
-|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fusion Reproduction](https://db.ygoprodeck.com/card/?search=Fusion%20Reproduction) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gagagaguard](https://db.ygoprodeck.com/card/?search=Gagagaguard) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gem-Enhancement](https://db.ygoprodeck.com/card/?search=Gem-Enhancement) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gemini Ablation](https://db.ygoprodeck.com/card/?search=Gemini%20Ablation) | Illegal |
@@ -4504,6 +4522,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [King's Consonance](https://db.ygoprodeck.com/card/?search=King's%20Consonance) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [King's Synchro](https://db.ygoprodeck.com/card/?search=King's%20Synchro) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Kingyo Sukui](https://db.ygoprodeck.com/card/?search=Kingyo%20Sukui) | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Kiriban](https://db.ygoprodeck.com/card/?search=Kiriban) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Koa'ki Meiru Shield](https://db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Shield) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Kozaky's Self-Destruct Button](https://db.ygoprodeck.com/card/?search=Kozaky's%20Self-Destruct%20Button) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Kozmojo](https://db.ygoprodeck.com/card/?search=Kozmojo) | Illegal |
@@ -4515,6 +4534,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Libromancer Prevented](https://db.ygoprodeck.com/card/?search=Libromancer%20Prevented) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Life Equalizer](https://db.ygoprodeck.com/card/?search=Life%20Equalizer) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Life Shaver](https://db.ygoprodeck.com/card/?search=Life%20Shaver) | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Little Opposition](https://db.ygoprodeck.com/card/?search=Little%20Opposition) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Loge's Flame](https://db.ygoprodeck.com/card/?search=Loge's%20Flame) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Loop of Destruction](https://db.ygoprodeck.com/card/?search=Loop%20of%20Destruction) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Lose 1 Turn](https://db.ygoprodeck.com/card/?search=Lose%201%20Turn) | Illegal |
@@ -4535,8 +4555,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Majestic Mirage](https://db.ygoprodeck.com/card/?search=Majestic%20Mirage) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Malefic Claw Stream](https://db.ygoprodeck.com/card/?search=Malefic%20Claw%20Stream) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Malefic Tune](https://db.ygoprodeck.com/card/?search=Malefic%20Tune) | Illegal |
-|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Manadome Breakheart](https://db.ygoprodeck.com/card/?search=Manadome%20Breakheart) | Illegal |
-|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Manadome Reframing](https://db.ygoprodeck.com/card/?search=Manadome%20Reframing) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Marincess Bubble Ring](https://db.ygoprodeck.com/card/?search=Marincess%20Bubble%20Ring) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Marincess Circulation](https://db.ygoprodeck.com/card/?search=Marincess%20Circulation) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Marshalling Field](https://db.ygoprodeck.com/card/?search=Marshalling%20Field) | Illegal |
@@ -4554,6 +4572,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Metaphys Dimension](https://db.ygoprodeck.com/card/?search=Metaphys%20Dimension) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mikanko Promise](https://db.ygoprodeck.com/card/?search=Mikanko%20Promise) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mikanko Rivalry](https://db.ygoprodeck.com/card/?search=Mikanko%20Rivalry) | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mikanko Spiriting Away](https://db.ygoprodeck.com/card/?search=Mikanko%20Spiriting%20Away) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mischief of the Yokai](https://db.ygoprodeck.com/card/?search=Mischief%20of%20the%20Yokai) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Molten Whirlwind Wall](https://db.ygoprodeck.com/card/?search=Molten%20Whirlwind%20Wall) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Monster Rebone](https://db.ygoprodeck.com/card/?search=Monster%20Rebone) | Illegal |
@@ -4563,6 +4582,10 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Multiple Destruction](https://db.ygoprodeck.com/card/?search=Multiple%20Destruction) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mystical Refpanel](https://db.ygoprodeck.com/card/?search=Mystical%20Refpanel) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Nega-Ton Corepanel](https://db.ygoprodeck.com/card/?search=Nega-Ton%20Corepanel) | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Nemleria Louve](https://db.ygoprodeck.com/card/?search=Nemleria%20Louve) | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Nemurelia Louve](https://db.ygoprodeck.com/card/?search=Nemurelia%20Louve) | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [New World Formation](https://db.ygoprodeck.com/card/?search=New%20World%20Formation) | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [New World Full of Stars](https://db.ygoprodeck.com/card/?search=New%20World%20Full%20of%20Stars) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [NEXT](https://db.ygoprodeck.com/card/?search=NEXT) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Nine Pillars of Yang Zing](https://db.ygoprodeck.com/card/?search=Nine%20Pillars%20of%20Yang%20Zing) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ninjitsu Art of Mirage-Transformation](https://db.ygoprodeck.com/card/?search=Ninjitsu%20Art%20of%20Mirage-Transformation) | Illegal |
@@ -4577,6 +4600,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Oh Tokenbaum!](https://db.ygoprodeck.com/card/?search=Oh%20Tokenbaum!) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ojama Pajama](https://db.ygoprodeck.com/card/?search=Ojama%20Pajama) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Omega Summon](https://db.ygoprodeck.com/card/?search=Omega%20Summon) | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Opposing Mirrors of the Underworld](https://db.ygoprodeck.com/card/?search=Opposing%20Mirrors%20of%20the%20Underworld) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Orcust Crescendo](https://db.ygoprodeck.com/card/?search=Orcust%20Crescendo) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Over Capacity](https://db.ygoprodeck.com/card/?search=Over%20Capacity) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Overwhelm](https://db.ygoprodeck.com/card/?search=Overwhelm) | Illegal |
@@ -4602,6 +4626,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Psychic Trigger](https://db.ygoprodeck.com/card/?search=Psychic%20Trigger) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Psychic Tuning](https://db.ygoprodeck.com/card/?search=Psychic%20Tuning) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Pulling the Rug](https://db.ygoprodeck.com/card/?search=Pulling%20the%20Rug) | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Purrely Sharely!?](https://db.ygoprodeck.com/card/?search=Purrely%20Sharely!?) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Purrelyeap!?](https://db.ygoprodeck.com/card/?search=Purrelyeap!?) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Pyroxene Fusion](https://db.ygoprodeck.com/card/?search=Pyroxene%20Fusion) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Qlife's End](https://db.ygoprodeck.com/card/?search=Qlife's%20End) | Illegal |
@@ -4619,7 +4644,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Red Supremacy](https://db.ygoprodeck.com/card/?search=Red%20Supremacy) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Red-Eyes Fang with Chain](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Fang%20with%20Chain) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Reincarnation of the Seventh Emperors](https://db.ygoprodeck.com/card/?search=Reincarnation%20of%20the%20Seventh%20Emperors) | Illegal |
-|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [REINFORCE!](https://db.ygoprodeck.com/card/?search=REINFORCE!) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Renewal of the World](https://db.ygoprodeck.com/card/?search=Renewal%20of%20the%20World) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Resh Shaddoll Incarnation](https://db.ygoprodeck.com/card/?search=Resh%20Shaddoll%20Incarnation) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Retort](https://db.ygoprodeck.com/card/?search=Retort) | Illegal |
@@ -4635,6 +4659,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Salamangreat Roar](https://db.ygoprodeck.com/card/?search=Salamangreat%20Roar) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Sales Pitch](https://db.ygoprodeck.com/card/?search=Sales%20Pitch) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Scareclaw Sclash](https://db.ygoprodeck.com/card/?search=Scareclaw%20Sclash) | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Scrap-Iron Idol](https://db.ygoprodeck.com/card/?search=Scrap-Iron%20Idol) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Scrubbed Raid](https://db.ygoprodeck.com/card/?search=Scrubbed%20Raid) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Seal of Wickedness](https://db.ygoprodeck.com/card/?search=Seal%20of%20Wickedness) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Second Expedition into Danger!](https://db.ygoprodeck.com/card/?search=Second%20Expedition%20into%20Danger!) | Illegal |
@@ -4694,7 +4719,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The Deal of Destiny](https://db.ygoprodeck.com/card/?search=The%20Deal%20of%20Destiny) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The Door of Destiny](https://db.ygoprodeck.com/card/?search=The%20Door%20of%20Destiny) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The Epic Poem of Charles](https://db.ygoprodeck.com/card/?search=The%20Epic%20Poem%20of%20Charles) | Illegal |
-|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The First Sarcophagus](https://db.ygoprodeck.com/card/?search=The%20First%20Sarcophagus) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The Ice-Bound God](https://db.ygoprodeck.com/card/?search=The%20Ice-Bound%20God) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The Phantom Knights of Mist Claws](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Mist%20Claws) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The Revived Sky God](https://db.ygoprodeck.com/card/?search=The%20Revived%20Sky%20God) | Illegal |
@@ -4714,9 +4738,10 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Toon Briefcase](https://db.ygoprodeck.com/card/?search=Toon%20Briefcase) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Toon Terror](https://db.ygoprodeck.com/card/?search=Toon%20Terror) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Torrential Reborn](https://db.ygoprodeck.com/card/?search=Torrential%20Reborn) | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Totem Pole](https://db.ygoprodeck.com/card/?search=Totem%20Pole) | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Transaction Rollback](https://db.ygoprodeck.com/card/?search=Transaction%20Rollback) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Transcendent Flight](https://db.ygoprodeck.com/card/?search=Transcendent%20Flight) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Trap Reclamation](https://db.ygoprodeck.com/card/?search=Trap%20Reclamation) | Illegal |
-|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Trap Track](https://db.ygoprodeck.com/card/?search=Trap%20Track) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Traptrix Holeutea](https://db.ygoprodeck.com/card/?search=Traptrix%20Holeutea) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Treasure Map](https://db.ygoprodeck.com/card/?search=Treasure%20Map) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Triamid Pulse](https://db.ygoprodeck.com/card/?search=Triamid%20Pulse) | Illegal |
@@ -4742,6 +4767,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Vampire Takeover](https://db.ygoprodeck.com/card/?search=Vampire%20Takeover) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Vanquish Soul Calamity Kaiser](https://db.ygoprodeck.com/card/?search=Vanquish%20Soul%20Calamity%20Kaiser) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Vanquish Soul Trinity Burst](https://db.ygoprodeck.com/card/?search=Vanquish%20Soul%20Trinity%20Burst) | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Vaylantz Wave - Master Phase](https://db.ygoprodeck.com/card/?search=Vaylantz%20Wave%20-%20Master%20Phase) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Vendread Reorigin](https://db.ygoprodeck.com/card/?search=Vendread%20Reorigin) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Vendread Reunion](https://db.ygoprodeck.com/card/?search=Vendread%20Reunion) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Vendread Revolution](https://db.ygoprodeck.com/card/?search=Vendread%20Revolution) | Illegal |
@@ -4751,19 +4777,20 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Void Cauldron](https://db.ygoprodeck.com/card/?search=Void%20Cauldron) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Void Launch](https://db.ygoprodeck.com/card/?search=Void%20Launch) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Void Purification](https://db.ygoprodeck.com/card/?search=Void%20Purification) | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Volcanic Inferno](https://db.ygoprodeck.com/card/?search=Volcanic%20Inferno) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Wall of Thorns](https://db.ygoprodeck.com/card/?search=Wall%20of%20Thorns) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Waterfall of Dragon Souls](https://db.ygoprodeck.com/card/?search=Waterfall%20of%20Dragon%20Souls) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Weighbridge](https://db.ygoprodeck.com/card/?search=Weighbridge) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Welcome Labrynth](https://db.ygoprodeck.com/card/?search=Welcome%20Labrynth) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Whirlwind of Gusto](https://db.ygoprodeck.com/card/?search=Whirlwind%20of%20Gusto) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [White Howling](https://db.ygoprodeck.com/card/?search=White%20Howling) | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Wipeout Trap Hole](https://db.ygoprodeck.com/card/?search=Wipeout%20Trap%20Hole) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Witch's Strike](https://db.ygoprodeck.com/card/?search=Witch's%20Strike) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Witchcrafter Masterpiece](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Masterpiece) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [World Legacy Trap Globe](https://db.ygoprodeck.com/card/?search=World%20Legacy%20Trap%20Globe) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [World Legacy Whispers](https://db.ygoprodeck.com/card/?search=World%20Legacy%20Whispers) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [World Legacy's Secret](https://db.ygoprodeck.com/card/?search=World%20Legacy's%20Secret) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [World Legacy's Sorrow](https://db.ygoprodeck.com/card/?search=World%20Legacy's%20Sorrow) | Illegal |
-|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [World of Boundless Consciousness](https://db.ygoprodeck.com/card/?search=World%20of%20Boundless%20Consciousness) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Xyz Bento](https://db.ygoprodeck.com/card/?search=Xyz%20Bento) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [XYZ Hyper Cannon](https://db.ygoprodeck.com/card/?search=XYZ%20Hyper%20Cannon) | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Xyz Reborn](https://db.ygoprodeck.com/card/?search=Xyz%20Reborn) | Illegal |
@@ -4790,7 +4817,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ronintoadin](https://db.ygoprodeck.com/card/?search=Ronintoadin) | Forbidden |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Samsara Lotus](https://db.ygoprodeck.com/card/?search=Samsara%20Lotus) | Forbidden |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Supreme King Dragon Starving Venom](https://db.ygoprodeck.com/card/?search=Supreme%20King%20Dragon%20Starving%20Venom) | Forbidden |
-|<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Ancient Fairy Dragon](https://db.ygoprodeck.com/card/?search=Ancient%20Fairy%20Dragon) | Forbidden |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 42: Galaxy Tomahawk](https://db.ygoprodeck.com/card/?search=Number%2042:%20Galaxy%20Tomahawk) | Forbidden |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Butterfly Dagger - Elma](https://db.ygoprodeck.com/card/?search=Butterfly%20Dagger%20-%20Elma) | Forbidden |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Card of Safe Return](https://db.ygoprodeck.com/card/?search=Card%20of%20Safe%20Return) | Forbidden |
@@ -4845,6 +4871,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tearlaments Merrli](https://db.ygoprodeck.com/card/?search=Tearlaments%20Merrli) | Limited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Dragon Wyverburster](https://db.ygoprodeck.com/card/?search=White%20Dragon%20Wyverburster) | Limited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gem-Knight Master Diamond](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Master%20Diamond) | Limited |
+|<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Ancient Fairy Dragon](https://db.ygoprodeck.com/card/?search=Ancient%20Fairy%20Dragon) | Limited |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [T.G. Hyper Librarian](https://db.ygoprodeck.com/card/?search=T.G.%20Hyper%20Librarian) | Limited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Called by the Grave](https://db.ygoprodeck.com/card/?search=Called%20by%20the%20Grave) | Limited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Card Destruction](https://db.ygoprodeck.com/card/?search=Card%20Destruction) | Limited |
@@ -5210,6 +5237,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Parrot Dragon](https://db.ygoprodeck.com/card/?search=Parrot%20Dragon) | Unlimited |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Peacock](https://db.ygoprodeck.com/card/?search=Peacock) | Unlimited |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Pendulum Machine](https://db.ygoprodeck.com/card/?search=Pendulum%20Machine) | Unlimited |
+|<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [PenduLuMoon](https://db.ygoprodeck.com/card/?search=PenduLuMoon) | Unlimited |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [People Running About](https://db.ygoprodeck.com/card/?search=People%20Running%20About) | Unlimited |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Petit Angel](https://db.ygoprodeck.com/card/?search=Petit%20Angel) | Unlimited |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Petit Dragon](https://db.ygoprodeck.com/card/?search=Petit%20Dragon) | Unlimited |
@@ -5460,6 +5488,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amano-Iwato](https://db.ygoprodeck.com/card/?search=Amano-Iwato) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amanokujaki](https://db.ygoprodeck.com/card/?search=Amanokujaki) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amarylease](https://db.ygoprodeck.com/card/?search=Amarylease) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazement Abomination Arlekino](https://db.ygoprodeck.com/card/?search=Amazement%20Abomination%20Arlekino) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazement Ambassador Bufo](https://db.ygoprodeck.com/card/?search=Amazement%20Ambassador%20Bufo) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Archer](https://db.ygoprodeck.com/card/?search=Amazoness%20Archer) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Blowpiper](https://db.ygoprodeck.com/card/?search=Amazoness%20Blowpiper) | Unlimited |
@@ -5514,6 +5543,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ancient Warriors - Savage Don Ying](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20-%20Savage%20Don%20Ying) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Anesthrokket Dragon](https://db.ygoprodeck.com/card/?search=Anesthrokket%20Dragon) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Angel O7](https://db.ygoprodeck.com/card/?search=Angel%20O7) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Annihilator Archfiend](https://db.ygoprodeck.com/card/?search=Annihilator%20Archfiend) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Anteatereatingant](https://db.ygoprodeck.com/card/?search=Anteatereatingant) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Anti-Aircraft Flower](https://db.ygoprodeck.com/card/?search=Anti-Aircraft%20Flower) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Antialian](https://db.ygoprodeck.com/card/?search=Antialian) | Unlimited |
@@ -5544,6 +5574,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Archfiend Cavalry](https://db.ygoprodeck.com/card/?search=Archfiend%20Cavalry) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Archfiend Eccentrick](https://db.ygoprodeck.com/card/?search=Archfiend%20Eccentrick) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Archfiend Emperor, the First Lord of Horror](https://db.ygoprodeck.com/card/?search=Archfiend%20Emperor,%20the%20First%20Lord%20of%20Horror) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Archfiend General](https://db.ygoprodeck.com/card/?search=Archfiend%20General) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Archfiend Interceptor](https://db.ygoprodeck.com/card/?search=Archfiend%20Interceptor) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Archfiend of Gilfer](https://db.ygoprodeck.com/card/?search=Archfiend%20of%20Gilfer) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Archlord Kristya](https://db.ygoprodeck.com/card/?search=Archlord%20Kristya) | Unlimited |
@@ -5803,6 +5834,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bujingi Warg](https://db.ygoprodeck.com/card/?search=Bujingi%20Warg) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bujingi Wolf](https://db.ygoprodeck.com/card/?search=Bujingi%20Wolf) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bull Blader](https://db.ygoprodeck.com/card/?search=Bull%20Blader) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bunny Ear Enthusiast](https://db.ygoprodeck.com/card/?search=Bunny%20Ear%20Enthusiast) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Burner, Dragon Ruler of Sparks](https://db.ygoprodeck.com/card/?search=Burner,%20Dragon%20Ruler%20of%20Sparks) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Burning Algae](https://db.ygoprodeck.com/card/?search=Burning%20Algae) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Burning Beast](https://db.ygoprodeck.com/card/?search=Burning%20Beast) | Unlimited |
@@ -5905,9 +5937,14 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Clock Arc](https://db.ygoprodeck.com/card/?search=Clock%20Arc) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Clock Resonator](https://db.ygoprodeck.com/card/?search=Clock%20Resonator) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Clock Wyvern](https://db.ygoprodeck.com/card/?search=Clock%20Wyvern) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cloudian - Acid Cloud](https://db.ygoprodeck.com/card/?search=Cloudian%20-%20Acid%20Cloud) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cloudian - Altus](https://db.ygoprodeck.com/card/?search=Cloudian%20-%20Altus) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cloudian - Cirrostratus](https://db.ygoprodeck.com/card/?search=Cloudian%20-%20Cirrostratus) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cloudian - Eye of the Typhoon](https://db.ygoprodeck.com/card/?search=Cloudian%20-%20Eye%20of%20the%20Typhoon) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cloudian - Ghost Fog](https://db.ygoprodeck.com/card/?search=Cloudian%20-%20Ghost%20Fog) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cloudian - Nimbusman](https://db.ygoprodeck.com/card/?search=Cloudian%20-%20Nimbusman) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cloudian - Poison Cloud](https://db.ygoprodeck.com/card/?search=Cloudian%20-%20Poison%20Cloud) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cloudian - Sheep Cloud](https://db.ygoprodeck.com/card/?search=Cloudian%20-%20Sheep%20Cloud) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cloudian - Storm Dragon](https://db.ygoprodeck.com/card/?search=Cloudian%20-%20Storm%20Dragon) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cloudian - Turbulence](https://db.ygoprodeck.com/card/?search=Cloudian%20-%20Turbulence) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cluster Congester](https://db.ygoprodeck.com/card/?search=Cluster%20Congester) | Unlimited |
@@ -6028,10 +6065,12 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyberse Wizard](https://db.ygoprodeck.com/card/?search=Cyberse%20Wizard) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyborg Doctor](https://db.ygoprodeck.com/card/?search=Cyborg%20Doctor) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D Cubed](https://db.ygoprodeck.com/card/?search=D%20Cubed) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D-Boyz](https://db.ygoprodeck.com/card/?search=D-Boyz) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Assailant](https://db.ygoprodeck.com/card/?search=D.D.%20Assailant) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Assault Carrier](https://db.ygoprodeck.com/card/?search=D.D.%20Assault%20Carrier) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Crazy Beast](https://db.ygoprodeck.com/card/?search=D.D.%20Crazy%20Beast) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Crow](https://db.ygoprodeck.com/card/?search=D.D.%20Crow) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Destroyer](https://db.ygoprodeck.com/card/?search=D.D.%20Destroyer) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Esper Star Sparrow](https://db.ygoprodeck.com/card/?search=D.D.%20Esper%20Star%20Sparrow) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Guide](https://db.ygoprodeck.com/card/?search=D.D.%20Guide) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Patrol Plane](https://db.ygoprodeck.com/card/?search=D.D.%20Patrol%20Plane) | Unlimited |
@@ -6167,6 +6206,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Des Volstgalph](https://db.ygoprodeck.com/card/?search=Des%20Volstgalph) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Des Wombat](https://db.ygoprodeck.com/card/?search=Des%20Wombat) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Desert Protector](https://db.ygoprodeck.com/card/?search=Desert%20Protector) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Desert Twister](https://db.ygoprodeck.com/card/?search=Desert%20Twister) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Desertapir](https://db.ygoprodeck.com/card/?search=Desertapir) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deskbot 001](https://db.ygoprodeck.com/card/?search=Deskbot%20001) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deskbot 002](https://db.ygoprodeck.com/card/?search=Deskbot%20002) | Unlimited |
@@ -6247,6 +6287,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Disc Fighter](https://db.ygoprodeck.com/card/?search=Disc%20Fighter) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Disciple of the Forbidden Spell](https://db.ygoprodeck.com/card/?search=Disciple%20of%20the%20Forbidden%20Spell) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Disenchanter](https://db.ygoprodeck.com/card/?search=Disenchanter) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Diskblade Rider](https://db.ygoprodeck.com/card/?search=Diskblade%20Rider) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Divine Dragon Apocralyph](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20Apocralyph) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Divine Dragon Aquabizarre](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20Aquabizarre) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Divine Dragon Titanomakhia](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20Titanomakhia) | Unlimited |
@@ -6476,6 +6517,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Falchion Beta](https://db.ygoprodeck.com/card/?search=Falchion%20Beta) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fallen Angel of Roses](https://db.ygoprodeck.com/card/?search=Fallen%20Angel%20of%20Roses) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fallen of Albaz](https://db.ygoprodeck.com/card/?search=Fallen%20of%20Albaz) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fallen of Argyros](https://db.ygoprodeck.com/card/?search=Fallen%20of%20Argyros) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Familiar Knight](https://db.ygoprodeck.com/card/?search=Familiar%20Knight) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Familiar-Possessed - Aussa](https://db.ygoprodeck.com/card/?search=Familiar-Possessed%20-%20Aussa) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Familiar-Possessed - Dharc](https://db.ygoprodeck.com/card/?search=Familiar-Possessed%20-%20Dharc) | Unlimited |
@@ -6509,6 +6551,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Firebird](https://db.ygoprodeck.com/card/?search=Firebird) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Firestorm Prominence](https://db.ygoprodeck.com/card/?search=Firestorm%20Prominence) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Firewall Guardian](https://db.ygoprodeck.com/card/?search=Firewall%20Guardian) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Firewall Phantom](https://db.ygoprodeck.com/card/?search=Firewall%20Phantom) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fishborg Archer](https://db.ygoprodeck.com/card/?search=Fishborg%20Archer) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fishborg Doctor](https://db.ygoprodeck.com/card/?search=Fishborg%20Doctor) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fishborg Launcher](https://db.ygoprodeck.com/card/?search=Fishborg%20Launcher) | Unlimited |
@@ -6581,6 +6624,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Friller Rabca](https://db.ygoprodeck.com/card/?search=Friller%20Rabca) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Frontier Wiseman](https://db.ygoprodeck.com/card/?search=Frontier%20Wiseman) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Frost and Flame Dragon](https://db.ygoprodeck.com/card/?search=Frost%20and%20Flame%20Dragon) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Full Active Duplex](https://db.ygoprodeck.com/card/?search=Full%20Active%20Duplex) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fushi No Tori](https://db.ygoprodeck.com/card/?search=Fushi%20No%20Tori) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fusilier Dragon, the Dual-Mode Beast](https://db.ygoprodeck.com/card/?search=Fusilier%20Dragon,%20the%20Dual-Mode%20Beast) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Future Samurai](https://db.ygoprodeck.com/card/?search=Future%20Samurai) | Unlimited |
@@ -6897,12 +6941,15 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Healing Wave Generator](https://db.ygoprodeck.com/card/?search=Healing%20Wave%20Generator) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heavy Beetrooper Mighty Neptune](https://db.ygoprodeck.com/card/?search=Heavy%20Beetrooper%20Mighty%20Neptune) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heavy Freight Train Derricrane](https://db.ygoprodeck.com/card/?search=Heavy%20Freight%20Train%20Derricrane) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heavy Knight of the Flame](https://db.ygoprodeck.com/card/?search=Heavy%20Knight%20of%20the%20Flame) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heavy Mech Support Armor](https://db.ygoprodeck.com/card/?search=Heavy%20Mech%20Support%20Armor) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heavy Mech Support Platform](https://db.ygoprodeck.com/card/?search=Heavy%20Mech%20Support%20Platform) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hebo, Lord of the River](https://db.ygoprodeck.com/card/?search=Hebo,%20Lord%20of%20the%20River) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hecatrice](https://db.ygoprodeck.com/card/?search=Hecatrice) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hedge Guard](https://db.ygoprodeck.com/card/?search=Hedge%20Guard) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Helios - The Primordial Sun](https://db.ygoprodeck.com/card/?search=Helios%20-%20The%20Primordial%20Sun) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Helios Duo Megistus](https://db.ygoprodeck.com/card/?search=Helios%20Duo%20Megistus) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Helios Trice Megistus](https://db.ygoprodeck.com/card/?search=Helios%20Trice%20Megistus) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heliosphere Dragon](https://db.ygoprodeck.com/card/?search=Heliosphere%20Dragon) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Helmer, Helmsman Fur Hire](https://db.ygoprodeck.com/card/?search=Helmer,%20Helmsman%20Fur%20Hire) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Helping Robo for Combat](https://db.ygoprodeck.com/card/?search=Helping%20Robo%20for%20Combat) | Unlimited |
@@ -6953,6 +7000,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hourglass of Courage](https://db.ygoprodeck.com/card/?search=Hourglass%20of%20Courage) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [House Duston](https://db.ygoprodeck.com/card/?search=House%20Duston) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Howling Insect](https://db.ygoprodeck.com/card/?search=Howling%20Insect) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hu-Li the Jewel Mikanko](https://db.ygoprodeck.com/card/?search=Hu-Li%20the%20Jewel%20Mikanko) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hundred-Footed Horror](https://db.ygoprodeck.com/card/?search=Hundred-Footed%20Horror) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hunter of Black Feathers](https://db.ygoprodeck.com/card/?search=Hunter%20of%20Black%20Feathers) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hunter Owl](https://db.ygoprodeck.com/card/?search=Hunter%20Owl) | Unlimited |
@@ -7128,6 +7176,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Kinka-byo](https://db.ygoprodeck.com/card/?search=Kinka-byo) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Kiryu](https://db.ygoprodeck.com/card/?search=Kiryu) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Kiseitai](https://db.ygoprodeck.com/card/?search=Kiseitai) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Kitsuni Kitsunebi](https://db.ygoprodeck.com/card/?search=Kitsuni%20Kitsunebi) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Knight Day Grepher](https://db.ygoprodeck.com/card/?search=Knight%20Day%20Grepher) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Koa'ki Meiru Boulder](https://db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Boulder) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Koa'ki Meiru Doom](https://db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Doom) | Unlimited |
@@ -7571,6 +7620,8 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neiroy, the Dream Mirror Disciple](https://db.ygoprodeck.com/card/?search=Neiroy,%20the%20Dream%20Mirror%20Disciple) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neiroy, the Dream Mirror Traitor](https://db.ygoprodeck.com/card/?search=Neiroy,%20the%20Dream%20Mirror%20Traitor) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neko Mane King](https://db.ygoprodeck.com/card/?search=Neko%20Mane%20King) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nemleria Dream Defender - Couette](https://db.ygoprodeck.com/card/?search=Nemleria%20Dream%20Defender%20-%20Couette) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nemleria Dream Defender - Oreiller](https://db.ygoprodeck.com/card/?search=Nemleria%20Dream%20Defender%20-%20Oreiller) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neo Flamvell Garuda](https://db.ygoprodeck.com/card/?search=Neo%20Flamvell%20Garuda) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neo Flamvell Hedgehog](https://db.ygoprodeck.com/card/?search=Neo%20Flamvell%20Hedgehog) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neo Flamvell Lady](https://db.ygoprodeck.com/card/?search=Neo%20Flamvell%20Lady) | Unlimited |
@@ -7835,6 +7886,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Puny Penguin](https://db.ygoprodeck.com/card/?search=Puny%20Penguin) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Puppet Master](https://db.ygoprodeck.com/card/?search=Puppet%20Master) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Puppet Plant](https://db.ygoprodeck.com/card/?search=Puppet%20Plant) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Purrelyly](https://db.ygoprodeck.com/card/?search=Purrelyly) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Pursuit Chaser](https://db.ygoprodeck.com/card/?search=Pursuit%20Chaser) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Putrid Pudding Body Buddies](https://db.ygoprodeck.com/card/?search=Putrid%20Pudding%20Body%20Buddies) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Pyramid Turtle](https://db.ygoprodeck.com/card/?search=Pyramid%20Turtle) | Unlimited |
@@ -7883,6 +7935,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rare Metal Dragon](https://db.ygoprodeck.com/card/?search=Rare%20Metal%20Dragon) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Raremetalfoes Bismugear](https://db.ygoprodeck.com/card/?search=Raremetalfoes%20Bismugear) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rasetsu](https://db.ygoprodeck.com/card/?search=Rasetsu) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Raviel, Lord of Phantasms](https://db.ygoprodeck.com/card/?search=Raviel,%20Lord%20of%20Phantasms) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Razor Lizard](https://db.ygoprodeck.com/card/?search=Razor%20Lizard) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Re-Cover](https://db.ygoprodeck.com/card/?search=Re-Cover) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Reactan, Dragon Ruler of Pebbles](https://db.ygoprodeck.com/card/?search=Reactan,%20Dragon%20Ruler%20of%20Pebbles) | Unlimited |
@@ -8004,6 +8057,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sacred Spirit of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Sacred%20Spirit%20of%20the%20Ice%20Barrier) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sage of Stillness](https://db.ygoprodeck.com/card/?search=Sage%20of%20Stillness) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sagitta, Maverick Fur Hire](https://db.ygoprodeck.com/card/?search=Sagitta,%20Maverick%20Fur%20Hire) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sakitama](https://db.ygoprodeck.com/card/?search=Sakitama) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Salamangreat Beat Bison](https://db.ygoprodeck.com/card/?search=Salamangreat%20Beat%20Bison) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Salamangreat Falco](https://db.ygoprodeck.com/card/?search=Salamangreat%20Falco) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Salamangreat Fennec](https://db.ygoprodeck.com/card/?search=Salamangreat%20Fennec) | Unlimited |
@@ -8232,6 +8286,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spirit Caller](https://db.ygoprodeck.com/card/?search=Spirit%20Caller) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spirit of Flames](https://db.ygoprodeck.com/card/?search=Spirit%20of%20Flames) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spirit of the Breeze](https://db.ygoprodeck.com/card/?search=Spirit%20of%20the%20Breeze) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spirit of the Pharaoh](https://db.ygoprodeck.com/card/?search=Spirit%20of%20the%20Pharaoh) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spirit of the Pot of Greed](https://db.ygoprodeck.com/card/?search=Spirit%20of%20the%20Pot%20of%20Greed) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spirit of the Six Samurai](https://db.ygoprodeck.com/card/?search=Spirit%20of%20the%20Six%20Samurai) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spirit Reaper](https://db.ygoprodeck.com/card/?search=Spirit%20Reaper) | Unlimited |
@@ -8325,6 +8380,8 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Gigagloves](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Gigagloves) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Kabuto](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Kabuto) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Magnet](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Magnet) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Monk Big Benkei](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Monk%20Big%20Benkei) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Motorbike](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Motorbike) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Prepped Defense](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Prepped%20Defense) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Soulbang Cannon](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulbang%20Cannon) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Soulbeads](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulbeads) | Unlimited |
@@ -8332,9 +8389,11 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Soulbuster Gauntlet](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulbuster%20Gauntlet) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Soulclaw](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulclaw) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Soulfire Suit](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulfire%20Suit) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Soulgaia Booster](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulgaia%20Booster) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Soulhorns](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulhorns) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Soulpiercer](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulpiercer) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Soulshield Wall](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulshield%20Wall) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Stealthy](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Stealthy) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Swordsman](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Swordsman) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Thief](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Thief) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Transporter](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Transporter) | Unlimited |
@@ -8404,6 +8463,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Terratiger, the Empowered Warrior](https://db.ygoprodeck.com/card/?search=Terratiger,%20the%20Empowered%20Warrior) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Terrene Toothed Tsuchinoko](https://db.ygoprodeck.com/card/?search=Terrene%20Toothed%20Tsuchinoko) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Terrifying Toddler of Torment](https://db.ygoprodeck.com/card/?search=Terrifying%20Toddler%20of%20Torment) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Terrorking Archfiend](https://db.ygoprodeck.com/card/?search=Terrorking%20Archfiend) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Test Ape](https://db.ygoprodeck.com/card/?search=Test%20Ape) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Test Tiger](https://db.ygoprodeck.com/card/?search=Test%20Tiger) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Testudo erat Numen](https://db.ygoprodeck.com/card/?search=Testudo%20erat%20Numen) | Unlimited |
@@ -8530,6 +8590,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Torpedo Fish](https://db.ygoprodeck.com/card/?search=Torpedo%20Fish) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Torque Tune Gear](https://db.ygoprodeck.com/card/?search=Torque%20Tune%20Gear) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Total Defense Shogun](https://db.ygoprodeck.com/card/?search=Total%20Defense%20Shogun) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Totem Dragon](https://db.ygoprodeck.com/card/?search=Totem%20Dragon) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Totem Five](https://db.ygoprodeck.com/card/?search=Totem%20Five) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tour Bus From the Underworld](https://db.ygoprodeck.com/card/?search=Tour%20Bus%20From%20the%20Underworld) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tour Guide From the Underworld](https://db.ygoprodeck.com/card/?search=Tour%20Guide%20From%20the%20Underworld) | Unlimited |
@@ -8556,6 +8617,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Triamid Dancer](https://db.ygoprodeck.com/card/?search=Triamid%20Dancer) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Trias Hierarchia](https://db.ygoprodeck.com/card/?search=Trias%20Hierarchia) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tribe-Infecting Virus](https://db.ygoprodeck.com/card/?search=Tribe-Infecting%20Virus) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tribe-Shocking Virus](https://db.ygoprodeck.com/card/?search=Tribe-Shocking%20Virus) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Trickstar Candina](https://db.ygoprodeck.com/card/?search=Trickstar%20Candina) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Trickstar Lilybell](https://db.ygoprodeck.com/card/?search=Trickstar%20Lilybell) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Trickstar Lycoris](https://db.ygoprodeck.com/card/?search=Trickstar%20Lycoris) | Unlimited |
@@ -8622,6 +8684,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Unmasked Dragon](https://db.ygoprodeck.com/card/?search=Unmasked%20Dragon) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Unshaven Angler](https://db.ygoprodeck.com/card/?search=Unshaven%20Angler) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Upstart Golden Ninja](https://db.ygoprodeck.com/card/?search=Upstart%20Golden%20Ninja) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Uria, Lord of Searing Flames](https://db.ygoprodeck.com/card/?search=Uria,%20Lord%20of%20Searing%20Flames) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vala, Seidhr of the Generaider Bosses](https://db.ygoprodeck.com/card/?search=Vala,%20Seidhr%20of%20the%20Generaider%20Bosses) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Valerifawn, Mystical Beast of the Forest](https://db.ygoprodeck.com/card/?search=Valerifawn,%20Mystical%20Beast%20of%20the%20Forest) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Valkyrian Knight](https://db.ygoprodeck.com/card/?search=Valkyrian%20Knight) | Unlimited |
@@ -8641,6 +8704,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Red Baron](https://db.ygoprodeck.com/card/?search=Vampire%20Red%20Baron) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Retainer](https://db.ygoprodeck.com/card/?search=Vampire%20Retainer) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Scarlet Scourge](https://db.ygoprodeck.com/card/?search=Vampire%20Scarlet%20Scourge) | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Sorcerer](https://db.ygoprodeck.com/card/?search=Vampire%20Sorcerer) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire's Curse](https://db.ygoprodeck.com/card/?search=Vampire's%20Curse) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampiric Koala](https://db.ygoprodeck.com/card/?search=Vampiric%20Koala) | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampiric Orchis](https://db.ygoprodeck.com/card/?search=Vampiric%20Orchis) | Unlimited |
@@ -8856,6 +8920,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Cyber Angel Idaten](https://db.ygoprodeck.com/card/?search=Cyber%20Angel%20Idaten) | Unlimited |
 |<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Cyber Angel Izana](https://db.ygoprodeck.com/card/?search=Cyber%20Angel%20Izana) | Unlimited |
 |<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Cyber Angel Vrash](https://db.ygoprodeck.com/card/?search=Cyber%20Angel%20Vrash) | Unlimited |
+|<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Cyberse Sage](https://db.ygoprodeck.com/card/?search=Cyberse%20Sage) | Unlimited |
 |<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Dark Master - Zorc](https://db.ygoprodeck.com/card/?search=Dark%20Master%20-%20Zorc) | Unlimited |
 |<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Demise, Agent of Armageddon](https://db.ygoprodeck.com/card/?search=Demise,%20Agent%20of%20Armageddon) | Unlimited |
 |<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Demise, King of Armageddon](https://db.ygoprodeck.com/card/?search=Demise,%20King%20of%20Armageddon) | Unlimited |
@@ -8927,6 +8992,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Cyber Twin Dragon](https://db.ygoprodeck.com/card/?search=Cyber%20Twin%20Dragon) | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Cyberdark Dragon](https://db.ygoprodeck.com/card/?search=Cyberdark%20Dragon) | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Cyberdarkness Dragon](https://db.ygoprodeck.com/card/?search=Cyberdarkness%20Dragon) | Unlimited |
+|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Cyberse Desavewurm](https://db.ygoprodeck.com/card/?search=Cyberse%20Desavewurm) | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [D.3.S. Frog](https://db.ygoprodeck.com/card/?search=D.3.S.%20Frog) | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [D/D/D Flame High King Genghis](https://db.ygoprodeck.com/card/?search=D/D/D%20Flame%20High%20King%20Genghis) | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [D/D/D Oracle King d'Arc](https://db.ygoprodeck.com/card/?search=D/D/D%20Oracle%20King%20d'Arc) | Unlimited |
@@ -8945,6 +9011,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Dinowrestler Chimera T Wrextle](https://db.ygoprodeck.com/card/?search=Dinowrestler%20Chimera%20T%20Wrextle) | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Diplexer Chimera](https://db.ygoprodeck.com/card/?search=Diplexer%20Chimera) | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Doom Virus Dragon](https://db.ygoprodeck.com/card/?search=Doom%20Virus%20Dragon) | Unlimited |
+|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Dual Avatar - Manifested A-Un](https://db.ygoprodeck.com/card/?search=Dual%20Avatar%20-%20Manifested%20A-Un) | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [El Shaddoll Anoyatyllis](https://db.ygoprodeck.com/card/?search=El%20Shaddoll%20Anoyatyllis) | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [El Shaddoll Wendigo](https://db.ygoprodeck.com/card/?search=El%20Shaddoll%20Wendigo) | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Elemental HERO Absolute Zero](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Absolute%20Zero) | Unlimited |
@@ -8972,7 +9039,10 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Empress Judge](https://db.ygoprodeck.com/card/?search=Empress%20Judge) | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Evil HERO Dark Gaia](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Dark%20Gaia) | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Evil HERO Infernal Sniper](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Infernal%20Sniper) | Unlimited |
+|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Evil HERO Inferno Wing](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Inferno%20Wing) | Unlimited |
+|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Evil HERO Lightning Golem](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Lightning%20Golem) | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Evil HERO Malicious Fiend](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Malicious%20Fiend) | Unlimited |
+|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Evil HERO Wild Cyclone](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Wild%20Cyclone) | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Fiend Skull Dragon](https://db.ygoprodeck.com/card/?search=Fiend%20Skull%20Dragon) | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [First of the Dragons](https://db.ygoprodeck.com/card/?search=First%20of%20the%20Dragons) | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Five-Headed Dragon](https://db.ygoprodeck.com/card/?search=Five-Headed%20Dragon) | Unlimited |
@@ -9020,7 +9090,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Mudragon of the Swamp](https://db.ygoprodeck.com/card/?search=Mudragon%20of%20the%20Swamp) | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Musician King](https://db.ygoprodeck.com/card/?search=Musician%20King) | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Mystical Sand](https://db.ygoprodeck.com/card/?search=Mystical%20Sand) | Unlimited |
-|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Naturia Exterio](https://db.ygoprodeck.com/card/?search=Naturia%20Exterio) | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Neo-Spacian Marine Dolphin](https://db.ygoprodeck.com/card/?search=Neo-Spacian%20Marine%20Dolphin) | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Neo-Spacian Twinkle Moss](https://db.ygoprodeck.com/card/?search=Neo-Spacian%20Twinkle%20Moss) | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Odd-Eyes Vortex Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Vortex%20Dragon) | Unlimited |
@@ -9436,6 +9505,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Traptrix Allomerus](https://db.ygoprodeck.com/card/?search=Traptrix%20Allomerus) | Unlimited |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Traptrix Rafflesia](https://db.ygoprodeck.com/card/?search=Traptrix%20Rafflesia) | Unlimited |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Virtual World Shell - Jaja](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Shell%20-%20Jaja) | Unlimited |
+|<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Virtual World Tiger - Fufu](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Tiger%20-%20Fufu) | Unlimited |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Zoodiac Hammerkong](https://db.ygoprodeck.com/card/?search=Zoodiac%20Hammerkong) | Unlimited |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Zubaba General](https://db.ygoprodeck.com/card/?search=Zubaba%20General) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> ["A" Cell Breeding Device](https://db.ygoprodeck.com/card/?search="A"%20Cell%20Breeding%20Device) | Unlimited |
@@ -9638,6 +9708,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Celestial Sword - Eatos](https://db.ygoprodeck.com/card/?search=Celestial%20Sword%20-%20Eatos) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Celestial Transformation](https://db.ygoprodeck.com/card/?search=Celestial%20Transformation) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Centrifugal Field](https://db.ygoprodeck.com/card/?search=Centrifugal%20Field) | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Cerulean Skyfire](https://db.ygoprodeck.com/card/?search=Cerulean%20Skyfire) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Cestus of Dagla](https://db.ygoprodeck.com/card/?search=Cestus%20of%20Dagla) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Chain Energy](https://db.ygoprodeck.com/card/?search=Chain%20Energy) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Chain Summoning](https://db.ygoprodeck.com/card/?search=Chain%20Summoning) | Unlimited |
@@ -9790,6 +9861,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Destruction Swordsman Fusion](https://db.ygoprodeck.com/card/?search=Destruction%20Swordsman%20Fusion) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Detonate](https://db.ygoprodeck.com/card/?search=Detonate) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Diamond Core of Koa'ki Meiru](https://db.ygoprodeck.com/card/?search=Diamond%20Core%20of%20Koa'ki%20Meiru) | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Diamond-Dust Cyclone](https://db.ygoprodeck.com/card/?search=Diamond-Dust%20Cyclone) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dian Keto the Cure Master](https://db.ygoprodeck.com/card/?search=Dian%20Keto%20the%20Cure%20Master) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Diced Dice](https://db.ygoprodeck.com/card/?search=Diced%20Dice) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dicephoon](https://db.ygoprodeck.com/card/?search=Dicephoon) | Unlimited |
@@ -9844,6 +9916,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Draw Muscle](https://db.ygoprodeck.com/card/?search=Draw%20Muscle) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Draw of Fate](https://db.ygoprodeck.com/card/?search=Draw%20of%20Fate) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dream Mirror of Chaos](https://db.ygoprodeck.com/card/?search=Dream%20Mirror%20of%20Chaos) | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dream Tower of Princess Nemleria](https://db.ygoprodeck.com/card/?search=Dream%20Tower%20of%20Princess%20Nemleria) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dual Avatar Defeating Evil](https://db.ygoprodeck.com/card/?search=Dual%20Avatar%20Defeating%20Evil) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Duelist Alliance](https://db.ygoprodeck.com/card/?search=Duelist%20Alliance) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dust Barrier](https://db.ygoprodeck.com/card/?search=Dust%20Barrier) | Unlimited |
@@ -9926,6 +9999,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fish and Kicks](https://db.ygoprodeck.com/card/?search=Fish%20and%20Kicks) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fissure](https://db.ygoprodeck.com/card/?search=Fissure) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Flash Fusion](https://db.ygoprodeck.com/card/?search=Flash%20Fusion) | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Flash of the Forbidden Spell](https://db.ygoprodeck.com/card/?search=Flash%20of%20the%20Forbidden%20Spell) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Flawless Perfection of the Tenyi](https://db.ygoprodeck.com/card/?search=Flawless%20Perfection%20of%20the%20Tenyi) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Flint](https://db.ygoprodeck.com/card/?search=Flint) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Flint Missile](https://db.ygoprodeck.com/card/?search=Flint%20Missile) | Unlimited |
@@ -10046,6 +10120,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Guarded Treasure](https://db.ygoprodeck.com/card/?search=Guarded%20Treasure) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Guardragon Reincarnation](https://db.ygoprodeck.com/card/?search=Guardragon%20Reincarnation) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Guardragon Shield](https://db.ygoprodeck.com/card/?search=Guardragon%20Shield) | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gunkan Suship Catch-of-the-Day](https://db.ygoprodeck.com/card/?search=Gunkan%20Suship%20Catch-of-the-Day) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gunkan Sushipyard Seaside Supper Spot](https://db.ygoprodeck.com/card/?search=Gunkan%20Sushipyard%20Seaside%20Supper%20Spot) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [H - Heated Heart](https://db.ygoprodeck.com/card/?search=H%20-%20Heated%20Heart) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Half Shut](https://db.ygoprodeck.com/card/?search=Half%20Shut) | Unlimited |
@@ -10133,6 +10208,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Karakuri Gama Oil](https://db.ygoprodeck.com/card/?search=Karakuri%20Gama%20Oil) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Karakuri Gold Dust](https://db.ygoprodeck.com/card/?search=Karakuri%20Gold%20Dust) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Karma of the Destruction Swordsman](https://db.ygoprodeck.com/card/?search=Karma%20of%20the%20Destruction%20Swordsman) | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Kashtira Akstra](https://db.ygoprodeck.com/card/?search=Kashtira%20Akstra) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Kashtira Overlap](https://db.ygoprodeck.com/card/?search=Kashtira%20Overlap) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Kishido Spirit](https://db.ygoprodeck.com/card/?search=Kishido%20Spirit) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Knight's Title](https://db.ygoprodeck.com/card/?search=Knight's%20Title) | Unlimited |
@@ -10225,6 +10301,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Malefic World](https://db.ygoprodeck.com/card/?search=Malefic%20World) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Malevolent Nuzzler](https://db.ygoprodeck.com/card/?search=Malevolent%20Nuzzler) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Malice Dispersion](https://db.ygoprodeck.com/card/?search=Malice%20Dispersion) | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mannadium Imaginings](https://db.ygoprodeck.com/card/?search=Mannadium%20Imaginings) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [March of the Monarchs](https://db.ygoprodeck.com/card/?search=March%20of%20the%20Monarchs) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [March Towards Ragnarok](https://db.ygoprodeck.com/card/?search=March%20Towards%20Ragnarok) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Margin Trading](https://db.ygoprodeck.com/card/?search=Margin%20Trading) | Unlimited |
@@ -10256,6 +10333,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Metalsilver Armor](https://db.ygoprodeck.com/card/?search=Metalsilver%20Armor) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Metaphys Factor](https://db.ygoprodeck.com/card/?search=Metaphys%20Factor) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Meteor of Destruction](https://db.ygoprodeck.com/card/?search=Meteor%20of%20Destruction) | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mikanko Dance - Mayowashidori](https://db.ygoprodeck.com/card/?search=Mikanko%20Dance%20-%20Mayowashidori) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mimiclay](https://db.ygoprodeck.com/card/?search=Mimiclay) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mind Trust](https://db.ygoprodeck.com/card/?search=Mind%20Trust) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mind Wipe](https://db.ygoprodeck.com/card/?search=Mind%20Wipe) | Unlimited |
@@ -10319,6 +10397,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Neos Force](https://db.ygoprodeck.com/card/?search=Neos%20Force) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Nephe Shaddoll Fusion](https://db.ygoprodeck.com/card/?search=Nephe%20Shaddoll%20Fusion) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Neutron Blast](https://db.ygoprodeck.com/card/?search=Neutron%20Blast) | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [New Frontier](https://db.ygoprodeck.com/card/?search=New%20Frontier) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [NEX](https://db.ygoprodeck.com/card/?search=NEX) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Night Beam](https://db.ygoprodeck.com/card/?search=Night%20Beam) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Night Flight](https://db.ygoprodeck.com/card/?search=Night%20Flight) | Unlimited |
@@ -10402,6 +10481,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Photon Trident](https://db.ygoprodeck.com/card/?search=Photon%20Trident) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Photon Veil](https://db.ygoprodeck.com/card/?search=Photon%20Veil) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pianissimo](https://db.ygoprodeck.com/card/?search=Pianissimo) | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pig Iron vs. Pen Peg](https://db.ygoprodeck.com/card/?search=Pig%20Iron%20vs.%20Pen%20Peg) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Poison Chain](https://db.ygoprodeck.com/card/?search=Poison%20Chain) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Poison Fangs](https://db.ygoprodeck.com/card/?search=Poison%20Fangs) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Poison of the Old Man](https://db.ygoprodeck.com/card/?search=Poison%20of%20the%20Old%20Man) | Unlimited |
@@ -10440,6 +10520,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Psychic Path](https://db.ygoprodeck.com/card/?search=Psychic%20Path) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Psychic Sword](https://db.ygoprodeck.com/card/?search=Psychic%20Sword) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Psychokinesis](https://db.ygoprodeck.com/card/?search=Psychokinesis) | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Purrely Sleepy Memory](https://db.ygoprodeck.com/card/?search=Purrely%20Sleepy%20Memory) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pyramid Energy](https://db.ygoprodeck.com/card/?search=Pyramid%20Energy) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pyramid of Wonders](https://db.ygoprodeck.com/card/?search=Pyramid%20of%20Wonders) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Quarantine](https://db.ygoprodeck.com/card/?search=Quarantine) | Unlimited |
@@ -10614,6 +10695,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Smile World](https://db.ygoprodeck.com/card/?search=Smile%20World) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sogen](https://db.ygoprodeck.com/card/?search=Sogen) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Solar Recharge](https://db.ygoprodeck.com/card/?search=Solar%20Recharge) | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Solfachord Symphony](https://db.ygoprodeck.com/card/?search=Solfachord%20Symphony) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Solidarity](https://db.ygoprodeck.com/card/?search=Solidarity) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Solitary Sword of Poison](https://db.ygoprodeck.com/card/?search=Solitary%20Sword%20of%20Poison) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sonic Tracker](https://db.ygoprodeck.com/card/?search=Sonic%20Tracker) | Unlimited |
@@ -10713,16 +10795,19 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Surface](https://db.ygoprodeck.com/card/?search=Surface) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Surprise Chain](https://db.ygoprodeck.com/card/?search=Surprise%20Chain) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Swallow's Nest](https://db.ygoprodeck.com/card/?search=Swallow's%20Nest) | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sweet Dreams, Nemleria](https://db.ygoprodeck.com/card/?search=Sweet%20Dreams,%20Nemleria) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Swing of Memories](https://db.ygoprodeck.com/card/?search=Swing%20of%20Memories) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sword of Dark Destruction](https://db.ygoprodeck.com/card/?search=Sword%20of%20Dark%20Destruction) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sword of Dark Rites](https://db.ygoprodeck.com/card/?search=Sword%20of%20Dark%20Rites) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sword of Deep-Seated](https://db.ygoprodeck.com/card/?search=Sword%20of%20Deep-Seated) | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sword of Dragon's Soul](https://db.ygoprodeck.com/card/?search=Sword%20of%20Dragon's%20Soul) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sword of Kusanagi](https://db.ygoprodeck.com/card/?search=Sword%20of%20Kusanagi) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sword of Sparkles](https://db.ygoprodeck.com/card/?search=Sword%20of%20Sparkles) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sword of the Soul-Eater](https://db.ygoprodeck.com/card/?search=Sword%20of%20the%20Soul-Eater) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Swords of Burning Light](https://db.ygoprodeck.com/card/?search=Swords%20of%20Burning%20Light) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Swords of Concealing Light](https://db.ygoprodeck.com/card/?search=Swords%20of%20Concealing%20Light) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Swords of Revealing Light](https://db.ygoprodeck.com/card/?search=Swords%20of%20Revealing%20Light) | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Swordsoul Punishment](https://db.ygoprodeck.com/card/?search=Swordsoul%20Punishment) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Symbol of Heritage](https://db.ygoprodeck.com/card/?search=Symbol%20of%20Heritage) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Symbols of Duty](https://db.ygoprodeck.com/card/?search=Symbols%20of%20Duty) | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Symph Amplifire](https://db.ygoprodeck.com/card/?search=Symph%20Amplifire) | Unlimited |
@@ -10958,6 +11043,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [A Hero Emerges](https://db.ygoprodeck.com/card/?search=A%20Hero%20Emerges) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [A Major Upset](https://db.ygoprodeck.com/card/?search=A%20Major%20Upset) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [A Rival Appears!](https://db.ygoprodeck.com/card/?search=A%20Rival%20Appears!) | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [A Shattered, Colorless Realm](https://db.ygoprodeck.com/card/?search=A%20Shattered,%20Colorless%20Realm) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [A.I. Challenge You](https://db.ygoprodeck.com/card/?search=A.I.%20Challenge%20You) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [A.I. Shadow](https://db.ygoprodeck.com/card/?search=A.I.%20Shadow) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [A.I.Q](https://db.ygoprodeck.com/card/?search=A.I.Q) | Unlimited |
@@ -10990,6 +11076,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amazoness Archers](https://db.ygoprodeck.com/card/?search=Amazoness%20Archers) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amazoness Onslaught](https://db.ygoprodeck.com/card/?search=Amazoness%20Onslaught) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amazoness Shamanism](https://db.ygoprodeck.com/card/?search=Amazoness%20Shamanism) | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amazoness Willpower](https://db.ygoprodeck.com/card/?search=Amazoness%20Willpower) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ambush Fangs](https://db.ygoprodeck.com/card/?search=Ambush%20Fangs) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [An Unfortunate Report](https://db.ygoprodeck.com/card/?search=An%20Unfortunate%20Report) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ancient Warriors Saga - Chivalrous Path](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20Saga%20-%20Chivalrous%20Path) | Unlimited |
@@ -11101,6 +11188,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Break the Destiny](https://db.ygoprodeck.com/card/?search=Break%20the%20Destiny) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Breakthrough Skill](https://db.ygoprodeck.com/card/?search=Breakthrough%20Skill) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Breakthrough!](https://db.ygoprodeck.com/card/?search=Breakthrough!) | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Brightest, Blazing, Branded King](https://db.ygoprodeck.com/card/?search=Brightest,%20Blazing,%20Branded%20King) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Brilliant Spark](https://db.ygoprodeck.com/card/?search=Brilliant%20Spark) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Bubble Crash](https://db.ygoprodeck.com/card/?search=Bubble%20Crash) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Bug Emergency](https://db.ygoprodeck.com/card/?search=Bug%20Emergency) | Unlimited |
@@ -11198,6 +11286,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Cybernetic Revolution](https://db.ygoprodeck.com/card/?search=Cybernetic%20Revolution) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Cyberse Beacon](https://db.ygoprodeck.com/card/?search=Cyberse%20Beacon) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Cynet Cascade](https://db.ygoprodeck.com/card/?search=Cynet%20Cascade) | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Cynet Circuit](https://db.ygoprodeck.com/card/?search=Cynet%20Circuit) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Cynet Refresh](https://db.ygoprodeck.com/card/?search=Cynet%20Refresh) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Cynet Regression](https://db.ygoprodeck.com/card/?search=Cynet%20Regression) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [D - Chain](https://db.ygoprodeck.com/card/?search=D%20-%20Chain) | Unlimited |
@@ -11281,6 +11370,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dinomists Howling](https://db.ygoprodeck.com/card/?search=Dinomists%20Howling) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dinomorphia Alert](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Alert) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dinomorphia Brute](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Brute) | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dinomorphia Intact](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Intact) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dinomorphia Shell](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Shell) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dinomorphia Sonic](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Sonic) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Disappear](https://db.ygoprodeck.com/card/?search=Disappear) | Unlimited |
@@ -11304,6 +11394,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Double Cipher](https://db.ygoprodeck.com/card/?search=Double%20Cipher) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Double Dragon Descent](https://db.ygoprodeck.com/card/?search=Double%20Dragon%20Descent) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Double Dust Tornado Twins](https://db.ygoprodeck.com/card/?search=Double%20Dust%20Tornado%20Twins) | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Double Hooking](https://db.ygoprodeck.com/card/?search=Double%20Hooking) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Double Magical Arm Bind](https://db.ygoprodeck.com/card/?search=Double%20Magical%20Arm%20Bind) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Double Payback](https://db.ygoprodeck.com/card/?search=Double%20Payback) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Double Tag Team](https://db.ygoprodeck.com/card/?search=Double%20Tag%20Team) | Unlimited |
@@ -11355,6 +11446,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Escape of the Unchained](https://db.ygoprodeck.com/card/?search=Escape%20of%20the%20Unchained) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Eternal Dread](https://db.ygoprodeck.com/card/?search=Eternal%20Dread) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Eternal Galaxy](https://db.ygoprodeck.com/card/?search=Eternal%20Galaxy) | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Etude of the Branded](https://db.ygoprodeck.com/card/?search=Etude%20of%20the%20Branded) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Evo-Branch](https://db.ygoprodeck.com/card/?search=Evo-Branch) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Evo-Singularity](https://db.ygoprodeck.com/card/?search=Evo-Singularity) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Evolutionary Bridge](https://db.ygoprodeck.com/card/?search=Evolutionary%20Bridge) | Unlimited |
@@ -11422,6 +11514,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fukubiki](https://db.ygoprodeck.com/card/?search=Fukubiki) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Full Force Virus](https://db.ygoprodeck.com/card/?search=Full%20Force%20Virus) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Full Salvo](https://db.ygoprodeck.com/card/?search=Full%20Salvo) | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fusion Duplication](https://db.ygoprodeck.com/card/?search=Fusion%20Duplication) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fusion Fright Waltz](https://db.ygoprodeck.com/card/?search=Fusion%20Fright%20Waltz) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fusion Reserve](https://db.ygoprodeck.com/card/?search=Fusion%20Reserve) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gagagarush](https://db.ygoprodeck.com/card/?search=Gagagarush) | Unlimited |
@@ -11447,7 +11540,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Giant Starfall](https://db.ygoprodeck.com/card/?search=Giant%20Starfall) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Giant Trap Hole](https://db.ygoprodeck.com/card/?search=Giant%20Trap%20Hole) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gift Card](https://db.ygoprodeck.com/card/?search=Gift%20Card) | Unlimited |
-|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gift of the Mystical Elf](https://db.ygoprodeck.com/card/?search=Gift%20of%20the%20Mystical%20Elf) | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gift of The Mystical Elf](https://db.ygoprodeck.com/card/?search=Gift%20of%20The%20Mystical%20Elf) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gigantic Thundercross](https://db.ygoprodeck.com/card/?search=Gigantic%20Thundercross) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gladiator Beast Charge](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Charge) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gladiator Beast War Chariot](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20War%20Chariot) | Unlimited |
@@ -11490,6 +11583,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Harpie Lady Elegance](https://db.ygoprodeck.com/card/?search=Harpie%20Lady%20Elegance) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Harpie's Feather Storm](https://db.ygoprodeck.com/card/?search=Harpie's%20Feather%20Storm) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Hate Buster](https://db.ygoprodeck.com/card/?search=Hate%20Buster) | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Hatsugai](https://db.ygoprodeck.com/card/?search=Hatsugai) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Haunted Shrine](https://db.ygoprodeck.com/card/?search=Haunted%20Shrine) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Haunted Zombies](https://db.ygoprodeck.com/card/?search=Haunted%20Zombies) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Hazy Glory](https://db.ygoprodeck.com/card/?search=Hazy%20Glory) | Unlimited |
@@ -11635,6 +11729,8 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Malevolent Catastrophe](https://db.ygoprodeck.com/card/?search=Malevolent%20Catastrophe) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Malfunction](https://db.ygoprodeck.com/card/?search=Malfunction) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mamemaki](https://db.ygoprodeck.com/card/?search=Mamemaki) | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mannadium Breakheart](https://db.ygoprodeck.com/card/?search=Mannadium%20Breakheart) | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mannadium Reframing](https://db.ygoprodeck.com/card/?search=Mannadium%20Reframing) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Marincess Cascade](https://db.ygoprodeck.com/card/?search=Marincess%20Cascade) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Marincess Current](https://db.ygoprodeck.com/card/?search=Marincess%20Current) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Marincess Snow](https://db.ygoprodeck.com/card/?search=Marincess%20Snow) | Unlimited |
@@ -11865,6 +11961,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Redeemable Jar](https://db.ygoprodeck.com/card/?search=Redeemable%20Jar) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Regretful Rebirth](https://db.ygoprodeck.com/card/?search=Regretful%20Rebirth) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Reinforce Truth](https://db.ygoprodeck.com/card/?search=Reinforce%20Truth) | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [REINFORCE!](https://db.ygoprodeck.com/card/?search=REINFORCE!) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Reinforced Space](https://db.ygoprodeck.com/card/?search=Reinforced%20Space) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Reinforcements](https://db.ygoprodeck.com/card/?search=Reinforcements) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Reject Reborn](https://db.ygoprodeck.com/card/?search=Reject%20Reborn) | Unlimited |
@@ -12076,6 +12173,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The Emperor's Holiday](https://db.ygoprodeck.com/card/?search=The%20Emperor's%20Holiday) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The Eye of Truth](https://db.ygoprodeck.com/card/?search=The%20Eye%20of%20Truth) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The First Monarch](https://db.ygoprodeck.com/card/?search=The%20First%20Monarch) | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The First Sarcophagus](https://db.ygoprodeck.com/card/?search=The%20First%20Sarcophagus) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The Forceful Checkpoint](https://db.ygoprodeck.com/card/?search=The%20Forceful%20Checkpoint) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The Forces of Darkness](https://db.ygoprodeck.com/card/?search=The%20Forces%20of%20Darkness) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The Gift of Greed](https://db.ygoprodeck.com/card/?search=The%20Gift%20of%20Greed) | Unlimited |
@@ -12134,6 +12232,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Trap of Darkness](https://db.ygoprodeck.com/card/?search=Trap%20of%20Darkness) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Trap of the Imperial Tomb](https://db.ygoprodeck.com/card/?search=Trap%20of%20the%20Imperial%20Tomb) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Trap Stun](https://db.ygoprodeck.com/card/?search=Trap%20Stun) | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Trap Tracks](https://db.ygoprodeck.com/card/?search=Trap%20Tracks) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Trap Trick](https://db.ygoprodeck.com/card/?search=Trap%20Trick) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Traptrix Trap Hole Nightmare](https://db.ygoprodeck.com/card/?search=Traptrix%20Trap%20Hole%20Nightmare) | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Treacherous Trap Hole](https://db.ygoprodeck.com/card/?search=Treacherous%20Trap%20Hole) | Unlimited |
