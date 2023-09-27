@@ -17,7 +17,6 @@ title:  "Common Charity"
 | [Scrap Orthros](https://db.ygoprodeck.com/card/?search=Scrap%20Orthros) | OP09-PT032 |
 | [Scrapyard](https://db.ygoprodeck.com/card/?search=Scrapyard) | OP09-PT033 |
 | [Scrap Archfiend](https://db.ygoprodeck.com/card/?search=Scrap%20Archfiend) | OP09-PT036 |
-| [Red Dragon Archfiend/Assault Mode](https://db.ygoprodeck.com/card/?search=Red%20Dragon%20Archfiend/Assault%20Mode) | OP10-PT027 |
 | [Doomkaiser Dragon/Assault Mode](https://db.ygoprodeck.com/card/?search=Doomkaiser%20Dragon/Assault%20Mode) | OP10-PT028 |
 | [Arcanite Magician/Assault Mode](https://db.ygoprodeck.com/card/?search=Arcanite%20Magician/Assault%20Mode) | OP10-PT029 |
 | [Colossal Fighter/Assault Mode](https://db.ygoprodeck.com/card/?search=Colossal%20Fighter/Assault%20Mode) | OP10-PT030 |
